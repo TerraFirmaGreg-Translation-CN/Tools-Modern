@@ -129,5 +129,10 @@
 	"block.tfg.loose.mercury_stone": "Loose Komatiite Rock",
 	"block.tfg.rock.hardened_glacio_stone": "Hardened Phonolite",
 	"block.tfg.loose.glacio_stone": "Loose Phonolite Rock",
-	"block.tfg.loose.permafrost": "Permafrost Chunk"
+	"block.tfg.loose.permafrost": "Permafrost Chunk",
+
+	"block.tfg.lunar_roots": "Lunar Lightblooms",
+	"block.tfg.lunar_sprouts": "Lunar Lightgrass",
+	"block.tfg.lunar_chorus_plant": "Chorus Plant",
+	"block.tfg.lunar_chorus_flower": "Chorus Flower"
 }
