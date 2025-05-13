@@ -43,5 +43,7 @@
 
 	"block.minecraft.dripstone_block": "Raw Travertine",
 
-	"block.minecraft.magma_block": "Pyroxenite Magma"
+	"block.minecraft.magma_block": "Pyroxenite Magma",
+
+	"block.minecraft.twisting_vines": "Lightbloom Stem"
 }

@@ -34,7 +34,11 @@
 		"moon_deepslate",
 		"gabbro",
 		"moon_stone",
-		"diorite"
+		"diorite",
+		"glacio_stone",
+		"dacite",
+		"rhyolite",
+		"andesite"
 	],
 	"indicator": {
 		"depth": 80

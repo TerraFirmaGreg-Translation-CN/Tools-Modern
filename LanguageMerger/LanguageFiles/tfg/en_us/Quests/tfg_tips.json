@@ -3,9 +3,9 @@
     "quests.tfg_tips": "TerraFirmaGreg Tips",
     "quests.tfg_tips.subtitle": "Tips and Tricks to make your life slightly easier.",
 
-    "quests.tfg_tips.begining.title": "Tips and Tricks be here!",
-    "quests.tfg_tips.begining.subtitle": "Dear God that's a lot of branches...",
-    "quests.tfg_tips.begining.desc": "This quest chapter gives you a lot, &o(and we do mean a lot)&r of tips on how to survive and thrive.\n\nEach quest branch representing a major mods in &2TerraFirmaGreg&r, with tips to make the most out of them. None of these quests are necesary for progression, although some &omay&r be locked behind main questline tasks.",
+    "quests.tfg_tips.beginning.title": "Tips and Tricks be here!",
+    "quests.tfg_tips.beginning.subtitle": "Dear God that's a lot of branches...",
+    "quests.tfg_tips.beginning.desc": "This quest chapter gives you a lot, &o(and we do mean a lot)&r of tips on how to survive and thrive.\n\nEach quest branch representing major mods in &2TerraFirmaGreg&r, with tips to make the most out of them. None of these quests are necessary for progression, although some &omay&r be locked behind main questline tasks.",
     //#endregion
 
     //#region Portable Storage
@@ -88,7 +88,7 @@
 
     "quests.tfg_tips.cane.title": "Walking Canes",
     "quests.tfg_tips.cane.subtitle": "You can even whack people with them!",
-    "quests.tfg_tips.cane.desc": "A &dWalking Cane&r allows you to completely ignore any block that slows your movement, such as &asnow&r and &aleaf litter&r, as long as you're carrying it in your &cmain&r or &coff-hand.&r",
+    "quests.tfg_tips.cane.desc": "A &dWalking Cane&r allows you to completely ignore any block that slows your movement, such as &asnow&r, as long as you're carrying it in your &cmain&r or &coff-hand.&r\nAs a bonus, it &bincrease step-height.&r In other words, allows you to walk up one block without jumping. The &dIron Cane&r even allows to walk over fences!",
     "quests.tfg_tips.cane.task": "Any Cane",
 
     "quests.tfg_tips.glassblowing.title": "Glassblowing",
@@ -154,15 +154,15 @@
 
     "quests.tfg_tips.pineapple_leather.title": "Pineapple Leather",
     "quests.tfg_tips.pineapple_leather.subtitle": "Who lives in a Pineapple Under the Sea?",
-    "quests.tfg_tips.pineapple_leather.desc": "By creating some &aPineapple Fibers&r, &bspindling&r them into &aPineapple Yarn&r, and working the yarn in the &3Loom&r, you get &dPineapple Leather&r, an eco-friendly alternative for &bleather knapping recipes.&r",
+    "quests.tfg_tips.pineapple_leather.desc": "By obtaining some &aPineapple Fibers&r, &bspindling&r them into &aPineapple Yarn&r, and working the yarn in the &3Loom&r, you get &dPineapple Leather&r, an eco-friendly alternative for &bleather knapping recipes.&r",
 
     "quests.tfg_tips.wool_cloth.title": "Wool Cloth",
     "quests.tfg_tips.wool_cloth.subtitle": "Baaa...",
-    "quests.tfg_tips.wool_cloth.desc": "By shearing some friendly &2wool-producing&r livestock, you can spindle the resulting wool into &dWool Yarn.&r Working the yarn in a &3Loom&r gives you &dWool Cloth.&r\n\nBesides uses in &bGlassworking&r, it can be used to create &aWool Clothes&r, perfect for &bcold&r, bitter environments.\nWool is considered a &bHigh Quality Cloth.&r",
+    "quests.tfg_tips.wool_cloth.desc": "By shearing some friendly &2wool-producing&r livestock, you can spindle the resulting wool into &dWool Yarn.&r Working the yarn in a &3Loom&r gives you &dWool Cloth.&r\n\nBesides uses in &bGlassworking&r, it can be used to create &aWool Clothes&r, perfect for &bcold&r, bitter environments.\n\nWool is considered a &bHigh Quality Cloth.&r",
 
     "quests.tfg_tips.silk_cloth.title": "Silk Cloth",
     "quests.tfg_tips.silk_cloth.subtitle": "Very, Very Smooth.",
-    "quests.tfg_tips.silk_cloth.desc": "&dSilk Cloth&r can be created using &aString&r from killing &cSpiders&r or via &cPolycaprolactam (aka Nylon) Ingots&r. No silkworms exist yet, sorry! The dangerous &cWebbed Lair&r biome in The Beneath is another, albeit dangerous, source.\n\nSilk Cloth can be used to create &aSilk Clothes&r, which are the best at protecting you against &chot&r environments.\nSilk Cloth is considered a &bHigh Quality Cloth.&r",
+    "quests.tfg_tips.silk_cloth.desc": "&dSilk Cloth&r can be created using &aString&r from killing &bSpiders&r or via &bPolycaprolactam (aka Nylon) Ingots&r. No silkworms exist yet, sorry! The dangerous &cWebbed Lair&r biome in &4The Beneath&r is another, albeit dangerous, source.\n\nSilk Cloth can be used to create &aSilk Clothes&r, which are the best at protecting you against &chot&r environments.\n\nSilk Cloth is considered a &bHigh Quality Cloth.&r",
 
     "quests.tfg_tips.unrefined_paper.title": "Unrefined Paper",
     "quests.tfg_tips.unrefined_paper.subtitle": "Time to make some history.",
@@ -225,7 +225,7 @@
 
     "quests.tfg_tips.grappling_hook.title": "Grappling Hook",
     "quests.tfg_tips.grappling_hook.subtitle": "This is going to end poorly",
-    "quests.tfg_tips.grappling_hook.desc": "By combining 4 pieces of &aRope Coil&r and a &bWrought Iron Pickaxe Head&r, you can create a &dGrappling Hook!&r An ideal tool for scaling big mountains, explore large caves and traversing the world. It contains an &eupgrade system&r that allows you to combine and modify your &dHook&r to your leisure.",
+    "quests.tfg_tips.grappling_hook.desc": "By combining 4 pieces of &aRope Coil&r and a &bWrought Iron Pickaxe Head&r, you can create a &dGrappling Hook!&r An ideal tool for scaling big mountains, exploring large caves and traversing the world. It contains an &eupgrade system&r that allows you to combine and modify your &dHook&r to your leisure.",
 
     "quests.tfg_tips.grapple_repair.title": "Repairing your Hook",
     "quests.tfg_tips.grapple_repair.subtitle": "READ ME, OR YOU MAY REGRET IT LATER!",
@@ -233,13 +233,13 @@
 
     "quests.tfg_tips.grapple_upgrades.title": "Upgrading your Grappling Hook",
     "quests.tfg_tips.grapple_upgrades.subtitle": "Balanced around TFG, of course!",
-    "quests.tfg_tips.grapple_upgrades.desc.1": "Upgrading your &dGrappling Hook&r consists of adding or removing items to it via the &3Workbench&r.&r\n\nTo see all the upgrades you can apply to your &dGrappling Hook&r you can press the \"Usage\" key in &2EMI.&r\nEach of the custom recipes will contain text describing what changes are being applied.",
-    "quests.tfg_tips.grapple_upgrades.desc.2": "Upgrades can be removed by crafting the &dGrappling Hook&r with a &bHammer&r and the &aitem you used to upgrade&r it with (it won't be consumed). The craft will return the &dHook&r with the upgrade removed and the item used to upgrade it in the first place, therefore you get two items back! This process of downgrading is default behaviour for all upgrades unless stated otherwise in the respective upgrade quest.\n\n&oUpgrades cannot be overriden, if you want to upgrade from an &7LV&f motor to an &bMV&f motor, you need to remove the &7LV&f motor upgrade first.",
+    "quests.tfg_tips.grapple_upgrades.desc.1": "Upgrading your &dGrappling Hook&r consists of adding or removing items to it via the &3Workbench&r.&r\n\nTo see all the upgrades you can apply to your &dGrappling Hook&r, you can press the \"Usage\" key in &2EMI.&r\nEach of the custom recipes will contain text describing what changes are being applied.",
+    "quests.tfg_tips.grapple_upgrades.desc.2": "Upgrades can be removed by crafting the &dGrappling Hook&r with a &bHammer&r and the &aitem you used to upgrade&r it with (it won't be consumed). The craft will return the &dHook&r with the upgrade removed and the item used to upgrade it in the first place, therefore you get two items back! This process of downgrading is default behaviour for all upgrades unless stated otherwise in the respective upgrade quest.\n\n&lUpgrades cannot be overriden, if you want to upgrade from an &7LV&f motor to an &bMV&f motor, you need to remove the &7LV&f motor upgrade first.",
 
 
-    "quests.tfg_tips.grapple_upgrade_length.title": "Grappling Hook Upgrade: Length",
-    "quests.tfg_tips.grapple_upgrade_length.subtitle": "Long Boy",
-    "quests.tfg_tips.grapple_upgrade_length.desc": "By default, your &dGrappling Hook&r has &b80 blocks in length&r, you can add &c20 more&r to its length by adding more &aRope Coils.&r 200 blocks is the maximum.\n\nLength can be &3decreased&r by crafting with a &aKnife&r , &2reducing the length by 20&r, down to a minimum of 20.",
+    "quests.tfg_tips.grapple_length.title": "Grappling Hook Upgrade: Length",
+    "quests.tfg_tips.grapple_length.subtitle": "Long Boy",
+    "quests.tfg_tips.grapple_length.desc": "By default, your &dGrappling Hook&r has &b80 blocks in length&r, you can add &c20 more&r by adding more &aRope Coils.&r 200 blocks is the maximum.\n\nLength can be &3decreased&r by crafting with a &aKnife&r, &2reducing it by 20&r, down to a minimum of 20.",
 
     "quests.tfg_tips.grapple_motor.title": "Grappling Hook Upgrade: Motor",
     "quests.tfg_tips.grapple_motor.subtitle": "That lazy, huh?",
@@ -272,7 +272,7 @@
 
     "quests.tfg_tips.grapple_gravity_50.title": "Grappling Hook Upgrade: 0.5 Gravity",
     "quests.tfg_tips.grapple_gravity_50.subtitle": "Does this even make sense?",
-    "quests.tfg_tips.grapple_gravity_50.desc": "The &a0.5 Gravity Upgrade&r causes your hook to have a &dGravity Coefficient of 0.5.&r. This means that it will be affected by gravity by a factor of a half!\n\nInstead of using another &dHelium Bucket&r to remove the upgrade, use an &cEmpty Bucket instead.&r It will fill with the &dHelium&r you initally used.",
+    "quests.tfg_tips.grapple_gravity_50.desc": "The &a0.5 Gravity Upgrade&r causes your hook to have a &bGravity Coefficient of 0.5.&. This means that it will be affected by gravity by a factor of a half!\n\nInstead of using another &dHelium Bucket&r to remove the upgrade, use an &cEmpty Bucket instead.&r It will fill with the &eHelium&r you initially used.",
 
     "quests.tfg_tips.grapple_gravity_0.title": "Grappling Hook Upgrade: ZERO gravity",
     "quests.tfg_tips.grapple_gravity_0.subtitle": "Kinda Expensive",
@@ -301,7 +301,7 @@
     "quests.tfg_tips.dye_discs.title": "The Classics",
     "quests.tfg_tips.dye_discs.subtitle": "These will never go old...",
     "quests.tfg_tips.dye_discs.desc": "By dipping a &bBlank Disc&r in a &aBarrel&r filled with dye, you can create the vanilla in-game discs. Enjoy classics such as &dWait, 13&r and &dBlocks!&r",
-    "quests.tfg_tips.dye_disks.task": "Any Classic Disc",
+    "quests.tfg_tips.dye_discs.task": "Any Classic Disc",
 
     "quests.tfg_tips.special_discs.title": "The Uniques",
     "quests.tfg_tips.special_discs.subtitle": "These are unique... Or they where, at least",
@@ -321,7 +321,7 @@
 
     "quests.tfg_tips.etching_disc.title": "Etching your first disc",
     "quests.tfg_tips.etching_disc.subtitle": "Time for your first tunes",
-    "quests.tfg_tips.etching_disc.desc": "You're going to need the &3Etching Table&r to start &betching.&r Right-clicking the table will open the etching interface and by providing a &aBlank Disc&r with a &aMusic Label&r, and a valid sound source on the top bar, your disc will be ready.\n\nSound sources include things like &bBandcamp/Soundcloud URLs&r (which can point to a single or an album), &din-game sound events&r, and file paths to &c.ogg/.wav/.mp3 files&r on your hard disk.\n\nTo complete this quest, etch any disc.",
+    "quests.tfg_tips.etching_disc.desc": "You're going to need the &3Etching Table&r to start &betching.&r Right-clicking the table will open the etching interface and by providing a &aBlank Disc&r with a &aMusic Label&r, and a valid sound source on the top bar, your disc will be ready.\n\nSound sources include things like &bBandcamp/Soundcloud URLs&r (which can point to a single or an album), &din-game sound events&r, and file paths to &c.ogg/.wav/.mp3 files&r on your drive.\n\nTo complete this quest, etch any disc.",
 
     "quests.tfg_tips.disc_players.title": "Disc Players",
     "quests.tfg_tips.disc_players.subtitle": "To play your discs of course!",
@@ -361,15 +361,15 @@
 
     "quests.tfg_tips.developing_film.title": "Developing Films",
     "quests.tfg_tips.developing_film.subtitle": "Pretend you're a printer",
-    "quests.tfg_tips.developing_film.desc": "Once you've taken your pictures you can begin &adevelopment&r by soaking the films in &bWater.&r Afterwards, you'll need to craft a &dLightroom&r.\n\nThe lightroom is used to develop film, needing a strong light source above the block, and the following four dyes: &3Cyan&r, &5Magenta&r, &eYellow&r and &0Black&r, known as CMYK. &0Black and White Film&r will only need &0Black Dye&r while &dColored Film&r will need the entire CMYK set.\n\nIf you fancy more interesting processing, you can work with the &cChromatic Process...&r",
+    "quests.tfg_tips.developing_film.desc": "Once you've taken your pictures you can begin &adevelopment&r by soaking the films in &bWater.&r Afterwards, you'll need to craft a &dLightroom&r.\n\nThe lightroom is used to develop film, needing a strong light source above the block, and the following four dyes: &3Cyan&r, &5Magenta&r, &eYellow&r and &0Black&r, known as CMYK.\n&0Black and White Film&r will only need &0Black Dye&r while &dColored Film&r will need the entire &3C&5M&eY&0K&r set.\n\nIf you fancy more interesting processing, you can work with the &cChromatic Process...&r",
 
     "quests.tfg_tips.photo.title": "Your first Photo",
     "quests.tfg_tips.photo.subtitle": "Congratulations!",
-    "quests.tfg_tips.photo.desc": "you can do multiple things with it with your &dPhotograph.&r\n\nYou can &bCopy&r it by utilizing a blank sheet of &aPaper&r and the required &aDyes&r used to develop the original.\n\nYou can also &bStack&r pictures to keep them neatly organized in your inventory, check EMI to know how to.\n\nYou can also artifically &cAge&r a picture by applying &6Brown Dye&r to it, making it look like it has gone through the years.",
+    "quests.tfg_tips.photo.desc": "You can do multiple things with it with your &dPhotograph.&r\n\nYou can &bCopy&r it by utilizing a blank sheet of &aPaper&r and the required &aDyes&r used to develop the original.\n\nYou can also &bStack&r pictures to keep them neatly organized in your inventory, check EMI to know how to.\n\nYou can also artificially &cage&r a picture by applying &6Brown Dye&r to it, making it look like it has gone through the years.",
 
     "quests.tfg_tips.photo_album.title": "Photo Album",
     "quests.tfg_tips.photo_album.subtitle": "Turns out memories are forever...",
-    "quests.tfg_tips.photo_album.desc": "If you want a place to &bstore photos&r, make a &dPhoto Album.&r In addition, you can also write small descriptions for each photon in an album. Write out the place where you took them, some notes, and more!",
+    "quests.tfg_tips.photo_album.desc": "If you want a place to &bstore photos&r, make a &dPhoto Album.&r In addition, you can also write small descriptions for each photo in an album. Write out the place where you took them, some notes, and more!",
 
     "quests.tfg_tips.photo_frame.title": "Photo Frame",
     "quests.tfg_tips.photo_frame.subtitle": "For the most astonishing pictures",
@@ -379,7 +379,7 @@
     //#region ArborFirmaCraft
     "quests.tfg_tips.arborfirmacraft.title": "ArborFirmaCraft",
     "quests.tfg_tips.arborfirmacraft.subtitle": "Harvesting the Life-blood of Trees",
-    "quests.tfg_tips.arborfirmacraft.desc": "&2ArborFirmaCraft&r is a mod that adds multiple new trees to &3TFG&r: some are variants of existing TFC trees, such as &dAncient Kapok&r, while others are completely new, such as the &aBaobab&r and &aHevea.&r Some of the plank and log textures of these trees may remind you of vanilla tree colors...\n\nThis section will go over &bTree Tapping.&r\nAs a bonus, all &2ArborFirmaCraft&r woods are compatible with &2FirmaLife&r, and &2FirmaCiv&r, we made sure of it!",
+    "quests.tfg_tips.arborfirmacraft.desc": "&2ArborFirmaCraft&r is a mod that adds multiple new trees to &3TFG&r: some are variants of existing TFC trees, such as &dAncient Kapok&r, while others are completely new, such as the &aBaobab&r and &aHevea.&r Some of the plank and log textures of these trees may remind you of vanilla tree colors...\n\nThis section will go over &bTree Tapping.&r\nAs a bonus, all &2ArborFirmaCraft&r woods are compatible with &3FirmaLife&r, and &3Firma:Civ&r, we made sure of it!",
 
     "quests.tfg_tips.treetap.title": "Treetap",
     "quests.tfg_tips.treetap.subtitle": "Now with less jank!",
@@ -395,25 +395,25 @@
 
     "quests.tfg_tips.find_syrup_tree.title": "Syrup Trees",
     "quests.tfg_tips.find_syrup_tree.subtitle": "Diabetes is Skyrocketing",
-    "quests.tfg_tips.find_syrup_tree.desc": "&aSyrup Trees&r can be found in &2temperate&r areas of the world that receive moderate amounts of rainfall. It can be tapped to obtain &bSyrup.&r Syrup can be used to create &dTree Sugars&r, an alternative sugar among other uses. To complete this quest, you need to &clook&r at a block that has the tag &o#tfg:syrup_logs&r. You can use EMI to learn which blocks have this tag.",
+    "quests.tfg_tips.find_syrup_tree.desc": "&aSyrup Trees&r can be found in &2temperate&r areas of the world that receive moderate amounts of rainfall. It can be tapped to obtain &bSyrup.&r Syrup can be used to create &dTree Sugars&r, an alternative sugar among other uses.\n\nTo complete this quest, you need to &clook&r at a block that has the tag &o#tfg:syrup_logs&r. You can use EMI to learn which blocks have this tag.",
 
     "quests.tfg_tips.create_conifer_rosin.title": "Conifer Rosin",
     "quests.tfg_tips.create_conifer_rosin.subtitle": "No, it's not Resin",
-    "quests.tfg_tips.create_conifer_rosin.desc": "&dConifer Rosin&r can be utilized as a &bWax&r, letting you create candles and other items.\n\nTo obtain conifer rosin, you need to boil &aConfiner Pitch&r in a &3Vat&r mixed with &aCharcoal Powder.&r",
+    "quests.tfg_tips.create_conifer_rosin.desc": "&dConifer Rosin&r can be utilized as a &bWax&r, letting you create candles and other items.\n\nTo obtain conifer rosin, you need to boil &aConifer Pitch&r in a &3Vat&r mixed with &aCharcoal Powder.&r",
 
     "quests.tfg_tips.create_sticky_resin.title": "Sticky Resin",
     "quests.tfg_tips.create_sticky_resin.subtitle": "No, it's not Rosin",
-    "quests.tfg_tips.create_sticky_resin.desc": "&dSticky Resin&r can be utilized as slime balls in some recipes. It is also key in the production of &&aResin Circuits&r and &aResistors&r, which you'll need a fair bit of to advance into the &7Low Voltage&r age.\n\nTo make sticky resin, you need to boil either &aLatex&r or &aConifer Pitch&r in a &3Vat&r mixed with &aWood Ash.&r",
+    "quests.tfg_tips.create_sticky_resin.desc": "&dSticky Resin&r can be utilized as slime balls in some recipes. It is also key in the production of &aResin Circuits&r and &aResistors&r, which you'll need a fair bit of to advance into the &7Low Voltage&r age.\n\nTo make sticky resin, you need to boil either &aLatex&r or &aConifer Pitch&r in a &3Vat&r mixed with &aWood Ash.&r",
 
     "quests.tfg_tips.create_tree_sugar.title": "Tree Sugar",
     "quests.tfg_tips.create_tree_sugar.subtitle": "Sweet!",
-    "quests.tfg_tips.create_tree_sugar.desc": "&dTree Sugar&r is a sugar substitute, mostly used as a food ingredient.\n\nTo make it, you'll need to boil &aTree Sap&r to get &bConcentrated Sap&r, then boil it again to get &dSyrup.&r Finally, use a workbench to turn a &bBucket of Syrup&r into &dTree sugar.&r Keep in mind that all these &cboiling processes require a stick&r in the &3Vat&r or &3pot.&r",
+    "quests.tfg_tips.create_tree_sugar.desc": "&dTree Sugar&r is a sugar substitute, mostly used as a food ingredient.\n\nTo make it, you'll need to boil &aTree Sap&r to get &bConcentrated Sap&r, then boil it again to get &dSyrup.&r Finally, use a workbench to turn a &bBucket of Syrup&r into &dTree sugar.&r\nKeep in mind that all these &cboiling processes require a stick&r in the &3Vat&r or &3pot.&r",
     "quests.tfg_tips.create_tree_sugar.task": "Maple or Birch Sugar",
 
     "quests.tfg_tips.create_rubber_ingot.title": "Rubber Ingot",
     "quests.tfg_tips.create_rubber_ingot.subtitle": "Insulate them cables",
 
-    "quests.tfg_tips.create_rubber_ingot.desc": "Utilizing the &bVacuum Chamber&r and some additional heating, you can process &aLatex&r from various trees into &dRaw Rubber Pulp&r through a specific process. You can then smelt together 3 &dRaw Rubber Pulp&r with a bit of &eSulfur Dust&r in an &bAlloy Smelter&r to create &dRubber Ingots&r, perfect for insulating cables and very much necesary to advance in the &2Voltaic Age&r and beyond...",
+    "quests.tfg_tips.create_rubber_ingot.desc": "Utilizing the &bVacuum Chamber&r and some additional heating, you can process &aLatex&r from various trees into &dRaw Rubber Pulp&r through a specific process. You can then smelt together 3 &dRaw Rubber Pulp&r with a bit of &eSulfur Dust&r in an &bAlloy Smelter&r to create &dRubber Ingots&r, perfect for insulating cables and very much necessary to advance in the &2Voltaic Age&r and beyond...",
     //#endregion
 
     //#region Transportation
@@ -444,12 +444,12 @@
 
     "quests.tfg_tips.lv_upgrades.title": "Aircraft Upgrades: LV",
     "quests.tfg_tips.lv_upgrades.subtitle": "Red and Blue, certainly not clashing.",
-    "quests.tfg_tips.lv_upgrades.desc": "&7LV&r upgrades are slightly better than their steam counterparts, requiring &4Red&r and &6Blue Steel&r, with the &dLV Engine&r itself requiring actual &7LV&r components.\n\n&3&lTip:&r&o you can recycle the old upgrades using &bCrushing Wheels&f, returning some of your spent materials.",
+    "quests.tfg_tips.lv_upgrades.desc": "&7LV&r upgrades are slightly better than their steam counterparts, requiring &4Red&r and &9Blue Steel&r, with the &dLV Engine&r itself requiring actual &7LV&r components.\n\n&3&lTip:&r&o you can recycle the old upgrades using &bCrushing Wheels&f, returning some of your spent materials.",
     "quests.tfg_tips.lv_upgrades.task": "Any Low Voltage Tier Aircraft Upgrade",
 
     "quests.tfg_tips.mv_upgrades.title": "Aircraft Upgrades: MV",
     "quests.tfg_tips.mv_upgrades.subtitle": "Halfway there",
-    "quests.tfg_tips.mv_upgrades.desc": "&bMV&r upgrades are the mid-point of these upgrades, requiring &aAluminium&r as their main material.\n\n&aAluminium Rotors&r are used in most tier 2 aircrafts, such as the &dGyrodyne, Warship&r and the &dScarlet Biplane&r, while the &aMV Engine&r is only used in the &dScarlet Biplane.&r",
+    "quests.tfg_tips.mv_upgrades.desc": "&bMV&r upgrades are the mid-point of this progression, requiring &aAluminium&r as their main material.\n\n&aAluminium Rotors&r are used in most tier 2 aircrafts, such as the &dGyrodyne, Warship&r and the &dScarlet Biplane&r, while the &aMV Engine&r is only used in the &dScarlet Biplane.&r",
     "quests.tfg_tips.mv_upgrades.task": "Any Medium Voltage Tier Aircraft Upgrade",
 
     "quests.tfg_tips.hv_upgrades.title": "Aircraft Upgrades: HV",
@@ -464,7 +464,7 @@
 
     "quests.tfg_tips.aircraft_weapons.title": "Aircraft Weapons",
     "quests.tfg_tips.aircraft_weapons.subtitle": "For the great WAAAGH, of course",
-    "quests.tfg_tips.aircraft_weapons.desc": "In case you want to kill something very menacing, or just conquer your enemies, you can create &dWeapons&r which can be used for destroying or maiming mobs.\n\nEach weapon can be fired by using the &cInteract&r button while riding the &bAircraft.&r Most of them (except for the &aTelescope&r) consume some sort of &sAmmo.&r",
+    "quests.tfg_tips.aircraft_weapons.desc": "In case you want to kill something very menacing, or just conquer your enemies, you can create &dWeapons&r which can be used for destroying or maiming mobs.\n\nEach weapon can be fired by using the &cInteract&r button while riding the &bAircraft.&r Most of them (except for the &aTelescope&r) consume some sort of &aAmmo.&r",
 
     "quests.tfg_tips.airship.title": "Airship",
     "quests.tfg_tips.airship.subtitle": "Baby's first Airship",
@@ -472,7 +472,7 @@
 
     "quests.tfg_tips.cargo_airship.title": "Cargo Airship",
     "quests.tfg_tips.cargo_airship.subtitle": "When you need to carry your entire base into the distance",
-    "quests.tfg_tips.cargo_airship.desc": "Attach some extra &dEngines, Rotors&r and &d2 Wooden Crates&r and you'll upgrade your &aAirship&r into a &3Cargo Airship.&r\n\nIt is &4more fuel hungry&r than its ordinary counterpart.\n The Cargo Airship has a total of &b80 Inventory Slots&r, and &a4 Upgrade Slots.&r",
+    "quests.tfg_tips.cargo_airship.desc": "Attach some extra &dEngines, Rotors&r and &d2 Wooden Crates&r, and you'll upgrade your &aAirship&r into a &3Cargo Airship.&r\n\nIt is &4more fuel hungry&r than its ordinary counterpart.\nThe Cargo Airship has a total of &b80 Inventory Slots&r, and &a4 Upgrade Slots.&r",
 
     "quests.tfg_tips.waghship.title": "Warship",
     "quests.tfg_tips.waghship.subtitle": "Otherwise known as a WAAAAGH-Ship",
@@ -482,9 +482,9 @@
     "quests.tfg_tips.quadrocopter.subtitle": "Not a Quadcopter",
     "quests.tfg_tips.quadrocopter.desc": "The &3Quadrocopter&r is a very basic &aHovercraft&r, containing &b6 Inventory Slots&r, a &asingle Upgrade Slot&r and a &csingle Weapon Slot.&r\n\nIt excels in simple controls, making it ideal for &ebuilding.&r",
 
-    "quests.tfg_tips.gyrodyne": "Gyrodyne",
+    "quests.tfg_tips.gyrodyne.title": "Gyrodyne",
     "quests.tfg_tips.gyrodyne.subtitle": "Muscle-powered Copter",
-    "quests.tfg_tips.gyrodyne.desc": "The &3Gyrodyne&r is a unique aircraft, consuming no fuel, instead being powered exclusively by muscle. As such, it drains your &4Hunger&r.\n\nIt contains &b18 Inventory Slots&r, &a3 Upgrade Slots&r and &c1 Weapon Slot.&r",
+    "quests.tfg_tips.gyrodyne.desc": "The &3Gyrodyne&r is a unique aircraft, consuming &dno fuel&r, instead being powered exclusively by muscle. As such, it drains your &4Hunger&r.\n\nIt contains &b18 Inventory Slots&r, &a3 Upgrade Slots&r and &c1 Weapon Slot.&r",
 
     "quests.tfg_tips.economy_plane.title": "Economy Plane",
     "quests.tfg_tips.economy_plane.subtitle": "Your first Plane... Not that great though.",
@@ -504,7 +504,7 @@
 
     "quests.tfg_tips.firmaciv_info.title": "Voyage Gadgets",
     "quests.tfg_tips.firmaciv_info.subtitle": "In case you care for realism",
-    "quests.tfg_tips.firmaciv_info.desc": "&3FirmaCiv&r comes with 4 different navigational tools, each giving you important information about your position in the world.\nIncludes the &dSextant&r, &dNavigator's Timepiece&r, &dBarometer&r, and &dCompass&r; more information about the tools in the &2Field Guide.&r\n\n&3&lLore:&r&o: FirmaCiv by default removes coordinates to make you use its navigational tools. We can't do that here, so uh, use them if you want to LARP.",
+    "quests.tfg_tips.firmaciv_info.desc": "&3Firma:Civ&r comes with 4 different navigational tools, each giving you important information about your position in the world.\nIncludes the &dSextant&r, &dNavigator's Timepiece&r, &dBarometer&r, and &dCompass&r; more information about the tools in the &2Field Guide.&r\n\n&3&lLore:&r&o: Firma:Civ by default removes coordinates to make you use its navigational tools. We can't do that here, so uh, use them if you want to LARP.",
 
     "quests.tfg_tips.warfare.title": "Sea Warfare",
     "quests.tfg_tips.warfare.subtitle": "FIRE ALL CANNONS!",
@@ -526,9 +526,9 @@
     "quests.tfg_tips.entity_boats.subtitle": "I can't carry these with me?",
     "quests.tfg_tips.entity_boats.desc": "Entity type boats are unique compared to the Kayak, while the Kayak can be carried around as an item, Entity Type Boats such as Rowboats, Canoes and Sloops cannot be carried around as an Item. However, they have other upsides such as being able to fit multiple people, and also fit \"Compartments\", such as Chests, Barrels and Others.\nTo avoid your boat from drifting away into the horizon, you can leash them with a Lead, might be worth spending some time creating a Dock of sorts for your boats.\n\nWorth mentioning, most boats can receive damage if you traverse over harsh obstacles such as Corals, you can repair your boat by utilizing wood of the same type as your boat.",
 
-    "quests.tfg_tips.beneathxfirmaciv.title": "Disclaimer regarding Beneath and Firmaciv",
+    "quests.tfg_tips.beneathxfirmaciv.title": "Disclaimer regarding Beneath and Firma:Civ",
     "quests.tfg_tips.beneathxfirmaciv.subtitle": "Read this, otherwise you may regret it",
-    "quests.tfg_tips.beneathxfirmaciv.desc": "While you can create &aFirmaciv Entity Boats&r out of &dCrimson&r and &3Warped Stems&r, boats made out of these fireproof logs &4ARE NOT&r resistant to lava! If you try to traverse a lava lake with these you &lwill&r sink and die a horrible death!",
+    "quests.tfg_tips.beneathxfirmaciv.desc": "While you can create &aFirma:Civ Entity Boats&r out of &dCrimson&r and &3Warped Stems&r, boats made out of these fireproof logs &4ARE NOT&r resistant to lava! If you try to traverse a lava lake with these you &lwill&r sink and die a horrible death!",
 
     "quests.tfg_tips.canoe_beginning.title": "Boat 2: Canoe",
     "quests.tfg_tips.canoe_beginning.subtitle": "Primitive",
@@ -580,7 +580,7 @@
     //#region Firmalife
     "quests.tfg_tips.firmalife.title": "Firmalife",
     "quests.tfg_tips.firmalife.subtitle": "Thrive in TerraFirmaCraft",
-    "quests.tfg_tips.firmalife.desc": "&2Firmalife&r is a mod all about extending the agricultural and gastronomic experience in TerraFirmaCraft, with touches of  miscellaneous features. Includes things such as decorations, more preservation methods, new foods, bees and a plethora of useful gadgets!",
+    "quests.tfg_tips.firmalife.desc": "&2Firmalife&r is a mod all about extending the agricultural and gastronomic experience in TerraFirmaCraft, with touches of miscellaneous features. Includes things such as decorations, more preservation methods, new foods, bees and a plethora of useful gadgets!",
 
     "quests.tfg_tips.greenhouse.title": "Greenhouse",
     "quests.tfg_tips.greenhouse.subtitle": "Grow your crops 24/7!",
@@ -596,7 +596,7 @@
 
     "quests.tfg_tips.not_the_bees.title": "Beekeeper Armor",
     "quests.tfg_tips.not_the_bees.subtitle": "NOT THE BEES!",
-    "quests.tfg_tips.not_the_bees.desc": "The bees don't like it when people disrupt them and harvest their precious honey and wax. There are three ways to do it safely:\n&dHarvesting at night time&r\n&dUsing a campfire&r.\n&dUsing Beekeeper Armor&r",
+    "quests.tfg_tips.not_the_bees.desc": "Bees don't like it when people disrupt them and harvest their precious honey and wax. There are three ways to do it safely:\n\n* &dHarvesting at night time&r\n* &dUsing a campfire&r\n* &dUsing Beekeeper Armor&r",
     "quests.tfg_tips.not_the_bees.task": "I'll use either the Campfire or wait for Nightfall.",
 
     "quests.tfg_tips.honey.title": "Honey",
@@ -605,7 +605,7 @@
 
     "quests.tfg_tips.beeswax.title": "Beeswax",
     "quests.tfg_tips.beeswax.subtitle": "A worthy sacrifice",
-    "quests.tfg_tips.beeswax.desc": "If you right-click a &aFrame&r that houses a &bQueen Bee&r with a &cKnife&r, you will clear out the frame, killing the queen, and obtain &dWax.&r\n\n&3&lTip:&r&o You can sacrifice &bQueens&f with bad or lower traits to encourage breeding better traits over time, as the other frames will fill out the missing one using their own traits.",
+    "quests.tfg_tips.beeswax.desc": "If you right-click a &aFrame&r that houses a &bQueen Bee&r with a &cKnife&r, you will clear out the frame, killing the queen, and obtaining &dWax.&r\n\n&3&lTip:&r&o You can sacrifice &bQueens&f with bad or lower traits to encourage breeding better traits over time, as the other frames will fill out the missing one using their own traits.",
 
     "quests.tfg_tips.candles.title": "Candles",
     "quests.tfg_tips.candles.subtitle": "Cozy...",
@@ -613,11 +613,11 @@
 
     "quests.tfg_tips.oven.title": "Oven",
     "quests.tfg_tips.oven.subtitle": "Caution, it's hot",
-    "quests.tfg_tips.oven.desc": "The &3Oven&r is a multiblock structure that can be used to easily cook foods as well as perform exclusive recipes. The &aBottom Oven, Top Oven&r and the the &aChimney&r are mandatory components. And don't forget the &dPeel&r, used for picking up food from the &aTop Oven.&r\nMore information on how to build an &3Oven&r can be found in the &2Field Guide.&r\n\n&3&lTip:&r&o: the only food that can satisfy all 5 nutrient groups, &cPizza&f, must be cooked in an oven.",
+    "quests.tfg_tips.oven.desc": "The &3Oven&r is a multiblock structure that can be used to easily cook foods as well as perform exclusive recipes. The &aBottom Oven, Top Oven&r and the &aChimney&r are mandatory components. And don't forget the &dPeel&r, used for picking up food from the &aTop Oven.&r\nMore information on how to build an &3Oven&r can be found in the &2Field Guide.&r\n\n&3&lTip:&r&o: the only food that can satisfy all 5 nutrient groups, &cPizza&f, must be cooked in an oven.",
 
     "quests.tfg_tips.oven_appliances.title": "Oven Appliances",
     "quests.tfg_tips.oven_appliances.subtitle": "Get more out of your Ovens",
-    "quests.tfg_tips.oven_appliances.desc": "&dOven Appliances&r are optional components that must be placed on top of &aBottom Ovens&r to receive heat. Remember you can have multiple &aBottom Ovens&r in a single multiblock.\n\n&dWrought Iron Grill&r: Allows you to cook food at a much faster rate and provides a &dpreservation&r trait as a bonus.\n&dVat&r: can process pot recipes in bulk! Extremely useful for making &eLatex&r and &aJam.&r\n&dJarring Station&r: must be place next to a &bVat&r, fills up jars with &aJam.&r\n&dPot&r: if you need to cook soups.",
+    "quests.tfg_tips.oven_appliances.desc": "&3Oven Appliances&r are optional components that must be placed on top of &aBottom Ovens&r to receive heat. Remember you can have &cmultiple&r &aBottom Ovens&r in a single multiblock.\n\n&dWrought Iron Grill&r: Allows you to cook food at a much faster rate and provides a &cbonus&r to shelf life.\n&dVat&r: can process pot recipes in bulk! Extremely useful for making &eLatex&r and &aJam.&r\n&dJarring Station&r: must be place next to a &bVat&r, fills up jars with &aJam.&r\n&dPot&r: if you need to cook soups.",
 
     "quests.tfg_tips.oven_finish.title": "Oven Finishes",
     "quests.tfg_tips.oven_finish.subtitle": "Fancy",
@@ -630,7 +630,7 @@
 
     "quests.tfg_tips.jam.title": "Jam",
     "quests.tfg_tips.jam.subtitle": "Not Jelly",
-    "quests.tfg_tips.jam.desc": "&dJam&r is an excellent way to preserve fruit: a &bSealed Jar of Jam&r can last up to &ctwo years&r without being opened.\n\nTo properly bottle the jam you will need a &aJar with Lid&r, requiring &bGlassblowing&r for the jar itself and &bSmithing&r for the lids.\n\n&3&lTip:&r&l &aGT machines&f will provide easier recipes for these down the line.",
+    "quests.tfg_tips.jam.desc": "&dJam&r is an excellent way to preserve fruit: a &bSealed Jar of Jam&r can last up to &ctwo years&r without being opened.\n\nTo properly bottle the jam you will need a &aJar with Lid&r, requiring &bGlassblowing&r for the jar itself and &bSmithing&r for the lids.\n\n&3&lTip:&r&l &aGT machines&f will provide easier recipes for both components down the line.",
 
     "quests.tfg_tips.preservation.title": "The Preservation Tree",
     "quests.tfg_tips.preservation.subtitle": "Making food last longer",
@@ -639,14 +639,14 @@
     "quests.tfg_tips.brine_something.title": "Brining",
     "quests.tfg_tips.brine_something.subtitle": "A preliminary step for other preservation methods",
     "quests.tfg_tips.brine_something.desc": "Brining &araw meat, vegetables&r or &afruit&r, requiring &dBrine&r made from &bSea Water&r and &bVinegar.&r This is a precursor step for &3pickling&r and &3smoking.&r",
-    "quests.tfg_tips.brine_something.tasks.1": "Meat, vegetable or fruit that has been brined.",
-    "quests.tfg_tips.brine_something.tasks.2": "A Bucket of Brine",
+    "quests.tfg_tips.brine_something.task.1": "Meat, vegetable or fruit that has been brined.",
+    "quests.tfg_tips.brine_something.task.2": "A Bucket of Brine",
 
     "quests.tfg_tips.pickle_something.title": "General Preservation: Pickling",
     "quests.tfg_tips.pickle_something.subtitle": "General Preservation N°3",
     "quests.tfg_tips.pickle_something.desc": "Pickling &araw meat, vegetables&r or &afruit&r. After &3brining&r, the food item is pickled in a barrel full of &aVinegar.&r It can be left there, giving it the &dPickled&r preservation trait for as long as the barrel is sealed, significantly increasing shelf life.",
-    "quests.tfg_tips.pickle_something.tasks.1": "A Bucket of Vinegar",
-    "quests.tfg_tips.pickle_something.tasks.2": "Meat, vegetable or fruit that has been pickled.",
+    "quests.tfg_tips.pickle_something.task.1": "A Bucket of Vinegar",
+    "quests.tfg_tips.pickle_something.task.2": "Meat, vegetable or fruit that has been pickled.",
 
     "quests.tfg_tips.get_milk.title": "Milk Preservation",
     "quests.tfg_tips.get_milk.subtitle": "Got milk?",
@@ -668,7 +668,7 @@
 
     "quests.tfg_tips.get_meat.title": "Meat Preservation",
     "quests.tfg_tips.get_meat.subtitle": "Don't beat it",
-    "quests.tfg_tips.get_meat.desc": "Most animals drop &aMeat&r which is an excellent source of protein, although it's shelf life is extremely short when left raw.\n\n&bRaw Meat&r can be salted, pickled and smoked, but these steps must happen &cbefore&r cooking.",
+    "quests.tfg_tips.get_meat.desc": "Most animals drop &aMeat&r which is an excellent source of protein, although its shelf life is extremely short when left raw.\n\n&bRaw Meat&r can be &3salted, pickled&r and &3smoked&r for maximum preservation, but these steps must happen &cbefore&r cooking.",
 
     "quests.tfg_tips.salt_meat.title": "Meat Preservation: Salt",
     "quests.tfg_tips.salt_meat.subtitle": "Not quite a jerky",
@@ -682,9 +682,9 @@
 
     "quests.tfg_tips.cook_meat.title": "Meat Preservation: Cooking",
     "quests.tfg_tips.cook_meat.subtitle": "Pretty obvious in hindsight.",
-    "quests.tfg_tips.cook_meat.desc": "Cooking can potentially provide its own preservation traits. You should cook &aMeat&r either in a &bWrought Iron Grill&r or a &bTop Oven!&r\nOther cooking methods may not provide any trait at all or even give negative traits that lower shelf life.\n\n &3&lTip:&r&o wrought iron grills can be part of the &dOven&f structure.",
-    "quests.tfg_tips.cook_meat.tasks.1": "A hunk of either Grilled or Oven Baked Cooked Meat.",
-    "quests.tfg_tips.cook_meat.tasks.2": "A Wrought Iron Grill or a Top Oven",
+    "quests.tfg_tips.cook_meat.desc": "Cooking can potentially provide its own preservation traits. You should cook &aMeat&r either in a &bWrought Iron Grill&r or a &bTop Oven!&r\nOther cooking methods may not provide any trait at all or may even give negative traits that lower shelf life.\n\n&3&lTip:&r&o &bWrought Iron Grills&r can be part of the &dOven&f structure.",
+    "quests.tfg_tips.cook_meat.task.1": "A hunk of either Grilled or Oven Baked Cooked Meat.",
+    "quests.tfg_tips.cook_meat.task.2": "A Wrought Iron Grill or a Top Oven",
 
     "quests.tfg_tips.get_veggie.title": "Vegetable Preservation",
     "quests.tfg_tips.get_veggie.subtitle": "They're good for you",
@@ -692,7 +692,7 @@
 
     "quests.tfg_tips.get_fruit.title": "Fruit Preservation",
     "quests.tfg_tips.get_fruit.subtitle": "Tasty!",
-    "quests.tfg_tips.get_fruit.desc": "&aFruits&r are mostly found in the wild, harvested from &bTrees, Bushes&r and from slicing &bMelons&r and &bPumpkins.&r Unlike vegetables, fruits have a unique preservation modifier: &ddrying&r, in addition to &bpickling.&r\n Dried fruits are &cnecessary&r for making your first bit of &dYeast.&r",
+    "quests.tfg_tips.get_fruit.desc": "&aFruits&r are mostly found in the wild, harvested from &bTrees, Bushes&r and from slicing &bMelons&r and &bPumpkins.&r Unlike vegetables, fruits have a unique preservation modifier: &ddrying&r, in addition to &bpickling.&r\n&cDried fruits are necessary&r for making your first bit of &dYeast.&r",
 
     "quests.tfg_tips.dry_fruit.title": "Fruit Preservation: Drying",
     "quests.tfg_tips.dry_fruit.subtitle": "Water content basically zero",
@@ -724,11 +724,11 @@
 
     "quests.tfg_tips.refrigerator.title": "Refrigerator",
     "quests.tfg_tips.refrigerator.subtitle": "This thing may be overpowered",
-    "quests.tfg_tips.refrigerator.desc": "If you have advanced to the &7LV&r age, you can make a &dRefrigerator&r, consuming power in exchange for the &obest&r universal food preservation trait for all food items. This including raw and cooked food, and combined food like sandwiches.",
+    "quests.tfg_tips.refrigerator.desc": "If you have advanced to the &7LV&r age, you can make a &dRefrigerator&r, consuming power in exchange for the &obest&r universal food preservation trait for all food items. This includes raw and cooked food, and combined foods like sandwiches.",
 
     "quests.tfg_tips.cellar_blocks.title": "Cellar Storage",
     "quests.tfg_tips.cellar_blocks.subtitle": "Stuff to put your food in",
-    "quests.tfg_tips.cellar_blocks.desc": "&bFood Shelves&r can be used to store virtually any kind of food. &bHangers&r can be used to store &aMeat&r and &aGarlic.&r Food stored in these recieve a powerful preservation trait greater than that of &dVessels.&r",
+    "quests.tfg_tips.cellar_blocks.desc": "&bFood Shelves&r can be used to store virtually any kind of food. &bHangers&r can be used to store &aMeat&r and &aGarlic.&r Food stored in these receive a powerful preservation trait greater than that of &dVessels.&r",
     //#endregion
 
     //#region Beneath
@@ -742,11 +742,11 @@
 
     "quests.tfg_tips.beneath_temp_management.title": "Temperature Management: Active",
     "quests.tfg_tips.beneath_temp_management.subtitle": "Things to cool off quickly",
-    "quests.tfg_tips.beneath_temp_management.desc": "In &4The Beneath&r, with the temperature being relatively high, you should bring some &aWter&r to cool off on demand, or some &bPacked Ice&r mined from polar regions if you plan to make a temporary base.",
+    "quests.tfg_tips.beneath_temp_management.desc": "In &4The Beneath&r, with the temperature being relatively high, you should bring some &aWater&r to cool off on demand, or some &bPacked Ice&r mined from polar regions if you plan to make a temporary base.",
 
     "quests.tfg_tips.beneath_clothes.title": "Temperature Management: Passive",
     "quests.tfg_tips.beneath_clothes.subtitle": "Things to passively cool off",
-    "quests.tfg_tips.beneath_clothes.desc": "&bClothes&r can also play an important role to cool off. The easiest to craft before going to &4The Beneath&r are &dBurlap Clothes.&r\n\n&dSilk Clothes&r require &aString&r, which can be found in large quantities inside the beneath biome called the &cWebbed Lair.&r\n\nThere is a better alternative if you have access to &9Blue Steel&r however...",
+    "quests.tfg_tips.beneath_clothes.desc": "&bClothes&r also play an important role in cooling off. The easiest to craft before going to &4The Beneath&r are &dBurlap Clothes.&r\n\n&dSilk Clothes&r require &aString&r, which can be found in large quantities inside the beneath biome called the &cWebbed Lair.&r\n\nThere is a better alternative if you have access to &9Blue Steel&r however...",
 
     "quests.tfg_tips.blue_steel_diving.title": "Blue Steel Diving Gear",
     "quests.tfg_tips.blue_steel_diving.subtitle": "Perfect for taking a warm, lava bath",
@@ -758,7 +758,7 @@
 
     "quests.tfg_tips.how_to_go_beneath.title": "How to go to The Beneath",
     "quests.tfg_tips.how_to_go_beneath.subtitle": "No Obsidian Required",
-    "quests.tfg_tips.how_to_go_beneath.desc": "To reach &4The Beneath&r, you will have to stand on the &bOverworld Bedrock&r for a couple of seconds, after which you will be &oteleported&r to &4The Beneath.&r\n\n&3&lTip:&r&o Make sure to dig out a large space above the bedrock where you'll be standing, so when you get teleported back to the Overworld, the game won't send you in some random cave while it's trying to search for enough air blocks.",
+    "quests.tfg_tips.how_to_go_beneath.desc": "To reach &4The Beneath&r, you will have to stand on &bOverworld Bedrock&r for a couple of seconds, after which you will be &oteleported&r to down there.\n\n&3&lTip:&r&o Make sure to dig out a large space above the bedrock where you'll be standing, so when you get teleported back to the Overworld, the game won't send you in some random cave while it's trying to search for enough air blocks.",
     "quests.tfg_tips.how_to_go_beneath.task.1": "Reach and Stand on top of Bedrock",
     "quests.tfg_tips.how_to_go_beneath.task.2": "Visit the Beneath",
 
@@ -773,6 +773,6 @@
 
     "quests.tfg_tips.piglin_bartering.title": "Piglin Bartering",
     "quests.tfg_tips.piglin_bartering.subtitle": "We are not alone apparently",
-    "quests.tfg_tips.piglin_bartering.desc": "The curious inhabitants of &4The Beneath&r have items to offer... Trade gold with them to get some useful resource, such as small amounts of &aMetals&r or &aLeather.&r\nCheck out the &2Field Guide&r for details about barter trades."
+    "quests.tfg_tips.piglin_bartering.desc": "The curious inhabitants of &4The Beneath&r have items to offer... Trade gold with them to get some useful resources, such as small amounts of &aMetals&r or &aLeather.&r\nCheck out the &2Field Guide&r for details about barter trades."
     //#endregion
 }

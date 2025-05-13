@@ -92,7 +92,7 @@
 
     "quests.metal_age.crucible.title": "Crucible",
     "quests.metal_age.crucible.subtitle": "Melt metals like a pro",
-    "quests.metal_age.crucible.desc": "The Crucible is placed on top of a Forge. It comes with 9 inventory slots and has a capacity for 4000mB of fluid, including an interface to check your alloying ratios. They also retain their contents when broken. They can also collect Pig Iron when placed below a Blast Furnace.\n\nKeep in mind that the crucible WILL try to alloy everything inside it - it does not keep metals separate like a TC Smeltery - so it's a good idea to keep it clean when you aren't using it.",
+    "quests.metal_age.crucible.desc": "The Crucible is placed on top of a Forge. It comes with 9 inventory slots and has a capacity for 4032mB of fluid, including an interface to check your alloying ratios. They also retain their contents when broken. They can also collect Pig Iron when placed below a Blast Furnace.\n\nKeep in mind that the crucible WILL try to alloy everything inside it - it does not keep metals separate like a TC Smeltery - so it's a good idea to keep it clean when you aren't using it.",
 
     "quests.metal_age.fire_bricks.title": "Fire Bricks",
     "quests.metal_age.fire_bricks.subtitle": "For the Blast Furnace",
