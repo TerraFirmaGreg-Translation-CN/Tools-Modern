@@ -12,12 +12,16 @@
 	"ores": [
 		{
 			"ore": "quartzite",
-			"weight": 25,
+			"weight": 35,
 			"block_weight": 1
 		},
 		{
 			"ore": "barite",
 			"weight": 30
+		},
+		{
+			"ore": "asbestos",
+			"weight": 15
 		}
 	],
 	"rocks": [
