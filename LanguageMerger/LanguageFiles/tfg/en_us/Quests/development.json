@@ -9,7 +9,7 @@
     "quests.development.explanation.desc.1": "The &lCircuit Progression&r of GregTech can seem intimidating at first, but it's not that bad.\n\nFirst, you need to understand that circuits of the same tier are interchangeable. For example, to craft an &6HV&r &6Mixer&r, you can use any &6HV-tier&r circuit.",
     "quests.development.explanation.desc.2": "Now, let's talk about &lprogression&r. As you may notice, each circuit shares a color code on its icon and a name. For example, all &aQuantum Processors&r are &agreen&r and crafted inside &1IV-tier&r Circuit Assemblers. To craft one, you first need the previous circuit — that's why, to craft your first &dLuV&r &dCircuit&r, the Nanoprocessor Mainframe, you must start by crafting a Nanoprocessor and progress through each &7step&r. In this case, it would take three steps.\n\nThis is why the rightmost &6circuits&r in each line are always cheaper to &a craft&r: they require fewer &7steps&r.",
     "quests.development.explanation.desc.3": "Additionally, we have added &lUniversal Circuits&r. They can be &a crafted&r from any &6circuit&r — whether &1IV&r, &dLuV&r, &3UV&r, or any other tier — and are extremely useful for &9automation&r with AE2. Try to encode all your &fpatterns&r with &lUniversal Circuits&r, so whenever you upgrade to a better circuit, you won't have to redo all your &fpatterns&r — only the ones used to craft the Universal Circuit.",
-    "quests.development.explanation.task": "Okay I read the whole three prages",
+    "quests.development.explanation.task": "Okay I read the whole three pages",
 
     "quests.development.ulv.title": "&8ULV&r Circuits",
     "quests.development.ulv.subtitle": "",
