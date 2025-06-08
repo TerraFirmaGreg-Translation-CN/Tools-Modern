@@ -3,11 +3,11 @@
 	"dimension": "moon",
 	"type": "tfc:cluster_vein",
 	"config": {
-		"rarity": 250,
-		"density": 0.25,
+		"rarity": 310,
+		"density": 0.20,
 		"min_y": 0,
-		"max_y": 50,
-		"size": 40
+		"max_y": 70,
+		"size": 50
 	},
 	"ores": [
 		{
