@@ -31,5 +31,10 @@
     "material.gtceu.thermochemically_treated_hardwood": "Thermochemically Treated Hardwood",
     "material.gtceu.hardwood": "Hardwood",
 
-    "material.gtceu.asurine": "Asurine"
+    "material.gtceu.asurine": "Asurine",
+
+    "material.tfg.compressed_nitrox": "Compressed Nitrox",
+    "material.tfg.compressed_heliox": "Compressed Heliox",
+    "material.tfg.compressed_heliox_3": "Compressed Heliox-3",
+    "material.tfg.compressed_trimix": "Compressed 50/30/20 Trimix"
 }
