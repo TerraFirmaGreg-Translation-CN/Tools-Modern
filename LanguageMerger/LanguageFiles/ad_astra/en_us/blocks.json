@@ -1,6 +1,5 @@
 {
-	"block.ad_astra.steel_cable": "Basic RF Cable",
-	"block.ad_astra.desh_cable": "Advanced RF Cable",
+	"block.ad_astra.oxygen_distributor": "Breathable Air Distributor",
 
 	"block.ad_astra.moon_sand": "Lunar Sand",
 	"block.ad_astra.moon_stone": "Raw Anorthosite",
