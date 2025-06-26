@@ -24,7 +24,7 @@
 
     "quests.metal_age.bloomery.title": "Forja Catalã",
     "quests.metal_age.bloomery.subtitle": "Requisito se você busca a Idade do Ferro.",
-    "quests.metal_age.bloomery.desc": "A Forja Catalã é um Multibloco do TerraFirmaCraft que te permite criar Ferro Forjado. Só derreter ferro em uma forja vai produzir Ferro Fundido, que é quebradiço e nem de perto tão forte ou durável quanto o Ferro Forjado.\n\nA Forja Catalã é bem cara, então talvez valesse a pena investir algum tempo em montar a automatização de ambos uma produção de chapas e um processamento de minérios.\n\nO Guia de Campo contém uma entrada detalhada em como a Forja Catalã funciona e as proporções corretas de ferro e carvão vegetal que ela precisa.",
+    "quests.metal_age.bloomery.desc": "A Forja Catalã é um Multibloco do TerraFirmaCraft que te permite criar Ferro Forjado. Só derreter ferro em uma forja vai produzir Ferro Fundido, que é quebradiço e nem de perto tão forte ou durável quanto o Ferro Forjado.\n\nA Forja Catalã é bem cara, então talvez valesse a pena investir algum tempo em montar a automatização de ambos: uma produção de chapas e um processamento de minérios.\n\nO Guia de Campo contém uma entrada detalhada em como a Forja Catalã funciona e as proporções corretas de ferro e carvão vegetal que ela precisa.",
 
     "quests.metal_age.mining.title": "Minerando na Idade da Metalurgia",
     "quests.metal_age.mining.subtitle": "ROCHA E PEDRA!",
