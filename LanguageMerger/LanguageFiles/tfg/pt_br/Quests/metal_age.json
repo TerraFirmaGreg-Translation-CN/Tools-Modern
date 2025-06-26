@@ -1,6 +1,6 @@
 {
     "quests.metal_age": "Idade da Metalurgia",
-    "quests.metal_age.subtitle": "Seus Primeiros Avanços Tecnológicos."
+    "quests.metal_age.subtitle": "Seus Primeiros Avanços Tecnológicos.",
 
     "quests.metal_age.weld_bronze_ingots.title": "Fundindo Bronze",
     "quests.metal_age.weld_bronze_ingots.subtitle": "Eu falei pra você ir se acostumando",
@@ -39,7 +39,7 @@
     "quests.metal_age.wrought_iron_anvil.desc": "Com a Bigorna de Ferro Forjado você vai ser capaz de trabalhar Ferro Forjado em diferentes itens como Chapas, cabeças de Ferramentas, etc.\n\nFerramentas e armaduras de Ferro Forjado não são AQUELA melhoria em comparação às de Bronze, mas têm bem mais durabilidade.\n\nCriar a próxima bigorna vai ser um grande salto na dificuldade, então esse é um bom ponto pra dar uma parada e explorar algumas das outras coisas que esse modpack tem a oferecer.",
 
     "quests.metal_age.coke_oven.title": "Forno de Coque",
-    "quests.metal_age.coke_oven.subtitle": "Finalmente, Chega Dessas Pilhas de Carvão!"
+    "quests.metal_age.coke_oven.subtitle": "Finalmente, Chega Dessas Pilhas de Carvão!",
     "quests.metal_age.coke_oven.desc.1": "O Forno de Coque é o seu primeiro Multibloco do Gregtech! Ele permite a você criar Carvão Vegetal automaticamente, além de outros poderosos combustíveis. O Forno de Coque vai queimar uma Tora em um Carvão Vegetal e 250mB de Creosoto, um importante químico usado no tratamento de madeira.\n\nSe você criar o bloco principal do Forno de Coque e usar a tecla de 'Usos' do JEI nele (o padrão costuma ser \"U\"), você vai encontrar a aba chamada \"Informações de Multibloco\", que te mostra como construir o Forno de Coque no mundo.\n\nVocê também pode só colocar o bloco de Controle no mundo, e interagir com ele enquanto estiver agachando pra criar um Holograma dos blocos faltando.",
     "quests.metal_age.coke_oven.desc.2": "Fornos de Coque podem ser completamente automatizados usando Escotilhas do Forno de Coque. Escotilhas são colocadas nas laterais do Forno e funcionam tanto como Entrada como Saída pra ambos Itens e Líquidos.\n\nVocê pode facilmente criar um simples Forno de Coque unilateral automatizado usando uma Caixa para a Escotilha de Entrada, um Baú para a de Saída de Itens e um Tambor ou Barril para a coleta do Creosoto. Diferente de Baús, Caixas são capazes de guardar objetos grandes, como Toras. Você também pode agachar e apertar com o botão direito em canos do GregTech enquanto segura uma chave de boca pra fazer eles fluírem em uma só direção.",
 
@@ -57,20 +57,20 @@
 
     "quests.metal_age.beneath_kaolin.title": "Fonte de Caolim: As Profundezas",
     "quests.metal_age.beneath_kaolin.subtitle": "Hora de ir Fundo",
-    "quests.metal_age.beneath_kaolin.desc": "Fundo, BEM FUNDO no subterrâneo, após a Bedrock, você encontrará As Profundezas, um enorme complexo de cavernas recheado com perigos de todo tipo a cada canto. Nas áreas superiores, você pode ser capaz de encontrar o Vale Viçoso, um pequeno oasis verde nas Profundezas onde a Argila Caolim pode spawnar. Entretanto, um certo monstro pode a estar guardando...!\n\nJá que você já está por aqui, você poderia tentar procurar por Antracito, um excelente combustível para fabricação de aço.\n\nSobreviver nas Profundezas é difícil, então cheque a seção \"Dicas para o TerraFirmaGreg\" deste livro de quests e o Guia de Campo para mais informações."
+    "quests.metal_age.beneath_kaolin.desc": "Fundo, BEM FUNDO no subterrâneo, após a Bedrock, você encontrará As Profundezas, um enorme complexo de cavernas recheado com perigos de todo tipo a cada canto. Nas áreas superiores, você pode ser capaz de encontrar o Vale Viçoso, um pequeno oasis verde nas Profundezas onde a Argila Caolim pode spawnar. Entretanto, um certo monstro pode a estar guardando...!\n\nJá que você já está por aqui, você poderia tentar procurar por Antracito, um excelente combustível para fabricação de aço.\n\nSobreviver nas Profundezas é difícil, então cheque a seção \"Dicas para o TerraFirmaGreg\" deste livro de quests e o Guia de Campo para mais informações.",
     "quests.metal_age.beneath_kaolin.task": "Atravesse a Bedrock da Superfície e alcance as Profundezas",
 
     "quests.metal_age.overworld_graphite.title": "Fonte de Grafite: Superfície",
-    "quests.metal_age.overworld_graphite.subtitle": "Você ta me dizendo que eu não posso só confiar nos indicadores da superfície?"
+    "quests.metal_age.overworld_graphite.subtitle": "Você ta me dizendo que eu não posso só confiar nos indicadores da superfície?",
     "quests.metal_age.overworld_graphite.desc": "Grafite spawna exclusivamente em vastos discos planos, fundo no subterrâneo.\n\nVocê vai ter que ir explorando o subterrâneo através de cavernas para tentar encontrar algum! Veios de Grafite podem spawnar em qualquer tipo de pedra e também incluem Carvão e Diamante, possuindo todos os três como indicadores por perto. Ferramentas como um Escudo de metal, o Capacete de Minerador, Picareta de Prosp. e a Luneta podem se provar bastante úteis!",
-    
+
     "quests.metal_age.beneath_graphite.title": "Fonte de Grafite: As Profundezas",
     "quests.metal_age.beneath_graphite.subtitle": "Hora de ir Fundo",
     "quests.metal_age.beneath_graphite.desc": "Fundo, BEM FUNDO no subterrâneo, após a Bedrock, você encontrará As Profundezas, um enorme complexo de cavernas recheado com perigos de todo tipo a cada canto. Lá em baixo nas Profundezas, você pode encontrar enormes veios altos de Grafite, mas um certo monstro pode os estar guardando...!\n\nJá que você já está por aqui, você poderia tentar procurar por Antracito, um excelente combustível para fabricação de aço.\n\nSobreviver nas Profundezas é difícil, então cheque a seção \"Dicas para o TerraFirmaGreg\" deste livro de quests e o Guia de Campo para mais informações.",
-    "quests.metal_age.beneath_graphite.task":"Atravesse a Bedrock da Superfície e alcance as Profundezas",
-  
+    "quests.metal_age.beneath_graphite.task": "Atravesse a Bedrock da Superfície e alcance as Profundezas",
+
     "quests.metal_age.kaolin_clay.title": "Argila Caolim",
-    "quests.metal_age.kaolin_clay.subtitle": "Tropa Caulinita 2: O Inimigo Agora é Outro"
+    "quests.metal_age.kaolin_clay.subtitle": "Tropa Caulinita 2: O Inimigo Agora é Outro",
     "quests.metal_age.kaolin_clay.desc": "Uma vez que você encontrar a Argila Caolim, você deveria trazer de voltar o máximo que você puder carregar! Infelizmente, só 20% de tudo o que você pegar vai ser bem sucedido em queimar e se tornar Caulinita Triturada, então é recomendado queimá-las onde quer que as encontrar, com vasos em fornos de cova, pra economizar espaço de inventário.\n\nDepois de criar o Cadinho e o Alto-Forno, você não vai precisar de muito mais dela, mas ainda é uma boa ideia trazer pra casa mais do que você acha que vai precisar, pra evitar repetir a viagem.\n\nP.S: Se você encontrou Lírios de Sangue mas nenhuma argila, tente cavar um pouco mais fundo! Algumas vezes ela spawna um pouco subterrânea.",
 
     "quests.metal_age.graphite.title": "Grafite",
@@ -79,7 +79,7 @@
     "quests.metal_age.graphite.task": "Qualquer forma de Grafite",
 
     "quests.metal_age.fire_clay.title": "Argila Refratária",
-    "quests.metal_age.fire_clay.title": "Finalmente ela",
+    "quests.metal_age.fire_clay.subtitle": "Finalmente ela",
     "quests.metal_age.fire_clay.desc": "Queime a Argila Caolim para conseguir Caulinita Triturada. Você pode usar uma forja para aquecê-las individualmente, mas queimar grandes fornadas dentro de vasos pequenos em um Forno de Cova pode ser mais rápido.\n\nQuanto ao Grafite, processe o minério normalmente, e então moa o Pó de Grafite outra vez para conseguir Grafite Triturado.\n\nFinalmente, combine 4 Grafites triturados, 4 Caulinitas Trituradas e 1 Argila para criar a Argila Refratária.",
 
     "quests.metal_age.fire_clay_products.title": "Produtos de Argila Refratária",
@@ -110,7 +110,7 @@
     "quests.metal_age.steel_anvil.subtitle": "Um enorme salto em relação ao Ferro Forjado",
     "quests.metal_age.steel_anvil.desc": "Com a Bigorna de Aço, você vai ser capaz de forjar Lingotes de Aço em diversas formas.\n\nFerramentas e equipamentos de Aço são uma melhoria significativa se comparados às suas contrapartes de bronze e ferro forjado, então vale a pena fazê-las se as suas atuais estiverem prestes a quebrar. Você vai precisar criar uma porrada de ligas muito em breve, então um equipamento novo de mineração seria um sábio investimento.",
 
-    "quests.metal_age.steel_goodies.title": "Energia Mecânica Nível Aço"
+    "quests.metal_age.steel_goodies.title": "Energia Mecânica Nível Aço",
     "quests.metal_age.steel_goodies.subtitle": "Sopra, Esmaga e Encana",
     "quests.metal_age.steel_goodies.desc": "Aço desbloqueia um novo nível do Greate, com capacidade máxima de estresse aprimorada! Agora você também pode fazer coisas como o Ventilador Encapsulado, que pode automatizar a lavagem de minérios, e a Bomba Mecânica, que te dá muito mais acesso à logística de fluidos.\n\nA Bomba Mecânica é especialmente útil, já que com alguma esperteza você pode facilmente automatizar o Alto-Forno.",
 
@@ -176,3 +176,4 @@
     "quests.metal_age.this_is_a_bucket.title": "Isso é... o Balde.",
     "quests.metal_age.this_is_a_bucket.subtitle": "Pelos Deuses...",
     "quests.metal_age.this_is_a_bucket.desc": "Parabéns pela criação do Balde. A Idade da Metalurgia está oficialmente terminada.\n\nVá e comece a trabalhar na produção daqueles componentes de Baixa Voltagem!"
+}
