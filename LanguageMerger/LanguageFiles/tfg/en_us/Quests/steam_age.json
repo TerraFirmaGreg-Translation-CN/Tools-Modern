@@ -241,7 +241,7 @@
 
 	"quests.steam_age.steel_saw.title": "Steel Mechanical Saw",
 	"quests.steam_age.steel_saw.subtitle": "A stonecutter and LV Cutter in one!",
-	"quests.steam_age.steel_saw.desc": "It's an upgrade to your Basic Mechanical Saw that can also process some metal recipes, like turning rods into four bolts, and cutting blocks into plates. These recipes will all require a fluid to work, but you can just use water for now.",
+	"quests.steam_age.steel_saw.desc": "It's an upgrade to your Basic Mechanical Saw that can also process some metal recipes, like turning rods into four bolts, and cutting blocks into plates. These recipes will all require a fluid to work, but you can just use water for now.\n\nYou can get a little Aluminium for the Cobalt Brass from ore processing byproducts! Check out that quest chapter for more information.",
 
 	"quests.steam_age.rolling_mill.title": "Rolling Mill",
 	"quests.steam_age.rolling_mill.subtitle": "The other half of the LV Bender",
