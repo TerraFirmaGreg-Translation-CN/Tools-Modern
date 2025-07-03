@@ -13,6 +13,11 @@
 			"lang": "pt_br",
 			"text": "Desh",
 			"info": "$(thing)Fonte de$(): Ferro, Titânio, Nitrogênio"
+		},
+		{
+			"lang": "uk_ua",
+			"text": "Деш",
+			"info": "$(thing)Джерело$(): Заліза, Титану, Азоту"
 		}
 	]
 }

@@ -13,6 +13,11 @@
             "lang": "pt_br",
             "text": "Calorita",
             "info": "$(thing)Fonte de$(): "
+        },
+        {
+            "lang": "uk_ua",
+            "text": "Калоріта",
+            "info": "$(thing)Джерело$():"
         }
     ]
 }
