@@ -13,6 +13,11 @@
 			"lang": "pt_br",
 			"text": "Ostrum",
 			"info": "$(thing)Fonte de$(): "
+		},
+		{
+			"lang": "uk_ua",
+			"text": "Острум",
+			"info": "$(thing)Джерело$(): "
 		}
 	]
 }

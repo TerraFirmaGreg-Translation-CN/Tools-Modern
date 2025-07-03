@@ -13,6 +13,11 @@
 			"lang": "pt_br",
 			"text": "Faialite",
 			"info": "$(thing)Derrete em$(): Ferro"
+		},
+		{
+			"lang": "uk_ua",
+			"text": "Фаяліт",
+			"info": "$(thing)Переплавляється у$(): Залізо"
 		}
 	]
 }
