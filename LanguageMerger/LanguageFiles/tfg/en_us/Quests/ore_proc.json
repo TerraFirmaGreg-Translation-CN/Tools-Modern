@@ -72,29 +72,14 @@
     "quests.ore_proc.purified_dust.title": "Purified Dust",
     "quests.ore_proc.purified_dust.desc": "This column shows what you can do with your purified dust.",
 
-    "quests.ore_proc.final_dust.title": "The Finished Dust",
-    "quests.ore_proc.final_dust.desc": "It's generally a good idea to store your ores in this state until you're ready to do something else with them.",
-
-    // TODO:
-    // - Add steam furnace
-    // - Add multiblock miners to EV since they also macerate
-    // - Add HS crushing wheels
-    // - does the uranium 'line' start from ores or dust? if it's dust, either don't mention it here, or also add rutile
-    // - add forge hammer to refined ore section
-    // - add anvil/hull requirements to columns, make all rows dependent on it, remove quest links to other chapters
-
+    "quests.ore_proc.dust_processed.title": "Your final dust",
+    "quests.ore_proc.dust_processed.subtitle": "Or is it?",
+    "quests.ore_proc.dust_processed.desc": "&6Dusts&r are the final form of almost every ore.\n\nFrom here, you can put it in a &cFurnace&r, send it to &estorage&r, or even start using it right away! Some dusts will require one last step before they become truly useful.\n\nRemember to keep your &6ore processing line&r in top shape! You'll want to keep expanding and upgrading it as you progress, so you can spend less time mining and more time gregging.",
 
     "quests.ore_proc.macerator_byproduct.title": "Crushing with byproducts",
     "quests.ore_proc.macerator_byproduct.subtitle": "I can get even more from my ores!",
     "quests.ore_proc.macerator_byproduct.desc": "While looking at &bEMI&r, you've probably noticed that your &dMacerator&r or &dMillstone&r lists more &boutputs&r than what you're actually getting.\n\nGregTech doesn't communicate this very well, but these extra slots are only available in &6HV&r. Once you make it to that tier, the &6HV&r macerator becomes incredibly powerful, giving a huge amount of bonus byproducts from each ore.",
-
-    "quests.ore_proc.macerator_noproduct.title": "Crushing without byproducts",
-    "quests.ore_proc.macerator_noproduct.subtitle": "Ores for the poors",
-    "quests.ore_proc.macerator_noproduct.desc": "In the primitive age, you're limited to a &bQuern&r to crush your ores into dusts. Once you have access to Bronze, you can set up a &bMillstone&r to automate this step!\n\nIn the Steam Age, the &bForge Hammer&r and &bCrushing Wheels&r can crush your ores very quickly. Remember, you won't get any maceration byproducts until &6HV&r!",
-
-    "quests.ore_proc.crushed_ores.title": "Ore Purification",
-    "quests.ore_proc.crushed_ores.subtitle": "There's more?!",
-    "quests.ore_proc.crushed_ores.desc": "Now that you have your crushed ores, you've officially passed the first step of &6Ore Processing&r! The next step is &dPurification&r. \n\nTo start with, your choices are limited, but more options will open up as you progress. Once you get these, be sure to look through EMI and decide what the best steps are for each of your ores.",
+    "quests.ore_proc.macerator_byproduct.task": "Either an HV Macerator or HS Crushing Wheels",
 
     "quests.ore_proc.sodium_persuflate.title": "Bathe them in Sodium Persulfate",
     "quests.ore_proc.sodium_persuflate.subtitle": "Not just for circuit board etching",
@@ -102,11 +87,12 @@
 
     "quests.ore_proc.sodium_ores.title": "Sodium Persulfate bathing examples",
     "quests.ore_proc.sodium_ores.subtitle": "A useful time saver",
-    "quests.ore_proc.sodium_ores.desc": "Here's some recommendations for Sodium Persulfate bathing:\n\n-&6Crushed Aluminium&r for &dRutile&r: &dTitanium&r\n\n-&6Crushed Bauxite&r: &dGallium&r\n\n-&6Crushed Cobalt&r: &dCobaltite&r for &dArsenic&r",
+    "quests.ore_proc.sodium_ores.desc": "Here's some recommendations for Sodium Persulfate bathing:\n\n- &6Crushed Aluminium&r: for &dRutile&r (Titanium)\n\n- &6Crushed Bauxite&r: &dGallium&r\n\n- &6Crushed Cobalt&r: &dCobaltite&r for &dArsenic&r",
 
     "quests.ore_proc.ore_washer.title": "Bathe them in Water",
     "quests.ore_proc.ore_washer.subtitle": "The standard option for most ores",
     "quests.ore_proc.ore_washer.desc": "Most ores don't need any fancy bathing setups, and running them through an &dOre Washer&r or &9Bulk Washing&r with an &dEncased Fan&r will suffice.\n\nIf you use the &bOre Washer&r, make sure to use &9Distilled Water&r to double the speed of the recipe.\n\nDon't have access to either of these yet? You can just throw your crushed ores into water to purify them, though this won't get you any byproducts.",
+    "quests.ore_proc.ore_washer.task": "Any Ore Washer",
 
     "quests.ore_proc.mercury_ores.title": "Bathe them in Mercury",
     "quests.ore_proc.mercury_ores.subtitle": "Don't stick your finger in it",
@@ -114,11 +100,7 @@
 
     "quests.ore_proc.mercury.title": "Mercury bathing examples",
     "quests.ore_proc.mercury.subtitle": "Liquid metal bath time",
-    "quests.ore_proc.mercury.desc": "Here's some recommendations for Mercury bathing:\n\n-&6Crushed Platinium&r: &dPalladium&r\n\n-&6Crushed Cooperite&r: &dPalladium&r\n\n-&6Crushed Nickel&r: &dPlatinum&r\n\n-&6Crushed Gold&r: &dSilver&r",
-
-    "quests.ore_proc.purified_ores.title": "Post-Purification",
-    "quests.ore_proc.purified_ores.subtitle": "More branching paths",
-    "quests.ore_proc.purified_ores.desc": "You now have &6Purified Ores&r, but this time there's even more options on how to proceed.\n\nWhile every purified ore can just be ran through a Thermal Centrifuge next, certain ores will need to be processed differently for unique byproducts later, such as the infamous &dPlatline&r or &dIndium Line&r. If you don't need these purified ores immediately, it may be useful to store them in their purified state for now.",
+    "quests.ore_proc.mercury.desc": "Here's some recommendations for Mercury bathing:\n\n- &6Crushed Platinium&r: &dPalladium&r\n\n- &6Crushed Cooperite&r: &dPalladium&r\n\n- &6Crushed Nickel&r: &dPlatinum&r\n\n- &6Crushed Gold&r: &dSilver&r",
 
     "quests.ore_proc.indium.title": "The Indium Line",
     "quests.ore_proc.indium.subtitle": "We say line, but really it's just a two step process",
@@ -131,32 +113,35 @@
     "quests.ore_proc.electro_separator.title": "Electromagnetic Separator",
     "quests.ore_proc.electro_separator.subtitle": "Probably the least useful GregTech machine",
     "quests.ore_proc.electro_separator.desc": "The &6Electromagnetic Separator&r can extract things like Iron and Gold from &dRefined Ores&r, which you can get by crushing your purified ones. For now, we recommend using it primarily for &dNaquadah&r. If you need more &aNeodymium&r, you can also process &dBastnasite&r.",
+    "quests.ore_proc.electro_separator.task": "Any Electromagnetic Separator",
 
     "quests.ore_proc.macerator_separator.title": "The Macerator",
     "quests.ore_proc.macerator_separator.subtitle": "(again)",
     "quests.ore_proc.macerator_separator.desc": "The macerator can sometimes yield different byproducts from your Purified ores than other routes, but these are still locked to &6HV&r like every other macerator byproduct.",
+    "quests.ore_proc.macerator_separator.task": "Any Macerator",
 
     "quests.ore_proc.thermal_centrifuge.title": "The Thermal Centrifuge",
     "quests.ore_proc.thermal_centrifuge.subtitle": "The go-to for most purified ores",
     "quests.ore_proc.thermal_centrifuge.desc": "For all your other Purified Ores that doesn't need special treatment, it's best to run them through the &dThermal Centrifuge&r. This machine can produce byproducts at a reliable rate, while only using electricity. It's quite slow, however, so we suggest making multiple machines.",
+    "quests.ore_proc.thermal_centrifuge.task": "Any Thermal Centrifuge",
 
     "quests.ore_proc.sifter.title": "The Sifter",
     "quests.ore_proc.sifter.subtitle": "The Skyblock Simulator",
-    "quests.ore_proc.sifter.desc": "The &6Sifter&r should be used for all your &aGems&r. It gives far more yield per ore than any other method, and is the only way to obtain Exquisite and Flawless gems before &6HV&r laser engraving.",
+    "quests.ore_proc.sifter.desc": "The &6Sifter&r should be used for all your &aGems&r. It gives far more yield per ore than any other method, and is the only way to obtain Exquisite and Flawless gems before &6HV&r laser engraving.\n\nHigher tier sifters have higher output bonuses, even if you underclock the machine!",
+    "quests.ore_proc.sifter.task": "Any Sifter",
 
     "quests.ore_proc.centrifuge_sifter.title": "Centrifuging the dust",
     "quests.ore_proc.centrifuge_sifter.subtitle": "Byproducts of byproducts",
     "quests.ore_proc.centrifuge_sifter.desc": "The &6Sifter&r can output &6Purified Dust&r, which you can toss into a centrifuge for a few extra byproducts.",
-
-    "quests.ore_proc.dust_processed.title": "Your final dust",
-    "quests.ore_proc.dust_processed.subtitle": "Or is it?",
-    "quests.ore_proc.dust_processed.desc": "&6Dusts&r are the final form of almost every ore.\n\nFrom here, you can put it in a &cFurnace&r, send it to &estorage&r, or even start using it right away! Some dusts will require one last step before they become truly useful.\n\nRemember to keep your &6ore processing line&r in top shape! You'll want to keep expanding and upgrading it as you progress, so you can spend less time mining and more time gregging.",
+    "quests.ore_proc.centrifuge_sifter.task": "Any Centrifuge",
 
     "quests.ore_proc.electrolyzer.title": "Further refinement",
     "quests.ore_proc.electrolyzer.subtitle": "An encore for ore!",
     "quests.ore_proc.electrolyzer.desc": "Certain &6Dusts&r have no direct use. For example, &2Tantalite&r must be processed in an &6Electrolyzer&r to extract the raw elements of &dTantalum&r and &dManganese&r.\n\nMost of these recipes will only be available with an &bMV Electrolyzer&r, so come back to this later!",
+    "quests.ore_proc.electrolyzer.task": "Any Electrolyzer",
 
     "quests.ore_proc.packer.title": "The Packer",
     "quests.ore_proc.packer.subtitle": "It's real fast",
-    "quests.ore_proc.packer.desc": "Back in the old days of GregTech, this little bad boy saw a lot of use—you used to get a ton of &6Small&r and &6Tiny Dusts&r from ore processing.\n\nNowadays, it's only really useful for automatic packing, such as &dRare Earth&r in a &6Centrifuge&r returning many &6Small Piles of Dust&r.\n\nDon't forget: a &eRobot Arm&r set to Supply Exact mode can be useful to avoid clogging the input slots."
+    "quests.ore_proc.packer.desc": "Back in the old days of GregTech, this little bad boy saw a lot of use—you used to get a ton of &6Small&r and &6Tiny Dusts&r from ore processing.\n\nNowadays, it's only really useful for automatic packing, such as &dRare Earth&r in a &6Centrifuge&r returning many &6Small Piles of Dust&r.\n\nDon't forget: a &eRobot Arm&r set to Supply Exact mode can be useful to avoid clogging the input slots.",
+    "quests.ore_proc.packer.task": "Any Packer"
 }

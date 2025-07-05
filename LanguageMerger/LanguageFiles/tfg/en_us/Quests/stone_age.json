@@ -236,7 +236,7 @@
 
     "quests.stone_age.clean_dust.title": "Early Ore Processing - Part 3",
     "quests.stone_age.clean_dust.subtitle": "Wash that dirty dust",
-    "quests.stone_age.clean_dust.desc": "Finally, dropping Impure Dusts in some water and leaving them for a few seconds will wash them, yielding dust, which is your ore's final form. It might even be worth as much as a full ingot now!",
+    "quests.stone_age.clean_dust.desc": "Finally, dropping Impure or Purified Dusts in some water and leaving them for a few seconds will wash them, yielding dust, which is your ore's final form. It might even be worth as much as a full ingot now!",
 
     "quests.stone_age.flux.title": "Fluxstones",
     "quests.stone_age.flux.subtitle": "It's basically metal glue",
