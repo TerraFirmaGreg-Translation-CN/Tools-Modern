@@ -22,7 +22,7 @@
 
 	"quests.space_survival.chorus.title": "Chorus Fruit",
 	"quests.space_survival.chorus.subtitle": "Is this the End?",
-	"quests.space_survival.chorus.desc": "&5Chorus Fruit&r serves a pretty crucial role on the Moon - it will be your main source of &3Nitrogen&r. To get started, find some Chorus Plants, parkour up to the top, and break the &5Chorus Flowers&r. Breaking the plant from the bottom will not get you any of the Chorus Flowers! Next up, grow the Chorus Flowers in an Electric Greenhouse to get a renewable source of Chorus Fruit, and from there, you can process them into &aBiomass&r and &3Nitrogen&r with a Brewery and Fermenter respectively. You can even get a renewable source of &2Ender Dust&r this way!",
+	"quests.space_survival.chorus.desc": "&5Chorus Fruit&r serves a pretty crucial role on the Moon - it will be your main source of &3Nitrogen&r. To get started, find some Chorus Plants, parkour up to the top, and break the &5Chorus Flowers&r. Breaking the plant from the bottom will not get you any of the Chorus Flowers! Next up, grow the Chorus Flowers in an Electric Greenhouse to get a renewable source of Chorus Fruit, and from there, you can process them into &aBiomass&r and &3Nitrogen&r with a Brewery and Fermenter respectively. You can also distill the Biomass into Carbon for more Rocket Fuel!",
 
 	"quests.space_survival.rover.title": "Space Rover",
 	"quests.space_survival.rover.subtitle": "Your getaway vehicle",
@@ -34,7 +34,7 @@
 
 	"quests.space_survival.stone_dust_centrifuging.title": "Moon Stone Dust Centrifuging",
 	"quests.space_survival.stone_dust_centrifuging.subtitle": "A stone dust that's actually worth your time",
-	"quests.space_survival.stone_dust_centrifuging.desc.1": "The Moon is full of &eHelium-3&r, another important resource, but it's stuck inside the stone! If you haven't set up any stone dust centrifuging automation before, here's a quick introduction: A &9Rock Breaker&r can produce infinite raw stone, which a &9Macerator&r crushes into dust for a &9Centrifuge&r to process.\n\nHere on the Moon, &bAnorthosite&r, &bNorite&r, and &bPhonolite&r can thus be processed into an infinite source of &eHelium-3&r!",
+	"quests.space_survival.stone_dust_centrifuging.desc.1": "The Moon is full of &eHelium-3&r, another important resource, but it's stuck inside the stone! If you haven't set up any stone dust centrifuging automation before, here's a quick introduction: A &9Rock Crusher&r can produce infinite raw stone, which a &9Macerator&r crushes into dust for a &9Centrifuge&r to process.\n\nHere on the Moon, &bAnorthosite&r, &bNorite&r, and &bPhonolite&r can thus be processed into an infinite source of &eHelium-3&r!",
 	"quests.space_survival.stone_dust_centrifuging.desc.2": "Helium-3 is used for several things, of which the most important is making more &cair to breathe&r via &6Heliox-3&r! You can also use it as \"fertiliser\" for Chorus Fruit in the Electric Greenhouse, and eventually as another fuel for Fusion Power.",
 	"quests.space_survival.stone_dust_centrifuging.task": "Any ",
 
