@@ -1,5 +1,5 @@
 {
-	"quests.space_survival": "Space Survival",
+	"quests.space_survival": "Tips - Space Survival",
 	"quests.space_survival.subtitle": "The one place that hasn't been corrupted by capitalism... Space!",
 
 	"quests.space_survival.preparations.title": "Pre-Launch Preparations",
@@ -50,7 +50,7 @@
 	"quests.space_survival.air_distributor.title": "Setting up a permanent base",
 	"quests.space_survival.air_distributor.subtitle": "A holiday home",
 	"quests.space_survival.air_distributor.desc.1": "So far you may be surviving, but do you want to truly &othrive&r? If you're wanting to set up a more permanent base, look no further than the &6Air Distributor&r! Feed it one of the compressed gases from earlier and it will \"oxygenate\" a large enclosed area, letting you take your helmet off, grow crops, and place a water source without it freezing.\n\nAny solid block will work to build your base out of, but you'll want a proper airlock to ensure the gas doesn't all escape in a &cvortex&r.",
-	"quests.space_survival.air_distributor.desc.2": "The oxygenated area will be at a constant 15°C for any crops you'd like to grow (though the Electric Greenhouse doesn't mind), and the water source staying liquid will also let you easily electrolyze it for a source of &bOxygen&r. You can also use a Diode block to transfer power through the walls while keeping them sealed.",
+	"quests.space_survival.air_distributor.desc.2": "The oxygenated area will be at a constant 15ï¿½C for any crops you'd like to grow (though the Electric Greenhouse doesn't mind), and the water source staying liquid will also let you easily electrolyze it for a source of &bOxygen&r. You can also use a Diode block to transfer power through the walls while keeping them sealed.",
 
 	"quests.space_survival.oxygen_info.title": "More Moon base machines",
 	"quests.space_survival.oxygen_info.subtitle": "Home comforts",

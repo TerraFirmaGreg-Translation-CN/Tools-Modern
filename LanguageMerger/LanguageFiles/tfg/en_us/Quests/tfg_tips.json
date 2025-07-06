@@ -1,6 +1,6 @@
 {
     //#region Starting
-    "quests.tfg_tips": "TerraFirmaGreg Tips",
+    "quests.tfg_tips": "Tips - Survival",
     "quests.tfg_tips.subtitle": "Tips and Tricks to make your life slightly easier.",
 
     "quests.tfg_tips.beginning.title": "Tips and Tricks be here!",
@@ -141,7 +141,7 @@
 
     "quests.tfg_tips.glowstone_lamp.title": "Lamp Fuel: Glowstone",
     "quests.tfg_tips.glowstone_lamp.subtitle": "The best lamp fuel",
-    "quests.tfg_tips.glowstone_lamp.desc": "You'll need access to at least &7LV&r electricity in order to liquefy &dGlowstone&r, but if you like the look of &lany&r lamp, you can use &6Liquid Glowstone&r to fuel them indefinitely. Unlike &cLave&r, this isn't hot!",
+    "quests.tfg_tips.glowstone_lamp.desc": "You'll need access to at least &7LV&r electricity in order to liquefy &dGlowstone&r, but if you like the look of &lany&r lamp, you can use &6Liquid Glowstone&r to fuel them indefinitely. Unlike &cLava&r, this isn't hot!",
 
     "quests.tfg_tips.charcoal_pile.title": "Charcoal Pile",
     "quests.tfg_tips.charcoal_pile.subtitle": "You're going to need this",
@@ -799,6 +799,33 @@
     "quests.tfg_tips.lunchbox.title": "Lunch Box",
     "quests.tfg_tips.lunchbox.subtitle": "A refrigerator in your pocket!",
     "quests.tfg_tips.lunchbox.desc": "Lunch boxes have 9 slots for food, keeping it cold and longer lasting.\nThe Cooling Lunchbox has a stronger effect than the regular one, but needs to be provided with ice or capsules that will thaw over time.",
-    "quests.tfg_tips.lunchbox.task": "Any Lunch Box"
+    "quests.tfg_tips.lunchbox.task": "Any Lunch Box",
+
+    "quests.tfg_tips.transportation_tips.subtitle": "What ever happened to walking on your own two feet?",
+
+    "quests.tfg_tips.tools_tips.subtitle": "How to tighten and loosen 101.",
+
+    "quests.tfg_tips.tools_tips.tools.title": "Tools",
+    "quests.tfg_tips.tools_tips.tools.subtitle": "It's all a hammer anyways.",
+    "quests.tfg_tips.tools_tips.tools.desc": "The only thing seperating man from animal is our use of &l&bTools&r&r. &8&oExcept for apes, monkeys, dolphins, crows, otters, octo.......&r&r Use your skills and tools to make the most of this world, and &5save yourself&r some effort.",
+
+    "quests.tfg_tips.tools_tips.seed_oil.title": "Lamp Fuel: Seed Oil",
+    "quests.tfg_tips.tools_tips.seed_oil.subtitle": "Smells good when it burns.",
+    "quests.tfg_tips.tools_tips.seed_oil.desc": "&dSeed Oil&r will last you an impressive &c72&r days.",
+    "quests.tfg_tips.tools_tips.seed_oil.task": "A Bucket of Seed Oil",
+
+    "quests.tfg_tips.tools_tips.soybean_oil.title": "Lamp Fuel: Soybean Oil",
+    "quests.tfg_tips.tools_tips.soybean_oil.subtitle": "Lamp on a high protein diet.",
+    "quests.tfg_tips.tools_tips.soybean_oil.desc": "&dSoybean Oil&r lasts just as long as seed oil--&c72&r days. ",
+    "quests.tfg_tips.tools_tips.soybean_oil.task": "A Bucket of Soybean Oil",
+
+    "quests.tfg_tips.tools_tips.markings.title": "Markings",
+    "quests.tfg_tips.tools_tips.markings.subtitle": "Comply with OSHA standard 1910.303",
+    "quests.tfg_tips.tools_tips.markings.desc": "Similar to &2chalk&r--&d&lMarkings&r&r can be used to decorate your surfaces for a more immersive base. You can craft markings by first making a &bHazard Diamond Wall Marking&r and using a stonecutter to get the rest.",
+    "quests.tfg_tips.tools_tips.markings.task": "Any #ags_modernmarkings:markings",
+
+    "quests.tfg_tips.tools_tips.cryodesiccation.title": "Cryodesiccation",
+    "quests.tfg_tips.tools_tips.cryodesiccation.subtitle": "The factory has no time for \"flavor\".",
+    "quests.tfg_tips.tools_tips.cryodesiccation.desc": "&l&bCryodesiccation&r&r is the process of dehydrating food at very low temperatures. Food with the trait \"Cryodesiccated\" last considerably longer than other food preservation methods."
     //#endregion
 }
