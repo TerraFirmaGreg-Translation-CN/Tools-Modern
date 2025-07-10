@@ -4,11 +4,11 @@
     "quests.high_voltage": "&6HV&r - High Voltage",
     "quests.high_voltage.subtitle": "Upgrade your power, learn about Cleanroom, make more chemicals and get ready for Space",
 
-    "quests.high_voltage.TEST.title": "",
-    "quests.high_voltage.TEST.subtitle": "",
-    "quests.high_voltage.TEST.desc.1": "",
-    "quests.high_voltage.TEST.desc.2": "",
-    "quests.high_voltage.TEST.desc.3": "",
-    "quests.high_voltage.TEST.desc.4": ""
+    "quests.high_voltage.vitrified_pearl.title": "Vitrified Ender Pearl",
+    "quests.high_voltage.vitrified_pearl.subtitle": "An Exotic Ceramic",
+    "quests.high_voltage.vitrified_pearl.desc": "Heat the Ender Pearl in a &ePyrolyse Oven&r along with some appropriate insulation to properly vitrify it into something resembling a &3ceramic&r.\n\nYou won’t need many of these for now — at minimum, just one for your &6Rocket&r and another for your &6HV Circuit Assembler&r.\nBut be warned: from &5EV&r and beyond, the demand will rise quickly.",
 
+    "quests.high_voltage.kaolinite_powder.title": "High-Temperature Refractory Fire Clay",
+    "quests.high_voltage.kaolinite_powder.subtitle": "You didn't miss me, right?",
+    "quests.high_voltage.kaolinite_powder.desc": "So the bad news is you've got an upcoming reunion with an old friend. The good news is the reunion is at your own house!\n\nIf you've got any &4kaolinite&r left over from forever ago, time to dig it out of your old forge building and put it to use. And if you don't, well, now you can just make it at home!\n\nKaolinite will be used again in some upcoming recipes for industrial ceramics and heat shielding."
 }
