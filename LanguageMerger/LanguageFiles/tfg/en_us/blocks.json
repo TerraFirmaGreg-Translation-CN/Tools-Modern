@@ -122,6 +122,10 @@
 	"block.tfg.loose.deepslate": "Loose Migmatite Rock",
 	"block.tfg.loose.dripstone": "Loose Travertine Rock",
 
+	"block.tfg.mushroom_roots": "Mushroom Roots",
+	"block.tfg.mushroom_sprouts": "Mushroom Sprouts",
+	"block.tfg.charred_log": "Charred Log",
+
 	"block.tfg.rock.hardened_moon_stone": "Hardened Anorthosite",
 	"block.tfg.spike.moon_stone_spike": "Anorthosite Spike",
 	"block.tfg.loose.moon_stone": "Loose Anorthosite Rock",
