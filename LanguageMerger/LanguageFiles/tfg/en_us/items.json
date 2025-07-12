@@ -153,6 +153,14 @@
     "item.tfg.rapeseed_seeds": "Rapeseed Seeds",
     "item.tfg.rapeseed_product": "Rapeseed Ovules",
 
+    "item.tfg.flintlock_mechanism": "Flintlock Mechanism",
+    "item.tfg.advanced_clockwork_mechanism": "Advanced Clockwork Mechanism",
+    "item.tfg.certus_mechanism": "Certus Mechanism",
+    "item.tfg.small_bullet_casing": "Small Bullet Casing",
+    "item.tfg.large_bullet_casing": "Large Bullet Casing",
+    "item.tfg.shell_bullet_casing": "Shell Bullet Casing",
+    "item.tfg.nitrocellulose": "Nitrocellulose",
+
     "item.tfg.marker.earth_orbit": "Earth Orbit",
     "item.tfg.marker.moon_orbit": "Moon Orbit",
     "item.tfg.marker.mars_orbit": "Mars Orbit",
