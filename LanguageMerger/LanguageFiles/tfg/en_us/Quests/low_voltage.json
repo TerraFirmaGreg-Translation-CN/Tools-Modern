@@ -325,7 +325,7 @@
 
 	"quests.low_voltage.cupronickel_coil.title": "Cupronickel Coils",
 	"quests.low_voltage.cupronickel_coil.subtitle": "Baby's first heating coil",
-	"quests.low_voltage.cupronickel_coil.desc": "Prepare &a128 Cupronickel&r, &a32 Bronze&r and &a16 Tin Alloy&r to craft the Heating Coils required for your first Electric Blast Furnace.\n\nThis is still less than half (!) of the cost of the whole EBF in raw materials. You will also need about a stack each of Invar and Steel, so get mining.\n\nThe Cupronickel Coils will allow the EBF to perform recipes up to &d1,800K&r (ignoring Voltage bonuses). That's pretty hot if you ask us.\n\n&6Ttorial on Coils in the &lGregtech Energy&r&6 tab - check it out to learn more!&r",
+	"quests.low_voltage.cupronickel_coil.desc": "Prepare &a128 Cupronickel&r, &a32 Bronze&r and &a16 Tin Alloy&r to craft the Heating Coils required for your first Electric Blast Furnace.\n\nThis is still less than half (!) of the cost of the whole EBF in raw materials. You will also need about a stack each of Invar and Steel, so get mining.\n\nThe Cupronickel Coils will allow the EBF to perform recipes up to &d1,800K&r (ignoring Voltage bonuses). That's pretty hot if you ask us.\n\n&6Tutorial on Coils in the &lGregtech Energy&r&6 tab - check it out to learn more!&r",
 
 	"quests.low_voltage.lv_ebf.title": "The Electric Blast Furnace",
 	"quests.low_voltage.lv_ebf.subtitle": "One of the core machines of Gregtech. We like it big.",
