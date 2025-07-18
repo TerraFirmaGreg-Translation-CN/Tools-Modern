@@ -94,7 +94,6 @@
 				"name": "tfg:mars/martian_dunes"
 			},
 			"vanilla_biomes": [
-				"minecraft:mushroom_fields",
 				"minecraft:deep_ocean",
 				"minecraft:ocean",
 				"minecraft:deep_lukewarm_ocean",
@@ -104,6 +103,15 @@
 				"minecraft:frozen_ocean",
 				"minecraft:deep_cold_ocean",
 				"minecraft:cold_ocean"
+			]
+		},
+		{
+			"name": "mushroom_fields",
+			"mars_biome": {
+				"name": "tfg:mars/martian_oasis"
+			},
+			"vanilla_biomes": [
+				"minecraft:mushroom_fields"
 			]
 		}
 	]
