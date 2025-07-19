@@ -26,7 +26,8 @@
 				"minecraft:cherry_grove",
 				"minecraft:wooded_badlands",
 				"minecraft:snowy_slopes",
-				"minecraft:grove"
+				"minecraft:grove",
+				"minecraft:meadow"
 			]
 		},
 		{
@@ -59,7 +60,6 @@
 			"vanilla_biomes": [
 				"minecraft:snowy_plains",
 				"minecraft:plains",
-				"minecraft:meadow",
 				"minecraft:badlands",
 				"minecraft:desert",
 				"minecraft:sunflower_plains"
@@ -94,15 +94,23 @@
 				"name": "tfg:mars/martian_dunes"
 			},
 			"vanilla_biomes": [
-				"minecraft:deep_ocean",
 				"minecraft:ocean",
-				"minecraft:deep_lukewarm_ocean",
 				"minecraft:lukewarm_ocean",
 				"minecraft:warm_ocean",
-				"minecraft:deep_frozen_ocean",
 				"minecraft:frozen_ocean",
-				"minecraft:deep_cold_ocean",
 				"minecraft:cold_ocean"
+			]
+		},
+		{
+			"name": "oceans",
+			"mars_biome": {
+				"name": "tfg:mars/martian_deep_desert"
+			},
+			"vanilla_biomes": [
+				"minecraft:deep_ocean",
+				"minecraft:deep_lukewarm_ocean",
+				"minecraft:deep_frozen_ocean",
+				"minecraft:deep_cold_ocean"
 			]
 		},
 		{

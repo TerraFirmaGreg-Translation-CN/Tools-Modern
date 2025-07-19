@@ -21,11 +21,11 @@ namespace MarsBiomes
 
 			// Swap vanilla biomes for tfg ones
 
-			foreach (var biome in dim.Generator.BiomeSource.Biomes.ToList())
+			foreach (var biome in dim.Generator.Generator.BiomeSource.Biomes.ToList())
 			{
 				if (biome.Parameters.Depth != 0)
 				{
-					dim.Generator.BiomeSource.Biomes.Remove(biome);
+					dim.Generator.Generator.BiomeSource.Biomes.Remove(biome);
 					continue;
 				}
 
