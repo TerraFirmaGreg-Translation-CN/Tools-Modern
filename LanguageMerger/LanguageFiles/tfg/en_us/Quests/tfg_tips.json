@@ -784,7 +784,7 @@
 
     "quests.tfg_tips.how_to_go_beneath.title": "How to go to The Beneath",
     "quests.tfg_tips.how_to_go_beneath.subtitle": "No Obsidian Required",
-    "quests.tfg_tips.how_to_go_beneath.desc": "To reach &4The Beneath&r, you will have to stand on &bOverworld Bedrock&r for a couple of seconds, after which you will be &oteleported&r to down there.\n\n&3&lTip:&r&o Make sure to dig out a large space above the bedrock where you'll be standing, so when you get teleported back to the Overworld, the game won't send you in some random cave while it's trying to search for enough air blocks.",
+    "quests.tfg_tips.how_to_go_beneath.desc": "To reach &4The Beneath&r, you will have to stand on &bOverworld Bedrock&r for a couple of seconds, after which you will be &oteleported&r down under.\n\n&3&lTip:&r&o You'll keep exactly the same X and Z coordinates, so it may teleport you inside some rock. It'll give you a 3x3x3 space to work with though, so be sure to bring some supports for tunneling your way out!",
     "quests.tfg_tips.how_to_go_beneath.task.1": "Reach and Stand on top of Bedrock",
     "quests.tfg_tips.how_to_go_beneath.task.2": "Visit the Beneath",
 
