@@ -9,40 +9,77 @@
 				"minecraft:stony_peaks",
 				"minecraft:jagged_peaks",
 				"minecraft:frozen_peaks",
-				"minecraft:windswept_gravelly_hills",
-				"minecraft:windswept_hills",
-				"minecraft:windswept_forest",
-				"minecraft:eroded_badlands"
+				"minecraft:eroded_badlands",
+				"minecraft:windswept_gravelly_hills"
 			]
 		},
 		{
-			"name": "hills",
+			"name": "amber_hills",
 			"mars_biome": {
-				"name": "tfg:mars/martian_hills"
+				"name": "tfg:mars/amber_hills"
 			},
 			"vanilla_biomes": [
-				"minecraft:savanna_plateau",
-				"minecraft:windswept_savanna",
 				"minecraft:cherry_grove",
 				"minecraft:wooded_badlands",
-				"minecraft:snowy_slopes",
+				"minecraft:savanna_plateau"
+			]
+		},
+		{
+			"name": "rusticus_hills",
+			"mars_biome": {
+				"name": "tfg:mars/rusticus_hills"
+			},
+			"vanilla_biomes": [
 				"minecraft:grove",
+				"minecraft:snowy_slopes",
 				"minecraft:meadow"
 			]
 		},
 		{
-			"name": "forests",
+			"name": "sangnum_hills",
 			"mars_biome": {
-				"name": "tfg:mars/martian_forests"
+				"name": "tfg:mars/sangnum_hills"
+			},
+			"vanilla_biomes": [
+				"minecraft:windswept_savanna",
+				"minecraft:windswept_hills",
+				"minecraft:windswept_forest"
+			]
+		},
+		{
+			"name": "amber_plains",
+			"mars_biome": {
+				"name": "tfg:mars/amber_plains"
 			},
 			"vanilla_biomes": [
 				"minecraft:forest",
 				"minecraft:flower_forest",
 				"minecraft:birch_forest",
 				"minecraft:dark_forest",
+				"minecraft:old_growth_birch_forest"
+			]
+		},
+		{
+			"name": "rusticus_plains",
+			"mars_biome": {
+				"name": "tfg:mars/rusticus_plains"
+			},
+			"vanilla_biomes": [
 				"minecraft:savanna",
+				"minecraft:snowy_plains",
+				"minecraft:plains",
+				"minecraft:badlands",
+				"minecraft:desert",
+				"minecraft:sunflower_plains"
+			]
+		},
+		{
+			"name": "sangnum_plains",
+			"mars_biome": {
+				"name": "tfg:mars/sangnum_plains"
+			},
+			"vanilla_biomes": [
 				"minecraft:jungle",
-				"minecraft:old_growth_birch_forest",
 				"minecraft:sparse_jungle",
 				"minecraft:bamboo_jungle",
 				"minecraft:taiga",
@@ -50,19 +87,6 @@
 				"minecraft:old_growth_spruce_taiga",
 				"minecraft:old_growth_pine_taiga",
 				"minecraft:ice_spikes"
-			]
-		},
-		{
-			"name": "plains",
-			"mars_biome": {
-				"name": "tfg:mars/martian_plains"
-			},
-			"vanilla_biomes": [
-				"minecraft:snowy_plains",
-				"minecraft:plains",
-				"minecraft:badlands",
-				"minecraft:desert",
-				"minecraft:sunflower_plains"
 			]
 		},
 		{
@@ -102,7 +126,7 @@
 			]
 		},
 		{
-			"name": "oceans",
+			"name": "deep_oceans",
 			"mars_biome": {
 				"name": "tfg:mars/martian_deep_desert"
 			},
