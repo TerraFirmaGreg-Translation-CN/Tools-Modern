@@ -78,23 +78,15 @@
 						}
 					},
 					{
-						"id": "igneous_extrusive",
-						"layers": {
-							"basalt": "mix",
-							"venus": "mix",
-							"dacite": "mix"
-						}
-					},
-					{
 						"id": "sedimentary",
 						"layers": {
-							"mars": "igneous_extrusive",
+							"mars": "mix",
 							"chalk": "mix",
-							"shale": "igneous_extrusive",
+							"shale": "mix",
 							"dolomite": "mix",
 							"limestone": "mix",
-							"claystone": "igneous_extrusive",
-							"conglomerate": "igneous_extrusive",
+							"claystone": "mix",
+							"conglomerate": "mix",
 							"chert": "mix"
 						}
 					}
