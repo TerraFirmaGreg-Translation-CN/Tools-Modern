@@ -48,5 +48,15 @@
 	"material.gtceu.concentrated_bromine_solution": "Concentrated Bromine Solution",
 	"material.gtceu.debrominated_brine": "Debrominated Brine",
 	"material.gtceu.acidic_bromine_exhaust": "Acidic Bromine Exhaust",
-	"material.gtceu.hot_alkaline_debrominated_brine": "Hot Alkaline Debrominated Brine"
+	"material.gtceu.hot_alkaline_debrominated_brine": "Hot Alkaline Debrominated Brine",
+
+	"material.gtceu.lithium_carbonate":"Lithium Carbonate",
+	"material.gtceu.lithium_fluoride":"Lithium Fluoride",
+	"material.gtceu.tetrafluoroberyllate":"Tetrafluoroberyllate",
+	"material.gtceu.thorium_230":"Thorium 230",
+	"material.gtceu.thorium_232":"Thorium 232",
+	"material.gtceu.tbu-232_pellet":"TBU 232 Pellet",
+	"material.gtceu.plutonium_pellet":"Plutonium Pellet",
+	"material.gtceu.uranium_pellet":"Uranium Pellet",
+	"material.gtceu.thorium_pellet":"Thorium Pellet"
 }
