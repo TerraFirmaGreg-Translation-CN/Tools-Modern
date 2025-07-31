@@ -10,9 +10,10 @@
 	"material.gtceu.etrium": "Etrium",
 
 	"material.gtceu.rocket_alloy_t1": "R-Aluminosteel Rocket Alloy",
-	"material.gtceu.rocket_alloy_t2": "ASM 4914 Titanium Rocket Alloy",
-	"material.gtceu.vitrified_asbestos": "Vitrified Asbestos",
-
+	"material.gtceu.rocket_alloy_t3": "45-Ti Tungstensteel Rocket Alloy",
+  	"material.gtceu.vitrified_asbestos": "Vitrified Asbestos",
+ 	"material.gtceu.liquid_carbon_dioxide": "Liquid Carbon Dioxide",
+	
 	// Nuclear Material
 
 	"material.gtceu.hot_debrominated_brine": "Hot Debrominated Brine",
