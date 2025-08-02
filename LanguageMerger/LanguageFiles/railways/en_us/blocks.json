@@ -42,12 +42,5 @@
     "block.railways.track_spruce": "Cypress Train Track",
     "block.railways.track_incomplete_spruce": "Incomplete Cypress Track",
     "block.railways.track_spruce_wide": "Wide Cypress Train Track",
-    "block.railways.track_incomplete_spruce_wide": "Wide Incomplete Cypress Track",
-
-    "block.railways.track_crimson_narrow": "Narrow Mahogany Train Track",
-    "block.railways.track_incomplete_crimson_narrow": "Narrow Incomplete Mahogany Track",
-    "block.railways.track_crimson": "Mahogany Train Track",
-    "block.railways.track_incomplete_crimson": "Incomplete Mahogany Track",
-    "block.railways.track_crimson_wide": "Wide Mahogany Train Track",
-    "block.railways.track_incomplete_crimson_wide": "Wide Incomplete Mahogany Track"
+    "block.railways.track_incomplete_spruce_wide": "Wide Incomplete Cypress Track"
 }
