@@ -593,13 +593,13 @@ namespace OresToFieldGuide
 		private void ExportEmiOreData()
 		{
 			StringBuilder sb = new StringBuilder();
-			sb.AppendLine("public static final ExportedOreVeinInfo[] ORE_VEIN_INFO = {");
+			sb.AppendLine("public static final OreVeinInfoRecipe[] RECIPES = {");
 			foreach ((var dimension, var veins) in m_veinDict)
 			{
 				foreach (var vein in veins)
 				{
 
-					sb.AppendLine($"new ExportedOreVeinInfo(\"{vein.ID}\", \"{vein.Dimension}\", ")
+					sb.AppendLine($"new OreVeinInfoRecipe(\"{vein.ID}\", \"{vein.Dimension}\", ")
 						.Append($"{vein.Config.Rarity}, {vein.Config.Density}, {vein.Config.MinY}, {vein.Config.MaxY}, {vein.Config.Size}, {vein.Config.Height}, {vein.Config.Radius}, ")
 						.AppendLine($"new String[] {{");
 
@@ -608,10 +608,10 @@ namespace OresToFieldGuide
                         sb.Append($"\"{rock}\",");
                     }
 
-                    sb.AppendLine("}, new ExportedOreVeinInfo.WeightedBlock[] {");
+                    sb.AppendLine("}, new OreVeinInfoRecipe.WeightedBlock[] {");
 
 					foreach (var value in vein.Ores) {
-						sb.Append($"new ExportedOreVeinInfo.WeightedBlock(\"{m_oreDict[value.OreID].OreOverride ?? $"gtceu:{vein.Rocks[0]}_{value.OreID}_ore"}\", {value.Weight}, {(int)(value.WeightPercent ?? 0)}),");
+						sb.Append($"new OreVeinInfoRecipe.WeightedBlock(\"{m_oreDict[value.OreID].OreOverride ?? $"gtceu:{vein.Rocks[0]}_{value.OreID}_ore"}\", {value.Weight}, {(int)(value.WeightPercent ?? 0)}),");
 					}
 					sb.AppendLine("}),");
 				}
