@@ -165,5 +165,11 @@
   "tfg.emi.ore_veins.size": "Size: %d",
   "tfg.emi.ore_veins.height": "Height: %d",
   "tfg.emi.ore_veins.radius": "Radius: %d",
-  "emi.category.tfg.ore_vein_info": "Ore Veins"
+  "emi.category.tfg.ore_vein_info": "Ore Veins",
+
+  "tfg.toast.ore_prospector_none": "No ores found in range.",
+  "tfg.toast.ore_prospector_message": "Ores found within %s §6blocks in this direction: %s",
+  "tooltip.tfg.ore_prospector_stats": "Scan Range: %s, Cross Section: %s x %s.",
+  "tooltip.tfg.ore_prospector_count": "This prospector will display ore counts.",
+  "tooltip.tfg.ore_prospector_xray": "This prospector will display an x-ray view of ore blocks."
 }
