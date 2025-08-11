@@ -241,8 +241,10 @@
 	"block.tfg.uhv_railgun_item_loader_out": "§4UHV Interplanetary Railgun Output Bus§r",
 	"block.tfg.reflector": "Reflector Block",
 
+	"block.tfg.sunflower": "Sunflower",
 	"block.tfg.sunflower_wild": "Wild Sunflower",
 	"block.tfg.sunflower_dead": "Dead Sunflower",
+	"block.tfg.rapeseed": "Canola",
 	"block.tfg.rapeseed_wild": "Wild Canola",
 	"block.tfg.rapeseed_dead": "Dead Canola",
 
