@@ -2,7 +2,8 @@
 	"material.gtceu.ice": "Ice Slush",
 	"material.gtceu.damascus_steel": "Swine-steel",
 
-	// Sorry GT, big bang theory doesn't count as a scifi reference
+	"__comment1": "Sorry GT, big bang theory doesn't count as a scifi reference",
+	
 	"material.gtceu.cooperite": "Cooperite",
 	"material.gtceu.armalcolite": "Armalcolite",
 	"material.gtceu.desh": "Desh",
@@ -17,7 +18,7 @@
   	"material.gtceu.vitrified_asbestos": "Vitrified Asbestos",
  	"material.gtceu.liquid_carbon_dioxide": "Liquid Carbon Dioxide",
 	
-	// Nuclear Material
+	"__comment2": "Nuclear Material",
 
 	"material.gtceu.hot_debrominated_brine": "Hot Debrominated Brine",
 	"material.gtceu.hydrogen_iodide": "Hydrogen Iodide",
