@@ -617,7 +617,7 @@
     "quests.tfg_tips.plow.subtitle": "Large Scale Farming",
     "quests.tfg_tips.plow.desc": "If there ever comes the need to till large sections of land for some megafarms, the &dPlow&r can come in clutch.",
 
-    "__comment14": "#endregion"
+    "__comment14": "#endregion",
 
     "__comment15": "#region Firmalife",
 	
@@ -873,7 +873,7 @@
     "quests.tfg_tips.tools_tips.harvest_basket.title": "Harvest Baskets",
     "quests.tfg_tips.tools_tips.harvest_basket.subtitle": "For competitive pie bakers.",
     "quests.tfg_tips.tools_tips.harvest_basket.task": "Any #tfg:harvester",
-    "quests.tfg_tips.tools_tips.harvest_basket.desc": "&l&2Harvest Baskets&r&r are a new tool made just for &5TFG&r! These baskets can be used to harvest whole trees and bushes of fruit in one right-click! A regular &6Harvest Basket&r has a base durability of &n128&r. But an &3Aluminium Harvest Basket&r takes no damage on use."
+    "quests.tfg_tips.tools_tips.harvest_basket.desc": "&l&2Harvest Baskets&r&r are a new tool made just for &5TFG&r! These baskets can be used to harvest whole trees and bushes of fruit in one right-click! A regular &6Harvest Basket&r has a base durability of &n128&r. But an &3Aluminium Harvest Basket&r takes no damage on use.",
     
 	"__comment18": "#endregion"
 }
