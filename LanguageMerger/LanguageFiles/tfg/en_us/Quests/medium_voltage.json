@@ -1,5 +1,5 @@
 {
-    // Welcome to MV
+    "__comment1": "Welcome to MV",
 
     "quests.medium_voltage": "&bMV&r - Medium Voltage",
     "quests.medium_voltage.subtitle": "Venture into petrochemistry and refine electronics",
@@ -61,7 +61,7 @@
     "quests.medium_voltage.mv_steel_alloy.subtitle": "Steel Your Heart",
     "quests.medium_voltage.mv_steel_alloy.desc": "Vanadiumsteel is required in small quantities in progression. It's &6nearly four times as durable&r as Steel if used in GregTech tools. The Vanadium comes from &aVanadium Magnetite&r, which you may have encountered in Magnetite veins.\n\nOther Steel alloys include Blue Steel, Red Steel, and Black Steel!\n\nTake some Blue Steel free of charge - it's twice as durable as Steel.",
 
-    // Plastic Line
+    "__comment2": "Plastic Line",
 
     "quests.medium_voltage.pyrolyse.title": "Pyrolyse Oven",
     "quests.medium_voltage.pyrolyse.subtitle": "Thermal Decomposition",
@@ -189,7 +189,7 @@
     "quests.medium_voltage.mv_tank.subtitle": "Super Tanks are OP!",
     "quests.medium_voltage.mv_tank.desc": "No, but seriously.\n\nThis is the &cu&6l&et&ai&bm&9a&5t&4e&r portable Fluid storage solution. &64,000 buckets of storage&r - in one single block without any regards to temperature or acidity!\n\nLike Drums, Super Tanks &6keep their fluids when broken&r, and can be cleared in the crafting grid.\n\nIf you hunger for &9even more&r storage, take a look at higher tier Super Tanks or AE2 Fluid Storage Cells.",
 
-    // Circuits
+    "__comment3": "Circuits",
 
     "quests.medium_voltage.mv_pvc.title": "Polyvinyl Chloride",
     "quests.medium_voltage.mv_pvc.subtitle": "You've already made one polymer, what's two?",
@@ -245,7 +245,7 @@
     "quests.medium_voltage.mv_multi_smelter.subtitle": "Possibly the most powerful furnace you've seen",
     "quests.medium_voltage.mv_multi_smelter.desc": "At its lowest power (Cupronickel coils and &7LV&r Voltage), the &dMulti Smelter&r smelts 32 items in just 12 seconds - equivalent to &926.7 Furnaces&r, or 3.3 Steam Ovens!\n\nIf that wasn't already enough to convince you, standard &aoverclocks&r can be applied with sufficient voltage.\n\nAnd even better - higher tier &3Coils&r increase the amount of items it can smelt in &dparallel&r!",
 
-    // EBF
+    "__comment4": "EBF",
 
     "quests.medium_voltage.hv_machine_hull.title": "The HV Machine Hull",
     "quests.medium_voltage.hv_machine_hull.subtitle": "That's your fourth machine hull! This is progression",
