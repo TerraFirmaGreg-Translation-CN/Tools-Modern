@@ -1,5 +1,5 @@
 {
-    "__comment1": "#region Starting",
+    "__comment1": "Starting",
 	
     "quests.tfg_tips": "Tips - Survival",
     "quests.tfg_tips.subtitle": "Tips and Tricks to make your life slightly easier.",
@@ -8,9 +8,7 @@
     "quests.tfg_tips.beginning.subtitle": "Dear God that's a lot of branches...",
     "quests.tfg_tips.beginning.desc": "This quest chapter gives you a lot, &o(and we do mean a lot)&r of tips on how to survive and thrive.\n\nEach quest branch representing major mods in &2TerraFirmaGreg&r, with tips to make the most out of them. None of these quests are necessary for progression, although some &omay&r be locked behind main questline tasks.",
     
-	"__comment2": "#endregion",
-
-    "__comment3": "#region Portable Storage",
+    "__comment3": "Portable Storage",
 	
     "quests.tfg_tips.portable_storage.title": "Portable Storage Solutions",
     "quests.tfg_tips.portable_storage.subtitle": "Turns out your inventory is quite small.",
@@ -77,9 +75,7 @@
     "quests.tfg_tips.all_backpack_upgrades.subtitle": "You can't even fit all of these in a single backpack...",
     "quests.tfg_tips.all_backpack_upgrades.desc": "These are all the backpack upgrades &3Sophisticated Backpacks&r has to offer. Can you craft them all?",
     
-	"__comment4": "#endregion",
-
-    "__comment5": "#region GT",
+    "__comment5": "GT",
 	
     "quests.tfg_tips.gt.title": "GregTech",
     "quests.tfg_tips.gt.subtitle": "One third of the modpack's name, after all.",
@@ -97,9 +93,7 @@
     "quests.tfg_tips.magnets.subtitle": "",
     "quests.tfg_tips.magnets.desc": "The &6Item Magnet&r is exactly what you'd expect — a magnet that pulls nearby &6items&r straight to you. &aVery useful&r. What more could you ask for?",
     
-	"__comment6": "#endregion",
-
-    "__comment7": "#region TFC",
+    "__comment7": "TFC",
 	
     "quests.tfg_tips.terrafirmacraft.title": "TerraFirmaCraft Addons",
     "quests.tfg_tips.terrafirmacraft.subtitle": "The other two thirds of the modpack's name",
@@ -233,10 +227,8 @@
     "quests.tfg_tips.salvo.subtitle": "Apply directly to the forehead",
     "quests.tfg_tips.salvo.desc": "A &dSalve&r is another type of medicine, usually applied on the skin. These provide a different set of effects compared to &aPills&r and &aTablets&r, such as &cFire Resistance&r and &4Instant Health&r, but require relatively complex chemistry.",
     "quests.tfg_tips.salvo.task": "Any Salve",
-    
-	"__comment8": "#endregion",
 
-    "__comment9": "#region Misc",
+    "__comment9": "Misc",
 	
     "quests.tfg_tips.misc.title": "Misc Tips",
     "quests.tfg_tips.misc.subtitle": "Even more tips!",
@@ -411,9 +403,7 @@
     "quests.tfg_tips.self_defense.subtitle": "Got zombies on your lawn?",
     "quests.tfg_tips.self_defense.desc": "Place a &3Cranktrap&r next to a pressure plate, and they'll completely immobilize whatever animal (or monster!) steps on it. Great for catching that elusive animal in the forest, or for defending your home.\n\n&3Barbed Wire&r is completely passive and just inflicts damage to anything that walks through it.",
     
-	"__comment10": "#endregion",
-
-    "__comment11": "#region ArborFirmaCraft",
+    "__comment11": "ArborFirmaCraft",
 	
     "quests.tfg_tips.arborfirmacraft.title": "ArborFirmaCraft",
     "quests.tfg_tips.arborfirmacraft.subtitle": "Harvesting the Life-blood of Trees",
@@ -453,9 +443,7 @@
 
     "quests.tfg_tips.create_rubber_ingot.desc": "Utilizing the &bVacuum Chamber&r and some additional heating, you can process &aLatex&r from various trees into &dRaw Rubber Pulp&r through a specific process. You can then smelt together 3 &dRaw Rubber Pulp&r with a bit of &eSulfur Dust&r in an &bAlloy Smelter&r to create &dRubber Ingots&r, perfect for insulating cables and very much necessary to advance in the &2Voltaic Age&r and beyond...",
     
-	"__comment12": "#endregion",
-
-    "__comment13": "#region Transportation",
+	"__comment13": "Transportation",
 	
     "quests.tfg_tips.transportation.title": "Transportation",
     "quests.tfg_tips.transportation.subtitle": "For travelling this vast world",
@@ -617,9 +605,7 @@
     "quests.tfg_tips.plow.subtitle": "Large Scale Farming",
     "quests.tfg_tips.plow.desc": "If there ever comes the need to till large sections of land for some megafarms, the &dPlow&r can come in clutch.",
 
-    "__comment14": "#endregion"
-
-    "__comment15": "#region Firmalife",
+    "__comment15": "Firmalife",
 	
     "quests.tfg_tips.firmalife.title": "Firmalife",
     "quests.tfg_tips.firmalife.subtitle": "Thrive in TerraFirmaCraft",
@@ -782,9 +768,7 @@
     "quests.tfg_tips.cellar_blocks.subtitle": "Stuff to put your food in",
     "quests.tfg_tips.cellar_blocks.desc": "&bFood Shelves&r can be used to store virtually any kind of food. &bHangers&r can be used to store &aMeat&r and &aGarlic.&r Food stored in these receive a powerful preservation trait greater than that of &dVessels.&r",
     
-	"__comment16": "#endregion",
-
-    "__comment17": "#region Beneath",
+    "__comment17": "Beneath",
 	
     "quests.tfg_tips.beneath.title": "The Beneath",
     "quests.tfg_tips.beneath.subtitle": "Journey to the Center of the Earth",
@@ -874,6 +858,4 @@
     "quests.tfg_tips.tools_tips.harvest_basket.subtitle": "For competitive pie bakers.",
     "quests.tfg_tips.tools_tips.harvest_basket.task": "Any #tfg:harvester",
     "quests.tfg_tips.tools_tips.harvest_basket.desc": "&l&2Harvest Baskets&r&r are a new tool made just for &5TFG&r! These baskets can be used to harvest whole trees and bushes of fruit in one right-click! A regular &6Harvest Basket&r has a base durability of &n128&r. But an &3Aluminium Harvest Basket&r takes no damage on use."
-    
-	"__comment18": "#endregion"
 }
