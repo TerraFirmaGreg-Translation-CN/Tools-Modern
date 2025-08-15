@@ -211,6 +211,7 @@
 	"block.tfg.grass.amber_mycelium": "Amber Mycelium",
 	"block.tfg.grass.rusticus_mycelium": "Rusticus Mycelium",
 	"block.tfg.grass.sangnum_mycelium": "Sangnum Mycelium",
+	"block.tfg.sapling.glacian": "Glacian Mushroom",
 
 	"block.tfg.electromagnetic_accelerator": "Electromagnetic Accelerator",
 	"block.tfg.superconductor_coil_large": "Large Superconductor Coil",
@@ -333,5 +334,5 @@
 
 	"block.tfg.large_nest_box": "Large Crimson Nest",
     "tfg.block_entity.large_nest_box": "Large Nest Box",
-    "block.tfg.large_nest_box_warped": "Large Warped Nest"
+	"block.tfg.large_nest_box_warped": "Large Warped Nest"
 }
