@@ -46,6 +46,9 @@ namespace OresToFieldGuide
 
 				var cwd = Directory.GetCurrentDirectory();
 				programArguments.ToolsFolder = cwd.Substring(0, cwd.IndexOf(PROJECT_NAME));
+
+				// TODO: idk how else to get this programmatically
+				programArguments.CoreFolder = "C:\\Users\\Pyritie\\IdeaProjects\\TFG-Core-Modern";
 			}
 			catch (Exception e)
 			{
