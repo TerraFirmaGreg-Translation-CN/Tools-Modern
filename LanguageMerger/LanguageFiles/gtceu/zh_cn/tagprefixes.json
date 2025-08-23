@@ -33,5 +33,6 @@
     "tagprefix.marble" : "大理岩%s矿石",
     "tagprefix.deepslate" : "深板岩%s矿石",
     "tagprefix.pyroxenite" : "辉石岩%s矿石",
-    "tagprefix.dripstone" : "滴水石%s矿石"
+    "tagprefix.dripstone" : "滴水石%s矿石",
+    "tagprefix.dusty_raw" : "Dusty Raw %s"
 }

@@ -1,5 +1,4 @@
 {
-    "__comment1" : "欢迎来到 HV",
     "quests.high_voltage" : "&6HV&r - 高压",
     "quests.high_voltage.subtitle" : "升级你的能源系统，了解洁净室，制造更多化学品，并为太空旅行做好准备",
     "quests.high_voltage.energium_crystals.title" : "超级电池",
@@ -174,5 +173,11 @@
     "quests.high_voltage.gun.desc" : "在地球上有点太舒服了？你在月球上不会孤单，所以确保你做好了充分的自卫准备 - 你需要的不仅仅是一把剑或一些石制标枪。\n\n挑一把好枪（如果你不确定，我们推荐 &o\"发条\"狙击枪&r），制作一些弹药，如果你觉得 fancy，也许可以试试一些附件。\n\n带一些有营养的食物来提高你的最大生命值（试试餐袋！）以及一些酒和药品来获得增益和治疗也是一个好主意。",
     "quests.high_voltage.space_survival.title" : "远离家园的家",
     "quests.high_voltage.space_survival.subtitle" : "不仅仅是一个采矿维度",
-    "quests.high_voltage.space_survival.desc" : "如果你还没有，一定要查看&3提示 - 太空生存&r任务章节！它包含了你建立 proper 月球殖民地所需的所有信息。"
+    "quests.high_voltage.space_survival.desc" : "如果你还没有，一定要查看&3提示 - 太空生存&r任务章节！它包含了你建立 proper 月球殖民地所需的所有信息。",
+    "quests.high_voltage.hypertubes.title" : "Hypertubes",
+    "quests.high_voltage.hypertubes.subtitle" : "The future is now, old man",
+    "quests.high_voltage.hypertubes.desc" : "Looking for a cooler way to quickly get around your base? Try &3Hypertubes&r! Just stand near one end and you'll be sucked up and transported to the other, and they can go in any direction too!\n\nThese do require Stress Units to power, but if you don't have a Create setup any more, you can turn EU into SU with a GregTech Energy Converter and an Electric Motor from &9&oCreate Crafts & Additions&r.",
+    "quests.high_voltage.wand.title" : "Infinity Construction Wand",
+    "quests.high_voltage.wand.subtitle" : "Ultimate skyblock tool",
+    "quests.high_voltage.wand.desc" : "This wand does exactly the same thing as the other wands, except with &3no durability&r. Do you like building lots of tall buildings or paving over acres of pristine grassland? This is the tool for you!\n\nKeep in mind that Building Gadgets is available soon in &5EV&r, which provides even more powerful tools for avid builders."
 }
