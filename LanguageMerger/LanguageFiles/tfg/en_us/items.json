@@ -253,6 +253,10 @@
 	"item.tfg.large_casing_extruder_mold": "Extruder Mold (Large Bullet Casing)",
     "item.tfg.photo_cell_t1": "Basic Photovoltaic Cell",
 
-    "item.tfg.electric_extendo_grip": "Electric Extendo Grip"
+    "item.tfg.electric_extendo_grip": "Electric Extendo Grip",
+
+    "item.tfg.treated_chipboard_composite": "Treated Chipboard Composite",
+    "item.tfg.high_density_treated_fiberboard": "Medium Density Treated Fiberboard"
+
 
 }
