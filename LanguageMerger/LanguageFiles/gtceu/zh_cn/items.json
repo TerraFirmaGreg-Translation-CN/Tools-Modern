@@ -48,9 +48,5 @@
     "item.gtceu.osmium_credit" : "§732,768 信用点",
     "item.gtceu.naquadah_credit" : "§7262,144 信用点",
     "item.gtceu.neutronium_credit" : "§72,097,152 信用点",
-    "item.gtceu.treated_wood_plate" : "处理过的中密度纤维板",
-    "item.gtceu.wood_plate" : "中密度纤维板",
-    "item.gtceu.treated_wood_dust" : "处理过的刨花板复合材料",
-    "item.gtceu.small_treated_wood_dust" : "小堆处理过的刨花板复合材料粉末",
-    "item.gtceu.tiny_treated_wood_dust" : "小撮处理过的刨花板复合材料粉末"
+    "item.gtceu.wood_plate" : "中密度纤维板"
 }

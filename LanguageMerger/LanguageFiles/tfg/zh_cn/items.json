@@ -232,5 +232,7 @@
     "item.tfg.shell_casing_extruder_mold" : "挤压模具（霰弹弹壳）",
     "item.tfg.large_casing_extruder_mold" : "挤压模具（大型弹壳）",
     "item.tfg.photo_cell_t1" : "基础光伏电池",
-    "item.tfg.electric_extendo_grip" : "电动伸缩抓取臂"
+    "item.tfg.electric_extendo_grip" : "电动伸缩抓取臂",
+    "item.tfg.treated_chipboard_composite" : "Treated Chipboard Composite",
+    "item.tfg.high_density_treated_fiberboard" : "Medium Density Treated Fiberboard"
 }
