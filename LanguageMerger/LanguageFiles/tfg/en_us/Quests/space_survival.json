@@ -56,10 +56,6 @@
 	"quests.space_survival.oxygen_info.subtitle": "Home comforts",
 	"quests.space_survival.oxygen_info.desc": "The Oxygen Detector is a simple machine that emits a redstone signal whenever it's in an oxygenated area.\n\nThe Vent is a solid block that can also let breathable air through without causing a vortex.\n\nThe Gravity Normalizer can change the gravity of an area within an enclosed space similar to how an Air Distributor works, but is a little too expensive at the moment.",
 
-	"quests.space_survival.bedrock_mining.title": "Bedrock mining",
-	"quests.space_survival.bedrock_mining.subtitle": "You'll never run out of copper again!",
-	"quests.space_survival.bedrock_mining.desc": "If you've ever pumped oil before, &9Bedrock Veins&r are the equivalent of that but for raw ores. And if you haven't? It's like oil pumping.\n\nJokes aside, these multiblocks can provide a constant, &cinfinite&r source of some ores for the rest of your game. Wow, that sounds too good to be true, doesn't it? What's the catch? Finding the veins.\n\nThey're spread far apart and don't exist on Earth, meaning you'll want to set up some way to ship the ores back to your main base. (&aTrains&r are fantastic here!)\n\nCheck out JEI to see what ores are available on the Moon, then find the veins with your HV Ore Prospector set to &oBedrock Ore Mode&r (sneak + right-click)!",
-
 	"quests.space_survival.railgun.title": "Interplanetary Logistics",
 	"quests.space_survival.railgun.subtitle": "Ender chest? Never heard of her!",
 	"quests.space_survival.railgun.desc.1": "&7In &bTerraFirmaGreg&r, transporting items across dimensions or over long distances requires you to build special &6multiblock structures&r.\n\nThis system is &apowerful and flexible&r, offering multiple settings that let you customize logistics to perfectly suit your needs.\n\nThis is the perfect system to transport all of your &apassively-produced&r resources to exactly where they're needed on other planets! And it comes with a powerful &dconfiguration system&r to let you control everything from a single place.",
