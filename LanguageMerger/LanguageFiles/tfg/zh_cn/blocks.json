@@ -194,7 +194,6 @@
     "block.tfg.mv_gas_pressurizer" : "§b高级气体加压器§r",
     "block.tfg.hv_gas_pressurizer" : "§6高级气体加压器 II§r",
     "block.tfg.ev_gas_pressurizer" : "§5高级气体加压器 III§r",
-    "block.tfg.semiheavy_ammoniacal_water" : "半重氨水",
     "block.tfg.grass.mars_dirt" : "火星土壤",
     "block.tfg.grass.mars_farmland" : "火星农田",
     "block.tfg.grass.amber_mycelium" : "琥珀菌丝",
@@ -340,5 +339,6 @@
     "block.tfg.saplings.strophar" : "丝孢菇",
     "block.tfg.saplings.glacian" : "冰川菇",
     "block.tfg.casings.machine_casing_vacuum_engine_intake" : "真空引擎进气机壳",
-    "block.tfg.casings.machine_casing_mars" : "坚固防尘机壳"
+    "block.tfg.casings.machine_casing_mars" : "坚固防尘机壳",
+    "block.tfg.fluid.semiheavy_ammoniacal_water" : "Semiheavy Ammoniacal Water"
 }

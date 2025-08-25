@@ -190,5 +190,12 @@
     "tfg.tooltip.solar_panel.large_tier2" : "§6月球§r上的巨型结构，在§6白天§r可产生 §64096 至 16386 EU/t§r",
     "tfg.tooltip.solar_panel.large_tier3" : "§6月球§r上的巨型结构，在§6白天§r可产生 §616384 至 65536 EU/t§r",
     "tfg.tooltip.petrified_egg" : "§7需要熔岩孵化",
-    "tfg.tooltip.obsolete.depreciated" : "§c已弃用，无法再合成"
+    "tfg.tooltip.obsolete.depreciated" : "§c已弃用，无法再合成",
+    "entity.tfg.wraptor.male" : "Wraptor",
+    "entity.tfg.wraptor.female" : "Wraptor",
+    "tfg.tooltip.attribution.wraptor" : "§9§oCredit: Species",
+    "tfg.tooltip.large_egg" : "§7Can only be incubated in a §oLarge Nest",
+    "tfg.tooltip.sniffer_wool" : "§7Harvested from the back of a Sniffer",
+    "tfg.tooltip.wraptor_wool" : "§7Harvested from the feathers of a Wraptor",
+    "tfg.tooltip.wraptor_sugar" : "§7Don't think about it too much"
 }
