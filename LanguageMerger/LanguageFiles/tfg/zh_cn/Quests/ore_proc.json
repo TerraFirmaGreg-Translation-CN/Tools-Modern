@@ -65,7 +65,7 @@
     "quests.ore_proc.sodium_ores.desc" : "以下是一些过硫酸钠浸泡的推荐：\n\n- &6粉碎的铝矿石&r：用于获取&d金红石&r（钛）\n\n- &6粉碎的铝土矿&r：&d镓&r\n\n- &6粉碎的钴矿石&r：&d辉钴矿&r用于获取&d砷&r",
     "quests.ore_proc.ore_washer.title" : "用水浸泡它们",
     "quests.ore_proc.ore_washer.subtitle" : "大多数矿石的标准选择",
-    "quests.ore_proc.ore_washer.desc" : "大多数矿石不需要任何花哨的浸泡设置，只需让它们通过&d洗矿机&r或使用&d封装风扇(Encased Fan)&r进行&9批量清洗&r就足够了。\n\n如果使用&b洗矿机&r，请确保使用&9蒸馏水&r以使配方速度加倍。\n\n还无法使用这些？你可以直接将粉碎的矿石扔进水中来净化它们，但这不会让你获得任何副产物。",
+    "quests.ore_proc.ore_washer.desc" : "大多数矿石不需要任何花哨的浸泡设置，只需让它们通过&d洗矿机&r或使用&d鼓风机&r进行&9批量清洗&r就足够了。\n\n如果使用&b洗矿机&r，请确保使用&9蒸馏水&r以使配方速度加倍。\n\n还无法使用这些？你可以直接将粉碎的矿石扔进水中来净化它们，但这不会让你获得任何副产物。",
     "quests.ore_proc.ore_washer.task" : "任何洗矿机",
     "quests.ore_proc.mercury_ores.title" : "用水银浸泡它们",
     "quests.ore_proc.mercury_ores.subtitle" : "别把手指伸进去",
