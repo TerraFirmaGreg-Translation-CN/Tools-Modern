@@ -1,10 +1,8 @@
 {
-    "__comment1": "Welcome to AE2",
-
     "quests.ae2": "Applied Energistics 2",
     "quests.ae2.subtitle": "The strongest tool to help you with GregTech, unlocked after your first trip to the moon",
 
-    "__comment2": "Left Side Category",
+    "__comment2": "Left (getting started)",
 
     "quests.ae2.certus_quartz.title": "Certus Quartz",
     "quests.ae2.certus_quartz.subtitle": "One small step for you, one giant leap for logistics",
@@ -50,9 +48,59 @@
     "quests.ae2.ae_guide.subtitle": "Another free book for your collection!",
     "quests.ae2.ae_guide.desc": "Here you are, ready to begin your &bAE2&r infrastructure!\n\nThis chapter will mainly guide you through what you can and cannot craft yet.\nWe’ll also highlight the most important items you should focus on.\n\nHowever, to fully understand Applied Energistics 2, we strongly recommend using the &bG&r keybind (similar to Create's Ponder system) or open the &bME Guide&r we provide as a reward from this quest. It’s the best in-game tutorial for AE2.\nAlternatively, watch some online videos about AE2 on &61.20.1&r for more detailed explanations — AE2 is a very popular mod, so there's a ton of tutorials out there!\n\n&dPro tip&r: Many &bAE2&r recipes have alternative Moon recipes that are much cheaper. Once again, investing in your Moon base will greatly reward you throughout the entire game.",
 
-    "__comment4": "Top",
+    "__comment4": "Top (HV)",
+
+    "quests.ae2.ae_controller.subtitle": "The beating heart of your ME network",
+    "quests.ae2.ae_controller.desc": "To get started, you’ll need to power your &bME Network&r. These are the two &bAE2&r blocks that can directly accept &bEU&r energy.\n\nWe strongly recommend crafting a &bME Controller&r, as &bchannels&r are enabled in TerraFirmaGreg, and the &bME Controller&r is the best way to manage multiple channels efficiently.\n\nThis is also a great time to use the in-game guide (press &aU&r on a &bME Controller&r) or watch some videos about &bAE2&r on version 1.20.1 to learn more!",
+
+    "quests.ae2.drive.subtitle": "The brains of the network",
+    "quests.ae2.drive.desc": "You will need to store your disks, and thanks to the &bMEGA&r addon, you now have an extra option.\n\nYou should start with a &bME Drive&r. It can store up to &e10&r disks and consumes &e4 EU/t&r. This will be your main storage solution.\n\nThe other option is the &bME Cell Dock&r. It only stores &e1&r disk but consumes just &e1 EU/t&r, and it can be placed directly on a cable like a cover. This makes it quite useful for &aSubnets&r.",
+
+    "quests.ae2.cables.subtitle": "The arteries of the network",
+    "quests.ae2.cables.desc": "Your basic cables to connect your &bAE2&r infrastructure.\n\nRemember that regular cables carry only &e8 Channels&r, while &6Dense Cables&r can carry up to &a32 Channels&r.\n\nGood news: in &2TFG&r, you can directly craft the &9Smart Cables&r! They are very helpful as they show a &evisual indicator&r for the number of used channels.",
+
+    "quests.ae2.terminals.subtitle": "The... fingers? of the network?",
+    "quests.ae2.terminals.desc": "These terminals are mandatory to access your ME Network and to set up your auto-crafting system.",
+
+    "quests.ae2.crafting_unit.subtitle": "The second? brains of the network",
+    "quests.ae2.crafting_unit.desc": "The &dCrafting Unit&r works the same way as your &bME Cell Housing&r.\n\nUse a &6Packer&r to make it functional — by itself, it serves no purpose, though you can use it to complete multi-blocks.\n\nIt’s your mandatory structure to run your &bAE2&r auto-crafting.\n\nAs usual, use the in-game guide from &bAE2&r to learn more about the &dCrafting CPU&r.",
+
+    "quests.ae2.crafting_storage.desc": "These are mandatory for any sort of auto crafting — the bigger the storage, the bigger the recipe chain that can be done with one request. You can also place multiple of them next to each other to add their storage size.\n\nUse the in-game guide for further details — it will explain everything far better than we ever could in a quest.\n\nTake your time to read it, it’s a great resource!",
+
+    "quests.ae2.pattern_provider.subtitle": "These tell your machines how to craft things",
+    "quests.ae2.pattern_provider.desc": "The &9Pattern Provider&r is a modern &bAE2&r block. If you're only familiar with AE2 in previous versions of Minecraft, this is the block that you put your patterns into now instead of an Interface.\n\nIt can push items into the connected inventory on a crafting request, and pushing items back into it will send them back to your ME storage.\n\nIf you connect these to your GregTech machines, make sure you select the \"Allow Input From Output Face\" option on them so you can both input and output from the same side!\n\nAs always, check the in-game guide using &eG&r to learn more about it.",
+
+    "quests.ae2.pattern.subtitle": "Crafting instructions",
+    "quests.ae2.pattern.desc": "Each of these tells your ME system how to craft a specific item. You'll need one for every single recipe, so it's worth aiming for the most efficient way to craft a ton of these.\n\nUse the in-game guide for full details on how to use them, just remember to set the pattern type to \"Processing\" for any recipes that'll go in GregTech machines.",
+
+    "quests.ae2.interface.subtitle": "I'm giving up on the body part analogy",
+    "quests.ae2.interface.desc": "The &dME Interface&r is one of your bread and butter tools to get items or fluids out of, or inside, your network.\n\nIf you've only used AE2 in older Minecraft versions, these now only make network contents passively available for other things to pull out of, and don't actively push anything or hold patterns. You'll want the Pattern Provider for that.\n\nThe ME Interface can do way too many things to list here, so check the in-game guide using &eG&r to learn more about it.",
+
+    "quests.ae2.crafting_accelerator.desc": "Simply use the in-game guide — it will explain everything far better than we ever could in a quest.\n\nTake your time to read it, it’s a great resource!",
+
+    "quests.ae2.export_bus.desc": "The &dME Export Bus&r is a strong tool to get items or fluids out of your &dME Network&r.\nOnce you're able to craft them, you should especially look at the &eExtendedAE&r ones, as they can be of great help for some automation.\n\n&cImportant note&r: These have much more of a &4TPS impact&r than something like ME Interfaces, so it's best to use them sparingly.",
 
     "quests.ae2.programmed_circuit_card.title": "Programmed Circuit Card",
     "quests.ae2.programmed_circuit_card.subtitle": "An essential upgrade",
-    "quests.ae2.programmed_circuit_card.desc": "Insert one of these into your Pattern Providers, and if your recipe has a programmed circuit, the attached GregTech machine will automatically change its circuit to the one in the recipe. How useful is that?!"
+    "quests.ae2.programmed_circuit_card.desc": "Insert one of these into your Pattern Providers, and if your recipe has a programmed circuit, the attached GregTech machine will automatically change its circuit to the one in the recipe. How useful is that?!",
+
+    "__comment5": "Right (IV)",
+
+    "quests.ae2.iv.title": "IV Tier AE2",
+    "quests.ae2.iv.desc": "This entire branch becomes fully unlockable once you reach &1IV&r.",
+
+    "quests.ae2.accumulation_press.desc": "To get this &eNew Inscriber Press&r, you will need to invest a bit.\n\nFirst, you must upgrade your Implosion Compressor with &1two IV Energy Hatches&r.\n\nThen, get yourself a new IV Laser Engraver if you don't already have one.\n\nAnd finally, prepare a lot of Industrial TNT — it’s the &conly one that works&r for this process.\n\nPlan carefully, as this step is quite demanding!",
+
+    "quests.ae2.accumulation_processor.desc": "The &eAccumulation Processor&r will require a large amount of Silicon for each craft.\n\nWe hope you already have a dedicated EBF producing Silicon, or at least a strong infrastructure to manufacture it quickly.\n\nPrepare accordingly, as you’ll need plenty of it!",
+
+    "quests.ae2.mega_crafting.desc": "These are a neat upgrade for your &bCrafting CPU&r.\n\nThey will help to speed up your auto-crafting and allow you to handle larger jobs with ease.",
+
+    "quests.ae2.extended_patprov.desc": "The &eExtended Pattern Terminal&r is a wonderful upgrade to manage all your patterns in an easier way.\n\nYou get &6more search options&r for your patterns, and with how many you should be getting now, it will be a huge QoL improvement.\n\nMake the \"upgrade\" version to simply sneak-right-click your existing pattern providers to upgrade them without having to take all the patterns out.",
+
+    "quests.ae2.extended_interface.desc": "Here they are, your bigger &bInterface&r with an upgrade so you don't even need to disconnect them to upgrade.\n\nYou will be quite happy with them!",
+
+    "__comment6": "Bottom (LuV)",
+
+    "quests.ae2.luv.title": "LuV Tier AE2",
+    "quests.ae2.luv.desc": "This branch becomes unlockable once you reach &dLuV&r."
 }
