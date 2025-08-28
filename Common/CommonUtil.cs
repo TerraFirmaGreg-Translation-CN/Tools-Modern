@@ -19,18 +19,21 @@
 			{
 				return modpackDir;
 			}
+			// Try curseforge's path
+			modpackDir = Path.Combine(teamDir, "TerraFirmaGreg-Modern");
+			if (Directory.Exists(modpackDir))
+			{
+				return modpackDir;
+			}
+			// Try prism's path
+			modpackDir = Path.Combine(modpackDir, "minecraft");
+			if (Directory.Exists(modpackDir))
+			{
+				return modpackDir;
+			}
 			else
 			{
-				// Try an alternative
-				modpackDir = Path.Combine(teamDir, "TerraFirmaGreg-Modern");
-				if (Directory.Exists(modpackDir))
-				{
-					return modpackDir;
-				}
-				else
-				{
-					throw new DirectoryNotFoundException("Failed to find \"Modpack-Modern\" or \"TerraFirmaGreg-Modern\" directory.");
-				}
+				throw new DirectoryNotFoundException("Failed to find \"Modpack-Modern\" or \"TerraFirmaGreg-Modern\" directory.");
 			}
 		}
 
