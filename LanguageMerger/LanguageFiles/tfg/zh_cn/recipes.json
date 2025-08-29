@@ -114,5 +114,5 @@
     "tfg.grapplemod.downgrades.vertical_throwing_angle": "将抓钩§l垂直投掷角度§r降低5°，最低0°",
     "tfg.grapplemod.upgrades.angle": "将§l双钩水平投掷角度§r增加5°，最高90°\n需先安装§l副钩§r",
     "tfg.grapplemod.downgrades.angle": "将§l双钩水平投掷角度§r减少5°，最低5°\n需先安装§l副钩§r",
-    "tfc.jei.straw_knapping": "Straw Knapping"
+    "tfc.jei.straw_knapping": "秸秆敲制"
 }
