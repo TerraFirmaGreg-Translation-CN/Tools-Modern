@@ -242,6 +242,12 @@
 	"block.tfg.saplings.aeronos": "Aeronos Mushroom",
 	"block.tfg.saplings.strophar": "Strophar Mushroom",
 	"block.tfg.saplings.glacian": "Glacian Mushroom",
+	"block.tfg.groundcover.glider_feather": "Glider Feather",
+	"block.tfg.groundcover.wraptor_feather": "Wraptor Feather",
+	"block.tfg.groundcover.aeronos_stick": "Aeronos Twig",
+	"block.tfg.groundcover.strophar_stick": "Strophar Twig",
+	"block.tfg.groundcover.glacian_stick": "Glacian Twig",
+	"block.tfg.groundcover.alphacene_stick": "Alphacene Twig",
 
 	"block.tfg.electromagnetic_accelerator": "Electromagnetic Accelerator",
 	"block.tfg.superconductor_coil_large": "Large Superconductor Coil",
