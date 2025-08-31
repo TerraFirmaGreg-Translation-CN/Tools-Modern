@@ -5,9 +5,9 @@
 	"config": {
 		"rarity": 35,
 		"density": 0.8,
+		"size": 13,
 		"min_y": 48,
 		"max_y": 127,
-		"size": 13,
 		"height": 4
 	},
 	"ores": [
@@ -19,6 +19,10 @@
 	"rocks": [
 		"deepslate"
 	],
+	"indicator": {
+		"depth": 1,
+		"underground_count": 100
+	},
 	"translations": [
 		{
 			"lang": "en_us",

@@ -5,8 +5,8 @@
 	"config": {
 		"rarity": 250,
 		"density": 0.4,
-		"max_y": 128,
-		"size": 35
+		"size": 35,
+		"max_y": 128
 	},
 	"ores": [
 		{
@@ -35,6 +35,10 @@
 		"basalt",
 		"dripstone"
 	],
+	"indicator": {
+		"depth": 1,
+		"underground_count": 150
+	},
 	"translations": [
 		{
 			"lang": "en_us",

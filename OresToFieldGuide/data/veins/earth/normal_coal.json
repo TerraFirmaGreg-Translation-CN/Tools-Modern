@@ -5,8 +5,8 @@
 	"config": {
 		"rarity": 215,
 		"density": 0.55,
-		"max_y": 210,
-		"size": 60
+		"size": 60,
+		"max_y": 210
 	},
 	"ores": [
 		{
@@ -24,6 +24,19 @@
 		"chert",
 		"chalk"
 	],
+	"indicator": {
+		"depth": 50,
+		"blocks": [
+			{
+				"block": "gtceu:coal_indicator",
+				"weight": 95
+			},
+			{
+				"block": "gtceu:coal_bud_indicator",
+				"weight": 5
+			}
+		]
+	},
 	"translations": [
 		{
 			"lang": "en_us",

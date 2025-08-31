@@ -5,9 +5,9 @@
 	"config": {
 		"rarity": 270,
 		"density": 0.35,
+		"size": 45,
 		"min_y": 24,
-		"max_y": 128,
-		"size": 45
+		"max_y": 128
 	},
 	"ores": [
 		{
@@ -40,6 +40,10 @@
 		"schist",
 		"gneiss"
 	],
+	"indicator": {
+		"depth": 1,
+		"underground_count": 150
+	},
 	"translations": [
 		{
 			"lang": "en_us",

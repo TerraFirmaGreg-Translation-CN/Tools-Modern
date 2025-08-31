@@ -5,9 +5,9 @@
 	"config": {
 		"rarity": 210,
 		"density": 0.4,
+		"size": 30,
 		"min_y": 20,
-		"max_y": 75,
-		"size": 30
+		"max_y": 75
 	},
 	"ores": [
 		{
@@ -35,6 +35,9 @@
 		"diorite",
 		"dacite"
 	],
+	"indicator": {
+		"depth": 50
+	},
 	"translations": [
 		{
 			"lang": "en_us",

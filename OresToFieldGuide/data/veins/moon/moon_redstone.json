@@ -5,9 +5,9 @@
 	"config": {
 		"rarity": 250,
 		"density": 0.2,
+		"size": 45,
 		"min_y": 20,
-		"max_y": 100,
-		"size": 45
+		"max_y": 100
 	},
 	"ores": [
 		{
@@ -33,6 +33,9 @@
 		"glacio_stone",
 		"andesite"
 	],
+	"indicator": {
+		"depth": 50
+	},
 	"translations": [
 		{
 			"lang": "en_us",

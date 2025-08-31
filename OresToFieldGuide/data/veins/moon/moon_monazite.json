@@ -5,9 +5,9 @@
 	"config": {
 		"rarity": 310,
 		"density": 0.2,
+		"size": 50,
 		"min_y": 0,
-		"max_y": 70,
-		"size": 50
+		"max_y": 70
 	},
 	"ores": [
 		{
@@ -34,6 +34,9 @@
 		"dacite",
 		"rhyolite"
 	],
+	"indicator": {
+		"depth": 50
+	},
 	"translations": [
 		{
 			"lang": "en_us",

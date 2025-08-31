@@ -5,9 +5,9 @@
 	"config": {
 		"rarity": 80,
 		"density": 0.4,
+		"size": 16,
 		"min_y": -64,
 		"max_y": -16,
-		"size": 16,
 		"height": 6
 	},
 	"ores": [
@@ -46,6 +46,25 @@
 		"chert",
 		"chalk"
 	],
+	"indicator": {
+		"rarity": 10,
+		"underground_rarity": 30,
+		"underground_count": 400,
+		"blocks": [
+			{
+				"block": "gtceu:graphite_indicator",
+				"weight": 45
+			},
+			{
+				"block": "gtceu:coal_indicator",
+				"weight": 30
+			},
+			{
+				"block": "gtceu:diamond_bud_indicator",
+				"weight": 25
+			}
+		]
+	},
 	"translations": [
 		{
 			"lang": "en_us",

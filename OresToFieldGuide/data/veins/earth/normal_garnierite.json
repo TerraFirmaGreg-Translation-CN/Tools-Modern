@@ -5,9 +5,9 @@
 	"config": {
 		"rarity": 160,
 		"density": 0.4,
+		"size": 40,
 		"min_y": -32,
-		"max_y": 60,
-		"size": 40
+		"max_y": 60
 	},
 	"ores": [
 		{
@@ -36,6 +36,28 @@
 		"gabbro",
 		"diorite"
 	],
+	"indicator": {
+		"rarity": 12,
+		"depth": 70,
+		"blocks": [
+			{
+				"block": "tfc:ore/small_garnierite",
+				"weight": 55
+			},
+			{
+				"block": "gtceu:cobaltite_indicator",
+				"weight": 20
+			},
+			{
+				"block": "gtceu:pentlandite_indicator",
+				"weight": 10
+			},
+			{
+				"block": "gtceu:cobalt_indicator",
+				"weight": 15
+			}
+		]
+	},
 	"translations": [
 		{
 			"lang": "en_us",

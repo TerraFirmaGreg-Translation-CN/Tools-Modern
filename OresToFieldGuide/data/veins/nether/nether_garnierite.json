@@ -5,9 +5,9 @@
 	"config": {
 		"rarity": 160,
 		"density": 0.5,
+		"size": 45,
 		"min_y": 16,
-		"max_y": 128,
-		"size": 45
+		"max_y": 128
 	},
 	"ores": [
 		{
@@ -39,6 +39,10 @@
 		"diorite",
 		"blackstone"
 	],
+	"indicator": {
+		"depth": 1,
+		"underground_count": 150
+	},
 	"translations": [
 		{
 			"lang": "en_us",

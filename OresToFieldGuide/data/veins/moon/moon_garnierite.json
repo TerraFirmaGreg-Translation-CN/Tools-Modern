@@ -5,9 +5,9 @@
 	"config": {
 		"rarity": 250,
 		"density": 0.4,
+		"size": 55,
 		"min_y": 5,
-		"max_y": 85,
-		"size": 55
+		"max_y": 85
 	},
 	"ores": [
 		{
@@ -38,6 +38,9 @@
 		"diorite",
 		"rhyolite"
 	],
+	"indicator": {
+		"depth": 50
+	},
 	"translations": [
 		{
 			"lang": "en_us",

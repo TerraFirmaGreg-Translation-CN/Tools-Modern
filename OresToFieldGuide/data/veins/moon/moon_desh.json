@@ -5,9 +5,9 @@
 	"config": {
 		"rarity": 230,
 		"density": 0.35,
+		"size": 45,
 		"min_y": 10,
-		"max_y": 80,
-		"size": 45
+		"max_y": 80
 	},
 	"ores": [
 		{
@@ -35,6 +35,9 @@
 		"gabbro",
 		"basalt"
 	],
+	"indicator": {
+		"depth": 50
+	},
 	"translations": [
 		{
 			"lang": "en_us",

@@ -5,9 +5,9 @@
 	"config": {
 		"rarity": 190,
 		"density": 0.3,
+		"size": 40,
 		"min_y": 50,
-		"max_y": 128,
-		"size": 40
+		"max_y": 128
 	},
 	"ores": [
 		{
@@ -34,6 +34,12 @@
 		"andesite",
 		"rhyolite"
 	],
+	"indicator": {
+		"rarity": 12,
+		"depth": 60,
+		"underground_rarity": 1,
+		"underground_count": 1
+	},
 	"translations": [
 		{
 			"lang": "en_us",

@@ -5,9 +5,9 @@
 	"config": {
 		"rarity": 250,
 		"density": 0.35,
+		"size": 31,
 		"min_y": 24,
-		"max_y": 128,
-		"size": 31
+		"max_y": 128
 	},
 	"ores": [
 		{
@@ -36,6 +36,10 @@
 		"blackstone",
 		"dripstone"
 	],
+	"indicator": {
+		"depth": 1,
+		"underground_count": 150
+	},
 	"translations": [
 		{
 			"lang": "en_us",

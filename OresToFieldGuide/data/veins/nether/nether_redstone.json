@@ -5,8 +5,8 @@
 	"config": {
 		"rarity": 160,
 		"density": 0.5,
-		"max_y": 128,
-		"size": 45
+		"size": 45,
+		"max_y": 128
 	},
 	"ores": [
 		{
@@ -29,6 +29,10 @@
 		"granite",
 		"blackstone"
 	],
+	"indicator": {
+		"depth": 1,
+		"underground_count": 150
+	},
 	"translations": [
 		{
 			"lang": "en_us",
