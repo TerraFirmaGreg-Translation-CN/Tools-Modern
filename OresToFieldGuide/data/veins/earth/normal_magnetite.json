@@ -3,29 +3,29 @@
 	"dimension": "earth",
 	"type": "tfc:cluster_vein",
 	"config": {
-		"rarity": 200.0,
+		"rarity": 200,
 		"density": 0.3,
-		"min_y": -32.0,
-		"max_y": 75.0,
-		"size": 30.0
+		"min_y": -32,
+		"max_y": 75,
+		"size": 30
 	},
 	"ores": [
 		{
 			"ore": "magnetite",
-			"weight": 70.0,
-			"block_weight": 1.0
+			"weight": 70,
+			"block_weight": 1
 		},
 		{
 			"ore": "vanadium_magnetite",
-			"weight": 25.0
+			"weight": 25
 		},
 		{
 			"ore": "gold",
-			"weight": 10.0
+			"weight": 10
 		},
 		{
 			"ore": "chromite",
-			"weight": 5.0
+			"weight": 5
 		}
 	],
 	"rocks": [

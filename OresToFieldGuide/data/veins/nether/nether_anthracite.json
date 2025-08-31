@@ -3,17 +3,17 @@
 	"dimension": "nether",
 	"type": "tfc:disc_vein",
 	"config": {
-		"rarity": 35.0,
-		"size": 13.0,
-		"height": 4.0,
+		"rarity": 35,
 		"density": 0.8,
-		"min_y": 48.0,
-		"max_y": 127.0
+		"min_y": 48,
+		"max_y": 127,
+		"size": 13,
+		"height": 4
 	},
 	"ores": [
 		{
 			"ore": "anthracite",
-			"weight": 100.0
+			"weight": 100
 		}
 	],
 	"rocks": [

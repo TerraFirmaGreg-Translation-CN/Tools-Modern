@@ -3,31 +3,31 @@
 	"dimension": "nether",
 	"type": "tfc:disc_vein",
 	"config": {
-		"rarity": 180.0,
+		"rarity": 180,
 		"density": 0.4,
-		"max_y": 128.0,
-		"size": 33.0,
-		"height": 7.0
+		"max_y": 128,
+		"size": 33,
+		"height": 7
 	},
 	"ores": [
 		{
 			"ore": "blue_topaz",
-			"weight": 35.0,
-			"block_weight": 1.0
+			"weight": 35,
+			"block_weight": 1
 		},
 		{
 			"ore": "topaz",
-			"weight": 25.0,
-			"block_weight": 1.0
+			"weight": 25,
+			"block_weight": 1
 		},
 		{
 			"ore": "chalcocite",
-			"weight": 25.0,
-			"block_weight": 1.0
+			"weight": 25,
+			"block_weight": 1
 		},
 		{
 			"ore": "bornite",
-			"weight": 15.0
+			"weight": 15
 		}
 	],
 	"rocks": [

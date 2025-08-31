@@ -3,32 +3,32 @@
 	"dimension": "nether",
 	"type": "tfc:disc_vein",
 	"config": {
-		"rarity": 160.0,
+		"rarity": 160,
 		"density": 0.4,
-		"min_y": 48.0,
-		"max_y": 128.0,
-		"size": 48.0,
-		"height": 9.0
+		"min_y": 48,
+		"max_y": 128,
+		"size": 48,
+		"height": 9
 	},
 	"ores": [
 		{
 			"ore": "basaltic_mineral_sand",
-			"weight": 35.0,
-			"block_weight": 1.0
+			"weight": 35,
+			"block_weight": 1
 		},
 		{
 			"ore": "granitic_mineral_sand",
-			"weight": 25.0,
-			"block_weight": 1.0
+			"weight": 25,
+			"block_weight": 1
 		},
 		{
 			"ore": "fullers_earth",
-			"weight": 25.0,
-			"block_weight": 1.0
+			"weight": 25,
+			"block_weight": 1
 		},
 		{
 			"ore": "gypsum",
-			"weight": 15.0
+			"weight": 15
 		}
 	],
 	"rocks": [

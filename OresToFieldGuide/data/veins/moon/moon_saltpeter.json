@@ -3,29 +3,29 @@
 	"dimension": "moon",
 	"type": "tfc:cluster_vein",
 	"config": {
-		"rarity": 210.0,
+		"rarity": 210,
 		"density": 0.3,
-		"min_y": 0.0,
-		"max_y": 90.0,
-		"size": 35.0
+		"min_y": 0,
+		"max_y": 90,
+		"size": 35
 	},
 	"ores": [
 		{
 			"ore": "saltpeter",
-			"weight": 35.0,
-			"block_weight": 1.0
+			"weight": 35,
+			"block_weight": 1
 		},
 		{
 			"ore": "soapstone",
-			"weight": 25.0
+			"weight": 25
 		},
 		{
 			"ore": "electrotine",
-			"weight": 45.0
+			"weight": 45
 		},
 		{
 			"ore": "talc",
-			"weight": 15.0
+			"weight": 15
 		}
 	],
 	"rocks": [

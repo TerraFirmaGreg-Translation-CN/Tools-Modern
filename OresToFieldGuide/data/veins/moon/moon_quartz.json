@@ -3,30 +3,30 @@
 	"dimension": "moon",
 	"type": "tfc:cluster_vein",
 	"config": {
-		"rarity": 230.0,
+		"rarity": 230,
 		"density": 0.3,
-		"min_y": 10.0,
-		"max_y": 100.0,
-		"size": 60.0
+		"min_y": 10,
+		"max_y": 100,
+		"size": 60
 	},
 	"ores": [
 		{
 			"ore": "quartzite",
-			"weight": 20.0
+			"weight": 20
 		},
 		{
 			"ore": "certus_quartz",
-			"weight": 45.0,
-			"block_weight": 2.0
+			"weight": 45,
+			"block_weight": 2
 		},
 		{
 			"ore": "nether_quartz",
-			"weight": 30.0,
-			"block_weight": 1.0
+			"weight": 30,
+			"block_weight": 1
 		},
 		{
 			"ore": "barite",
-			"weight": 5.0
+			"weight": 5
 		}
 	],
 	"rocks": [

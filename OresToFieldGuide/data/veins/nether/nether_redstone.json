@@ -3,26 +3,26 @@
 	"dimension": "nether",
 	"type": "tfc:cluster_vein",
 	"config": {
-		"rarity": 160.0,
+		"rarity": 160,
 		"density": 0.5,
-		"max_y": 128.0,
-		"size": 45.0
+		"max_y": 128,
+		"size": 45
 	},
 	"ores": [
 		{
 			"ore": "redstone",
-			"weight": 45.0,
-			"block_weight": 1.0
+			"weight": 45,
+			"block_weight": 1
 		},
 		{
 			"ore": "ruby",
-			"weight": 35.0,
-			"block_weight": 1.0
+			"weight": 35,
+			"block_weight": 1
 		},
 		{
 			"ore": "cinnabar",
-			"weight": 20.0,
-			"block_weight": 1.0
+			"weight": 20,
+			"block_weight": 1
 		}
 	],
 	"rocks": [

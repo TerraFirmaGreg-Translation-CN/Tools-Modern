@@ -3,28 +3,24 @@
 	"dimension": "earth",
 	"type": "tfc:pipe_vein",
 	"config": {
-		"rarity": 250.0,
+		"rarity": 250,
 		"density": 0.35,
-		"min_y": -32.0,
-		"max_y": 50.0,
-		"height": 60.0,
-		"radius": 10.0,
-		"min_skew": 6.0,
-		"max_skew": 18.0,
-		"max_slant": 4.0
+		"min_y": -32,
+		"max_y": 50,
+		"height": 60
 	},
 	"ores": [
 		{
 			"ore": "beryllium",
-			"weight": 35.0
+			"weight": 35
 		},
 		{
 			"ore": "emerald",
-			"weight": 50.0
+			"weight": 50
 		},
 		{
 			"ore": "thorium",
-			"weight": 15.0
+			"weight": 15
 		}
 	],
 	"rocks": [

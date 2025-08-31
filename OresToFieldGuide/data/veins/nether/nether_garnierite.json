@@ -3,35 +3,35 @@
 	"dimension": "nether",
 	"type": "tfc:cluster_vein",
 	"config": {
-		"rarity": 160.0,
+		"rarity": 160,
 		"density": 0.5,
-		"min_y": 16.0,
-		"max_y": 128.0,
-		"size": 45.0
+		"min_y": 16,
+		"max_y": 128,
+		"size": 45
 	},
 	"ores": [
 		{
 			"ore": "garnierite",
-			"weight": 25.0,
-			"block_weight": 1.0
+			"weight": 25,
+			"block_weight": 1
 		},
 		{
 			"ore": "nickel",
-			"weight": 20.0
+			"weight": 20
 		},
 		{
 			"ore": "cobaltite",
-			"weight": 20.0,
-			"block_weight": 1.0
+			"weight": 20,
+			"block_weight": 1
 		},
 		{
 			"ore": "pentlandite",
-			"weight": 25.0,
-			"block_weight": 1.0
+			"weight": 25,
+			"block_weight": 1
 		},
 		{
 			"ore": "cobalt",
-			"weight": 15.0
+			"weight": 15
 		}
 	],
 	"rocks": [

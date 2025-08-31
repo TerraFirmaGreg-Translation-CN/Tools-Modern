@@ -3,31 +3,31 @@
 	"dimension": "nether",
 	"type": "tfc:cluster_vein",
 	"config": {
-		"rarity": 210.0,
+		"rarity": 210,
 		"density": 0.4,
-		"min_y": 32.0,
-		"max_y": 128.0,
-		"size": 50.0
+		"min_y": 32,
+		"max_y": 128,
+		"size": 50
 	},
 	"ores": [
 		{
 			"ore": "saltpeter",
-			"weight": 35.0,
-			"block_weight": 1.0
+			"weight": 35,
+			"block_weight": 1
 		},
 		{
 			"ore": "diatomite",
-			"weight": 25.0,
-			"block_weight": 1.0
+			"weight": 25,
+			"block_weight": 1
 		},
 		{
 			"ore": "electrotine",
-			"weight": 25.0,
-			"block_weight": 1.0
+			"weight": 25,
+			"block_weight": 1
 		},
 		{
 			"ore": "alunite",
-			"weight": 15.0
+			"weight": 15
 		}
 	],
 	"rocks": [

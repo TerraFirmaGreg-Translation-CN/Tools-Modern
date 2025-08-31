@@ -3,34 +3,30 @@
 	"dimension": "nether",
 	"type": "tfc:pipe_vein",
 	"config": {
-		"rarity": 250.0,
+		"rarity": 250,
 		"density": 0.45,
-		"min_y": 32.0,
-		"max_y": 128.0,
-		"height": 60.0,
-		"radius": 12.0,
-		"min_skew": 6.0,
-		"max_skew": 18.0,
-		"max_slant": 4.0
+		"min_y": 32,
+		"max_y": 128,
+		"height": 60
 	},
 	"ores": [
 		{
 			"ore": "beryllium",
-			"weight": 35.0,
-			"block_weight": 1.0
+			"weight": 35,
+			"block_weight": 1
 		},
 		{
 			"ore": "emerald",
-			"weight": 50.0,
-			"block_weight": 2.0
+			"weight": 50,
+			"block_weight": 2
 		},
 		{
 			"ore": "thorium",
-			"weight": 1.0
+			"weight": 1
 		},
 		{
 			"ore": "rock_salt",
-			"weight": 20.0
+			"weight": 20
 		}
 	],
 	"rocks": [

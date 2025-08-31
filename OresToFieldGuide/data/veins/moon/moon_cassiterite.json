@@ -3,30 +3,30 @@
 	"dimension": "moon",
 	"type": "tfc:cluster_vein",
 	"config": {
-		"rarity": 210.0,
+		"rarity": 210,
 		"density": 0.3,
-		"min_y": 10.0,
-		"max_y": 128.0,
-		"size": 40.0
+		"min_y": 10,
+		"max_y": 128,
+		"size": 40
 	},
 	"ores": [
 		{
 			"ore": "chalcopyrite",
-			"weight": 30.0,
-			"block_weight": 1.0
+			"weight": 30,
+			"block_weight": 1
 		},
 		{
 			"ore": "zeolite",
-			"weight": 5.0
+			"weight": 5
 		},
 		{
 			"ore": "cassiterite",
-			"weight": 35.0,
-			"block_weight": 1.0
+			"weight": 35,
+			"block_weight": 1
 		},
 		{
 			"ore": "tin",
-			"weight": 15.0
+			"weight": 15
 		}
 	],
 	"rocks": [

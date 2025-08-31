@@ -3,31 +3,31 @@
 	"dimension": "earth",
 	"type": "tfc:disc_vein",
 	"config": {
-		"rarity": 175.0,
+		"rarity": 175,
 		"density": 0.4,
-		"min_y": 30.0,
-		"max_y": 70.0,
-		"size": 40.0,
-		"height": 4.0
+		"min_y": 30,
+		"max_y": 70,
+		"size": 40,
+		"height": 4
 	},
 	"ores": [
 		{
 			"ore": "rock_salt",
-			"weight": 40.0,
-			"block_weight": 1.0
+			"weight": 40,
+			"block_weight": 1
 		},
 		{
 			"ore": "salt",
-			"weight": 30.0,
-			"block_weight": 1.0
+			"weight": 30,
+			"block_weight": 1
 		},
 		{
 			"ore": "lepidolite",
-			"weight": 15.0
+			"weight": 15
 		},
 		{
 			"ore": "borax",
-			"weight": 15.0
+			"weight": 15
 		}
 	],
 	"rocks": [

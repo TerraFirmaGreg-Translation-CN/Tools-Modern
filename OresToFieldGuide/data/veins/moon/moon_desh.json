@@ -3,30 +3,30 @@
 	"dimension": "moon",
 	"type": "tfc:cluster_vein",
 	"config": {
-		"rarity": 230.0,
+		"rarity": 230,
 		"density": 0.35,
-		"min_y": 10.0,
-		"max_y": 80.0,
-		"size": 45.0
+		"min_y": 10,
+		"max_y": 80,
+		"size": 45
 	},
 	"ores": [
 		{
 			"ore": "desh",
-			"weight": 40.0,
-			"block_weight": 2.0
+			"weight": 40,
+			"block_weight": 2
 		},
 		{
 			"ore": "ilmenite",
-			"weight": 25.0,
-			"block_weight": 1.0
+			"weight": 25,
+			"block_weight": 1
 		},
 		{
 			"ore": "aluminium",
-			"weight": 20.0
+			"weight": 20
 		},
 		{
 			"ore": "armalcolite",
-			"weight": 15.0
+			"weight": 15
 		}
 	],
 	"rocks": [

@@ -3,32 +3,32 @@
 	"dimension": "earth",
 	"type": "tfc:disc_vein",
 	"config": {
-		"rarity": 220.0,
+		"rarity": 220,
 		"density": 0.35,
-		"min_y": -64.0,
-		"max_y": 62.0,
-		"size": 26.0,
-		"height": 6.0
+		"min_y": -64,
+		"max_y": 62,
+		"size": 26,
+		"height": 6
 	},
 	"ores": [
 		{
 			"ore": "red_garnet",
-			"weight": 5.0
+			"weight": 5
 		},
 		{
 			"ore": "yellow_garnet",
-			"weight": 15.0,
-			"block_weight": 1.0
+			"weight": 15,
+			"block_weight": 1
 		},
 		{
 			"ore": "amethyst",
-			"weight": 25.0,
-			"block_weight": 1.0
+			"weight": 25,
+			"block_weight": 1
 		},
 		{
 			"ore": "opal",
-			"weight": 55.0,
-			"block_weight": 2.0
+			"weight": 55,
+			"block_weight": 2
 		}
 	],
 	"rocks": [

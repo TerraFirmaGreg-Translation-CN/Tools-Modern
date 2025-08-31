@@ -3,29 +3,29 @@
 	"dimension": "moon",
 	"type": "tfc:cluster_vein",
 	"config": {
-		"rarity": 210.0,
+		"rarity": 210,
 		"density": 0.25,
-		"min_y": 20.0,
-		"max_y": 80.0,
-		"size": 40.0
+		"min_y": 20,
+		"max_y": 80,
+		"size": 40
 	},
 	"ores": [
 		{
 			"ore": "pyrolusite",
-			"weight": 40.0,
-			"block_weight": 2.0
+			"weight": 40,
+			"block_weight": 2
 		},
 		{
 			"ore": "cobaltite",
-			"weight": 25.0
+			"weight": 25
 		},
 		{
 			"ore": "cobalt",
-			"weight": 25.0
+			"weight": 25
 		},
 		{
 			"ore": "tantalite",
-			"weight": 15.0
+			"weight": 15
 		}
 	],
 	"rocks": [

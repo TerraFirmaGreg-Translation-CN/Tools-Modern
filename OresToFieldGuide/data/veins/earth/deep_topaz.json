@@ -3,32 +3,32 @@
 	"dimension": "earth",
 	"type": "tfc:disc_vein",
 	"config": {
-		"rarity": 260.0,
+		"rarity": 260,
 		"density": 0.3,
-		"min_y": -64.0,
-		"max_y": 26.0,
-		"size": 28.0,
-		"height": 7.0
+		"min_y": -64,
+		"max_y": 26,
+		"size": 28,
+		"height": 7
 	},
 	"ores": [
 		{
 			"ore": "blue_topaz",
-			"weight": 35.0,
-			"block_weight": 1.0
+			"weight": 35,
+			"block_weight": 1
 		},
 		{
 			"ore": "topaz",
-			"weight": 25.0,
-			"block_weight": 1.0
+			"weight": 25,
+			"block_weight": 1
 		},
 		{
 			"ore": "chalcocite",
-			"weight": 25.0,
-			"block_weight": 1.0
+			"weight": 25,
+			"block_weight": 1
 		},
 		{
 			"ore": "bornite",
-			"weight": 15.0
+			"weight": 15
 		}
 	],
 	"rocks": [

@@ -3,29 +3,29 @@
 	"dimension": "moon",
 	"type": "tfc:cluster_vein",
 	"config": {
-		"rarity": 250.0,
+		"rarity": 250,
 		"density": 0.3,
-		"min_y": 0.0,
-		"max_y": 100.0,
-		"size": 35.0
+		"min_y": 0,
+		"max_y": 100,
+		"size": 35
 	},
 	"ores": [
 		{
 			"ore": "apatite",
-			"weight": 25.0
+			"weight": 25
 		},
 		{
 			"ore": "tricalcium_phosphate",
-			"weight": 35.0
+			"weight": 35
 		},
 		{
 			"ore": "pyrochlore",
-			"weight": 40.0,
-			"block_weight": 1.0
+			"weight": 40,
+			"block_weight": 1
 		},
 		{
 			"ore": "olivine",
-			"weight": 5.0
+			"weight": 5
 		}
 	],
 	"rocks": [

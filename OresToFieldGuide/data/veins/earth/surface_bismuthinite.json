@@ -3,24 +3,24 @@
 	"dimension": "earth",
 	"type": "tfc:cluster_vein",
 	"config": {
-		"rarity": 140.0,
+		"rarity": 140,
 		"density": 0.25,
-		"min_y": 60.0,
-		"max_y": 210.0,
-		"size": 50.0
+		"min_y": 60,
+		"max_y": 210,
+		"size": 50
 	},
 	"ores": [
 		{
 			"ore": "bismuth",
-			"weight": 90.0
+			"weight": 90
 		},
 		{
 			"ore": "sulfur",
-			"weight": 3.0
+			"weight": 3
 		},
 		{
 			"ore": "lead",
-			"weight": 7.0
+			"weight": 7
 		}
 	],
 	"rocks": [

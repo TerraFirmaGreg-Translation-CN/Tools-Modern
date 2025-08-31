@@ -3,29 +3,29 @@
 	"dimension": "earth",
 	"type": "tfc:disc_vein",
 	"config": {
-		"rarity": 160.0,
+		"rarity": 160,
 		"density": 0.3,
-		"min_y": -32.0,
-		"max_y": 60.0,
-		"size": 48.0,
-		"height": 9.0
+		"min_y": -32,
+		"max_y": 60,
+		"size": 48,
+		"height": 9
 	},
 	"ores": [
 		{
 			"ore": "basaltic_mineral_sand",
-			"weight": 35.0
+			"weight": 35
 		},
 		{
 			"ore": "granitic_mineral_sand",
-			"weight": 25.0
+			"weight": 25
 		},
 		{
 			"ore": "fullers_earth",
-			"weight": 25.0
+			"weight": 25
 		},
 		{
 			"ore": "gypsum",
-			"weight": 15.0
+			"weight": 15
 		}
 	],
 	"rocks": [

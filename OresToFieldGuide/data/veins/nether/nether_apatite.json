@@ -3,26 +3,26 @@
 	"dimension": "nether",
 	"type": "tfc:cluster_vein",
 	"config": {
-		"rarity": 220.0,
+		"rarity": 220,
 		"density": 0.35,
-		"min_y": 48.0,
-		"max_y": 128.0,
-		"size": 39.0
+		"min_y": 48,
+		"max_y": 128,
+		"size": 39
 	},
 	"ores": [
 		{
 			"ore": "apatite",
-			"weight": 50.0,
-			"block_weight": 2.0
+			"weight": 50,
+			"block_weight": 2
 		},
 		{
 			"ore": "tricalcium_phosphate",
-			"weight": 35.0,
-			"block_weight": 1.0
+			"weight": 35,
+			"block_weight": 1
 		},
 		{
 			"ore": "pyrochlore",
-			"weight": 15.0
+			"weight": 15
 		}
 	],
 	"rocks": [

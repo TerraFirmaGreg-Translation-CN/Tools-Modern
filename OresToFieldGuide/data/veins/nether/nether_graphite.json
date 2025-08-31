@@ -3,29 +3,25 @@
 	"dimension": "nether",
 	"type": "tfc:pipe_vein",
 	"config": {
-		"rarity": 120.0,
+		"rarity": 120,
 		"density": 0.35,
-		"max_y": 128.0,
-		"height": 60.0,
-		"radius": 12.0,
-		"min_skew": 6.0,
-		"max_skew": 18.0,
-		"max_slant": 5.0
+		"max_y": 128,
+		"height": 60
 	},
 	"ores": [
 		{
 			"ore": "graphite",
-			"weight": 45.0,
-			"block_weight": 1.0
+			"weight": 45,
+			"block_weight": 1
 		},
 		{
 			"ore": "diamond",
-			"weight": 40.0,
-			"block_weight": 1.0
+			"weight": 40,
+			"block_weight": 1
 		},
 		{
 			"ore": "coal",
-			"weight": 15.0
+			"weight": 15
 		}
 	],
 	"rocks": [

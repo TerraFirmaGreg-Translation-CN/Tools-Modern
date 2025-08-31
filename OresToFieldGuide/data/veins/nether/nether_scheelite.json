@@ -3,26 +3,26 @@
 	"dimension": "nether",
 	"type": "tfc:cluster_vein",
 	"config": {
-		"rarity": 180.0,
+		"rarity": 180,
 		"density": 0.45,
-		"max_y": 128.0,
-		"size": 25.0
+		"max_y": 128,
+		"size": 25
 	},
 	"ores": [
 		{
 			"ore": "scheelite",
-			"weight": 45.0,
-			"block_weight": 2.0
+			"weight": 45,
+			"block_weight": 2
 		},
 		{
 			"ore": "tungstate",
-			"weight": 35.0,
-			"block_weight": 1.0
+			"weight": 35,
+			"block_weight": 1
 		},
 		{
 			"ore": "lithium",
-			"weight": 20.0,
-			"block_weight": 1.0
+			"weight": 20,
+			"block_weight": 1
 		}
 	],
 	"rocks": [
