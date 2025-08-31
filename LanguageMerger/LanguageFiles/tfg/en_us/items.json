@@ -265,7 +265,14 @@
     "item.tfg.electric_extendo_grip": "Electric Extendo Grip",
 
     "item.tfg.treated_chipboard_composite": "Treated Chipboard Composite",
-    "item.tfg.high_density_treated_fiberboard": "Medium Density Treated Fiberboard"
+    "item.tfg.high_density_treated_fiberboard": "Medium Density Treated Fiberboard",
 
+	"item.tfg.flax_seeds": "Flax Seeds",
+  	"item.tfg.flax_product": "Flax Stems",
+  	"item.tfg.flax_line": "Flax Line Fibers",
+ 	"item.tfg.flax_tow": "Flax Tow Fibers",
+ 	"item.tfg.flax_waste": "Scraped Flax",
+ 	"item.tfg.linen_thread": "Linen Thread",
+  	"item.tfg.linen_cloth": "Linen Cloth"
 
 }
