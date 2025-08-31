@@ -7,11 +7,11 @@
 		"density": 0.35,
 		"min_y": -32,
 		"max_y": 50,
+		"height": 60,
+		"radius": 10,
 		"min_skew": 6,
 		"max_skew": 18,
-		"max_slant": 4,
-		"height": 60,
-		"radius": 10
+		"max_slant": 4
 	},
 	"ores": [
 		{

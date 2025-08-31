@@ -6,11 +6,11 @@
 		"rarity": 120,
 		"density": 0.35,
 		"max_y": 128,
+		"height": 60,
+		"radius": 12,
 		"min_skew": 6,
 		"max_skew": 18,
-		"max_slant": 5,
-		"height": 60,
-		"radius": 12
+		"max_slant": 5
 	},
 	"ores": [
 		{
