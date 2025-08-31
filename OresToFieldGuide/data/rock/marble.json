@@ -6,7 +6,7 @@
 		"pt_br": "Mármore",
 		"ru_ru": "Мрамор",
 		"uk_ua": "Мармур",
-		"zh_cn": "大理石，大理岩"
+		"zh_cn": "大理岩"
 	},
 	"replaceable_blocks": [
 		"tfc:rock/raw/marble"
