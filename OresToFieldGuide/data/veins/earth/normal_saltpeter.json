@@ -3,28 +3,28 @@
 	"dimension": "earth",
 	"type": "tfc:cluster_vein",
 	"config": {
-		"rarity": 210,
+		"rarity": 210.0,
 		"density": 0.3,
-		"min_y": -32,
-		"max_y": 60,
-		"size": 40
+		"min_y": -32.0,
+		"max_y": 60.0,
+		"size": 40.0
 	},
 	"ores": [
 		{
 			"ore": "saltpeter",
-			"weight": 35
+			"weight": 35.0
 		},
 		{
 			"ore": "diatomite",
-			"weight": 25
+			"weight": 25.0
 		},
 		{
 			"ore": "electrotine",
-			"weight": 25
+			"weight": 25.0
 		},
 		{
 			"ore": "alunite",
-			"weight": 15
+			"weight": 15.0
 		}
 	],
 	"rocks": [
@@ -38,9 +38,6 @@
 		"gneiss",
 		"marble"
 	],
-	"indicator": {
-		"underground_count": 100
-	},
 	"translations": [
 		{
 			"lang": "en_us",
@@ -57,6 +54,10 @@
 		{
 			"lang": "uk_ua",
 			"text": "Селітра та Електротин"
+		},
+		{
+			"lang": "zh_cn",
+			"text": "硝石，硝, 电石"
 		}
 	]
 }

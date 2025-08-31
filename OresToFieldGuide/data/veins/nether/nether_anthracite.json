@@ -3,26 +3,22 @@
 	"dimension": "nether",
 	"type": "tfc:disc_vein",
 	"config": {
-		"rarity": 35,
-		"size": 13,
-		"height": 4,
-		"density": 0.80,
-		"min_y": 48,
-		"max_y": 127
+		"rarity": 35.0,
+		"size": 13.0,
+		"height": 4.0,
+		"density": 0.8,
+		"min_y": 48.0,
+		"max_y": 127.0
 	},
 	"ores": [
 		{
 			"ore": "anthracite",
-			"weight": 100
+			"weight": 100.0
 		}
 	],
 	"rocks": [
 		"deepslate"
 	],
-	"indicator": {
-		"depth": 1,
-		"underground_count": 100
-	},
 	"translations": [
 		{
 			"lang": "en_us",
@@ -39,6 +35,10 @@
 		{
 			"lang": "uk_ua",
 			"text": "Антрацит"
+		},
+		{
+			"lang": "zh_cn",
+			"text": "无烟煤"
 		}
 	]
 }

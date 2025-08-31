@@ -3,31 +3,31 @@
 	"dimension": "nether",
 	"type": "tfc:cluster_vein",
 	"config": {
-		"rarity": 220,
+		"rarity": 220.0,
 		"density": 0.35,
-		"min_y": 32,
-		"max_y": 128,
-		"size": 40
+		"min_y": 32.0,
+		"max_y": 128.0,
+		"size": 40.0
 	},
 	"ores": [
 		{
 			"ore": "lazurite",
-			"weight": 35,
-			"block_weight": 1
+			"weight": 35.0,
+			"block_weight": 1.0
 		},
 		{
 			"ore": "sodalite",
-			"weight": 25,
-			"block_weight": 1
+			"weight": 25.0,
+			"block_weight": 1.0
 		},
 		{
 			"ore": "lapis",
-			"weight": 25,
-			"block_weight": 1
+			"weight": 25.0,
+			"block_weight": 1.0
 		},
 		{
 			"ore": "calcite",
-			"weight": 15
+			"weight": 15.0
 		}
 	],
 	"rocks": [
@@ -35,10 +35,6 @@
 		"dripstone",
 		"blackstone"
 	],
-	"indicator": {
-		"depth": 1,
-		"underground_count": 150
-	},
 	"translations": [
 		{
 			"lang": "en_us",
@@ -55,6 +51,10 @@
 		{
 			"lang": "uk_ua",
 			"text": "Лапіс, Лазурит та Содаліт"
+		},
+		{
+			"lang": "zh_cn",
+			"text": "青金石, 蓝金石, 方钠石"
 		}
 	]
 }

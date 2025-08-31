@@ -3,30 +3,30 @@
 	"dimension": "nether",
 	"type": "tfc:cluster_vein",
 	"config": {
-		"rarity": 250,
+		"rarity": 250.0,
 		"density": 0.4,
-		"max_y": 128,
-		"size": 35
+		"max_y": 128.0,
+		"size": 35.0
 	},
 	"ores": [
 		{
 			"ore": "bornite",
-			"weight": 35,
-			"block_weight": 1
+			"weight": 35.0,
+			"block_weight": 1.0
 		},
 		{
 			"ore": "cooperite",
-			"weight": 25,
-			"block_weight": 1
+			"weight": 25.0,
+			"block_weight": 1.0
 		},
 		{
 			"ore": "platinum",
-			"weight": 5,
-			"block_weight": 1
+			"weight": 5.0,
+			"block_weight": 1.0
 		},
 		{
 			"ore": "nickel",
-			"weight": 20
+			"weight": 20.0
 		}
 	],
 	"rocks": [
@@ -35,10 +35,6 @@
 		"basalt",
 		"dripstone"
 	],
-	"indicator": {
-		"depth": 1,
-		"underground_count": 150
-	},
 	"translations": [
 		{
 			"lang": "en_us",
@@ -55,6 +51,10 @@
 		{
 			"lang": "uk_ua",
 			"text": "Шелдоніт і Борніт"
+		},
+		{
+			"lang": "zh_cn",
+			"text": "硫铂矿, 斑铜矿"
 		}
 	]
 }

@@ -3,36 +3,32 @@
 	"dimension": "nether",
 	"type": "tfc:cluster_vein",
 	"config": {
-		"rarity": 220,
+		"rarity": 220.0,
 		"density": 0.35,
-		"min_y": 48,
-		"max_y": 128,
-		"size": 39
+		"min_y": 48.0,
+		"max_y": 128.0,
+		"size": 39.0
 	},
 	"ores": [
 		{
 			"ore": "apatite",
-			"weight": 50,
-			"block_weight": 2
+			"weight": 50.0,
+			"block_weight": 2.0
 		},
 		{
 			"ore": "tricalcium_phosphate",
-			"weight": 35,
-			"block_weight": 1
+			"weight": 35.0,
+			"block_weight": 1.0
 		},
 		{
 			"ore": "pyrochlore",
-			"weight": 15
+			"weight": 15.0
 		}
 	],
 	"rocks": [
 		"schist",
 		"gneiss"
 	],
-	"indicator": {
-		"depth": 1,
-		"underground_count": 150
-	},
 	"translations": [
 		{
 			"lang": "en_us",
@@ -49,6 +45,10 @@
 		{
 			"lang": "uk_ua",
 			"text": "Апатит і Пірохлор"
+		},
+		{
+			"lang": "zh_cn",
+			"text": "磷灰石, 烧绿石"
 		}
 	]
 }

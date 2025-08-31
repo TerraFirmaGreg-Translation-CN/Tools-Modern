@@ -3,29 +3,29 @@
 	"dimension": "nether",
 	"type": "tfc:cluster_vein",
 	"config": {
-		"rarity": 245,
+		"rarity": 245.0,
 		"density": 0.55,
-		"max_y": 128,
-		"size": 31
+		"max_y": 128.0,
+		"size": 31.0
 	},
 	"ores": [
 		{
 			"ore": "wulfenite",
-			"weight": 40,
-			"block_weight": 1
+			"weight": 40.0,
+			"block_weight": 1.0
 		},
 		{
 			"ore": "molybdenite",
-			"weight": 30,
-			"block_weight": 1
+			"weight": 30.0,
+			"block_weight": 1.0
 		},
 		{
 			"ore": "powellite",
-			"weight": 10
+			"weight": 10.0
 		},
 		{
 			"ore": "nickel",
-			"weight": 15
+			"weight": 15.0
 		}
 	],
 	"rocks": [
@@ -36,10 +36,6 @@
 		"gabbro",
 		"blackstone"
 	],
-	"indicator": {
-		"depth": 1,
-		"underground_count": 150
-	},
 	"translations": [
 		{
 			"lang": "en_us",
@@ -56,6 +52,10 @@
 		{
 			"lang": "uk_ua",
 			"text": "Вульфеніт і Молібденіт"
+		},
+		{
+			"lang": "zh_cn",
+			"text": "钼铅矿, 辉钼矿"
 		}
 	]
 }

@@ -3,39 +3,35 @@
 	"dimension": "earth",
 	"type": "tfc:cluster_vein",
 	"config": {
-		"rarity": 190,
+		"rarity": 190.0,
 		"density": 0.4,
-		"min_y": -32,
-		"max_y": 75,
-		"size": 40
+		"min_y": -32.0,
+		"max_y": 75.0,
+		"size": 40.0
 	},
 	"ores": [
 		{
 			"ore": "goethite",
-			"weight": 15
+			"weight": 15.0
 		},
 		{
 			"ore": "yellow_limonite",
-			"weight": 50,
-			"block_weight": 1
+			"weight": 50.0,
+			"block_weight": 1.0
 		},
 		{
 			"ore": "hematite",
-			"weight": 20
+			"weight": 20.0
 		},
 		{
 			"ore": "malachite",
-			"weight": 15
+			"weight": 15.0
 		}
 	],
 	"rocks": [
 		"marble",
 		"limestone"
 	],
-	"indicator": {
-		"rarity": 12,
-		"depth": 50
-	},
 	"translations": [
 		{
 			"lang": "en_us",
@@ -52,6 +48,10 @@
 		{
 			"lang": "uk_ua",
 			"text": "Лімоніт"
+		},
+		{
+			"lang": "zh_cn",
+			"text": "褐铁矿"
 		}
 	]
 }

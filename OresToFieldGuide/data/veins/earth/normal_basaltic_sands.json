@@ -3,29 +3,29 @@
 	"dimension": "earth",
 	"type": "tfc:disc_vein",
 	"config": {
-		"rarity": 160,
+		"rarity": 160.0,
 		"density": 0.3,
-		"min_y": -32,
-		"max_y": 60,
-		"size": 48,
-		"height": 9
+		"min_y": -32.0,
+		"max_y": 60.0,
+		"size": 48.0,
+		"height": 9.0
 	},
 	"ores": [
 		{
 			"ore": "basaltic_mineral_sand",
-			"weight": 35
+			"weight": 35.0
 		},
 		{
 			"ore": "granitic_mineral_sand",
-			"weight": 25
+			"weight": 25.0
 		},
 		{
 			"ore": "fullers_earth",
-			"weight": 25
+			"weight": 25.0
 		},
 		{
 			"ore": "gypsum",
-			"weight": 15
+			"weight": 15.0
 		}
 	],
 	"rocks": [
@@ -48,6 +48,10 @@
 		{
 			"lang": "uk_ua",
 			"text": "Мінеральні піски"
+		},
+		{
+			"lang": "zh_cn",
+			"text": "矿砂"
 		}
 	]
 }

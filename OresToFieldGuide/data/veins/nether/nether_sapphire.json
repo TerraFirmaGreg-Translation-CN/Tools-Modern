@@ -3,32 +3,32 @@
 	"dimension": "nether",
 	"type": "tfc:disc_vein",
 	"config": {
-		"rarity": 180,
+		"rarity": 180.0,
 		"density": 0.45,
-		"max_y": 128,
-		"size": 33,
-		"height": 8
+		"max_y": 128.0,
+		"size": 33.0,
+		"height": 8.0
 	},
 	"ores": [
 		{
 			"ore": "almandine",
-			"weight": 35,
-			"block_weight": 1
+			"weight": 35.0,
+			"block_weight": 1.0
 		},
 		{
 			"ore": "pyrope",
-			"weight": 25,
-			"block_weight": 1
+			"weight": 25.0,
+			"block_weight": 1.0
 		},
 		{
 			"ore": "sapphire",
-			"weight": 15,
-			"block_weight": 1
+			"weight": 15.0,
+			"block_weight": 1.0
 		},
 		{
 			"ore": "green_sapphire",
-			"weight": 15,
-			"block_weight": 1
+			"weight": 15.0,
+			"block_weight": 1.0
 		}
 	],
 	"rocks": [
@@ -39,10 +39,6 @@
 		"schist",
 		"blackstone"
 	],
-	"indicator": {
-		"depth": 1,
-		"underground_count": 150
-	},
 	"translations": [
 		{
 			"lang": "en_us",
@@ -59,6 +55,10 @@
 		{
 			"lang": "uk_ua",
 			"text": "Сапфір і Альмадін"
+		},
+		{
+			"lang": "zh_cn",
+			"text": "蓝宝石, 铁铝榴石"
 		}
 	]
 }

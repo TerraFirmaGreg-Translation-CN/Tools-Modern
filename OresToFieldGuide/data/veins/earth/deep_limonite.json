@@ -3,30 +3,30 @@
 	"dimension": "earth",
 	"type": "tfc:cluster_vein",
 	"config": {
-		"rarity": 240,
+		"rarity": 240.0,
 		"density": 0.35,
-		"min_y": -64,
-		"max_y": 30,
-		"size": 32
+		"min_y": -64.0,
+		"max_y": 30.0,
+		"size": 32.0
 	},
 	"ores": [
 		{
 			"ore": "goethite",
-			"weight": 50,
-			"block_weight": 2
+			"weight": 50.0,
+			"block_weight": 2.0
 		},
 		{
 			"ore": "yellow_limonite",
-			"weight": 15
+			"weight": 15.0
 		},
 		{
 			"ore": "hematite",
-			"weight": 15
+			"weight": 15.0
 		},
 		{
 			"ore": "malachite",
-			"weight": 20,
-			"block_weight": 1
+			"weight": 20.0,
+			"block_weight": 1.0
 		}
 	],
 	"rocks": [
@@ -49,6 +49,10 @@
 		{
 			"lang": "uk_ua",
 			"text": "Гетит і Малахіт"
+		},
+		{
+			"lang": "zh_cn",
+			"text": "针铁矿, 孔雀石"
 		}
 	]
 }

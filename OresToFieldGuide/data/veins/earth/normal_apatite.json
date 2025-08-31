@@ -3,25 +3,25 @@
 	"dimension": "earth",
 	"type": "tfc:cluster_vein",
 	"config": {
-		"rarity": 220,
+		"rarity": 220.0,
 		"density": 0.25,
-		"min_y": -32,
-		"max_y": 60,
-		"size": 34
+		"min_y": -32.0,
+		"max_y": 60.0,
+		"size": 34.0
 	},
 	"ores": [
 		{
 			"ore": "apatite",
-			"weight": 50,
-			"block_weight": 1
+			"weight": 50.0,
+			"block_weight": 1.0
 		},
 		{
 			"ore": "tricalcium_phosphate",
-			"weight": 35
+			"weight": 35.0
 		},
 		{
 			"ore": "pyrochlore",
-			"weight": 15
+			"weight": 15.0
 		}
 	],
 	"rocks": [
@@ -51,6 +51,10 @@
 		{
 			"lang": "uk_ua",
 			"text": "Апатит і Пірохлор"
+		},
+		{
+			"lang": "zh_cn",
+			"text": "磷灰石, 烧绿石"
 		}
 	]
 }

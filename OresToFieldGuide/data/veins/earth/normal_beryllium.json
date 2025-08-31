@@ -3,28 +3,28 @@
 	"dimension": "earth",
 	"type": "tfc:pipe_vein",
 	"config": {
-		"rarity": 250,
+		"rarity": 250.0,
 		"density": 0.35,
-		"min_y": -32,
-		"max_y": 50,
-		"height": 60,
-		"radius": 10,
-		"min_skew": 6,
-		"max_skew": 18,
-		"max_slant": 4
+		"min_y": -32.0,
+		"max_y": 50.0,
+		"height": 60.0,
+		"radius": 10.0,
+		"min_skew": 6.0,
+		"max_skew": 18.0,
+		"max_slant": 4.0
 	},
 	"ores": [
 		{
 			"ore": "beryllium",
-			"weight": 35
+			"weight": 35.0
 		},
 		{
 			"ore": "emerald",
-			"weight": 50
+			"weight": 50.0
 		},
 		{
 			"ore": "thorium",
-			"weight": 15
+			"weight": 15.0
 		}
 	],
 	"rocks": [
@@ -49,6 +49,10 @@
 		{
 			"lang": "uk_ua",
 			"text": "Смарагд і Берилій"
+		},
+		{
+			"lang": "zh_cn",
+			"text": "绿宝石, 铍"
 		}
 	]
 }

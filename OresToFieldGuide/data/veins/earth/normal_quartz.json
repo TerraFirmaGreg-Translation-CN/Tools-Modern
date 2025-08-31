@@ -3,25 +3,25 @@
 	"dimension": "earth",
 	"type": "tfc:cluster_vein",
 	"config": {
-		"rarity": 190,
+		"rarity": 190.0,
 		"density": 0.3,
-		"min_y": -32,
-		"max_y": 100,
-		"size": 40
+		"min_y": -32.0,
+		"max_y": 100.0,
+		"size": 40.0
 	},
 	"ores": [
 		{
 			"ore": "quartzite",
-			"weight": 35,
-			"block_weight": 1
+			"weight": 35.0,
+			"block_weight": 1.0
 		},
 		{
 			"ore": "barite",
-			"weight": 30
+			"weight": 30.0
 		},
 		{
 			"ore": "asbestos",
-			"weight": 15
+			"weight": 15.0
 		}
 	],
 	"rocks": [
@@ -30,9 +30,6 @@
 		"schist",
 		"gneiss"
 	],
-	"indicator": {
-		"depth": 40
-	},
 	"translations": [
 		{
 			"lang": "en_us",
@@ -49,6 +46,10 @@
 		{
 			"lang": "uk_ua",
 			"text": "Кварц"
+		},
+		{
+			"lang": "zh_cn",
+			"text": "石英"
 		}
 	]
 }

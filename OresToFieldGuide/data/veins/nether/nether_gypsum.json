@@ -3,32 +3,32 @@
 	"dimension": "nether",
 	"type": "tfc:disc_vein",
 	"config": {
-		"rarity": 180,
+		"rarity": 180.0,
 		"density": 0.4,
-		"min_y": 32,
-		"max_y": 128,
-		"size": 40,
-		"height": 9
+		"min_y": 32.0,
+		"max_y": 128.0,
+		"size": 40.0,
+		"height": 9.0
 	},
 	"ores": [
 		{
 			"ore": "borax",
-			"weight": 20,
-			"block_weight": 1
+			"weight": 20.0,
+			"block_weight": 1.0
 		},
 		{
 			"ore": "calcite",
-			"weight": 30,
-			"block_weight": 1
+			"weight": 30.0,
+			"block_weight": 1.0
 		},
 		{
 			"ore": "fullers_earth",
-			"weight": 15
+			"weight": 15.0
 		},
 		{
 			"ore": "gypsum",
-			"weight": 35,
-			"block_weight": 1
+			"weight": 35.0,
+			"block_weight": 1.0
 		}
 	],
 	"rocks": [
@@ -36,10 +36,6 @@
 		"dripstone",
 		"blackstone"
 	],
-	"indicator": {
-		"depth": 1,
-		"underground_count": 150
-	},
 	"translations": [
 		{
 			"lang": "en_us",
@@ -56,6 +52,10 @@
 		{
 			"lang": "uk_ua",
 			"text": "Гіпс і Кальцит"
+		},
+		{
+			"lang": "zh_cn",
+			"text": "石膏, 方解石"
 		}
 	]
 }

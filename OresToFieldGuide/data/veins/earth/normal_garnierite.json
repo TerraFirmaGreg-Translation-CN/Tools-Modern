@@ -3,61 +3,39 @@
 	"dimension": "earth",
 	"type": "tfc:cluster_vein",
 	"config": {
-		"rarity": 160,
+		"rarity": 160.0,
 		"density": 0.4,
-		"min_y": -32,
-		"max_y": 60,
-		"size": 40
+		"min_y": -32.0,
+		"max_y": 60.0,
+		"size": 40.0
 	},
 	"ores": [
 		{
 			"ore": "garnierite",
-			"weight": 30,
-			"block_weight": 1
+			"weight": 30.0,
+			"block_weight": 1.0
 		},
 		{
 			"ore": "nickel",
-			"weight": 10
+			"weight": 10.0
 		},
 		{
 			"ore": "cobaltite",
-			"weight": 20
+			"weight": 20.0
 		},
 		{
 			"ore": "pentlandite",
-			"weight": 25
+			"weight": 25.0
 		},
 		{
 			"ore": "cobalt",
-			"weight": 15
+			"weight": 15.0
 		}
 	],
 	"rocks": [
 		"gabbro",
 		"diorite"
 	],
-	"indicator": {
-		"rarity": 12,
-		"depth": 70,
-		"blocks": [
-			{
-				"block": "tfc:ore/small_garnierite",
-				"weight": 55
-			},
-			{
-				"block": "gtceu:cobaltite_indicator",
-				"weight": 20
-			},
-			{
-				"block": "gtceu:pentlandite_indicator",
-				"weight": 10
-			},
-			{
-				"block": "gtceu:cobalt_indicator",
-				"weight": 15
-			}
-		]
-	},
 	"translations": [
 		{
 			"lang": "en_us",
@@ -78,6 +56,11 @@
 			"lang": "uk_ua",
 			"text": "Гарнієрит і Кобальтит",
 			"info": "Не можеш знайти? Габро завжди залягає нижче $(thing)Базальту$(), і дамби з Габро в океанах теж можуть бути корисними!"
+		},
+		{
+			"lang": "zh_cn",
+			"text": "硅镁镍矿, 辉钴矿",
+			"info": "找不到吗？辉长岩总是生成在$(thing)玄武岩$()的下方，而且在海洋中的辉长岩岩脉也可能有用！"
 		}
 	]
 }

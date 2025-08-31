@@ -3,27 +3,27 @@
 	"dimension": "earth",
 	"type": "tfc:cluster_vein",
 	"config": {
-		"rarity": 190,
+		"rarity": 190.0,
 		"density": 0.25,
-		"max_y": 210,
-		"size": 36
+		"max_y": 210.0,
+		"size": 36.0
 	},
 	"ores": [
 		{
 			"ore": "kyanite",
-			"weight": 35
+			"weight": 35.0
 		},
 		{
 			"ore": "mica",
-			"weight": 25
+			"weight": 25.0
 		},
 		{
 			"ore": "bauxite",
-			"weight": 25
+			"weight": 25.0
 		},
 		{
 			"ore": "pollucite",
-			"weight": 15
+			"weight": 15.0
 		}
 	],
 	"rocks": [
@@ -53,6 +53,10 @@
 		{
 			"lang": "uk_ua",
 			"text": "Кіаніт, Слюда та Боксити"
+		},
+		{
+			"lang": "zh_cn",
+			"text": "蓝晶石, 云母, 铝土矿"
 		}
 	]
 }

@@ -3,31 +3,31 @@
 	"dimension": "nether",
 	"type": "tfc:cluster_vein",
 	"config": {
-		"rarity": 270,
+		"rarity": 270.0,
 		"density": 0.35,
-		"min_y": 24,
-		"max_y": 128,
-		"size": 45
+		"min_y": 24.0,
+		"max_y": 128.0,
+		"size": 45.0
 	},
 	"ores": [
 		{
 			"ore": "cassiterite_sand",
-			"weight": 35,
-			"block_weight": 1
+			"weight": 35.0,
+			"block_weight": 1.0
 		},
 		{
 			"ore": "garnet_sand",
-			"weight": 25,
-			"block_weight": 1
+			"weight": 25.0,
+			"block_weight": 1.0
 		},
 		{
 			"ore": "asbestos",
-			"weight": 25,
-			"block_weight": 1
+			"weight": 25.0,
+			"block_weight": 1.0
 		},
 		{
 			"ore": "diatomite",
-			"weight": 15
+			"weight": 15.0
 		}
 	],
 	"rocks": [
@@ -40,10 +40,6 @@
 		"schist",
 		"gneiss"
 	],
-	"indicator": {
-		"depth": 1,
-		"underground_count": 150
-	},
 	"translations": [
 		{
 			"lang": "en_us",
@@ -60,6 +56,10 @@
 		{
 			"lang": "uk_ua",
 			"text": "Гранат і Каситеритові піски"
+		},
+		{
+			"lang": "zh_cn",
+			"text": "石榴石, 锡石矿砂"
 		}
 	]
 }

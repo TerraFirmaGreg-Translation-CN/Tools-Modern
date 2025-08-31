@@ -3,29 +3,29 @@
 	"dimension": "nether",
 	"type": "tfc:pipe_vein",
 	"config": {
-		"rarity": 120,
+		"rarity": 120.0,
 		"density": 0.35,
-		"max_y": 128,
-		"height": 60,
-		"radius": 12,
-		"min_skew": 6,
-		"max_skew": 18,
-		"max_slant": 5
+		"max_y": 128.0,
+		"height": 60.0,
+		"radius": 12.0,
+		"min_skew": 6.0,
+		"max_skew": 18.0,
+		"max_slant": 5.0
 	},
 	"ores": [
 		{
 			"ore": "graphite",
-			"weight": 45,
-			"block_weight": 1
+			"weight": 45.0,
+			"block_weight": 1.0
 		},
 		{
 			"ore": "diamond",
-			"weight": 40,
-			"block_weight": 1
+			"weight": 40.0,
+			"block_weight": 1.0
 		},
 		{
 			"ore": "coal",
-			"weight": 15
+			"weight": 15.0
 		}
 	],
 	"rocks": [
@@ -36,24 +36,6 @@
 		"granite",
 		"blackstone"
 	],
-	"indicator": {
-		"depth": 1,
-		"underground_count": 200,
-		"blocks": [
-			{
-				"block": "gtceu:graphite_indicator",
-				"weight": 45
-			},
-			{
-				"block": "gtceu:coal_bud_indicator",
-				"weight": 15
-			},
-			{
-				"block": "gtceu:diamond_bud_indicator",
-				"weight": 40
-			}
-		]
-	},
 	"translations": [
 		{
 			"lang": "en_us",
@@ -70,6 +52,10 @@
 		{
 			"lang": "uk_ua",
 			"text": "Графіт і Діамант"
+		},
+		{
+			"lang": "zh_cn",
+			"text": "石墨, 钻石"
 		}
 	]
 }

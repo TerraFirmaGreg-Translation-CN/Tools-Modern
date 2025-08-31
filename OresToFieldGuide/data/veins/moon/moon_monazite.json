@@ -3,29 +3,29 @@
 	"dimension": "moon",
 	"type": "tfc:cluster_vein",
 	"config": {
-		"rarity": 310,
-		"density": 0.20,
-		"min_y": 0,
-		"max_y": 70,
-		"size": 50
+		"rarity": 310.0,
+		"density": 0.2,
+		"min_y": 0.0,
+		"max_y": 70.0,
+		"size": 50.0
 	},
 	"ores": [
 		{
 			"ore": "bastnasite",
-			"weight": 50,
-			"block_weight": 1
+			"weight": 50.0,
+			"block_weight": 1.0
 		},
 		{
 			"ore": "monazite",
-			"weight": 25
+			"weight": 25.0
 		},
 		{
 			"ore": "neodymium",
-			"weight": 5
+			"weight": 5.0
 		},
 		{
 			"ore": "olivine",
-			"weight": 1
+			"weight": 1.0
 		}
 	],
 	"rocks": [
@@ -34,9 +34,6 @@
 		"dacite",
 		"rhyolite"
 	],
-	"indicator": {
-		"depth": 50
-	},
 	"translations": [
 		{
 			"lang": "en_us",
@@ -53,6 +50,10 @@
 		{
 			"lang": "uk_ua",
 			"text": "Бастнезит і Монацит"
+		},
+		{
+			"lang": "zh_cn",
+			"text": "氟碳镧铈矿, 独居石"
 		}
 	]
 }

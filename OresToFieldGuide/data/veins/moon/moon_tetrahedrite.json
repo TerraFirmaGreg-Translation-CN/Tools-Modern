@@ -3,29 +3,29 @@
 	"dimension": "moon",
 	"type": "tfc:cluster_vein",
 	"config": {
-		"rarity": 190,
+		"rarity": 190.0,
 		"density": 0.3,
-		"min_y": 50,
-		"max_y": 128,
-		"size": 40
+		"min_y": 50.0,
+		"max_y": 128.0,
+		"size": 40.0
 	},
 	"ores": [
 		{
 			"ore": "tetrahedrite",
-			"weight": 40,
-			"block_weight": 1
+			"weight": 40.0,
+			"block_weight": 1.0
 		},
 		{
 			"ore": "copper",
-			"weight": 15
+			"weight": 15.0
 		},
 		{
 			"ore": "stibnite",
-			"weight": 20
+			"weight": 20.0
 		},
 		{
 			"ore": "chalcocite",
-			"weight": 25
+			"weight": 25.0
 		}
 	],
 	"rocks": [
@@ -34,12 +34,6 @@
 		"andesite",
 		"rhyolite"
 	],
-	"indicator": {
-		"rarity": 12,
-		"depth": 60,
-		"underground_rarity": 1,
-		"underground_count": 1
-	},
 	"translations": [
 		{
 			"lang": "en_us",
@@ -56,6 +50,10 @@
 		{
 			"lang": "uk_ua",
 			"text": "Тетраедрит і Халькоцит"
+		},
+		{
+			"lang": "zh_cn",
+			"text": "黝铜矿, 辉铜矿"
 		}
 	]
 }

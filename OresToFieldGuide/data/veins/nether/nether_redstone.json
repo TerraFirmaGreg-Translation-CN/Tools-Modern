@@ -3,36 +3,32 @@
 	"dimension": "nether",
 	"type": "tfc:cluster_vein",
 	"config": {
-		"rarity": 160,
+		"rarity": 160.0,
 		"density": 0.5,
-		"max_y": 128,
-		"size": 45
+		"max_y": 128.0,
+		"size": 45.0
 	},
 	"ores": [
 		{
 			"ore": "redstone",
-			"weight": 45,
-			"block_weight": 1
+			"weight": 45.0,
+			"block_weight": 1.0
 		},
 		{
 			"ore": "ruby",
-			"weight": 35,
-			"block_weight": 1
+			"weight": 35.0,
+			"block_weight": 1.0
 		},
 		{
 			"ore": "cinnabar",
-			"weight": 20,
-			"block_weight": 1
+			"weight": 20.0,
+			"block_weight": 1.0
 		}
 	],
 	"rocks": [
 		"granite",
 		"blackstone"
 	],
-	"indicator": {
-		"depth": 1,
-		"underground_count": 150
-	},
 	"translations": [
 		{
 			"lang": "en_us",
@@ -49,6 +45,10 @@
 		{
 			"lang": "uk_ua",
 			"text": "Редстоун, Кіновар і Рубін"
+		},
+		{
+			"lang": "zh_cn",
+			"text": "红石, 朱砂, 红宝石"
 		}
 	]
 }

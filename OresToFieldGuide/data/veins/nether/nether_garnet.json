@@ -3,32 +3,32 @@
 	"dimension": "nether",
 	"type": "tfc:disc_vein",
 	"config": {
-		"rarity": 230,
+		"rarity": 230.0,
 		"density": 0.35,
-		"max_y": 128,
-		"size": 45,
-		"height": 8
+		"max_y": 128.0,
+		"size": 45.0,
+		"height": 8.0
 	},
 	"ores": [
 		{
 			"ore": "red_garnet",
-			"weight": 10,
-			"block_weight": 1
+			"weight": 10.0,
+			"block_weight": 1.0
 		},
 		{
 			"ore": "yellow_garnet",
-			"weight": 15,
-			"block_weight": 1
+			"weight": 15.0,
+			"block_weight": 1.0
 		},
 		{
 			"ore": "amethyst",
-			"weight": 40,
-			"block_weight": 2
+			"weight": 40.0,
+			"block_weight": 2.0
 		},
 		{
 			"ore": "opal",
-			"weight": 40,
-			"block_weight": 2
+			"weight": 40.0,
+			"block_weight": 2.0
 		}
 	],
 	"rocks": [
@@ -37,10 +37,6 @@
 		"basalt",
 		"dripstone"
 	],
-	"indicator": {
-		"depth": 1,
-		"underground_count": 150
-	},
 	"translations": [
 		{
 			"lang": "en_us",
@@ -57,6 +53,10 @@
 		{
 			"lang": "uk_ua",
 			"text": "Аметист, Опал і Гранат"
+		},
+		{
+			"lang": "zh_cn",
+			"text": "紫水晶, 蛋白石, 石榴石"
 		}
 	]
 }

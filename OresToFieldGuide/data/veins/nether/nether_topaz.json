@@ -3,31 +3,31 @@
 	"dimension": "nether",
 	"type": "tfc:disc_vein",
 	"config": {
-		"rarity": 180,
+		"rarity": 180.0,
 		"density": 0.4,
-		"max_y": 128,
-		"size": 33,
-		"height": 7
+		"max_y": 128.0,
+		"size": 33.0,
+		"height": 7.0
 	},
 	"ores": [
 		{
 			"ore": "blue_topaz",
-			"weight": 35,
-			"block_weight": 1
+			"weight": 35.0,
+			"block_weight": 1.0
 		},
 		{
 			"ore": "topaz",
-			"weight": 25,
-			"block_weight": 1
+			"weight": 25.0,
+			"block_weight": 1.0
 		},
 		{
 			"ore": "chalcocite",
-			"weight": 25,
-			"block_weight": 1
+			"weight": 25.0,
+			"block_weight": 1.0
 		},
 		{
 			"ore": "bornite",
-			"weight": 15
+			"weight": 15.0
 		}
 	],
 	"rocks": [
@@ -36,10 +36,6 @@
 		"basalt",
 		"dripstone"
 	],
-	"indicator": {
-		"depth": 1,
-		"underground_count": 150
-	},
 	"translations": [
 		{
 			"lang": "en_us",
@@ -56,6 +52,10 @@
 		{
 			"lang": "uk_ua",
 			"text": "Топаз і Халькоцит"
+		},
+		{
+			"lang": "zh_cn",
+			"text": "黄玉, 辉铜矿"
 		}
 	]
 }

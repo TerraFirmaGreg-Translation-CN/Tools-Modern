@@ -3,29 +3,29 @@
 	"dimension": "moon",
 	"type": "tfc:cluster_vein",
 	"config": {
-		"rarity": 260,
+		"rarity": 260.0,
 		"density": 0.3,
-		"min_y": 0,
-		"max_y": 70,
-		"size": 30
+		"min_y": 0.0,
+		"max_y": 70.0,
+		"size": 30.0
 	},
 	"ores": [
 		{
 			"ore": "bornite",
-			"weight": 35,
-			"block_weight": 1
+			"weight": 35.0,
+			"block_weight": 1.0
 		},
 		{
 			"ore": "cooperite",
-			"weight": 25
+			"weight": 25.0
 		},
 		{
 			"ore": "platinum",
-			"weight": 15
+			"weight": 15.0
 		},
 		{
 			"ore": "nickel",
-			"weight": 25
+			"weight": 25.0
 		}
 	],
 	"rocks": [
@@ -33,9 +33,6 @@
 		"andesite",
 		"glacio_stone"
 	],
-	"indicator": {
-		"depth": 50
-	},
 	"translations": [
 		{
 			"lang": "en_us",
@@ -52,6 +49,10 @@
 		{
 			"lang": "uk_ua",
 			"text": "Шелдоніт і Борніт"
+		},
+		{
+			"lang": "zh_cn",
+			"text": "硫铂矿, 斑铜矿"
 		}
 	]
 }
