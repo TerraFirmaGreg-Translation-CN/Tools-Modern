@@ -1,5 +1,6 @@
 {
   "id": "lapis",
+  "formula": null,
   "ore_block": "gtceu:raw_lapis_block",
   "indicator": "gtceu:lapis_bud_indicator",
   "translations": [
@@ -22,6 +23,11 @@
       "lang": "uk_ua",
       "text": "Лапіс",
       "info": "$(thing)Джерело$(): Лазуриту, Содаліту, Пириту, Кальциту"
+    },
+    {
+      "lang": "zh_cn",
+      "text": "青金石",
+      "info": "$(thing)来源$(): 蓝金石, 方钠石, 黄铁矿, 方解石"
     }
   ]
 }

@@ -1,5 +1,6 @@
 {
   "id": "red_garnet",
+  "formula": null,
   "ore_block": "gtceu:raw_red_garnet_block",
   "indicator": "gtceu:red_garnet_bud_indicator",
   "translations": [
@@ -22,6 +23,11 @@
       "lang": "uk_ua",
       "text": "Червоний гранат",
       "info": "$(thing)Джерело$(): Піроп, Алмадін, Спесартін"
+    },
+    {
+      "lang": "zh_cn",
+      "text": "红色石榴石",
+      "info": "$(thing)来源$(): 镁铝榴石, 铁铝榴石, 锰铝榴石"
     }
   ]
 }

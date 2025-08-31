@@ -1,17 +1,18 @@
 {
   "id": "oilsands",
+  "formula": null,
   "ore_block": "gtceu:raw_oilsands_block",
   "indicator": "gtceu:oilsands_indicator",
   "translations": [
     {
       "lang": "en_us",
       "text": "Oilsands",
-      "info": "$(thing)Source of$(): Freedom \uD83D\uDEE2\uD83E\uDD85\uD83D\uDDFD"
+      "info": "$(thing)Source of$(): Freedom 🛢🦅🗽"
     },
     {
       "lang": "pt_br",
       "text": "Areias Petrolíferas",
-      "info": "$(thing)Fonte de$(): Liberdade \uD83D\uDEE2\uD83E\uDD85\uD83D\uDDFD"
+      "info": "$(thing)Fonte de$(): Liberdade 🛢🦅🗽"
     },
     {
       "lang": "ru_ru",
@@ -21,7 +22,12 @@
     {
       "lang": "uk_ua",
       "text": "Нафтові піски",
-      "info": "$(thing)Джерело$(): Свободи\uD83D\uDEE2\uD83E\uDD85\uD83D\uDDFD"
+      "info": "$(thing)Джерело$(): Свободи🛢🦅🗽"
+    },
+    {
+      "lang": "zh_cn",
+      "text": "油砂",
+      "info": "$(thing)来源$(): 自由 🛢🦅🗽"
     }
   ]
 }

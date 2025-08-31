@@ -1,5 +1,6 @@
 {
   "id": "garnet_sand",
+  "formula": null,
   "ore_block": "gtceu:raw_garnet_sand_block",
   "indicator": "gtceu:garnet_sand_indicator",
   "translations": [
@@ -22,6 +23,11 @@
       "lang": "uk_ua",
       "text": "Гранатовий пісок",
       "info": "$(thing)Джерело$(): Алмадін, Андрадит, Гросулар, Піроп, Спесартін, Уваровіт"
+    },
+    {
+      "lang": "zh_cn",
+      "text": "石榴石矿砂",
+      "info": "$(thing)来源$(): 铁铝榴石, 钙铁榴石, 钙铝榴石, 镁铝榴石, 锰铝榴石, 钙铬榴石"
     }
   ]
 }
