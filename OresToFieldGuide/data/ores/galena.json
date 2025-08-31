@@ -1,6 +1,7 @@
 {
   "id": "galena",
   "formula": "PbS",
+  "hazard": "weak_poison",
   "ore_block": "gtceu:raw_galena_block",
   "indicator": "gtceu:galena_indicator",
   "translations": [

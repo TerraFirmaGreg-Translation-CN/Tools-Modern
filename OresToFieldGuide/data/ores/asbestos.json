@@ -1,6 +1,7 @@
 {
   "id": "asbestos",
   "formula": "Mg₃Si₂H₄O₉",
+  "hazard": "asbestosis",
   "ore_block": "gtceu:raw_asbestos_block",
   "indicator": "gtceu:asbestos_indicator",
   "translations": [

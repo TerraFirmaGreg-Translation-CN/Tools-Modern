@@ -1,6 +1,7 @@
 {
   "id": "lead",
   "formula": "Pb",
+  "hazard": "weak_poison",
   "ore_block": "gtceu:raw_lead_block",
   "indicator": "gtceu:lead_indicator",
   "translations": [

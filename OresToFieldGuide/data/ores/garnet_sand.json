@@ -1,6 +1,5 @@
 {
   "id": "garnet_sand",
-  "formula": null,
   "ore_block": "gtceu:raw_garnet_sand_block",
   "indicator": "gtceu:garnet_sand_indicator",
   "translations": [

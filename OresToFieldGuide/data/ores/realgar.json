@@ -1,6 +1,7 @@
 {
   "id": "realgar",
   "formula": "As₄S₄",
+  "hazard": "arsenicosis",
   "ore_block": "gtceu:raw_realgar_block",
   "indicator": "gtceu:realgar_bud_indicator",
   "translations": [

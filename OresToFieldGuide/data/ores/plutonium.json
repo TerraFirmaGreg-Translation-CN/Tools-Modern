@@ -1,6 +1,7 @@
 {
   "id": "plutonium",
   "formula": "Pu²³⁹",
+  "hazard": "carcinogenic",
   "ore_block": "gtceu:raw_plutonium_block",
   "indicator": "gtceu:plutonium_indicator",
   "translations": [

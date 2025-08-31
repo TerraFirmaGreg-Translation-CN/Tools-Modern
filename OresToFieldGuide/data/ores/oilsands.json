@@ -1,6 +1,5 @@
 {
   "id": "oilsands",
-  "formula": null,
   "ore_block": "gtceu:raw_oilsands_block",
   "indicator": "gtceu:oilsands_indicator",
   "translations": [

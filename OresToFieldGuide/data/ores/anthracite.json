@@ -1,7 +1,7 @@
 {
   "id": "anthracite",
   "formula": "C",
-  "ore_block": null,
+  "ore_override": "beneath:ore/nether_cursecoal",
   "indicator": "gtceu:coal_bud_indicator",
   "translations": [
     {

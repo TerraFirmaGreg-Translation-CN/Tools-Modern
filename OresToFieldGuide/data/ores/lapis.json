@@ -1,6 +1,5 @@
 {
   "id": "lapis",
-  "formula": null,
   "ore_block": "gtceu:raw_lapis_block",
   "indicator": "gtceu:lapis_bud_indicator",
   "translations": [

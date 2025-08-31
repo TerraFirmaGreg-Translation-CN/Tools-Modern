@@ -1,6 +1,7 @@
 {
   "id": "beryllium",
   "formula": "Be",
+  "hazard": "berylliosis",
   "ore_block": "gtceu:raw_beryllium_block",
   "indicator": "gtceu:beryllium_indicator",
   "translations": [

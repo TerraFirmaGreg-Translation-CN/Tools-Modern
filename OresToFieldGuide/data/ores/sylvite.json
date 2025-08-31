@@ -1,8 +1,7 @@
 {
   "id": "sylvite",
   "formula": "KCl",
-  "ore_block": null,
-  "indicator": null,
+  "ore_override": "beneath:ore/blackstone_sylvite",
   "translations": [
     {
       "lang": "en_us",

@@ -1,6 +1,7 @@
 {
   "id": "chromite",
   "formula": "FeCr₂O₄",
+  "hazard": "irritant",
   "ore_block": "gtceu:raw_chromite_block",
   "indicator": "firmalife:ore/small_chromite",
   "translations": [

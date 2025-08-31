@@ -1,6 +1,7 @@
 {
   "id": "cobaltite",
   "formula": "CoAsS",
+  "hazard": "arsenicosis",
   "ore_block": "gtceu:raw_cobaltite_block",
   "indicator": "gtceu:cobaltite_indicator",
   "translations": [
