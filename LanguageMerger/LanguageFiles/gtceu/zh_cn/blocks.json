@@ -37,8 +37,8 @@
     "gtceu.evaporation_tower": "蒸发塔",
     "block.gtceu.ostrum_harvester": "紫金采集器",
     "block.gtceu.moon_dust_harvester": "月尘采集器",
-    "block.gtceu.extraterrestrial_ore_fabricator": "外星矿石制造机",
     "gtceu.ostrum_harvester": "紫金采集器",
     "gtceu.moon_dust_harvester": "月尘采集器",
-    "gtceu.extraterrestrial_ore_fabricator": "外星矿石制造机"
+    "block.gtceu.ostrum_linear_accelerator": "紫金线性加速器",
+    "gtceu.ostrum_linear_accelerator": "紫金线性加速器"
 }
