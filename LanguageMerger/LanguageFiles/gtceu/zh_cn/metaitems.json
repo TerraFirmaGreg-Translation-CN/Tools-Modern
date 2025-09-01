@@ -12,6 +12,6 @@
     "gtceu.jei.bedrock_fluid.moon_helium": "月球氦气",
     "gtceu.jei.bedrock_fluid.moon_helium_3": "月球氦-3",
     "gtceu.jei.bedrock_fluid.moon_argon": "月球氩气",
-    "gtceu.machine.lp_steam_extractor.tooltip": "Does not extract fluids",
-    "gtceu.machine.hp_steam_extractor.tooltip": "Does not extract fluids"
+    "gtceu.machine.lp_steam_extractor.tooltip": "不能提取流体",
+    "gtceu.machine.hp_steam_extractor.tooltip": "不能提取流体"
 }
