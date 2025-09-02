@@ -273,6 +273,8 @@
  	"item.tfg.flax_tow": "Flax Tow Fibers",
  	"item.tfg.flax_waste": "Scraped Flax",
  	"item.tfg.linen_thread": "Linen Thread",
-  	"item.tfg.linen_cloth": "Linen Cloth"
+  	"item.tfg.linen_cloth": "Linen Cloth",
 
+    "item.tfg.uv_led": "§dUltraviolet §fLED",
+    "item.tfg.smd_uv_led": "§fSMD §dUltraviolet §fLED"
 }
