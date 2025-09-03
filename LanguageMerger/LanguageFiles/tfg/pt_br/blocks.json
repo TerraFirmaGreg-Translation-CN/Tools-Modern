@@ -251,7 +251,7 @@
 
 	"block.tfg.electromagnetic_accelerator": "Acelerador Eletromagnético",
 	"block.tfg.superconductor_coil_large": "Bobina Supercondutora Grande",
-		"block.tfg.superconductor_coil_small": "Bobina Supercondutora Pequena",
+	"block.tfg.superconductor_coil_small": "Bobina Supercondutora Pequena",
 	"block.tfg.interplanetary_item_launcher": "Arma de Raios Interplanetária",
 	"block.tfg.interplanetary_item_receiver": "Receptor Interplantetário",
 	"block.tfg.interplanetary_logistics_monitor": "Monitor Logístico Interplanetário",
