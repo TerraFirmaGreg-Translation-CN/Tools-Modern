@@ -13,17 +13,17 @@
 		{
 			"ore": "scheelite",
 			"weight": 45,
-			"block_weight": 2
+			"block_weight": 1
 		},
-				{
+		{
 			"ore": "tungstate",
 			"weight": 35
 		},
-				{
+		{
 			"ore": "lithium",
 			"weight": 20
 		},
-				{
+		{
 			"ore": "hematite",
 			"weight": 5
 		}
@@ -45,7 +45,7 @@
 	"translations": [
 		{
 			"lang": "en_us",
-			"text": "Tungsten"
+			"text": "Scheelite & Tungstate"
 		}
 	]
 }
