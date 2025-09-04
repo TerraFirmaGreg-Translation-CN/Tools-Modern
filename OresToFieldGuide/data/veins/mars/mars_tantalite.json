@@ -15,15 +15,15 @@
 			"weight": 30,
 			"block_weight": 1
 		},
-				{
+		{
 			"ore": "spessartine",
 			"weight": 20
 		},
-				{
+		{
 			"ore": "pyrolusite",
 			"weight": 20
 		},
-				{
+		{
 			"ore": "tantalite",
 			"weight": 10
 		}
@@ -47,7 +47,7 @@
 	"translations": [
 		{
 			"lang": "en_us",
-			"text": "Grossular, Spessartine and Tantalite"
+			"text": "Manganese & Tantalum"
 		}
 	]
 }
