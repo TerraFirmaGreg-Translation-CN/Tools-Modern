@@ -12,20 +12,19 @@
 	"ores": [
 		{
 			"ore": "sulfur",
-			"weight": 50,
-			"block_weight": 1
-		},
-				{
-			"ore": "pyrite",
-			"weight": 35
-		},
-				{
-			"ore": "sphalerite",
 			"weight": 15
+		},
+		{
+			"ore": "pyrite",
+			"weight": 45
+		},
+		{
+			"ore": "sphalerite",
+			"weight": 25
 		},
 				{
 			"ore": "hematite",
-			"weight": 5
+			"weight": 20
 		}
 	],
 	"rocks": [
@@ -46,7 +45,7 @@
 	"translations": [
 		{
 			"lang": "en_us",
-			"text": "Sulfur and Pyritie"
+			"text": "Sphalerite & Pyrite"
 		}
 	]
 }
