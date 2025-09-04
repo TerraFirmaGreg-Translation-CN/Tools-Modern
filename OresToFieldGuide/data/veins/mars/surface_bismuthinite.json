@@ -12,10 +12,14 @@
 	"ores": [
 		{
 			"ore": "bismuth",
-			"weight": 90,
+			"weight": 20,
 			"block_weight": 1
 		},
-				{
+		{
+			"ore": "hematite",
+			"weight": 10
+		},
+		{
 			"ore": "sulfur",
 			"weight": 10
 		}
@@ -44,7 +48,7 @@
 	"translations": [
 		{
 			"lang": "en_us",
-			"text": "Surface Bismuth"
+			"text": "Bismuthinite"
 		}
 	]
 }
