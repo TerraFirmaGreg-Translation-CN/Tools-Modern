@@ -15,7 +15,7 @@
 			"weight": 65,
 			"block_weight": 1
 		},
-				{
+		{
 			"ore": "copper",
 			"weight": 20
 		},
@@ -46,7 +46,7 @@
 	"translations": [
 		{
 			"lang": "en_us",
-			"text": "Copper"
+			"text": "Chalcopyrite & Copper"
 		}
 	]
 }
