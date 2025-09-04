@@ -12,12 +12,12 @@
 	"ores": [
 		{
 			"ore": "coal",
-			"weight": 50,
+			"weight": 70,
 			"block_weight": 1
 		},
 				{
 			"ore": "hematite",
-			"weight": 50
+			"weight": 30
 		}
 	],
 	"rocks": [
@@ -40,7 +40,7 @@
 	"translations": [
 		{
 			"lang": "en_us",
-			"text": "Coal and Iron"
+			"text": "Coal & Hematite"
 		}
 	]
 }
