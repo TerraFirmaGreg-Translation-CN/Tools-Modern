@@ -38,6 +38,10 @@
 		{
 			"lang": "en_us",
 			"text": "Redstone & Chromite"
+		},
+		{
+			"lang": "zh_cn",
+			"text": "红石, 铬铁矿"
 		}
 	]
 }

@@ -47,6 +47,10 @@
 		{
 			"lang": "en_us",
 			"text": "Quartzite, Asbestos, & Barite"
+		},
+		{
+			"lang": "zh_cn",
+			"text": "石英岩, 石棉, 重晶石"
 		}
 	]
 }
