@@ -65,5 +65,7 @@
     "material.tfg.goethe_regolith": "歌德风化土",
     "material.tfg.bright_regolith": "亮泽风化土",
     "material.tfg.cassiterite_regolith": "锡石风化土",
-    "material.tfg.regolith_mush": "泥泞风化土"
+    "material.tfg.regolith_mush": "泥泞风化土",
+    "material.tfg.heavy_water": "重水",
+    "material.tfg.semiheavy_water": "半重水"
 }
