@@ -153,8 +153,8 @@
     "item.tfg.roasted_sunflower_seeds": "Смажене насіння соняшника",
     "item.tfg.sunflower_seeds": "Насіння соняшника",
     "item.tfg.sunflower_product": "Соняшнткова Кепка",
-    "item.tfg.rapeseed_seeds": "Насіння ріпаку",
-    "item.tfg.rapeseed_product": "Насіння Каноли",
+    "item.tfg.rapeseed_seeds": "Насіння Каноли",
+    "item.tfg.rapeseed_product": "Листя Каноли",
     "item.tfg.flintlock_mechanism": "Крем’яний ударний механізм",
     "item.tfg.advanced_clockwork_mechanism": "Вдосконалений Годинниковий Механізм",
     "item.tfg.certus_mechanism": "Механізм Цертус",
@@ -249,5 +249,7 @@
     "item.tfg.flax_tow": "Волокна Льняної Куделі",
     "item.tfg.flax_waste": "Вишкрябаний Льон",
     "item.tfg.linen_thread": "Лляна нитка",
-    "item.tfg.linen_cloth": "Лляна тканина"
+    "item.tfg.linen_cloth": "Лляна тканина",
+    "item.tfg.uv_led": "§dУльтрафіолетовий §fСвітлодіод",
+    "item.tfg.smd_uv_led": "§fSMD §dУльтрафіолетовий §fСвітлодіод"
 }
