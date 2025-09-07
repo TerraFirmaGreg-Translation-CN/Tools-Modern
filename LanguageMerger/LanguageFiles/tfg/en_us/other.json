@@ -17,18 +17,18 @@
     "entity.tfg.glacian_ram.male": "Glacian Ram",
     "entity.tfg.glacian_ram.female": "Glacian Ewe",
     "tfg.tooltip.attribution.glacian_ram": "§9§oCredit: Ad Astra",
-    
+
     "entity.tfg.sniffer.male": "Sniffer",
     "entity.tfg.sniffer.female": "Sniffer",
     "tfg.tooltip.attribution.sniffer": "§9§oCredit: Minecraft",
-    
+
     "entity.tfg.wraptor.male": "Wraptor",
     "entity.tfg.wraptor.female": "Wraptor",
     "tfg.tooltip.attribution.wraptor": "§9§oCredit: Species",
 
     "effect.tfg.cooling": "§bCooling",
     "effect.tfg.warming": "§6Warming",
-    
+
     "item.treetap.tap": "Deprecated Item, Craft to Upgrade",
 
     "item.gtceu.zinc_ingot": "Deprecated Item, Craft to Upgrade",
@@ -171,7 +171,7 @@
     "trim_material.tfc.neutronium_tfc": "Neutronium",
     "trim_material.tfc.pyrite_tfc": "Pyrite",
     "trim_material.tfc.redx_tfc": "RedX",
-  
+
     "tfg.emi.ore_veins.rock_types": "Found in rock types:",
     "tfg.emi.ore_veins.rarity": "Rarity: %d",
     "tfg.emi.ore_veins.density": "Density: %d",
@@ -208,6 +208,7 @@
     "tfg.tooltip.armor.nanomuscle_warmth": "§7Warmth: 0",
     "tfg.tooltip.armor.nanomuscle_insulation": "§7Insulation: +10",
     "tfg.tooltip.armor.nanomuscle_set": "§7Wear the full set to be §eFully Insulated§7 from ambient temperatures.",
+    "tfg.tooltip.armor.nanomuscle_legs_buff": "§7Provides §9Speed I§7 when worn",
     "tfg.tooltip.armor.quarktech_warmth": "§7Warmth: 0",
     "tfg.tooltip.armor.quarktech_insulation": "§7Insulation: +10",
     "tfg.tooltip.armor.quarktech_set": "§7Wear the full set to be §eFully Insulated§7 from ambient temperatures.",
@@ -230,6 +231,6 @@
     "tfg.tooltip.cooling_foods": "§bCools you by: 2°C",
     "tfg.tooltip.cooling_foods_strong": "§bCools you by: 10°C",
     "tfg.tooltip.warming_foods": "§6Warms you by: 4°C",
-    
+
     "tfg.tooltip.obsolete.depreciated": "§cDeprecated, cannot be crafted any more"
 }
