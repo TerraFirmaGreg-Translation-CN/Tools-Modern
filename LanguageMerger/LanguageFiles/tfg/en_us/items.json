@@ -276,5 +276,11 @@
   	"item.tfg.linen_cloth": "Linen Cloth",
 
     "item.tfg.uv_led": "§dUltraviolet §fLED",
-    "item.tfg.smd_uv_led": "§fSMD §dUltraviolet §fLED"
+    "item.tfg.smd_uv_led": "§fSMD §dUltraviolet §fLED",
+
+    "item.tfg.empty_dna_syringe": "Empty Syringe",
+    "item.tfg.filled_dna_syringe": "Filled Syringe",
+    "item.tfg.dirty_dna_syringe": "Dirty Syringe",
+    "item.tfg.clean_dna_syringe": "Clean Syringe",
+    "item.tfg.stainless_steel_needle": "Stainless Steel Needle"
 }

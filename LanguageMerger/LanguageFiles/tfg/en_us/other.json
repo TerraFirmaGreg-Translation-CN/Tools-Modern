@@ -232,5 +232,18 @@
     "tfg.tooltip.cooling_foods_strong": "§bCools you by: 10°C",
     "tfg.tooltip.warming_foods": "§6Warms you by: 4°C",
 
-    "tfg.tooltip.obsolete.depreciated": "§cDeprecated, cannot be crafted any more"
+    "tfg.tooltip.obsolete.depreciated": "§cDeprecated, cannot be crafted any more",
+
+    "tfg.tooltip.ore_prospector_stats": "Scan Range: %s, Cross Section: %s x %s.",
+    "tfg.tooltip.ore_prospector_count": "This prospector will display ore counts.",
+    "tfg.tooltip.ore_prospector_xray": "This prospector will display a %s x-ray view of ore blocks.",
+    "tfg.tooltip.ore_prospector_mode_vein": "per-vein",
+    "tfg.tooltip.ore_prospector_mode_block": "per-block",
+    "tfg.tooltip.dna_syringe.empty": "An empty syringe.",
+    "tfg.tooltip.dna_syringe.dirty1": "A used syringe.",
+    "tfg.tooltip.dna_syringe.dirty2": "Be careful not to poke anyone with this...",
+    "tfg.tooltip.dna_syringe.full": "DNA sample: ",
+    "tfg.tooltip.dna_syringe.explain": "Right-click on a mob to obtain a DNA sample. Place in a crafting grid to clear contents.",
+
+    "tfg.tooltip.shift_hint": "[Hold-Shift]"
 }
