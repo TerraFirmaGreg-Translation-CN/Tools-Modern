@@ -251,5 +251,10 @@
     "item.tfg.linen_thread": "亚麻线",
     "item.tfg.linen_cloth": "亚麻布",
     "item.tfg.uv_led": "§d紫外§f发光二极管",
-    "item.tfg.smd_uv_led": "§f贴片§d紫外§f发光二极管"
+    "item.tfg.smd_uv_led": "§f贴片§d紫外§f发光二极管",
+    "item.tfg.empty_dna_syringe": "空注射器",
+    "item.tfg.filled_dna_syringe": "已充满的注射器",
+    "item.tfg.dirty_dna_syringe": "受污染的注射器",
+    "item.tfg.clean_dna_syringe": "洁净的注射器",
+    "item.tfg.stainless_steel_needle": "不锈钢针头"
 }
