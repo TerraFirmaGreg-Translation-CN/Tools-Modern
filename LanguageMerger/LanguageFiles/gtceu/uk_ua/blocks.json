@@ -15,6 +15,7 @@
     "block.gtceu.ostrum_harvester": "Збирач Острому",
     "block.gtceu.moon_dust_harvester": "Збирач Місячного Пилу",
     "block.gtceu.ostrum_linear_accelerator": "Лінійний Прискорювач з Оструму",
+    "block.tfg.bioreactor": "Біореактор",
     "block.gtceu.copper_crate": "Мідний Ящик",
     "block.gtceu.copper_drum": "Мідна Бочка",
     "block.gtceu.black_bronze_crate": "Ящик з Чорної Бронзи",
@@ -40,5 +41,6 @@
     "gtceu.evaporation_tower": "Випарна камера",
     "gtceu.ostrum_harvester": "Збирач Острому",
     "gtceu.moon_dust_harvester": "Збирач Місячного Пилу",
-    "gtceu.ostrum_linear_accelerator": "Лінійний Прискорювач з Оструму"
+    "gtceu.ostrum_linear_accelerator": "Лінійний Прискорювач з Оструму",
+    "gtceu.bioreactor": "Біореактор"
 }

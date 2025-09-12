@@ -40,10 +40,18 @@
 		"chert",
 		"chalk"
 	],
+	"indicator": {
+		"rarity": 20,
+		"depth": 15
+	},
 	"translations": [
 		{
 			"lang": "en_us",
 			"text": "Salts & Spodumene"
+		},
+		{
+			"lang": "zh_cn",
+			"text": "盐, 锂辉石"
 		}
 	]
 }

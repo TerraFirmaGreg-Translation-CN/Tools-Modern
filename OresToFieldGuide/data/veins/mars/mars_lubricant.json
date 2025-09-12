@@ -44,10 +44,18 @@
 		"dolomite",
 		"dacite"
 	],
+	"indicator": {
+		"rarity": 20,
+		"depth": 15
+	},
 	"translations": [
 		{
 			"lang": "en_us",
 			"text": "Soapstone, Talc, & Glauconite"
+		},
+		{
+			"lang": "zh_cn",
+			"text": "皂石, 滑石, 海绿石矿砂"
 		}
 	]
 }

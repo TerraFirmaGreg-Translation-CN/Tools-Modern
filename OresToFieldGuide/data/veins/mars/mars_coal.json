@@ -34,22 +34,31 @@
 		"dacite"
 	],
 	"indicator": {
-		"depth": 50,
 		"blocks": [
 			{
+				"block": "tfc:ore/small_hematite",
+				"weight": 30
+			},
+			{
 				"block": "gtceu:coal_indicator",
-				"weight": 95
+				"weight": 65
 			},
 			{
 				"block": "gtceu:coal_bud_indicator",
 				"weight": 5
 			}
-		]
+		],
+		"rarity": 20,
+		"depth": 10
 	},
 	"translations": [
 		{
 			"lang": "en_us",
 			"text": "Coal & Hematite"
+		},
+		{
+			"lang": "zh_cn",
+			"text": "煤炭, 赤铁矿"
 		}
 	]
 }

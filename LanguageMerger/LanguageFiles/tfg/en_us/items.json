@@ -53,6 +53,7 @@
     "item.tfg.loose.moon_stone": "Loose Anorthosite",
     "item.tfg.brick.moon_stone": "Anorthosite Brick",
     "item.tfg.loose.moon_deepslate": "Loose Norite",
+    "item.tfg.brick.moon_deepslate": "Norite Brick",
     "item.tfg.loose.mars_stone": "Loose Argillite",
     "item.tfg.brick.mars_stone": "Argillite Brick",
     "item.tfg.loose.venus_stone": "Loose Trachyte",
@@ -158,6 +159,20 @@
     "item.tfg.food.raw_sniffer_beef": "Raw Sniffer Beef",
     "item.tfg.food.cooked_sniffer_beef": "Cooked Sniffer Beef",
     "item.tfg.spawn_egg.sniffer": "Sniffer Spawn Egg",
+    "item.tfg.food.raw_wraptor": "Raw Wraptor",
+    "item.tfg.food.cooked_wraptor": "Cooked Wraptor",
+    "item.tfg.food.raw_springling_chops": "Raw Springling Chops",
+    "item.tfg.food.cooked_springling_chops": "Cooked Springling Chops",
+    "item.tfg.food.raw_walker_steak": "Raw Walker Steak",
+    "item.tfg.food.cooked_walker_steak": "Cooked Walker Steak",
+    "item.tfg.food.raw_glider_wings": "Raw Glider Wings",
+    "item.tfg.food.cooked_glider_wings": "Cooked Glider Wings",
+    "item.tfg.food.raw_whole_soarer": "Raw Whole Soarer",
+    "item.tfg.food.cooked_whole_soarer": "Cooked Whole Soarer",
+    "item.tfg.food.raw_crusher_meat": "Raw Crusher Meat",
+    "item.tfg.food.cooked_crusher_meat": "Cooked Crusher Meat",
+    "item.tfg.food.raw_goober_meat": "Raw Goober Meat",
+    "item.tfg.food.cooked_goober_meat": "Cooked Goober Meat",
 
     "item.tfg.roasted_sunflower_seeds": "Roasted Sunflower Seeds",
     "item.tfg.sunflower_seeds": "Sunflower Seed",
@@ -276,5 +291,11 @@
   	"item.tfg.linen_cloth": "Linen Cloth",
 
     "item.tfg.uv_led": "§dUltraviolet §fLED",
-    "item.tfg.smd_uv_led": "§fSMD §dUltraviolet §fLED"
+    "item.tfg.smd_uv_led": "§fSMD §dUltraviolet §fLED",
+
+    "item.tfg.empty_dna_syringe": "Empty Syringe",
+    "item.tfg.filled_dna_syringe": "Filled Syringe",
+    "item.tfg.dirty_dna_syringe": "Dirty Syringe",
+    "item.tfg.clean_dna_syringe": "Clean Syringe",
+    "item.tfg.stainless_steel_needle": "Stainless Steel Needle"
 }
