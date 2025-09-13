@@ -321,7 +321,7 @@
 
     "quests.tfg_tips.grapple_gravity_50.title": "Grappling Hook Upgrade: 0.5 Gravity",
     "quests.tfg_tips.grapple_gravity_50.subtitle": "Does this even make sense?",
-    "quests.tfg_tips.grapple_gravity_50.desc": "The &a0.5 Gravity Upgrade&r causes your hook to have a &bGravity Coefficient of 0.5.&. This means that it will be affected by gravity by a factor of a half!\n\nInstead of using another &dHelium Bucket&r to remove the upgrade, use an &cEmpty Bucket instead.&r It will fill with the &eHelium&r you initially used.",
+    "quests.tfg_tips.grapple_gravity_50.desc": "The &a0.5 Gravity Upgrade&r causes your hook to halve how much it's affected by gravity!\n\nInstead of using another &dHelium Bucket&r to remove the upgrade, use an &cEmpty Bucket instead.&r It will fill with the &eHelium&r you initially used.",
 
     "quests.tfg_tips.grapple_gravity_0.title": "Grappling Hook Upgrade: ZERO gravity",
     "quests.tfg_tips.grapple_gravity_0.subtitle": "Kinda Expensive",
