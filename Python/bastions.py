@@ -2,8 +2,9 @@ import os
 from typing import Set, Any, Tuple, NamedTuple, Literal, Union
 from glob import glob
 
+# https://github.com/vberlier/nbtlib/blob/main/docs/Usage.ipynb
 from nbtlib import nbt
-from nbtlib.tag import String as StringTag, Int as IntTag
+from nbtlib.tag import String as StringTag, Int as IntTag, List as ListTag, Compound as CompoundTag
 
 #STRUCTURES_DIR = '../../kubejs/data/minecraft/structures'
 #STRUCTURES_DIR_MC = 'A:/minecraft/data/minecraft/structures'
@@ -59,19 +60,20 @@ def replace_blocks(structures):
 				dirty = True
 
 			elif name == 'betterend:mossy_glowshroom_bark':
-				block['Name'] = StringTag('ad_astra:glacian_wood')
+				block['Name'] = StringTag('tfg:glacian_wood')
 				dirty = True
 			elif name == 'betterend:mossy_glowshroom_cap':
 				block['Name'] = StringTag('species:alphacene_moss_block')
 				dirty = True
 			elif name == 'betterend:mossy_glowshroom_hymenophore':
-				block['Name'] = StringTag('ad_astra:glacian_leaves')
+				block['Name'] = StringTag('tfg:glacian_leaves')
+				block['Properties'] = CompoundTag({"persistent": StringTag("true")})
 				dirty = True
 			elif name == 'betterend:mossy_glowshroom_fur':
 				block['Name'] = StringTag('betterend:glacian_hymenophore')
 				dirty = True
 			elif name == 'betterend:mossy_glowshroom_log':
-				block['Name'] = StringTag('ad_astra:glacian_log')
+				block['Name'] = StringTag('tfg:glacian_log')
 				dirty = True
 
 		if dirty:
