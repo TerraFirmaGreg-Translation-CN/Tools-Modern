@@ -7,25 +7,29 @@
 		"density": 0.25,
 		"min_y": 0,
 		"max_y": 70,
-		"size": 30
+		"size": 40
 	},
 	"ores": [
 		{
 			"ore": "soapstone",
-			"weight": 30,
-			"block_weight": 1
+			"weight": 10
 		},
 		{
 			"ore": "talc",
-			"weight": 20
+			"weight": 20,
+			"block_weight": 1
 		},
 		{
 			"ore": "glauconite_sand",
-			"weight": 25
+			"weight": 15
+		},
+		{
+			"ore": "trona",
+			"weight": 15
 		},
 		{
 			"ore": "pentlandite",
-			"weight": 15
+			"weight": 5
 		},
 		{
 			"ore": "hematite",
@@ -51,11 +55,11 @@
 	"translations": [
 		{
 			"lang": "en_us",
-			"text": "Soapstone, Talc, & Glauconite"
+			"text": "Trona, Talc, & Glauconite"
 		},
 		{
 			"lang": "zh_cn",
-			"text": "皂石, 滑石, 海绿石矿砂"
+			"text": "皂石, 滑石, 海绿石矿砂 CHANGE HERE"
 		}
 	]
 }
