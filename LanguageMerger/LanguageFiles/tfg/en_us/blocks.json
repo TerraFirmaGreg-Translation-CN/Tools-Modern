@@ -624,5 +624,8 @@
 
 	"block.tfg.large_nest_box": "Large Crimson Nest",
 	"tfg.block_entity.large_nest_box": "Large Nest Box",
-	"block.tfg.large_nest_box_warped": "Large Warped Nest"
+	"block.tfg.large_nest_box_warped": "Large Warped Nest",
+
+	"block.tfg.nuclear_turbine": "Nuclear Turbine",
+	"block.tfg.evaporation_tower": "Evaporation Tower"
 }

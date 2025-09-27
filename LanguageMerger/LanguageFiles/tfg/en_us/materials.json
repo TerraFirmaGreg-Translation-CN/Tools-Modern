@@ -84,6 +84,12 @@
     "material.tfg.goethe_regolith": "Goethe Regolith",
     "material.tfg.bright_regolith": "Bright Regolith",
     "material.tfg.cassiterite_regolith": "Cassiterite Regolith",
-    "material.tfg.regolith_mush": "Regolith Mush"
+    "material.tfg.regolith_mush": "Regolith Mush",
+
+    "material.tfg.APT": "APT",
+    "material.tfg.ammonium_tungstate": "Ammonium Tungstate",
+    "material.tfg.tungsten-bismuth_oxide_composite": "Bismuth Oxide Composite",
+    "material.tfg.tungsten_oxide": "Tungsten Oxide",
+    "material.tfg.sodium_tungstate": "Sodium Tungstate"
 
 }
