@@ -630,7 +630,16 @@
 
 	"block.tfg.titanium_concrete": "Titanium-Rebar Concrete",
 	"block.tfg.polished_titanium_concrete": "Polished Titanium-Rebar Concrete",
+	"block.tfg.titanium_concrete_tile": "Titanium-Rebar Concrete Tile",
+  	"block.tfg.titanium_concrete_tile_small": "Small Titanium-Rebar Concrete Tile",
+  	"block.tfg.titanium_concrete_bricks": "Titanium-Rebar Concrete Bricks",
+  	"block.tfg.titanium_concrete_bricks_small": "Small Titanium-Rebar Concrete Bricks",
+  	"block.tfg.titanium_concrete_bricks_square": "Square Titanium-Rebar Concrete Bricks",
 
 	"block.tfg.nuclear_turbine": "Nuclear Steam Turbine",
-	"block.tfg.evaporation_tower": "Evaporation Tower"
+	"block.tfg.evaporation_tower": "Evaporation Tower",
+
+    "block.tfg.growth_monitor": "Growth Monitor",
+    "block.tfg.sample_rack": "Sample Rack",
+    "block.tfg.casings.machine_casing_sterilizing_pipes": "Sterilizing Pipes"
 }
