@@ -21,6 +21,10 @@
 		{
 			"ore": "lead",
 			"weight": 11
+		},
+		{
+			"ore": "silver",
+			"weight": 10
 		}
 	],
 	"rocks": [
