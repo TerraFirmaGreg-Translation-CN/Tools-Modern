@@ -49,6 +49,7 @@
     "item.tfg.armor_stand_arms": "Стійка для Броні з Руками",
     "item.tfg.flint_club_head": "Кам’яне оголів'я булави",
     "item.tfg.brick.deepslate": "Мігматитовий Цегла",
+    "item.tfg.brick.dripstone": "Травертинова цегла",
     "item.tfg.loose.moon_stone": "Розсипчастий Анортозит",
     "item.tfg.brick.moon_stone": "Анортозитова Цегла",
     "item.tfg.loose.moon_deepslate": "Розсипчастий Норит",
@@ -212,6 +213,8 @@
     "item.tfg.twigs.strophar": "Пагінець Строфару",
     "item.tfg.twigs.glacian": "Пагінець Ґлації",
     "item.tfg.twigs.alphacene": "Пагінець Альфацену",
+    "item.tfg.crimsene_gem": "Кримзенова каніфоль",
+    "item.tfg.warpane_gem": "Варпейнова каніфоль",
     "item.tfg.glacian_wool": "Шерсть гляціанського барана",
     "item.tfg.sniffer_wool": "Мінералонасичені пучки",
     "item.tfg.sniffer_egg": "Яйце Нюхача",
@@ -271,5 +274,15 @@
     "item.tfg.filled_dna_syringe": "Заповнений шприц",
     "item.tfg.dirty_dna_syringe": "Брудний шприц",
     "item.tfg.clean_dna_syringe": "Очистити шприц",
-    "item.tfg.stainless_steel_needle": "Голка з нержавної сталі"
+    "item.tfg.stainless_steel_needle": "Голка з нержавної сталі",
+    "item.tfg.empty_rod": "Порожній стрижень ядерного палива",
+    "item.tfg.beaker": "Стакан",
+    "item.tfg.beaker.filled": "Стакан з %s",
+    "item.tfg.flask": "Колба",
+    "item.tfg.flask.filled": "Колба з %s",
+    "item.tfg.vial": "Пробірка",
+    "item.tfg.vial.filled": "Пробірка з %s",
+    "item.tfg.lab_equipment": "Лабораторне обладнання",
+    "item.tfg.dirty_lab_equipment": "Брудне лабораторне обладнання",
+    "item.tfg.wireless_card": "Міжпланетна бездротова картка"
 }
