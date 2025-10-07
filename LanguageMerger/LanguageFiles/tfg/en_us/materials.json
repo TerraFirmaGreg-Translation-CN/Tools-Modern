@@ -96,6 +96,8 @@
 
     "material.tfg.tetrafluoroethane": "Tetrafluoroethane",
 
+    "material.tfg.thermally_conductive_fluid": "Thermally Conductive Fluid",
+
     "__comment1": "Like Crimson and Warped nether trees, but made to sound more like chemicals",
     "material.tfg.crimsene": "Crimsene",
     "material.tfg.warpane": "Warpane",
