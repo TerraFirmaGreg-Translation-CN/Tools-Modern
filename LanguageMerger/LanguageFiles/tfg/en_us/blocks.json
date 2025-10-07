@@ -407,7 +407,11 @@
 	"block.tfg.pile.pink_sand": "Pink Sand",
 	"block.tfg.pile.moon_sand": "Lunar Sand",
 	"block.tfg.pile.mars_sand": "Argillite Sand",
+	"block.tfg.pile.mars_sand_covering": "Argillite Sand",
 	"block.tfg.pile.venus_sand": "Trachyte Sand",
+	"block.tfg.pile.venus_sand_covering": "Trachyte Sand",
+	"block.tfg.pile.hematitic_sand": "Hematitic Sand",
+	"block.tfg.pile.hematitic_sand_covering": "Hematitic Sand",
 
 	"block.tfg.lunar_roots": "Lunar Lightblooms",
 	"block.tfg.lunar_sprouts": "Lunar Lightgrass",
@@ -553,7 +557,7 @@
 	"block.tfg.casings.machine_casing_ostrum_carbon": "Ostrum Machine Casing",
 	"block.tfg.casings.heat_pipe_casing": "Heat Pipe Casing",
 	"block.tfg.glacian_wool_frame": "Framed Glacian Wool",
-  	"block.tfg.aes_insulation_frame": "Framed AES Insulation",
+	"block.tfg.aes_insulation_frame": "Framed AES Insulation",
 
 	"__comment1": "TODO",
 	"__comment2": "block.tfg.corallium_arenicolus_0: Corallium Arenicolus",
