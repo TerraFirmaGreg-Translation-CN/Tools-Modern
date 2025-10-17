@@ -13,7 +13,15 @@
     "block.gtceu.ostrum_harvester": "Збирач Острому",
     "block.gtceu.moon_dust_harvester": "Збирач Місячного Пилу",
     "block.gtceu.ostrum_linear_accelerator": "Лінійний Прискорювач з Оструму",
+    "block.gtceu.ulv_super_tank": "Базовий супер резервувар",
+    "block.gtceu.ulv_super_chest": "Базова супер скриня",
+    "block.gtceu.ulv_hermetic_casing": "Базова герметична оболонка",
+    "block.gtceu.hv_energy_output_hatch_4a": "§6HV 4A люк динамо§r",
     "block.tfg.bioreactor": "Біореактор",
+    "block.tfg.growth_chamber": "Камера росту",
+    "block.tfg.single_itemstack_bus": "Обмежувальна вхідна шина",
+    "block.gtceu.red_granite_cobblestone": "Червоний гранітний кругляк",
+    "block.gtceu.mossy_red_granite_cobblestone": "Моховитий червоний гранітний кругляк",
     "block.gtceu.copper_crate": "Мідний Ящик",
     "block.gtceu.copper_drum": "Мідна Бочка",
     "block.gtceu.black_bronze_crate": "Ящик з Чорної Бронзи",
@@ -38,5 +46,6 @@
     "gtceu.ostrum_harvester": "Збирач Острому",
     "gtceu.moon_dust_harvester": "Збирач Місячного Пилу",
     "gtceu.ostrum_linear_accelerator": "Лінійний Прискорювач з Оструму",
-    "gtceu.bioreactor": "Біореактор"
+    "gtceu.bioreactor": "Біореактор",
+    "gtceu.growth_chamber": "Камера росту"
 }

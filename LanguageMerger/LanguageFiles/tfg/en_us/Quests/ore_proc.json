@@ -131,7 +131,7 @@
 
     "quests.ore_proc.sifter.title": "The Sifter",
     "quests.ore_proc.sifter.subtitle": "The Skyblock Simulator",
-    "quests.ore_proc.sifter.desc": "The &6Sifter&r should be used for all your &aGems&r. It gives far more yield per ore than any other method, and is the only way to obtain Exquisite and Flawless gems before &6HV&r laser engraving.\n\nHigher tier sifters have higher output bonuses, even if you underclock the machine!",
+    "quests.ore_proc.sifter.desc": "The &6Sifter&r should be used for all your &aGems&r. It gives far more yield per ore than any other method, and is the only way to obtain Exquisite and Flawless gems before &6HV&r laser engraving.",
     "quests.ore_proc.sifter.task": "Any Sifter",
 
     "quests.ore_proc.centrifuge_sifter.title": "Centrifuging the dust",
