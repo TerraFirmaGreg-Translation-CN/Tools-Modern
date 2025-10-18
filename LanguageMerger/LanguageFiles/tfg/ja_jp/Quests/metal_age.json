@@ -1,179 +1,179 @@
 {
-    "quests.metal_age": "Metallurgy Age",
-    "quests.metal_age.subtitle": "Your First Technological Advancements.",
+    "quests.metal_age": "金属時代",
+    "quests.metal_age.subtitle": "技術の夜明け",
 
-    "quests.metal_age.weld_bronze_ingots.title": "Welding Bronze",
-    "quests.metal_age.weld_bronze_ingots.subtitle": "I told you to get used to it",
-    "quests.metal_age.weld_bronze_ingots.desc": "Obtain at least 14 Ingots of any Bronze type, then weld them together in the Copper Anvil.\n\nThe Tier 2 Anvil can be made from Bismuth Bronze, Bronze or Black Bronze, but not a mixture of the three.",
-
-    "quests.metal_age.anvil_recycling.title": "Anvil Recycling?",
-    "quests.metal_age.anvil_recycling.subtitle": "Because 14 ingots is a lot now",
-    "quests.metal_age.anvil_recycling.desc": "Once you craft the next tier of Anvil (such as going from Copper to Bronze, or Bronze to Wrought Iron), the previous tier basically becomes useless.\n\nHowever, since it's made out of metal, you &ocan and should&r melt the previous tier of Anvil back into its liquid metal form!\nGrab a Vessel and place it on the right hand side of the Charcoal Forge interface, then place the Anvil and slowly heat it until it reaches the melting temperature. The molten metal will be deposited inside the Vessel, then you can cast it back into ingots or whatever you like!",
-
-    "quests.metal_age.bronze_anvil.title": "T2 Anvil: Bronze",
-    "quests.metal_age.bronze_anvil.subtitle": "Basic mechanical power starts here",
-    "quests.metal_age.bronze_anvil.desc": "To work metal into more than just double ingots, you'll need to use an anvil of the same tier or better. Working on an anvil can be a little bit complicated, but there's an entry in the TFG Tips section of the field guide that goes into more detail.\n\nBronze also marks the start of automation, where you'll begin to harness mechanical power!",
-
-    "quests.metal_age.bronze_goodies.title": "Bronze Level Mechanical Power",
-    "quests.metal_age.bronze_goodies.subtitle": "Oh No, It's Create Again",
-    "quests.metal_age.bronze_goodies.desc": "Bronze is a sturdy enough material to enable very basic mechanical power.\n\nCheck the &oEarly Automation&r quest chapter to get started!",
-
-    "quests.metal_age.copper_diving.title": "Copper Diving Equipment",
-    "quests.metal_age.copper_diving.subtitle": "If mining wasn't dangerous enough",
-    "quests.metal_age.copper_diving.desc": "Struggling with aquifers in your ore veins? You can craft a set of copper diving equipment, with an air supply that can last for 20 minutes!",
-
-    "quests.metal_age.bloomery.title": "Bloomery",
-    "quests.metal_age.bloomery.subtitle": "Required if you seek the Iron Age.",
-    "quests.metal_age.bloomery.desc": "The Bloomery is a Multiblock from TerraFirmaCraft that allows you to create Wrought Iron. Melting iron in a forge will produce Cast Iron, which is brittle and nowhere near as strong or durable as Wrought Iron.\n\nThe Bloomery is expensive, so it will be worth investing some time into setting up automatic plate production and ore processing.\n\nThe Field Guide contains a detailed entry on how the Bloomery works and the correct ratios of iron and charcoal that it needs.",
-
-    "quests.metal_age.mining.title": "Mining in the Metallurgy Age",
-    "quests.metal_age.mining.subtitle": "ROCK AND STONE!",
-    "quests.metal_age.mining.desc": "Extracting valuable resources from the ground is a major part of this modpack, and the Metallurgy Age is no exception! You will consume a &llot&r of metal to progress, and one way to mine a lot of it at once is with a Mining Hammer! This is a tool that can mine blocks in a 3x3x1 area at the cost of a slower mining speed. You can also hold sneak to break single blocks at a time.",
-
-    "quests.metal_age.bellows.title": "Bellows",
-    "quests.metal_age.bellows.subtitle": "Higher temperatures can be reached, at a small price.",
-    "quests.metal_age.bellows.desc": "The Bellows is a device that can force extra air into a fire or forge in front of it, allowing the heat produced by the fuel inside to reach higher temperatures than usual, at the cost of fuel duration.\n\nThese higher temperatures are required to fire pottery with charcoal or melt certain metals.\n\nCoal and Coke can also reach higher temperatures without it.",
-
-    "quests.metal_age.wrought_iron_anvil.title": "T3 Anvil: Wrought Iron",
-    "quests.metal_age.wrought_iron_anvil.subtitle": "Waterwheels, Windmills and more Greate",
-    "quests.metal_age.wrought_iron_anvil.desc": "With the Wrought Iron Anvil you'll be able to work Wrought Iron Ingots into different items such as Sheets, Tool heads, etc.\n\nWrought Iron tools and armor isn't much of an improvement over Bronze, but it has far more durability.\n\nCreating the next anvil is going to be a significant step up in difficulty, so this is a good point to settle down and explore some of the other things this modpack has to offer.",
-
-    "quests.metal_age.coke_oven.title": "Coke Oven",
-    "quests.metal_age.coke_oven.subtitle": "Finally, No More Charcoal Piles",
-    "quests.metal_age.coke_oven.desc.1": "The Coke Oven is your first GregTech multiblock! It allows you to automatically create Charcoal and other powerful combustibles. The Coke Oven will burn one Log into one Charcoal and 250mb of Creosote, which is an important chemical used wood treating.\n\nIf you craft the main Coke Oven block and press the JEI 'Uses' key on it (defaults to \"U\"), you'll find the tab called \"Multiblock Info\", which shows you how to build the Coke Oven in the world.\n\nYou can also just place the Controller block in the world, and interact with it while sneaking to create a Hologram of blocks missing.",
-    "quests.metal_age.coke_oven.desc.2": "Coke Ovens can be fully automated using a Coke Oven Hatch. The Hatch is placed on the sides of the Oven and work as both Inputs and Outputs for both Items and Liquids.\n\nYou can easly create a simple, one way Coke Oven by using a Crate for the input, a Chest for the output, and a Drum, Barrel, or Large Wooden Tank to collect the Creosote. Unlike Chests, Crates are able to store large objects such as Logs. You can also sneak and right-click GregTech pipes with a wrench to make them one-way.",
-
-    "quests.metal_age.wrought_iron_goodies.title": "Wrought Iron level Mechanical Power",
-    "quests.metal_age.wrought_iron_goodies.subtitle": "What's this \"Andesite Alloy\" you speak of?",
-    "quests.metal_age.wrought_iron_goodies.desc": "With Wrought Iron you've unlocked access to the Metal Casing, the foundation of many of Create's mechanical blocks such as Gearboxes. Some of the more advanced ones will require Steel, but it's possible to build a fully automatic tree and crop farm at this point.\n\nCreosote is used to create Treated Wood Planks, which can be crafted into Waterwheels and Windmills, a significant improvement over animal power.",
-
-    "quests.metal_age.fire_clay_ingredients.title": "Fire Clay Ingredients",
-    "quests.metal_age.fire_clay_ingredients.subtitle": "The TerraFirmaCraft Rite of Passage.",
-    "quests.metal_age.fire_clay_ingredients.desc": "Fire Clay is a special clay made out of Kaolinite, Graphite and regular Clay, which is especially resistant to high temperatures. Its two main uses are the Crucible, which works as an improved version of a Vessel for Metal Smelting and Alloying, and the Blast Furance, which is required for the creation of the next anvil and metal tier, Steel.\n\nYou'll likely need to travel far, far away from your base to obtain both Graphite and Kaolin Clay, so preparation is key!",
-
-    "quests.metal_age.overworld_kaolin.title": "Kaolin Source: Overworld",
-    "quests.metal_age.overworld_kaolin.subtitle": "Welcome to the Jungle",
-    "quests.metal_age.overworld_kaolin.desc": "Kaolin Clay can be found exclusively in areas with the combination of high altitude, temperature (at least 18°C), and humidity (at least 300mm rainfall). A full list of Kaolin Clay's spawn requirements and tips can be found in the Field Guide.\n\nYou'll very likely need to travel very, VERY far towards the South East, likely across the ocean. Prepare yourself with an Iron Flask, large quantities of food, some sort of watercraft like a Canoe, Rowboat or Kayak, and extra portable storage for bringing home as much Kaolin as you can.\n\nThere are quests in TerraFirmaGreg Tips that go over portable storage and watercrafts.",
-
-    "quests.metal_age.beneath_kaolin.title": "Kaolin Source: The Beneath",
-    "quests.metal_age.beneath_kaolin.subtitle": "To the Depths",
-    "quests.metal_age.beneath_kaolin.desc": "Deep, DEEP underground, past the bedrock, you'll find The Beneath, a complex network of caves filled with dangers of all kinds around every corner. In the upper areas, you may be able to find the Lush Hollow, a small green oasis in the depths where Kaolin Clay can spawn. A particular monster may be guarding it, however...!\n\nWhile you're down here, you could also look for Anthracite, an excellent fuel for making steel.\n\nSurviving in the Beneath is difficult, so check the TerraFirmaGreg Tips section of this questbook and the Field Guide for more information.",
-    "quests.metal_age.beneath_kaolin.task": "Traverse the Overworld Bedrock and reach The Beneath",
-
-    "quests.metal_age.overworld_graphite.title": "Graphite Source: Overworld",
-    "quests.metal_age.overworld_graphite.subtitle": "You mean I can't just rely on surface indicators?",
-    "quests.metal_age.overworld_graphite.desc": "Graphite spawns exclusively in flat, wide discs deep underground.\n\nYou will have to go exploring underground through the caves to try and spot some! Graphite veins can spawn in any stone type and also include Coal and Diamond. However, due to the depth of the veins, indicators likely will not appear on the surface. Tools such as a metal Shield, Digger Helmet, Propick, and Spyglass can also prove to be very useful!",
-
-    "quests.metal_age.beneath_graphite.title": "Graphite Source: The Beneath",
-    "quests.metal_age.beneath_graphite.subtitle": "To the Depths",
-    "quests.metal_age.beneath_graphite.desc": "Deep, DEEP underground, past the bedrock, you'll find The Beneath, a complex network of caves filled with dangers of all kinds around every corner. Down in the Beneath you can find huge, tall Graphite veins, but a particular monster may be guarding it...!\n\nWhile you're down here, you could also look for Anthracite, an excellent fuel for making steel.\n\nSurviving in the Beneath is difficult, so check the TerraFirmaGreg Tips section of this questbook and the Field Guide for more information.",
-    "quests.metal_age.beneath_graphite.task": "Traverse the Overworld Bedrock and reach The Beneath",
-
-    "quests.metal_age.kaolin_clay.title": "Kaolin Clay",
-    "quests.metal_age.kaolin_clay.subtitle": "Kaolin Trek: The Next Generation",
-    "quests.metal_age.kaolin_clay.desc": "Once you find Kaolin Clay, you should bring as much back as you can possibly carry! Unfortunately, only 20 percent of it will successfully cook into Kaolinite Powder, so it's recommended to bake it in situ with pit kilns, to save inventory space.\n\nAfter you craft the Crucible and the Blast Furnace, you won't need much more of it, but it's still a good idea to bring home more than you think you'll need, to avoid a repeat journey.\n\nP.S.: If you've found blood lilies but no clay, try digging down a little further! Sometimes it spawns a little underground.",
-
-    "quests.metal_age.graphite.title": "Graphite",
-    "quests.metal_age.graphite.subtitle": "Pencils do not exist",
-    "quests.metal_age.graphite.desc": "Once you find graphite, you should bring back as much as you can! Though you won't need as much of it as Kaolin clay.\nGraphite veins are also rich in Coal and Diamonds, and you'll want the coal for making Steel soon.",
-    "quests.metal_age.graphite.task": "Any form of Graphite",
-
-    "quests.metal_age.fire_clay.title": "Fire Clay",
-    "quests.metal_age.fire_clay.subtitle": "At last",
-    "quests.metal_age.fire_clay.desc": "Heat up Kaolin Clay to get Kaolinite Powder. You can use a Forge to heat them individually, but cooking big batches inside small vessels in a Pit Kiln may be faster.\n\nFor the Graphite, process the ore as normal, then crush the Graphite Dust again to get Graphite Powder.\n\nFinally, combine 4 Graphite Powder, 4 Kaolinite Powder, and 1 Clay to create Fire Clay.",
-
-    "quests.metal_age.fire_clay_products.title": "Fire Clay products",
-    "quests.metal_age.fire_clay_products.subtitle": "Extremely Heat Resistant Clay",
-    "quests.metal_age.fire_clay_products.desc": "Just like regular Clay, Fire Clay can be Knapped to create things that you'll then need to fire. Most importantly, Fire Clay is used to create the Crucible and Fire Clay Bricks, both of which are required for the Blast Furnace.\n\nYou'll also be able to create a Mold Table and Casting Channels, which lets you cast your metal from the crucible into multiple molds at once.\n\nLastly, there's Fire Ingot Molds, which only have a 1 percent chance of breaking instead of regular clay's 10 percent.",
-
-    "quests.metal_age.crucible.title": "Crucible",
-    "quests.metal_age.crucible.subtitle": "Melt metals like a pro",
-    "quests.metal_age.crucible.desc": "The Crucible is placed on top of a Forge. It comes with 9 inventory slots and has a capacity for 4032mB of fluid, including an interface to check your alloying ratios. They also retain their contents when broken. They can also collect Pig Iron when placed below a Blast Furnace.\n\nKeep in mind that the crucible WILL try to alloy everything inside it - it does not keep metals separate like a TC Smeltery - so it's a good idea to keep it clean when you aren't using it.",
-
-    "quests.metal_age.fire_bricks.title": "Fire Bricks",
-    "quests.metal_age.fire_bricks.subtitle": "For the Blast Furnace",
-    "quests.metal_age.fire_bricks.desc": "Fire Bricks are used in the construction of the Blast Furnace, you need at the very least 4 Bricks to make the furnace.\n\nThe Bricks will require insulation to make sure the process of making steel is effective, you can either place 3 Wrought Iron Sheets around the Fire Bricks, or use Blast Furnace Insulation",
-
-    "quests.metal_age.fully_stacked_blast_furnace.title": "Fully Stacked Blast Furnace",
-    "quests.metal_age.fully_stacked_blast_furnace.subtitle": "The completed Blast Furnace",
-    "quests.metal_age.fully_stacked_blast_furnace.desc": "A full size Blast Furnace is able to melt and process large amounts of iron at once. It's a good idea to make it bigger when you can, because you'll need a lot of steel for the future.\n\nAfter you've got your first Steam Alloy Smelter, you'll be able to create more Fire Bricks more cheaply.",
-
-    "quests.metal_age.blast_furnace_fuel.title": "Fuel for the Blast Furnace",
-    "quests.metal_age.blast_furnace_fuel.subtitle": "Hope you followed the tips in the previous quests...",
-    "quests.metal_age.blast_furance_fuel.desc": "Regular Charcoal is not hot enough to be able to create Steel. You will need either Coke or Anthracite.\n\nCoke can be created by putting Coal into a Coke Oven, while Anthracite can be used as-is after being dug up from the Beneath.",
-
-    "quests.metal_age.blast_furnace.title": "Blast Furnace",
-    "quests.metal_age.blast_furnace.subtitle": "Then I started Blastin'",
-    "quests.metal_age.blast_furnace.desc": "The Blast Furnace is a multiblock structure that allows you to create Pig Iron. Placing a combination of Iron, Flux and fuel (see the adjacent quest) inside the Blast Furnace produces Pig Iron, which can be worked into Steel.\n\nIn order for the Blast Furnace to reach its required high temperatures, it will need its own Bellows, used to force air through a Tuyere which you place inside the blast furnace.\n\nThe Field Guide contains an entry on how the Blast Furnace works and how to build one.",
-
-    "quests.metal_age.steel_anvil.title": "T4 Anvil: Steel",
-    "quests.metal_age.steel_anvil.subtitle": "A huge leap from wrought iron",
-    "quests.metal_age.steel_anvil.desc": "With the Steel Anvil, you'll be able to work Steel Ingots into different forms.\n\nSteel tools and equipment have a significant boost over their bronze and wrought iron counterparts, so they're worth making if your existing ones are about to break. You'll be needing to create a lot of alloys soon, so some new mining equipment would be a wise investment.",
-
-    "quests.metal_age.steel_goodies.title": "Steel level Mechanical Power",
-    "quests.metal_age.steel_goodies.subtitle": "Blow, Crush, and Pipe",
-    "quests.metal_age.steel_goodies.desc": "Steel unlocks a new Greate tier, with increased maximum stress capacity! You can now also make things like the Encased Fan, which can automate ore washing, and the Mechanical Pump, which gives you much more access to fluid logistics.\n\nThe Mechanical Pump is especially useful, as with some smarts, you can easily automate the Blast Furnace.\n\nTo power these, you also gain access to the Steam Engine, allowing you to convert fuel and water into huge amounts of mechanical power!",
-
-    "quests.metal_age.weak_steel.title": "Weak Steel Ingredients",
-    "quests.metal_age.weak_steel.subtitle": "Hope you like math",
-    "quests.metal_age.weak_steel.desc": "Weak Steel is one part of the necessary metals to create Black Steel. You can alloy it with 2 parts Steel, 1 part Nickel and 1 part Black Bronze.\n\nYou can check the liquid weak steel's recipe for more precise alloying percentage rates.",
-    "quests.metal_age.weak_steel.task1": "1 Part Nickel",
-    "quests.metal_age.weak_steel.task2": "2 Parts Steel",
-    "quests.metal_age.weak_steel.task3": "1 Part Black Bronze",
-
-    "quests.metal_age.highcarb_black_steel.title": "Black Steel Ingredients",
-    "quests.metal_age.highcarb_black_steel.subtitle": "Conservation of matter does not apply",
-    "quests.metal_age.highcarb_black_steel.desc": "The final two anvils are made out of complex alloys that will require a lot of metal to be created. Weak Steel and Pig Iron can be welded to create High Carbon Black Steel, which can then be worked on an anvil into Black Steel.",
-
-    "quests.metal_age.black_steel_anvil.title": "T5 Anvil: Black Steel",
-    "quests.metal_age.black_steel_anvil.subtitle": "Steam power is within your grasp",
-    "quests.metal_age.black_steel_anvil.desc": "With the Black Steel Anvil you'll now be able to work Black Steel Ingots into different items.\n\nYou've also now opened up a massive new section in the Early Automation chapter related to high pressure Steam Power!\n\nFrom here, you can either dive straight into industrialization or finish up the last tier of anvils if you'd like. You can't avoid colored steel forever, though!",
-
-    "quests.metal_age.black_steel_goodies.title": "Black Steel level Mechanical Power",
-    "quests.metal_age.black_steel_goodies.subtitle": "The Industrial Revolution and its consequences",
-    "quests.metal_age.black_steel_goodies.desc": "With Black Steel comes high pressure Steam Power! Stronger steel allows for more potent and compact steam boilers, fuelling new machines to craft your first electronics.",
-
-    "quests.metal_age.red_blu.title": "Red and Blue Steel",
-    "quests.metal_age.red_blu.subtitle": "Some of the oldest modded Minecraft fantasy steels",
-    "quests.metal_age.red_blu.desc": "The final tier of anvil can be made out of either Red or Blue Steel. Both are complex alloys of Steel and multiple different metals.\n\nBlue Steel is prized for its exceptional heat resistance and tool speed, while Red Steel boasts huge amounts of strength and durability.",
-
-    "quests.metal_age.weak_red_steel.title": "Weak Red Steel Ingredients",
-    "quests.metal_age.weak_red_steel.subtitle": "This is getting a little ridiculous",
-    "quests.metal_age.weak_red_steel.desc": "Like before, Weak Red Steel is the first step of Red Steel's creation. Its alloy is made from 4 parts Black Steel, 2 parts Steel, 1 part Brass, and 1 part Rose Gold.\n\nYou can check the liquid Weak Red Steel's recipe for more precise alloying percentage rates.",
-    "quests.metal_age.weak_red_steel.steel": "2 Parts Steel",
-    "quests.metal_age.weak_red_steel.black_steel": "4 Parts Black Steel",
-    "quests.metal_age.weak_red_steel.brass": "1 Part Brass",
-    "quests.metal_age.weak_red_steel.rose_gold": "1 Part Rose Gold",
-
-    "quests.metal_age.weak_blu_steel.title": "Weak Blue Steel Ingredients",
-    "quests.metal_age.weak_blu_steel.subtitle": "This is getting out of hand.",
-    "quests.metal_age.weak_blu_steel.desc": "Like before, Weak Blue Steel is the first step of Blue Steel's creation. Its alloy is made from 4 parts Black Steel, 2 parts Steel, 1 part Bismuth Bronze, and 1 part Sterling Silver.\n\nYou can check the liquid Weak Blue Steel's recipe for more precise alloying percentage rates.",
-    "quests.metal_age.weak_blue_steel.steel": "2 Parts Steel",
-    "quests.metal_age.weak_blue_steel.black_steel": "4 Parts Black Steel",
-    "quests.metal_age.weak_blue_steel.sterling_silver": "1 Part Sterling Silver",
-    "quests.metal_age.weak_blue_steel.bismuth_bronze": "1 Part Bismuth Bronze",
-
-    "quests.metal_age.highcarb_red_steel.title": "Red Steel Ingredients",
-    "quests.metal_age.highcarb_red_steel.subtitle": "Could deleting matter like this power a nuclear bomb?",
-    "quests.metal_age.highcarb_red_steel.desc": "Red Steel first starts as High Carbon Red Steel, which is made by welding Weak Red Steel and Black Steel. It needs to be worked on the Anvil to turn it into Red Steel",
-
-    "quests.metal_age.highcarb_blu_steel.title": "Blue Steel Ingredients",
-    "quests.metal_age.highcarb_blu_steel.subtitle": "Lavoisier is rolling in his grave",
-    "quests.metal_age.highcarb_blu_steel.desc": "Blue Steel first starts as High Carbon Blue Steel, which is made by welding Weak Blue Steel and Black Steel. It needs to be worked on the Anvil to turn it into Blue Steel",
-
-    "quests.metal_age.redblu_anvil.title": "T6 Anvil: Red or Blue Steel",
-    "quests.metal_age.redblu_anvil.subtitle": "It's over",
-    "quests.metal_age.redblu_anvil.desc": "The final tier of Anvil! With the Tier 6 Anvil you'll be able to work both Red and Blue Steel Ingots into different items.\n\nThis marks the end of TerraFirmaCraft's progression. Now it's time to finish the Industrial Age and create your very first Low Voltage circuitry.",
-
-    "quests.metal_age.red_steel_flask.title": "Red Steel Flask",
-    "quests.metal_age.red_steel_flask.subtitle": "This got nothing on the Iron Flask",
-    "quests.metal_age.red_steel_flask.desc": "The Red Steel Flask is the best Flask available. It may hold the same amount of liquid as an Iron Flask, but the Red Steel Flask never breaks.",
-
-    "quests.metal_age.redblu_buckets.title": "Bucket Components",
-    "quests.metal_age.redblu_buckets.subtitle": "Bucket Fusion Reactor",
-    "quests.metal_age.redblu_buckets.desc": "The final task in the Metallurgy Age is creating a Bucket. Unlike the wooden bucket and other fluid containers you've been using until now, the Bucket can be used to carry Lava and move around source blocks of other fluids.",
-
-    "quests.metal_age.this_is_a_bucket.title": "This... is a Bucket.",
-    "quests.metal_age.this_is_a_bucket.subtitle": "Dear God...",
-    "quests.metal_age.this_is_a_bucket.desc": "Congratulations on crafting the Bucket. The Metallurgy Age is officially over.\n\nGo and start working on those Low Voltage components!"
+    "quests.metal_age.weld_bronze_ingots.title": "ブロンズの溶接",
+    "quests.metal_age.weld_bronze_ingots.subtitle": "習うより慣れろ",
+    "quests.metal_age.weld_bronze_ingots.desc": "いずれかの種類のブロンズのインゴットを少なくとも14個入手し、銅の金床で溶接します。\n\n第二等級の金床はビスマスブロンズ、ブロンズ、またはブラックブロンズで作ることができますが、別の金属どうしを合わせて使うことはできません。",
+   
+    "quests.metal_age.anvil_recycling.title": "金床のリサイクル?",
+    "quests.metal_age.anvil_recycling.subtitle": "14個のインゴットが返ってきた!",
+    "quests.metal_age.anvil_recycling.desc": "次の等級の金床(銅からブロンズ、またはブロンズから錬鉄など)を作成すると、前の等級の金床は基本的に役に立たなくなります。\n\nただし、金属でできているので、前の段階の金床を溶かして再利用できます!\n壺を炉のインターフェースの右側に置き、金床を置いて溶ける温度になるまでゆっくりと加熱します。溶けた金属は壺の中にたまるので、それをインゴットなどに戻すことができます!",
+    
+    "quests.metal_age.bronze_anvil.title": "第二の金床:ブロンズ",
+    "quests.metal_age.bronze_anvil.subtitle": "機械仕掛けの時代が来ます",
+    "quests.metal_age.bronze_anvil.desc": "金属を単なるダブルインゴット以外に加工するには、同じ等級以上の金床を使用する必要があります。金床での作業はやや複雑ですが、フィールドガイドのTFG Info&Tipsに詳細が記載されています。\n\nそして、ブロンズによって機械仕掛けを利用した自動化が解放されます!",
+   
+    "quests.metal_age.bronze_goodies.title": "ブロンズを利用した機械",
+    "quests.metal_age.bronze_goodies.subtitle": "時は来た!",
+    "quests.metal_age.bronze_goodies.desc": "ブロンズは初歩的な機械仕掛けを作るのに十分な頑丈さだ!\n\nこれを利用する際は、&o序盤の自動化&rクエストの章を参考にしてください!",
+   
+    "quests.metal_age.copper_diving.title": "銅の潜水装備",
+    "quests.metal_age.copper_diving.subtitle": "そんなに銅があるんなら、これとかはどう?",
+    "quests.metal_age.copper_diving.desc": "洞窟の帯水層、何とかしたいですよね。銅の潜水装備を作れば最大20分間の潜水が可能です!",
+   
+    "quests.metal_age.bloomery.title": "塊鉄炉",
+    "quests.metal_age.bloomery.subtitle": "鉄器時代を目指して。",
+    "quests.metal_age.bloomery.desc": "塊鉄炉は、錬鉄を作成できるTerraFirmaCraftのマルチブロックです。鍛冶場で鉄を溶かすと普通の鉄(Cast Iron)が生成されます。これは脆く、錬鉄ほど強くも耐久性もありません。\n\n塊鉄炉は高価なので、自動プレート生産と鉱石処理の設備を整えるために時間を費やす価値があるでしょう。\n\nフィールドガイドには、塊鉄炉の仕組みと必要な鉄と木炭の正しい比率に関する詳しい情報が記載されています。",
+   
+    "quests.metal_age.mining.title": "金属時代の採掘",
+    "quests.metal_age.mining.subtitle": "誰にだって止められっこないさ",
+    "quests.metal_age.mining.desc": "採掘、それはこのモッドパックの醍醐味の一つです!冶金時代も例外ではありません!進行するには&l多くの&r金属を消費します。そこで役に立つのが採掘用ハンマー!これは、採掘速度が少し遅くなる代わりに、3x3x1の範囲のブロックを採掘できるツールです。スニークをしながらなら、一度に1つのブロックを破壊することもできます。",
+   
+    "quests.metal_age.bellows.title": "ふいご",
+    "quests.metal_age.bellows.subtitle": "もっと!熱くなれよ!",
+    "quests.metal_age.bellows.desc": "ふいごを使えば、炉の中に空気を送り込むことで、燃料をより早く消費して、炉の内部をより高い温度に到達させることができます。\n\nこうして生み出した高温は、木炭で陶器を焼いたり、特定の金属を溶かしたりするために必要です。\n\n石炭やコークスなら、ふいごを使わないくてもより高い温度に達することができます。",
+   
+    "quests.metal_age.wrought_iron_anvil.title": "第三の金床:錬鉄",
+    "quests.metal_age.wrought_iron_anvil.subtitle": "水車と風車、グレートな機械たち",
+    "quests.metal_age.wrought_iron_anvil.desc": "錬鉄の金床を使用すると、錬鉄のインゴットをプレートや、ツールヘッドなどのさまざまなアイテムに加工できます。\n\n錬鉄のツールと鎧はブロンズよりも大幅に性能が上がるわけではありませんが、耐久性がはるかに優れています。\n\n次の金床の作成は難易度が大幅に上がるため、腰を据えてこのモッドパックにある他の要素の探求をするのにいい時期ですよ。",
+   
+    "quests.metal_age.coke_oven.title": "コークス炉",
+    "quests.metal_age.coke_oven.subtitle": "木炭の山からの卒業",
+    "quests.metal_age.coke_oven.desc.1": "コークス炉は、最初のGregTechマルチブロックです!木炭やその他の強力な可燃物の自動的な作成に使えます。コークス炉は、1つの丸太から1つの木炭と250mbのクレオソートを生成します。クレオソートは、木材処理に使用される重要な化学物質です。\n\nメインのコークス炉ブロックを作成し、EMIの「用途」キー(デフォルトは「U」)を押すと、「マルチブロック情報」というタブが表示され、コークス炉を組み立てる方法が表示されます。\n\n本体となるブロックを設置し、スニークしながら右クリックすることで、足りないブロックのホログラムを表示することもできます。",
+    "quests.metal_age.coke_oven.desc.2": "コークス炉は、コークス炉用ハッチを使用して完全に自動化できます。ハッチは炉の側面に配置され、アイテムと液体の両方の入力と出力が可能です。\n\n入力口にクレート、出力口にチェストやクレオソートを収集するためのドラム、樽、または大きな木製タンクを使用すると、入力と出力が自動になったコークス炉を簡単に作成できます。チェストとは異なり、クレートは丸太などのサイズが大きなアイテムを入れることができます。また、レンチでGregTechパイプをスニークして右クリックすると、一方通行にすることができます。",
+   
+    "quests.metal_age.wrought_iron_goodies.title": "錬鉄を利用した機械",
+    "quests.metal_age.wrought_iron_goodies.subtitle": "安山岩合金?なにそれおいしいの?",
+    "quests.metal_age.wrought_iron_goodies.desc": "錬鉄を使用すると、安山岩ケーシングを作成できるようになります。これは、ギアボックスなどのCreateの多くの機械ブロックの基礎です。より高度なものの中にはスチールが必要なものもありますが、この時点で完全に自動化された木と作物の農場を構築することだってできます。\n\nクレオソートは、防腐木材を作成するために使用されます。これは、水車や風車に加工でき、動物の力よりも大幅に強力です。",
+   
+    "quests.metal_age.fire_clay_ingredients.title": "耐火粘土の材料",
+    "quests.metal_age.fire_clay_ingredients.subtitle": "TerraFirmaCraftの通過儀礼。",
+    "quests.metal_age.fire_clay_ingredients.desc": "耐火粘土は、カオリナイト、グラファイト、通常の粘土から作られた特殊な粘土で、特に高温に耐性があります。その2つの主な用途は、金属製錬を楽にし、壺より優れた合金作成手段として機能する「るつぼ」と、次の金床にも使われる次世代の金属であるスチールの作成に必要な「高炉」です。\n\nグラファイトとカオリン粘土の両方を入手するには、少し大規模な冒険をする必要があるため、準備をしておきましょう!",
+   
+    "quests.metal_age.overworld_kaolin.title": "地上世界のカオリン源",
+    "quests.metal_age.overworld_kaolin.subtitle": "ジャングルだ!",
+    "quests.metal_age.overworld_kaolin.desc": "カオリン粘土は、標高が高く、気温は少なくとも18度以上、そして降水量300㎜以上の地域でのみ見つけることができます。カオリン粘土の生成条件とヒントの詳細は、フィールドガイドにあります。\n\n南東の遥か遠くまで、おそらく海を越えて移動する必要があるでしょう。鉄製水筒、大量の食料、カヌー、手漕ぎボート、カヤックなどの船、そしてできるだけ多くのカオリンを持ち帰るための運搬手段を用意してください。\n\nクエストのTipsの章には、様々な運搬手段と船に関するクエストがあります。",
+   
+    "quests.metal_age.beneath_kaolin.title": "The Beneathのカオリン源",
+    "quests.metal_age.beneath_kaolin.subtitle": "さらなる深みへ",
+    "quests.metal_age.beneath_kaolin.desc": "地の底深く、岩盤を越えた先には過酷な地下空間であるThe Beneathがあります。上層部には、Beneathの緑豊かなオアシスであり、カオリン粘土が生成されるLush Hollowというバイオームが存在します。ただし、その場所には固有のモンスターがスポーンします。十分に注意しましょう。\n\nここでは、スチールを作るのに最適な燃料であるAnthraciteを採掘することもできます。\n\nThe Beneathでのサバイバルは過酷です。クエスト「Tips サバイバル」の項目とフィールドガイドで詳細を確認してください。",
+    "quests.metal_age.beneath_kaolin.task": "オーバーワールドの岩盤を横断してThe Beneathに到達する",
+   
+    "quests.metal_age.overworld_graphite.title": "地上世界のグラファイト源",
+    "quests.metal_age.overworld_graphite.subtitle": "目印はどこ?",
+    "quests.metal_age.overworld_graphite.desc": "グラファイト鉱脈は、地下深くに平らで広い円盤状に生成されます。\n\n見つけるためには、洞窟探索をする必要がありますよ!グラファイト鉱脈は、あらゆる種類の岩石にスポーンする可能性があり、鉱脈には石炭とダイヤモンドも含まれています。ただし、鉱脈は深いところに生成されるため地上に目印が現れることはめったにないです。金属製の盾、Digger Helmet、探鉱槌、望遠鏡などの道具があればきっと役に立つでしょう!",
+  
+    "quests.metal_age.beneath_graphite.title": "The Beneathのグラファイト源",
+    "quests.metal_age.beneath_graphite.subtitle": "さらなる深みへ",
+    "quests.metal_age.beneath_graphite.desc": "地の底深く、岩盤を越えた先には過酷な地下空間であるThe Beneathがあります。The Beneathでは、特大のグラファイト鉱脈を見つけることができますが、固有のモンスターがそれを守っている可能性があります。十分に注意しましょう。\n\nここでは、スチールを作るのに最適な燃料であるAnthraciteを採掘することもできます。\n\nThe Beneathでのサバイバルは過酷です。クエスト「Tips サバイバル」の項目とフィールドガイドで詳細を確認してください。",
+    "quests.metal_age.beneath_graphite.task": "オーバーワールドの岩盤を横断してThe Beneathに到達する",
+   
+    "quests.metal_age.kaolin_clay.title": "カオリン粘土",
+    "quests.metal_age.kaolin_clay.subtitle": "カオリン探訪記～さらなる発展に向かって～",
+    "quests.metal_age.kaolin_clay.desc": "カオリン粘土を見つけたら、できるだけ多く持ち帰る必要があります!悲しいことに、焼いた際にカオリナイトの粉になってくれる確率はわずか20%しかありません。より多くの成果物を運びたい場合は、穴窯でその場で焼いてしまうことをお勧めします。\n\nるつぼと高炉が作成できたら、それ以上に必要になることはありませんが、長い距離を何度も往復することを避けたければ、こんなに多くは要らないじゃないかってくらい多く持ち帰ることをお勧めします。\n\nP.S.:ハエマンサス(Blood Liiy)は見つかったがカオリン粘土が見つからない場合は、もう少し深く掘ってみてください!地下に少し生成されてることがあります。",
+   
+    "quests.metal_age.graphite.title": "グラファイト",
+    "quests.metal_age.graphite.subtitle": "鉛筆はないよ",
+    "quests.metal_age.graphite.desc": "グラファイトを見つけたら、できるだけ多く持ち帰る必要があります!カオリン粘土ほど多くは必要ありませんが。\nグラファイト鉱脈には石炭とダイヤモンドも豊富で、スチールを作るために石炭が必要になることでしょう。",
+    "quests.metal_age.graphite.task": "あらゆる形態のグラファイト",
+  
+    "quests.metal_age.fire_clay.title": "耐火粘土",
+    "quests.metal_age.fire_clay.subtitle": "やっとだ",
+    "quests.metal_age.fire_clay.desc": "カオリン粘土を加熱してカオリナイトの粉を作りましょう。炉を使用して個別に加熱してもいいですが、大量にあるなら壺に詰め込んで穴窯で焼いた方が速い場合がありますよ。\n\nグラファイトの場合は、通常どおりに鉱石を処理し、グラファイトの粉を再度粉砕して黒鉛の粉を取得します。\n\n最後に、4つの黒鉛の粉、4つのカオリナイトの粉、1つの粘土を組み合わせて耐火粘土を作成できます。",
+   
+    "quests.metal_age.fire_clay_products.title": "耐火粘土製品",
+    "quests.metal_age.fire_clay_products.subtitle": "冷笑式粘土",
+    "quests.metal_age.fire_clay_products.desc": "通常の粘土と同様に、耐火粘土も手で成型できます。最も重要な使い道は、るつぼと耐火レンガです。どちらも高炉に必要です。\n\nまた、Mold TableとCasting Channelを作成することもできます。これにより、るつぼから複数の型に一度に金属を鋳造できるようになります。\n\n最後に、耐火のインゴットの型があります。通常の粘土で作った型は10%で破損しますが、これは1％の確率で破損します。",
+   
+    "quests.metal_age.crucible.title": "るつぼ",
+    "quests.metal_age.crucible.subtitle": "これであなたも金属を溶かすプロですね",
+    "quests.metal_age.crucible.desc": "るつぼは炉の上に置かれます。9つのインベントリスロットがあり、合金比率を確認するためのインターフェースを含め、4032mBの液体を収容できます。また、壊したときにも内容物を保持してくれます。そして、高炉の下に置くと、銑鉄を収集してくれます。\n\nるつぼは内部のすべてを混ぜ合わせて合金化しようとすることに注意してください。TiCの乾式製錬炉のように金属を分離してくれませんよ!だから使用していないときは中身は空にしておくことをお勧めします。",
+    
+    "quests.metal_age.fire_bricks.title": "耐火レンガ",
+    "quests.metal_age.fire_bricks.subtitle": "高炉のために",
+    "quests.metal_age.fire_bricks.desc": "耐火レンガは高炉の建設に使用されます。炉を作るには少なくとも4つの耐火レンガブロックが必要です。\n\n耐火レンガは、製鉄のために用いる場合、断熱材を必要とします。耐火レンガの周りに3つの錬鉄シートを張り付けるか、Blast Furnace Insulationを使用しましょう",
+  
+    "quests.metal_age.fully_stacked_blast_furnace.title": "完全に積み重ねられた高炉",
+    "quests.metal_age.fully_stacked_blast_furnace.subtitle": "完全体高炉",
+    "quests.metal_age.fully_stacked_blast_furnace.desc": "フルサイズの高炉は、一度に大量の鉄を溶かして処理することができます。将来、多くのスチールが必要になるため、できるだけ大きくすることをお勧めします。\n\n合金精錬機を作れたら、より安価に耐火レンガを作成できるようになります。",
+    
+    "quests.metal_age.blast_furnace_fuel.title": "高炉の燃料",
+    "quests.metal_age.blast_furnace_fuel.subtitle": "前のクエストのヒント、見ておいてくれたらいいな...",
+    "quests.metal_age.blast_furance_fuel.desc": "通常木炭は、スチールを作成できるほど高温ではありません。コークスまたはAnthraciteのいずれかが必要です。\n\nコークスは石炭をコークス炉に入れることで作成できますが、AnthraciteだったらThe Beneathから掘り起こされた後、そのまま使用できます。",
+   
+    "quests.metal_age.blast_furnace.title": "高炉",
+    "quests.metal_age.blast_furnace.subtitle": "盛り上がってきた頃合いかな",
+    "quests.metal_age.blast_furnace.desc": "高炉は、銑鉄を作成できるマルチブロック構造体です。鉄、融剤、燃料(隣接するクエストを参照)の組み合わせを高炉に入れると、銑鉄が生成され、これはスチールに加工できます。\n\n高炉が必要な高温に達するためには、高炉用のふいごが必要になります。これは、高炉の中に配置する羽口を通して空気を送り込むために使用されます。\n\nフィールドガイドには、高炉の仕組みと構築方法に関する情報が載ってます。",
+  
+    "quests.metal_age.steel_anvil.title": "第四の金床:スチール",
+    "quests.metal_age.steel_anvil.subtitle": "錬鉄からの大躍進",
+    "quests.metal_age.steel_anvil.desc": "スチールの金床を使用すると、スチールのインゴットをさまざまな形に加工できます。\n\nスチールのツールと装備は、ブロンズや錬鉄のツールと装備よりも大幅に性能が向上しているため、ツールを新調するにはうってつけです。これから多くの合金を作成する必要があるため、採掘手段を強化しておくことをお勧めしますよ。",
+   
+    "quests.metal_age.steel_goodies.title": "スチールを利用した機械",
+    "quests.metal_age.steel_goodies.subtitle": "鋼の錬金術師",
+    "quests.metal_age.steel_goodies.desc": "スチールで作られたGreateの機械仕掛けは、最大応力容量が増加しています!また、鉱石洗浄を自動化できるEncased Fanや、液体運搬の利便性を大幅に向上させるMechanical Pumpなども作成できるようになりました。\n\nMechanical Pumpは特に便利で、うまく使えば、高炉を簡単に自動化できまよ。\n\nこれらに動力を供給するために、燃料と水を大量の応力に変換できる蒸気エンジンを作ることもできますよ!",
+  
+    "quests.metal_age.weak_steel.title": "軟鋼の材料",
+    "quests.metal_age.weak_steel.subtitle": "数学が好きであることを願っています",
+    "quests.metal_age.weak_steel.desc": "軟鋼は、黒鋼を作成するために必要な金属の一部です。2つのスチール、1つのニッケル、1つのブラックブロンズで合金化できます。\n\n液体の軟鋼のレシピで、より正確な合金化率を確認できます。",
+    "quests.metal_age.weak_steel.task1": "1つのニッケル",
+    "quests.metal_age.weak_steel.task2": "2つのスチール",
+    "quests.metal_age.weak_steel.task3": "1つのブラックブロンズ",
+  
+    "quests.metal_age.highcarb_black_steel.title": "黒鋼の材料",
+    "quests.metal_age.highcarb_black_steel.subtitle": "質量保存の法則は適用されません",
+    "quests.metal_age.highcarb_black_steel.desc": "最後の2つの金床は、作成に多くの金属を必要とする複雑な合金で作られています。軟鋼と銑鉄を溶接して高炭素黒鋼を作成し、それを金床で鍛造して黒鋼にすることができます。",
+ 
+    "quests.metal_age.black_steel_anvil.title": "第五の金床:黒鋼",
+    "quests.metal_age.black_steel_anvil.subtitle": "蒸気の力をその手の中に!",
+    "quests.metal_age.black_steel_anvil.desc": "黒鋼の金床を使用すると、黒鋼のインゴットをさまざまなアイテムに加工できるようになります。\n\nまた、序盤の自動化の章の中で高圧蒸気力に関連する大規模な項目が解放されました!\n\nここから、工業化に向けてまっすぐ進むことも、あるいは必要に応じて最上位の金床を完成させることもできます。ただし、色つきの鋼を永遠に避けることはできませんよ!",
+  
+    "quests.metal_age.black_steel_goodies.title": "黒鋼レベルの機械力",
+    "quests.metal_age.black_steel_goodies.subtitle": "産業革命がもたらしたもの",
+    "quests.metal_age.black_steel_goodies.desc": "黒鋼によって高圧蒸気力を利用した機械が解放されました!より強力な鋼のおかげで、より強力でコンパクトな蒸気ボイラーが作成可能になり、最初の電子機器を作成するための新しいマシンたちに動力を供給します。",
+ 
+    "quests.metal_age.red_blu.title": "赤鋼と青鋼",
+    "quests.metal_age.red_blu.subtitle": "マインクラフトに最古から存在した伝説の鋼",
+    "quests.metal_age.red_blu.desc": "最後の等級の金床は、赤鋼または青鋼のいずれかで作ることができます。どちらもスチールと複数の異なる金属の複雑な合金です。\n\n青鋼は、その優れた耐熱性と採掘速度に秀でており、赤鋼は膨大な強度と耐久性を誇っています。",
+ 
+    "quests.metal_age.weak_red_steel.title": "軟赤鋼の材料",
+    "quests.metal_age.weak_red_steel.subtitle": "冗談じゃないぞ",
+    "quests.metal_age.weak_red_steel.desc": "以前と同様に、軟赤鋼は赤鋼の作成の最初のステップです。その合金は、4つの黒鋼、2つのスチール、1つの真鍮、1つのローズゴールドで作られています。\n\n液体の軟赤鋼のレシピで、より正確な合金化率を確認できます。",
+    "quests.metal_age.weak_red_steel.steel": "2つのスチール",
+    "quests.metal_age.weak_red_steel.black_steel": "4つの黒鋼",
+    "quests.metal_age.weak_red_steel.brass": "1つの真鍮",
+    "quests.metal_age.weak_red_steel.rose_gold": "1つのローズゴールド",
+  
+    "quests.metal_age.weak_blu_steel.title": "軟青鋼の材料",
+    "quests.metal_age.weak_blu_steel.subtitle": "もう手に負えないよ。",
+    "quests.metal_age.weak_blu_steel.desc": "以前と同様に、軟青鋼は青鋼の作成の最初のステップです。その合金は、4つの黒鋼、2つのスチール、1つのビスマスブロンズ、1つのスターリングシルバーで作られています。\n\n液体の軟青鋼のレシピで、より正確な合金化率を確認できます。",
+    "quests.metal_age.weak_blue_steel.steel": "2つのスチール",
+    "quests.metal_age.weak_blue_steel.black_steel": "4つの黒鋼",
+    "quests.metal_age.weak_blue_steel.sterling_silver": "1つのスターリングシルバー",
+    "quests.metal_age.weak_blue_steel.bismuth_bronze": "1つのビスマスブロンズ",
+ 
+    "quests.metal_age.highcarb_red_steel.title": "赤鋼の材料",
+    "quests.metal_age.highcarb_red_steel.subtitle": "核分裂反応ってこんな感じだっけ?",
+    "quests.metal_age.highcarb_red_steel.desc": "赤鋼のための高炭素赤鋼は、軟赤鋼と黒鋼を溶接することによって作られます。これを赤鋼にするには、金床で鍛造する必要があります",
+   
+    "quests.metal_age.highcarb_blu_steel.title": "青鋼の材料",
+    "quests.metal_age.highcarb_blu_steel.subtitle": "このレシピ、ラボアジエがみたらどう思うでしょう",
+    "quests.metal_age.highcarb_blu_steel.desc": "青鋼のための高炭素青鋼は、軟青鋼と黒鋼を溶接することによって作られます。これを青鋼にするには、金床で鍛造する必要があります",
+  
+    "quests.metal_age.redblu_anvil.title": "第六の金床:赤鋼か青鋼",
+    "quests.metal_age.redblu_anvil.subtitle": "おしまい？それともはじまり？",
+    "quests.metal_age.redblu_anvil.desc": "最上級の金床!第六等級の金床を使用すると、赤鋼と青鋼の両方のインゴットをさまざまなアイテムに加工できます。\n\nこれはTerraFirmaCraftの進行の終わりを示しています。今こそ、蒸気時代を終えて、最初の低電圧回路(LV回路)を作成する時です。",
+  
+    "quests.metal_age.red_steel_flask.title": "赤鋼製水筒",
+    "quests.metal_age.red_steel_flask.subtitle": "鉄の水筒？まだまだだね",
+    "quests.metal_age.red_steel_flask.desc": "赤鋼製水筒は、利用可能な最高の水筒です。鉄製水筒と同じ量の液体を保持でき、何より赤鋼製水筒は決して壊れません。",
+  
+    "quests.metal_age.redblu_buckets.title": "バケツの材料",
+    "quests.metal_age.redblu_buckets.subtitle": "バケツの核融合",
+    "quests.metal_age.redblu_buckets.desc": "金属時代に最後にやるべきことは、バケツを作成することです。木製のバケツやこれまで使用していた他の液体運搬アイテムとは異なり、バケツは溶岩を運んだり、液体の水源を移動したりするために使用できます。",
+  
+    "quests.metal_age.this_is_a_bucket.title": "これは...バケツです。",
+    "quests.metal_age.this_is_a_bucket.subtitle": "どうやってここまで？",
+    "quests.metal_age.this_is_a_bucket.desc": "バケツの作成、本当におめでとうございます。金属時代はこれにて幕を下ろします。\n\nさあ!ついに機械の部品を作る時が来ましたよ!"
 }
