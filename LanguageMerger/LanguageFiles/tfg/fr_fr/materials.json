@@ -77,7 +77,7 @@
     "material.tfg.heavy_water": "Eau Lourde",
     "material.tfg.semiheavy_water": "Eau Semi-lourde",
     "material.tfg.nuclear_residue": "Residue Nucléaire",
-    "material.tfg.oxidized_nuclear_residue": "Résidue Nucléaire Oxidé",
+    "material.tfg.oxidized_nuclear_residue": "Résidue Nucléaire Oxydé",
     "material.tfg.refined_nuclear_residue": "Résidue Nucléaire Raffiné",
     "material.tfg.mars_air": "Air Martien",
     "material.tfg.liquid_mars_air": "Air Martien Liquide",
@@ -90,8 +90,8 @@
 
     "material.tfg.apt": "Paratungstate d'Ammonium",
     "material.tfg.ammonium_tungstate": "Tungstate d'Ammonium",
-    "material.tfg.tungsten-bismuth_oxide_composite": "Composite d'Oxide de Bismuth",
-    "material.tfg.tungsten_oxide": "Oxide de Tungsten",
+    "material.tfg.tungsten-bismuth_oxide_composite": "Composite d'Oxyde de Bismuth",
+    "material.tfg.tungsten_oxide": "Oxyde de Tungstène",
     "material.tfg.sodium_tungstate": "Tungstate de Sodium",
 
     "__comment1": " Comme les arbres Crimson et Biscornu du Nether, mais pour sonner plus comme des produit chimique.",
