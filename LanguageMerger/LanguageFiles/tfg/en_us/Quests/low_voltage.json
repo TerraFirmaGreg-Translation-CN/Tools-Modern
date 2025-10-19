@@ -84,7 +84,7 @@
 
 	"quests.low_voltage.lv_wiremill.title": "Basic Wiremill",
 	"quests.low_voltage.lv_wiremill.subtitle": "No more painful wires!",
-	"quests.low_voltage.lv_wiremill.desc.1": "You could make any other &7LV&r Machine, but it would be easiest to start with the most useful one. We know, we know... you wanna make some of the crazier stuff first, but trust us, this is the best starting point.\n\nThe Wiremill lets you make &6two Wires from one Ingot&r. That should be three times cheaper than what you were doing up until now!\n\nTo the right of this Quest, you'll find some important machines which will grant you cheaper intermediates.",
+	"quests.low_voltage.lv_wiremill.desc.1": "You could make any other &7LV&r Machine, but it would be easiest to start with the most useful one. We know, we know... you wanna make some of the crazier stuff first, but trust us, this is the best starting point.\n\nThe Wiremill lets you make &6two Wires from one Ingot&r. That should be three times cheaper than what you were doing up until now!",
 	"quests.low_voltage.lv_wiremill.desc.2": "&9Note:&r Recipes inside &3LV Machines&r go up to a maximum usage of &a32 EU/t (LV)&r. Anything higher than that and you will need a &bMV&r (or better) Machine. Needless to say, we aren't quite there yet.\n\nYou will need a &dProgrammed Circuit&r for certain recipes. We're sure you don't want to spend a precious Circuit to craft one, so &6read the dedicated quest for important details&r.\n\nWith this machine safely crafted - welcome to the age of all things electric!",
 	"quests.low_voltage.lv_wiremill.task": "Any of these",
 
