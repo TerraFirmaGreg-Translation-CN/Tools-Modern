@@ -16,7 +16,7 @@
    
     "quests.metal_age.bronze_goodies.title": "ブロンズを利用した機械",
     "quests.metal_age.bronze_goodies.subtitle": "時は来た!",
-    "quests.metal_age.bronze_goodies.desc": "ブロンズは初歩的な機械仕掛けを作るのに十分な頑丈さだ!\n\nこれを利用する際は、&o序盤の自動化&rクエストの章を参考にしてください!",
+    "quests.metal_age.bronze_goodies.desc": "ブロンズは初歩的な機械仕掛けを作るのに十分な頑丈さです!\n\nこれを利用する際は、&o序盤の自動化&rクエストの章を参考にしてください!",
    
     "quests.metal_age.copper_diving.title": "銅の潜水装備",
     "quests.metal_age.copper_diving.subtitle": "そんなに銅があるんなら、これとかはどう?",
@@ -52,7 +52,7 @@
     "quests.metal_age.fire_clay_ingredients.desc": "耐火粘土は、カオリナイト、グラファイト、通常の粘土から作られた特殊な粘土で、特に高温に耐性があります。その2つの主な用途は、金属製錬を楽にし、壺より優れた合金作成手段として機能する「るつぼ」と、次の金床にも使われる次世代の金属であるスチールの作成に必要な「高炉」です。\n\nグラファイトとカオリン粘土の両方を入手するには、少し大規模な冒険をする必要があるため、準備をしておきましょう!",
    
     "quests.metal_age.overworld_kaolin.title": "地上世界のカオリン源",
-    "quests.metal_age.overworld_kaolin.subtitle": "ジャングルだ!",
+    "quests.metal_age.overworld_kaolin.subtitle": "冒険の時間",
     "quests.metal_age.overworld_kaolin.desc": "カオリン粘土は、標高が高く、気温は少なくとも18度以上、そして降水量300㎜以上の地域でのみ見つけることができます。カオリン粘土の生成条件とヒントの詳細は、フィールドガイドにあります。\n\n南東の遥か遠くまで、おそらく海を越えて移動する必要があるでしょう。鉄製水筒、大量の食料、カヌー、手漕ぎボート、カヤックなどの船、そしてできるだけ多くのカオリンを持ち帰るための運搬手段を用意してください。\n\nクエストのTipsの章には、様々な運搬手段と船に関するクエストがあります。",
    
     "quests.metal_age.beneath_kaolin.title": "The Beneathのカオリン源",
@@ -71,11 +71,11 @@
    
     "quests.metal_age.kaolin_clay.title": "カオリン粘土",
     "quests.metal_age.kaolin_clay.subtitle": "カオリン探訪記～さらなる発展に向かって～",
-    "quests.metal_age.kaolin_clay.desc": "カオリン粘土を見つけたら、できるだけ多く持ち帰る必要があります!悲しいことに、焼いた際にカオリナイトの粉になってくれる確率はわずか20%しかありません。より多くの成果物を運びたい場合は、穴窯でその場で焼いてしまうことをお勧めします。\n\nるつぼと高炉が作成できたら、それ以上に必要になることはありませんが、長い距離を何度も往復することを避けたければ、こんなに多くは要らないじゃないかってくらい多く持ち帰ることをお勧めします。\n\nP.S.:ハエマンサス(Blood Liiy)は見つかったがカオリン粘土が見つからない場合は、もう少し深く掘ってみてください!地下に少し生成されてることがあります。",
+    "quests.metal_age.kaolin_clay.desc": "カオリン粘土を見つけたら、できるだけ多く持ち帰る必要があります! 悲しいことに、焼いた際にカオリナイトの粉になってくれる確率はわずか20%しかありません。より多くの成果物を運びたい場合は、穴窯でその場で焼いてしまうことをお勧めします。\n\nるつぼと高炉が作成できたら、それ以上に必要になることはありませんが、長い距離を何度も往復することを避けたければ、こんなに多くは要らないじゃないかってくらい多く持ち帰ることをお勧めします。\n\nP.S.:ハエマンサス(Blood Liiy)は見つかったがカオリン粘土が見つからない場合は、もう少し深く掘ってみてください!地下に少し生成されてることがあります。",
    
     "quests.metal_age.graphite.title": "グラファイト",
     "quests.metal_age.graphite.subtitle": "鉛筆はないよ",
-    "quests.metal_age.graphite.desc": "グラファイトを見つけたら、できるだけ多く持ち帰る必要があります!カオリン粘土ほど多くは必要ありませんが。\nグラファイト鉱脈には石炭とダイヤモンドも豊富で、スチールを作るために石炭が必要になることでしょう。",
+    "quests.metal_age.graphite.desc": "グラファイトを見つけたら、できるだけ多く持ち帰る必要があります! カオリン粘土ほど多くは必要ありませんが。\nグラファイト鉱脈には石炭とダイヤモンドも豊富で、スチールを作るために石炭が必要になることでしょう。",
     "quests.metal_age.graphite.task": "あらゆる形態のグラファイト",
   
     "quests.metal_age.fire_clay.title": "耐火粘土",
@@ -162,11 +162,11 @@
     "quests.metal_age.highcarb_blu_steel.desc": "青鋼のための高炭素青鋼は、軟青鋼と黒鋼を溶接することによって作られます。これを青鋼にするには、金床で鍛造する必要があります",
   
     "quests.metal_age.redblu_anvil.title": "第六の金床:赤鋼か青鋼",
-    "quests.metal_age.redblu_anvil.subtitle": "おしまい？それともはじまり？",
+    "quests.metal_age.redblu_anvil.subtitle": "おしまい? それともはじまり?",
     "quests.metal_age.redblu_anvil.desc": "最上級の金床!第六等級の金床を使用すると、赤鋼と青鋼の両方のインゴットをさまざまなアイテムに加工できます。\n\nこれはTerraFirmaCraftの進行の終わりを示しています。今こそ、蒸気時代を終えて、最初の低電圧回路(LV回路)を作成する時です。",
   
     "quests.metal_age.red_steel_flask.title": "赤鋼製水筒",
-    "quests.metal_age.red_steel_flask.subtitle": "鉄の水筒？まだまだだね",
+    "quests.metal_age.red_steel_flask.subtitle": "鉄の水筒? まだまだだね",
     "quests.metal_age.red_steel_flask.desc": "赤鋼製水筒は、利用可能な最高の水筒です。鉄製水筒と同じ量の液体を保持でき、何より赤鋼製水筒は決して壊れません。",
   
     "quests.metal_age.redblu_buckets.title": "バケツの材料",
@@ -174,6 +174,6 @@
     "quests.metal_age.redblu_buckets.desc": "金属時代に最後にやるべきことは、バケツを作成することです。木製のバケツやこれまで使用していた他の液体運搬アイテムとは異なり、バケツは溶岩を運んだり、液体の水源を移動したりするために使用できます。",
   
     "quests.metal_age.this_is_a_bucket.title": "これは...バケツです。",
-    "quests.metal_age.this_is_a_bucket.subtitle": "どうやってここまで？",
-    "quests.metal_age.this_is_a_bucket.desc": "バケツの作成、本当におめでとうございます。金属時代はこれにて幕を下ろします。\n\nさあ!ついに機械の部品を作る時が来ましたよ!"
+    "quests.metal_age.this_is_a_bucket.subtitle": "どうやってここまで?",
+    "quests.metal_age.this_is_a_bucket.desc": "バケツの作成、本当におめでとうございます。金属時代はこれにて幕を下ろします。\n\nさあ! ついに機械の部品を作る時が来ましたよ!"
 }

@@ -1,301 +1,301 @@
 {
-	"quests.steam_age": "Early Automation",
-	"quests.steam_age.subtitle": "From Primitive Machines to Steam Power",
-
-	"quests.steam_age.basic_greate.title": "Basics of Greate",
-	"quests.steam_age.basic_greate.subtitle": "Tired of Create? This'll make it more interesting",
-	"quests.steam_age.basic_greate.desc": "Greate is a fusion of &3Create&r and &3GregTech&r that has different tiered versions of Create's machines. It also introduces stress limits on Shafts and Cogwheels, so you'll have to plan more about how you power your machinery!\n\nGenerally speaking, you'll want smaller setups with their own individual power sources, instead of doing the usual Create thing of having a blob of water wheels connected into a single Shaft into your base.",
-
-	"quests.steam_age.create_tools.title": "Tools of the Trade",
-	"quests.steam_age.create_tools.subtitle": "These may be useful",
-	"quests.steam_age.create_tools.desc": "A wrench will let you quickly pick up Create blocks by Sneak + Right-Clicking on them, though an axe or pickaxe will still work too. The goggles will let you see much more detailed information about your machines, such as how much stress they're producing or consuming.\n\nBoth of these are optional for now, but will prove to be very useful, and you'll definitely want them later.\n\nCheck the TFG Tips chapter for help on glassblowing. Did you know that breaking cobblestone with a hammer will turn it into gravel, and breaking that again will turn it into sand...?",
-
-	"quests.steam_age.basic_millstone.title": "Automatic Ore Processing",
-	"quests.steam_age.basic_millstone.subtitle": "No more querning",
-	"quests.steam_age.basic_millstone.desc": "The &3Millstone&r is an automatic version of the Quern. You can throw whatever you'd like into the top, and then right-click to take your crushed items back out. It's pretty slow if you connect it directly to your Animal Crank, but you can use gear ratios to increase its speed.\n\nYou will only receive the output in the first slot. The other slots are part of a GregTech mechanic that won't be relevant until much later (&6HV&r).",
-
-	"quests.steam_age.horse_crank.title": "Your First Power Source",
-	"quests.steam_age.horse_crank.subtitle": "Make your livestock pay rent",
-	"quests.steam_age.horse_crank.desc.1": "The &3Animal Crank&r is your first accessible source of mechanical power. To use it, place the crank on the center of a 7x7 cleared area and leash an animal to it. Different animals will provide different amounts of power, while the blocks underneath will increase the speed of the output power. The area of multiple cranks can overlap.\n\nYou may need to hold a second lead to attach an animal.",
-	"quests.steam_age.horse_crank.desc.2": "&3Small Animals (4 SU):&r\nWolf, Dog, Pig, Sheep, Goat, Alpaca\n\n&3Medium Animals (6 SU):&r\nCow, Donkey\n\n&3Large Animals (8 SU):&r\nHorse, Mule, Musk Ox, Yak",
-
-	"quests.steam_age.poor_paths.title": "Poor Paths",
-	"quests.steam_age.poor_paths.subtitle": "This is just dirt",
-	"quests.steam_age.poor_paths.desc": "This is the worst kind of road you could use. The animal crank will operate at 2 RPM.",
-
-	"quests.steam_age.normal_paths.title": "Medium Paths",
-	"quests.steam_age.normal_paths.subtitle": "Ok, you put a little effort in",
-	"quests.steam_age.normal_paths.desc": "Medium paths are a little better and will let your animals turn the crank at 4 RPM.\n\nNote: You can't have a Dirt Path block directly under the animal crank, so that one will have to be Gravel.",
-
-	"quests.steam_age.good_paths.title": "Great Paths",
-	"quests.steam_age.good_paths.subtitle": "No horseshoes required!",
-	"quests.steam_age.good_paths.desc": "These are the best kind of paths you could use, letting your crank output at 8 RPM. These kinds of paths also increases the player's move speed too, so they're great to pave your base with!",
-
-	"quests.steam_age.helve_hammer.title": "Helve Hammer",
-	"quests.steam_age.helve_hammer.subtitle": "CLANG... CLANG... CLANG...",
-	"quests.steam_age.helve_hammer.desc": "Does crafting all those plates for a Bloomery look tedious? The &3Helve Hammer&r will automatically (but slowly) flatten double ingots into plates for you. You'll still have to do the welding yourself though. Simply place an anvil directly under the hammer and throw your double ingots onto it, then right-click the hammer to get your plates out.\n\nHigher tier anvils will also require fewer hits to make plates from the previous tier.",
-
-	"quests.steam_age.water_wheel.title": "Water Wheels",
-	"quests.steam_age.water_wheel.subtitle": "Hope you set up your base near a river!",
-	"quests.steam_age.water_wheel.desc": "Water wheels provide much more power than the Animal Crank, at the expense of requiring flowing water. You don't have the ability to move water sources yet, so you'll need to find a river to power these. Oceans and Lakes can also provide a little power, but if you're far inland, you're better off looking at building a windmill.\n\nYou can get treated wood by soaking any planks in creosote from your Coke Oven.",
-
-	"quests.steam_age.large_water_wheel.title": "Large Water Wheels",
-	"quests.steam_age.large_water_wheel.subtitle": "Larger, stronger, more expensive",
-	"quests.steam_age.large_water_wheel.desc": "Large water wheels provide four times as much power as the small water wheels, but still require flowing water from a river. Oceans and Lakes can also provide a little power, but if you're far inland, you're better off looking at building a windmill or steam engine.\n\nYou can get treated wood by soaking any planks in creosote from your Coke Oven.",
-
-	"quests.steam_age.windmill.title": "Windmills",
-	"quests.steam_age.windmill.subtitle": "Pairs well with tulips",
-	"quests.steam_age.windmill.desc": "If you aren't near flowing water, a windmill is another effective option for a better source of power. Bigger windmills provide more stress units and faster speeds.\n\nYou can get treated wood by soaking any planks in creosote from your Coke Oven.",
-
-	"quests.steam_age.metal_casing.title": "Metal Casings",
-	"quests.steam_age.metal_casing.subtitle": "Primitive Machine Hull?",
-	"quests.steam_age.metal_casing.desc": "These are the basis of most of the simple machines you can build with Create. Check JEI for all the different things you can craft with this, including Gearboxes and other ways to control your stress units.\n\nNew to Create? There's many tutorials online about different kinds of contraptions you can build, and most of them will still work in TFG too! (Except anything involving cobble generators)",
-
-	"quests.steam_age.mechanical_harvester.title": "Mechanical Harvester",
-	"quests.steam_age.mechanical_harvester.subtitle": "Robotic Cherrypicking",
-	"quests.steam_age.mechanical_harvester.desc": "Too lazy to harvest and replant your crops? These will do it for you! Place them on a spinning contraption and watch them go. These won't work on crops planted inside a greenhouse though.\n\nProtip: It's always a constant 15°C down at bedrock level, so it's a cool location for a farm that can grow crops all year round!",
-
-	"quests.steam_age.mechanical_saw.title": "Mechanical Saw",
-	"quests.steam_age.mechanical_saw.subtitle": "Efficient cutting of wood, stone, and your fingers",
-	"quests.steam_age.mechanical_saw.desc": "Tired of chopping trees? These will do it for you! Place them on a spinning contraption and watch them go. Unfortunately, you'll still have to replant the saplings them yourself until you get access to a Deployer.\n\nA Mechanical Saw can also double as a stonecutter, giving easier access to various forms of masonry. Using it to chop logs into lumber is also more efficient!\n\nYou can also use it to cut Rods into four Bolts!",
-
-	"quests.steam_age.chute.title": "Early Logistics",
-	"quests.steam_age.chute.subtitle": "Public infrastructure for your items",
-	"quests.steam_age.chute.desc": "You now have access to ways to move your items around! Chutes are similar to hoppers and are cheaper, but can only move items downwards. Both of these can also push items from container into Item Pipes.\n\nFunnels are similar but are best paired with Belts instead of Item Pipes.",
-
-	"quests.steam_age.item_pipes.title": "Item Pipes",
-	"quests.steam_age.item_pipes.subtitle": "Not as cool as Item Conduits",
-	"quests.steam_age.item_pipes.desc.1": "&3Item Pipes&r are a simple yet effective way to move items around &dinstantly&r, but with throughput limitations.\n\nHigher tier pipes provide ridiculously large throughput - a rare sight in modded Minecraft!\n\nItem Pipes &9do not pull&r, but they will push any item inserted into them to other connected inventories, prioritizing &9the closest inventory&r first.",
-	"quests.steam_age.item_pipes.desc.2": "The priority mechanics are &osomewhat complicated&r, so skip ahead if you aren't interested:\n\nA &eDestination&r will have a &dRouting Value&r calculated, which is the sum of all \"Routing Values\" of the individual Pipes to that Destination. Whichever Destination has the &clowest &dRouting Value&r will be the one selected for Insertion.\n\n&3Restrictive Pipes&r typically have the lowest Priority for insertion due to their higher Routing Value.",
-	"quests.steam_age.item_pipes.desc.3": "Right now, you can use them in combination with &6Chutes&r and &6Hoppers&r, but you will also be able to use them with Conveyor Modules, Output Buses, and machine Auto-Outputs all in the LV age.\n\n&9Note:&r GT6-style Pipes are &denabled&r. It means that placing Pipes connect them only to the block they were placed against. To open more connections, use your &5Wrench&r on the grid.\n\nGet &eany&r of the suggested Item Pipes to complete this quest.",
-	"quests.steam_age.item_pipes.desc.4": "&l&3Lore:&r&o Oooooh, YEAH! Item Pipes were in GregTech 5, and for whatever reason they weren't kept for GTCE, so you had to use other mods to transport items. Who does that!? Jokes aside, we hope you enjoy Item Pipes being back in GregTech!",
-
-	"quests.steam_age.steel_greate.title": "Steel-tier Greate",
-	"quests.steam_age.steel_greate.subtitle": "Greate so good they made Greate 2",
-	"quests.steam_age.steel_greate.desc": "Welcome to the next tier of Greate! Steel Shafts and Cogwheels can hold four times as much stress as your old ones. The total stress limit of a kinetic setup is determined by the weakest link, so unfortunately you'll have to replace your old setup if you want to reap the rewards. Some of the old parts can be recycled at least!",
-
-	"quests.steam_age.steel_encased_fan.title": "Encased Fan",
-	"quests.steam_age.steel_encased_fan.subtitle": "Great for hot days",
-	"quests.steam_age.steel_encased_fan.desc": "The &3Encased Fan&r is the final step in your first fully automatic ore processing line, so you no longer need to clean your impure dusts by hand. Point the fan at your dusts with a water source between, and they'll be gleaming in no time. As a bonus, it'll give you some extra byproducts too! It might be tricky to move a water source right now, but you can build around an existing part of a river or lake.",
-
-	"quests.steam_age.steel_millstone.title": "Steel Millstone",
-	"quests.steam_age.steel_millstone.subtitle": "A worthwhile upgrade",
-	"quests.steam_age.steel_millstone.desc": "With a much higher kinetic capacity, the steel millstone is a worthwhile upgrade over your basic one, letting you spin it much faster for quicker crushing. A good upgrade for all the different new ores you'll be getting soon!\n\nAgain though, it only outputs items in the first slot in JEI.",
-
-	"quests.steam_age.steel_pump.title": "Fluid Handling",
-	"quests.steam_age.steel_pump.subtitle": "Delicious pipe spaghetti",
-	"quests.steam_age.steel_pump.desc.1": "With the Steel Age, now you can automate fluids as well as items! The &3Mechanical Pump&r can pull fluids out of pretty much anything, including barrels, crucibles, and even source blocks. You can use it with either Create's or GregTech's fluid pipes, though each behaves a little differently.",
-	"quests.steam_age.steel_pump.desc.2": "Create's pipes have no internal fluid capacity, instead transporting fluids directly from source to destination. You can right-click them with a Copper Casing to \"lock\" any connections in place, and right-clicking them with a wrench will open a little window that prevents intersections, so you can run multiple pipes next to each other. Create's pipes also require a mechanical pump to use, and each pump only has a range of 16 blocks, but one pump can pull fluids from multiple sources at once.\nThey also have no temperature limit!",
-	"quests.steam_age.steel_pump.desc.3": "On the other hand, GregTech's pipes do have their own internal fluid capacity and don't require a pump once fluid is inside them. Like item pipes, their connections can also be fully controlled by sneak right-clicking them with an empty off-hand, and we recommend doing so on all your pipes otherwise the fluid sloshes around.\n\nAre your mechanical pumps and GregTech pipes not connecting? Flip the pump twice (right-click with a wrench) and that should get them working together.",
-
-	"quests.steam_age.mold_table.title": "Blast Furnace Automation",
-	"quests.steam_age.mold_table.subtitle": "The Electric Blast Furnace is a long way off",
-	"quests.steam_age.mold_table.desc.1": "You're going to need &3tons&r of steel for a while, so automating your blast furnace is definitely a worthwhile investment. The Mechanical Pump can pull fluids directly out of the blast furnace (much faster than it drips into a crucible) into a Mold Table, and the pump will also let the ingots cool instantly! You can then put a Chute or Hopper directly under the mold table to pull the ingots out of it. From there, you can send the Pig Iron Ingots over to your Helve Hammer.",
-	"quests.steam_age.mold_table.desc.2": "If you'd like, you can also use a Chute to drop your items into the top of the blast furnace, and a Deployer to automatically work the bellows. Excessive bellow blowing will quickly use up the durability of your Tuyere, though item pipes can push a new one in.\n\nYou could even have a pump pull from both your blast furnace and your crucible, using a Fluid Valve to stop the pump while you're alloying, and turn it back on once you're finished.",
-
-	"quests.steam_age.fluid_pipes.title": "Fluid Pipes",
-	"quests.steam_age.fluid_pipes.subtitle": "Liquids, gases... we don't discriminate",
-	"quests.steam_age.fluid_pipes.desc.1": "&bFluid Pipes&r will transport &7Steam&r between machines for you.\n\nEach Pipe has a certain throughput in mB/t, and a &6Temperature Limit&r. This is relevant right now, as Steam will burn Wooden Pipes. Some pipes have &bspecial&r attributes you don't need to worry about for now.\n\nEach material has several sizes for Pipes. The bigger the Pipe, the &ahigher&r the throughput, but the more &dexpensive&r the craft. For example, a normal &6Bronze Fluid Pipe&r transfers 120 mB/t. (It also has a 1,200 mB internal buffer!)\n\nTo start off, we recommend using Wood pipes for cold fluids, and Bronze ones for hot fluids.",
-	"quests.steam_age.fluid_pipes.desc.2": "&aReminder:&r 1 second = 20 ticks... assuming the server isn't lagging.\n\n&dNote:&r GT6-style Pipes are enabled. It means that placing Pipes connects them only to the block they were placed against. To open more connections, use your Wrench on the pipe.\n\nYou can also shift-right click with your Wrench to disable input from a side. This can help counteract sloshing (liquids travelling in an undesired direction).",
-
-	"quests.steam_age.fluid_drums.title": "Efficient Fluid Storage",
-	"quests.steam_age.fluid_drums.subtitle": "I don't think a wooden barrel can hold molten steel",
-	"quests.steam_age.fluid_drums.desc.1": "&6TFG&r can quickly get &4overwhelming&r with the plethora of fluids it introduces, so you may be looking for a way to store them.\n\nIntroducing... &aDrums&r! They have large internal buffers, and any &aDrum&r can be broken and picked up and will &dkeep the fluid&r inside. A right-click with a Soft Mallet allows a Drum to drain its content into another container placed below it.",
-	"quests.steam_age.fluid_drums.desc.2": "&l&3Lore:&r&o These drums are actually ported from GregTech 6.",
-
-	"quests.steam_age.boilers.title": "Steam Boilers",
-	"quests.steam_age.boilers.subtitle": "Portable Steamroom",
-	"quests.steam_age.boilers.desc.1": "Steam machines need to be powered! You have three options to generate steam: the &3Solid&r boiler accepts solid fuels like coal and charcoal, the &3Liquid&r boiler accepts liquids like creosote and lava, and the &3Solar&r boiler requires no fuel but only works during the day. The choice is yours, but we recommend the liquid one if you're unsure.\n\nSteam machines all have a vent which needs to stay unblocked in order for them to work properly.",
-	"quests.steam_age.boilers.desc.2": "&aWarning:&r Boilers will &bexplode&r if you attempt to put water into them while they are dry and hot. It's best to always have water being pumped into them, but you can always break and place the block to reset its temperature.",
-	"quests.steam_age.boilers.tasks": "Any High Pressure Steam Boiler",
-
-	"quests.steam_age.steam_bloomery.title": "Steam Bloomery",
-	"quests.steam_age.steam_bloomery.subtitle": "The Bloomery's uncle",
-	"quests.steam_age.steam_bloomery.desc": "You're always going to need a lot of Wrought Iron, so why not automate your Bloomery? The next closest way to automate wrought iron is way off in LV. The Steam Bloomery is a new multiblock that'll automate your old TFC bloomery, and do it faster too! Like with the Coke Oven, you can press the JEI 'Uses' key (defaults to \"U\") to show the multiblock preview tab. Click on individual blocks to see what's valid in each location.",
-
-	"quests.steam_age.steam_furnace.title": "Steam Furnace",
-	"quests.steam_age.steam_furnace.subtitle": "The Steam Furnace furnaces...",
-	"quests.steam_age.steam_furnace.desc": "Want to quickly smelt something into an ingot? The &3Steam Furnace&r does just that! It can turn many ores and dusts quickly into their ingot form, at the expense of not getting any byproducts.",
-
-	"quests.steam_age.steam_oven.title": "Steam Oven",
-	"quests.steam_age.steam_oven.subtitle": "The Steam Grinder's big brother",
-	"quests.steam_age.steam_oven.desc.1": "&o...or little brother. Don't let him know!&r\n\nThe &3Steam Oven&r is a great multiblock option if you need &6effortlessly smelt large quantities of items.&r No more lines of furnaces that you have to manually empty and refuel!\n\nIt effectively behaves as a parallel furnace, smelting up to 8 items at a time for a low cost of Steam.",
-	"quests.steam_age.steam_oven.desc.2": "&l&3Lore:&r&o This Multiblock - despite being very similar to its brother, the Steam Grinder - isn't ported from a GregTech version or addon. Its actual progenitor is the Steam Oven from Railcraft, which dates back to 1.4.7!",
-
-	"quests.steam_age.steam_macerator.title": "Steam Macerator",
-	"quests.steam_age.steam_macerator.subtitle": "The Steam Macerator macerates...",
-	"quests.steam_age.steam_macerator.desc": "This machine does exactly the same thing as the Millstone, so if you already have one of those, there's not much point to building this. Still, one or the other is required for progression at this point. No, this machine doesn't output any of the extra output slots either. You'll have to wait until &6HV&r for that.",
-
-	"quests.steam_age.steam_grinder.title": "Steam Grinder",
-	"quests.steam_age.steam_grinder.subtitle": "The Steam Macerator's little sister",
-	"quests.steam_age.steam_grinder.desc": "Like the Steam Oven, the &3Steam Grinder&r is an upgraded version of the single-block version that can do multiple items at the same time. Is it worth it? That's totally up to you.",
-
-	"quests.steam_age.rock_crusher.title": "Steam Rock Crusher",
-	"quests.steam_age.rock_crusher.subtitle": "The Rock Crusher duplicates blocks... wait what?",
-	"quests.steam_age.rock_crusher.desc": "The Rock Crusher is basically a cobblestone generator in a box. It can take any raw stone or cobblestone and generate more of it, at the low cost of just a little steam. This doesn't help at all for progression, but if you're looking to make a lot of bricks, this machine is perfect.",
-
-	"quests.steam_age.forge_hammer.title": "Steam Forge Hammer",
-	"quests.steam_age.forge_hammer.subtitle": "The Forge Hammer hammers...",
-	"quests.steam_age.forge_hammer.desc": "With the creation of this machine, many recipes that once required you to use a hammer can instead be made here!\n\nIt can process &bCobblestone into Gravel&r, and &dGravel into Sand&r - and it's zippy at that to boot.\n\nLast but not least, it makes &aPlates&r at a better ratio: &6three Ingots for two Plates&r. A worthwhile investment!\n\nOn top of all that, the Forge Hammer lets you (slowly) work in-between ingots such as Raw Blooms into Wrought Iron, or Pig Iron into Steel, if you want a more compact version of the Helve Hammer!",
-
-	"quests.steam_age.alloy_smelter.title": "Steam Alloy Smelter",
-	"quests.steam_age.alloy_smelter.subtitle": "The Alloy Smelter makes alloys...",
-	"quests.steam_age.alloy_smelter.desc": "The &bAlloy Smelter&r is used for, well, alloys. You'll want it for the efficient &6Bronze&r recipe, and for &4Red Alloy&r in the near future.\n\nIt can also weld High Carbon ingots together at a much more efficient rate!\n\nOut of all the &6Steam Age&r machines, this is the most steam-hungry. If you ever find yourself running out of steam, give your machine a &alove-tap&r with &dany Soft Mallet&r to momentarily pause it.",
-
-	"quests.steam_age.compressor.title": "Steam Compressor",
-	"quests.steam_age.compressor.subtitle": "The Steam Compressor compresses...",
-	"quests.steam_age.compressor.desc": "The &3Steam Compressor&r can turn ingots and gems into blocks, nuggets into ingots, and most importantly, wood pulp into single Planks. You'll see why those are important soon!",
-
-	"quests.steam_age.molding.title": "Molding",
-	"quests.steam_age.molding.subtitle": "Reduce the amount of malding by molding",
-	"quests.steam_age.molding.desc": "In addition to alloying metals together, the Alloy Smelter can also use &3Molds&r to convert materials into different shapes.\n\nYou'll want the listed molds for future alloy smelting. Be sure to make &aMolds&r - don't make &cExtruder Shapes&r, as they're used in a different machine.\n\nYou may also be interested in the Gear molds, but using them to craft gears is more expensive than doing it by hand.",
-
-	"quests.steam_age.red_alloy.title": "Red Alloy",
-	"quests.steam_age.red_alloy.subtitle": "A completely fictional alloy",
-	"quests.steam_age.red_alloy.desc": "&4Red Alloy&r is an alloy of Copper and Redstone, prized in the GregTech universe for its conductivity. You can craft it either in an Alloy Smelter or in your Crucible, if you'd like.\n\nYou will need some for &9Electron Tubes&r.\n\n&l&3Lore:&r&o This material originally comes from RedPower - what a throwback!",
-
-	"quests.steam_age.extractor.title": "Steam Extractor",
-	"quests.steam_age.extractor.subtitle": "The Steam Extractor extracts...",
-	"quests.steam_age.extractor.desc": "Not many items are made in the &3Extractor&r during the &6Steam Age&r, as it lacks the capability to extract fluids.",
-
-	"quests.steam_age.glass_tube.title": "Glass Tubes",
-	"quests.steam_age.glass_tube.subtitle": "You'll want a lot of these",
-	"quests.steam_age.glass_tube.desc": "While you could make all of these by hand with glassblowing, it's much more time efficient to create them in your Alloy Smelter with the appropriate mold instead. Need a lot of glass dust? You can either glassblow 16 panes at once to macerate them, or use the Rock Crusher and Forge Hammer to get lots of sand, then add a little Flint dust to turn it into glass dust.",
-
-	"quests.steam_age.treated_planks.title": "Treated Planks",
-	"quests.steam_age.treated_planks.subtitle": "Also known as Treated Plywood",
-	"quests.steam_age.treated_planks.desc": "Hope you've been saving up your creosote, because making these pulped and compressed planks is another use for it.\n\n&l&3Lore:&r&o In earlier versions of TerraFirmaGreg, this was the point when you could actually start Create!",
-
-	"quests.steam_age.electron_tube.title": "Electron Tube",
-	"quests.steam_age.electron_tube.subtitle": "Ultra Ultra Low Voltage...?",
-	"quests.steam_age.electron_tube.desc": "These may be initally very painful to craft, but you should use your first few on setting up a line of Deployers, to make crafting them significantly cheaper.\n\nBesides Deployers, these are also used for a wide variety of advanced Create machines!",
-
-	"quests.steam_age.rotation_speed_controller.title": "Rotation Speed Controller",
-	"quests.steam_age.rotation_speed_controller.subtitle": "No more manual gear ratios!",
-	"quests.steam_age.rotation_speed_controller.desc": "The &3Rotation Speed Controller&r can simplify all of your cogwheel spaghetti into a single block, letting you adjust RPM in a simple, compact way. These will be useful later when you have more machines to balance your stress units between!",
-
-	"quests.steam_age.mech_crafter.title": "Mechanical Crafter",
-	"quests.steam_age.mech_crafter.subtitle": "For those extra large crafting recipes",
-	"quests.steam_age.mech_crafter.desc": "Don't worry, these are entirely optional, but they are used for a couple one-time crafts that you may find very useful, outside of the two listed here.",
-
-	"quests.steam_age.crushing_wheel.title": "Crushing Wheels",
-	"quests.steam_age.crushing_wheel.subtitle": "The Millstone's cousin's wife's boyfriend",
-	"quests.steam_age.crushing_wheel.desc": "These do exactly the same thing as the other crushing-related machines earlier in the chapter, but faster and in bulk. They're pretty equivalent to the Steam Grinder.",
-
-	"quests.steam_age.centrifuge.title": "Mechanical Centrifuge",
-	"quests.steam_age.centrifuge.subtitle": "A World Revolving",
-	"quests.steam_age.centrifuge.desc": "Ore processing will always be an important part of this modpack, and this machine is another (optional) part of that. By following a different route of ore processing steps (check the Ore Processing Diagram tab in JEI), you can use this centrifuge to get some bonus byproducts out of your ores! The next upgrade to your ores won't be until the LV Thermal Centrifuge, so whether or not this is a worthwhile investment is up to you.",
-
-	"quests.steam_age.steam_engine.title": "Steam Engine",
-	"quests.steam_age.steam_engine.subtitle": "Time for some real steam power",
-	"quests.steam_age.steam_engine.desc": "Water wheels and windmills not cutting it any more? It wouldn't be a steam age without a proper steam engine! Each steam engine can output a whole 256 SU, giving you much more power to play with.\n\nBlaze Burners can be crafted without leaving your house, and you can use a Mechanical Arm to automatically feed them solid fuel, or directly pipe liquid fuel (such as creosote). Coal Gems, Anthracite, and Coke can also be used to superheat them.",
-
-	"quests.steam_age.fuel_sources.title": "More Fuel Sources",
-	"quests.steam_age.fuel_sources.subtitle": "Putting the power in steam power",
-	"quests.steam_age.fuel_sources.desc": "The steam engine can accept more liquid fuels than the High Pressure Liquid Boiler. While Creosote or Lava are the easiest to set up at this point, you might also be interested in various plant-based oils like &eSeed Oil&r from Sunflowers or Canola.\n\nCreosote and Lava also don't scale very well once you get into further tiers, while Biofuel can be upgraded into Diesel and then Cetane-Boosted Diesel, so start setting up a big field for plant oils now if that sounds appealing to you!",
-
-	"quests.steam_age.deployers.title": "Deployers",
-	"quests.steam_age.deployers.subtitle": "Primitive Assembly Line",
-	"quests.steam_age.deployers.desc": "While you could use a single deployer for the rest your time in this chapter, we &3really&r don't recommend it. Setting up a line of deployers along a belt will save heaps of time and sanity, and it's not like you'll be wasting materials either, because you can always reuse them to upgrade your tree farm later.\n\nThese will also make electron tubes significantly cheaper!",
-
-	"quests.steam_age.trains.title": "Trains",
-	"quests.steam_age.trains.subtitle": "Waypoints wishes it was as cool as these",
-	"quests.steam_age.trains.desc": "Trains are a fantastic option when it comes to any sort of long distance transportation, whether that's players, items, or fluids! They can also safely travel through unloaded chunks. There won't be any sort of player teleportation for a very long time, so if you'd like to set up a continent-spanning rail network, you don't have to worry about it getting outdated.",
-
-	"quests.steam_age.wood_plank.title": "Wood Planks",
-	"quests.steam_age.wood_plank.subtitle": "Untreated Plywood...?",
-	"quests.steam_age.wood_plank.desc": "These are the same as the Treated Planks adjacent to this quest, except you can use any wood instead of having to dunk them in creosote first.",
-
-	"quests.steam_age.organization.title": "Staying Organized",
-	"quests.steam_age.organization.subtitle": "You're already in the first circle of microcrafting hell",
-	"quests.steam_age.organization.desc": "Struggling to keep up with all the recipes and items you need? Here's a couple options which may help:\n\n&3Clipboard&r: This handy item is a portable to-do list, letting you check off items as you like.\n\n&3Crafting Blueprint&r: Keeps track of frequent recipes, letting you craft batches without having to find the recipe in JEI.\n\n&3JEI's Bookmarks&r: You can press the \"Add/Remove Bookmark\" key (default \"A\") when hovering over an item in JEI to bookmark it. You can also bookmark whole recipes by pressing this key on the output!",
-
-	"quests.steam_age.resin_boards.title": "Resin-Coated Boards",
-	"quests.steam_age.resin_boards.subtitle": "I guess you could say we're... bored of LaTeX?",
-	"quests.steam_age.resin_boards.desc": "Did you know tree taps can drip directly into GregTech pipes and drums? Now you do!",
-
-	"quests.steam_age.circuit_boards.title": "Electronics #2: Circuit Boards",
-	"quests.steam_age.circuit_boards.subtitle": "The easier component for circuits",
-	"quests.steam_age.circuit_boards.desc": "Combine those Resin Circuit Boards with some Copper Wires and you've got the base for your first &aCircuit&r!",
-
-	"quests.steam_age.vacuum_chamber.title": "Vacuum Chamber",
-	"quests.steam_age.vacuum_chamber.subtitle": "Putting the Vacuum in Vacuum Tubes",
-	"quests.steam_age.vacuum_chamber.desc": "This machine is the final step in making your first Vacuum Tubes. Place it above a Basin and give it some power, and make sure the machine is set to Vacuumizing mode.\n\nThis machine can also help liquefy glue and rubber while being heated by either a Charcoal Forge or a Blaze Burner.",
-
-	"quests.steam_age.vacuum_tubes.title": "Electronics #3: Vacuum Tubes",
-	"quests.steam_age.vacuum_tubes.subtitle": "The harder component for circuits",
-	"quests.steam_age.vacuum_tubes.desc": "Crafting Vacuum Tubes might make you question your existence. They're very expensive right now, but they'll get cheaper in a moment - that's the general GregTech philosophy!\n\nVacuum Tubes are also technically your first Ultra Low Voltage (&8ULV&r) Circuit! Congratulations! From here you can either jump right into crafting LV Circuits, or spend some more time in Steam Age, making some other machines out of the Vacuum Tubes you just crafted.",
-
-	"quests.steam_age.resistors.title": "Electronics #1: Resistors",
-	"quests.steam_age.resistors.subtitle": "The more... resistant... component for circuits",
-	"quests.steam_age.resistors.desc": "Resistors are components that will be used to make your first Circuit.\n\nIt wouldn't be unwise to prioritise the recipes that use &aFine Wires&r, as they'll save you more materials in the long run.\n\nWires may be expensive right now, but they'll get a lot cheaper if you make the &3Coiling Machine&r down below or the &3Wiremill&r in &7LV&r.",
-
-	"quests.steam_age.coiling_machine.title": "Coiling Machine",
-	"quests.steam_age.coiling_machine.subtitle": "An LV Wiremill strapped to half of the LV Bender!",
-	"quests.steam_age.coiling_machine.desc": "The &3Coiling Machine&r is similar to a LV Wiremill, though it lacks the option to directly output different wire sizes. Still, this is a very worthwhile invesment to make your wires significantly cheaper.\n\nThis machine can also make cheaper springs, too!",
-
-	"quests.steam_age.curving_press.title": "Curving Press",
-	"quests.steam_age.curving_press.subtitle": "Just as niche as the LV Extruder",
-	"quests.steam_age.curving_press.desc": "The &3Curving Press&r can do all the same recipes as an LV Extruder. Unfortunately, neither can do very much, as the extruder is only useful once you get to MV. Still, if you find yourself wanting to craft a lot of tool heads in bulk, this machine can do it for you.",
-
-	"quests.steam_age.vibrating_table.title": "Vibrating Table",
-	"quests.steam_age.vibrating_table.subtitle": "Identical to the LV Sifter",
-	"quests.steam_age.vibrating_table.desc": "The &3Vibrating Table&r can process gem ores (including coal) in a different way, yielding much more output than anything else you have access to right now. As a bonus, it can also process any gravel ore deposits you may still have. No more sluicing!",
-
-	"quests.steam_age.lathe.title": "Belt Grinder",
-	"quests.steam_age.lathe.subtitle": "A joint LV Lathe and metal confetti machine",
-	"quests.steam_age.lathe.desc": "The &3Belt Grinder&r can automatically turn a single ingot into two rods, single bolts into screws, polish gems, and a few other things. If you're needing a lot of rods and screws, and you will be, this machine will be a good investment.",
-
-	"quests.steam_age.steel_saw.title": "Steel Mechanical Saw",
-	"quests.steam_age.steel_saw.subtitle": "A stonecutter and LV Cutter in one!",
-	"quests.steam_age.steel_saw.desc": "It's an upgrade to your Basic Mechanical Saw that can also process some metal recipes, like turning rods into four bolts, and cutting blocks into plates. These recipes will all require a fluid to work, but you can just use water for now.\n\nYou can also use this for cheaper Rubber Sheets, if you first use an Alloy Smelter to turn your pulp into a block.",
-
-	"quests.steam_age.rolling_mill.title": "Rolling Mill",
-	"quests.steam_age.rolling_mill.subtitle": "The other half of the LV Bender",
-	"quests.steam_age.rolling_mill.desc.1": "Of all the steam age machines you could make, the &3Rolling Mill&r is one of the best, for the simple reason that it makes single plates out of single ingots. It can also make thin sheets cheaper than by hand, as a bonus!",
-	"quests.steam_age.rolling_mill.desc.2": "&l&3Lore:&r &oThis machine existed in older versions of TFG, but it made rods instead of plates, and your best plate-making option before the LV bender had a 20 percent chance of failure!&r",
-
-	"quests.steam_age.steel_mixer.title": "Steel Mechanical Mixer",
-	"quests.steam_age.steel_mixer.subtitle": "An earlier LV Mixer",
-	"quests.steam_age.steel_mixer.desc": "The &3Steel Mechanical Mixer&r is the other best steam age machine you can make -- it can mix together your colored steel dusts at a much more efficient rate than the Crucible! It can do a large number of other recipes too, including some that involve gases... don't think about it too much.\n\nYou can use either a Charcoal Forge or a Blaze Burner for the recipes that require heating, and a Mechanical Arm can automatically refuel either.",
-
-	"quests.steam_age.potin.title": "Potin Seller...",
-	"quests.steam_age.potin.subtitle": "...I'm going into battle, and I need only your finest Potin.",
-	"quests.steam_age.potin.desc.1": "&dPotin Fluid Pipes&r have a &avery high throughput&r for the material tier and cost. You may want to look into making some of these to aid with fluid logistics.\n\nTo get &dPotin&r, you should start by crafting its &eDust&r form.\n\nThis quest calls for either the small or normal pipe. Get either size to complete it.",
-	"quests.steam_age.potin.desc.2": "&l&3Lore:&r&o &dPotin Fluid Pipes&r were originally created in &9GT++&r, and were a huge power spike for players in a little pack called &4GT:NH&r. We wanted to spread some of that joy.\n\nIn the real world, &dPotin&r is an alloy used in coins, not pipes. GTCEu just gets more unrealistic by the day...",
-
-	"quests.steam_age.miner.title": "Automatic Mining",
-	"quests.steam_age.miner.subtitle": "The end of the cave-in age",
-	"quests.steam_age.miner.desc.1": "You now have access to two options to automatically mine your ores! Both of these are very slow, though, so it's a good idea to set them up, chunkload them, then go do something else instead of sitting and waiting.\n\nThe Mechanical Drill will require a contraption to dig down, breaking all stone along the way. You can also attach it to the front of a train or minecart to dig tunnels if you'd like.",
-	"quests.steam_age.miner.desc.2": "The Steam Miner, on the other hand, only breaks ore blocks and replaces them with cobblestone, leaving the rest of the ground intact. It can mine ores in a (small) radius, meaning it has to be moved less often than the mechanical one, but it's also a lot slower.",
-
-	"quests.steam_age.paper.title": "Paper",
-	"quests.steam_age.paper.subtitle": "Not from sugarcane",
-	"quests.steam_age.paper.desc": "If you haven't made any yet, there's three different ways to get paper without electricity.\n\n1) Craft vellum out of a hide, pumice, and an egg.\n\n2) Weave together papyrus.\n\n3) Craft it out of hardwood through a lengthy process.\n\nYou can later turn wood pulp directly into paper with an LV Chemical Bath.",
-
-	"quests.steam_age.lv_circuit.title": "Your first circuit!",
-	"quests.steam_age.lv_circuit.subtitle": "The dawn of a new age",
-	"quests.steam_age.lv_circuit.desc": "The recipe for these may look intimidating at first, but if you've spent an appropriate amount of time in the Steam Age, everything should be easily automatable. You'll be making a lot of these for a while, but your next few electic machines will help make them even cheaper until you get your hands on a Circuit Assembler late into LV.",
-
-	"quests.steam_age.what_next.title": "What Next?",
-	"quests.steam_age.what_next.subtitle": "Y'know, besides \"more GregTech\"",
-	"quests.steam_age.what_next.desc": "If you rushed straight here, we suggest machines like the LV Bender, Wiremill, or Mixer first.\nOtherwise, if you made the kinetic machines below, we suggest the Assembler, Arc Furnace, Chemical Reactor, or Polarizer.",
-
-	"quests.steam_age.alternator.title": "Alternators",
-	"quests.steam_age.alternator.subtitle": "Turning stress into power",
-	"quests.steam_age.alternator.desc.1": "If you've got a big steam age set up, you probably don't want to immediately scrap it all just to go back to some boilers and LV Steam Turbines. Instead, the &3Alternator&r will convert the SU from your steam engines into electricity. Each steam engine + alternator should give you 1A of LV! Unfortunately, alternators convert stress into a different electricity system than the one GregTech uses, so you'll need an Energy Converter to turn it into usable LV energy.",
-	"quests.steam_age.alternator.desc.2": "An example of a steam engine producing 8 amps of LV!\n",
-
-	"quests.steam_age.packager.title": "Create Logistics",
-	"quests.steam_age.packager.subtitle": "\"We have AE2 at home\"",
-	"quests.steam_age.packager.desc": "Is your chest monster starting to grow out of control? Now you have access to Create's Logistics system! Check out the &3Create Logistics&r chapter for how to get started.",
-
-	"quests.steam_age.basic_mech_press.title": "Basic Mechanical Press",
-	"quests.steam_age.basic_mech_press.subtitle": "Automatic Welding Machine",
-	"quests.steam_age.basic_mech_press.desc": "If you hate welding things over and over, this machine can do it for you. Just place the Basin over your charcoal forge, make sure your forge's temperature is at Yellow or above, and then drop your items in the Basin. Unfortunately, that's about all that the basic one can do.",
-
-	"quests.steam_age.steel_mech_press.title": "Steel Mechanical Press",
-	"quests.steam_age.steel_mech_press.subtitle": "Almost a Forge Hammer",
-	"quests.steam_age.steel_mech_press.desc.1": "The High Pressure Steam Forge Hammer is right around the corner and can do almost everything that this machine can do, but if you're desperate for some higher tier automatic welding recipes, this is your ticket.\n\nIf you're unfamiliar with the Forge Hammer, both it and the Steel Mechanical Press can crush ores (without byproducts), turn rock into cobble into gravel into sand, and crack bricks. However, only the Forge Hammer can provide a &3cheaper recipe for metal plates&r...",
-	"quests.steam_age.steel_mech_press.desc.2": "&l&3Lore:&r&o The Create Mechanical Press used to be a key piece of late steam age progression prior to version 0.9 of TerraFirmaGreg, because it produced plates at an even better ratio of 5 to 4. However, its implementation was actually \"20 percent of the time, you get nothing\", which caused many people to proclaim how much they loved gambling while using it."
+    "quests.steam_age": "初期の自動化",
+    "quests.steam_age.subtitle": "蒸気機関で産業革命",
+
+    "quests.steam_age.basic_greate.title": "Greateの基本",
+    "quests.steam_age.basic_greate.subtitle": "もう普通のCreateじゃ満足できないって? だったらこれはどうだ",
+    "quests.steam_age.basic_greate.desc": "Greateは&3Create&rと&3GregTech&rのシステムを悪魔合体させたもので、Createの機械がそれぞれ異なる段階のバージョンに変更されます。また、シャフトと歯車に応力の制限が導入されるため、機械の応力供給方法について、より計画的に考える必要があります。\n\n通常のCreateのように、水車の塊を1つのシャフトに接続して基地に送り込むのではなく、一つの機械に対して個別の動力源を持つ小さな機構を組む必要があるんですね。",
+   
+    "quests.steam_age.create_tools.title": "商売道具",
+    "quests.steam_age.create_tools.subtitle": "きっと役に立つさ",
+    "quests.steam_age.create_tools.desc": "レンチを使えば、スニーク+右クリックでCreateのブロックを素早く回収できます。斧やツルハシでも回収はできます。ゴーグルを使用すると、機械が生成または消費する応力の量など、機械に関するより詳細な情報を確認できます。\n\nどちらも必須ではないですが、役に立つことは間違いないでしょう。\n\nガラス細工については、TFGのTipsの章を確認してください。実は、ハンマーで丸石を壊すと砂利になり、それをもう一度壊すと砂になるんです。知ってましたか...?",
+   
+    "quests.steam_age.basic_millstone.title": "自動鉱石処理",
+    "quests.steam_age.basic_millstone.subtitle": "うすのろなあいつとはおさらばだ",
+    "quests.steam_age.basic_millstone.desc": "&3Millstone&rは、臼の自動バージョンです。上部に好きなものを投げ込み、右クリックして粉砕されたアイテムを取り出すことができます。Animal Crankに直接つけただけだと動作は遅いですが、ギア比を使用して速度を上げることができます。\n\nレシピの最初のスロットのアイテム(主産物)だけ出力されます。他のスロットのアイテム(副産物)は、はるかに後の(&6HV&r)時代まで出てきません。これはGregTechの仕様です。",
+   
+    "quests.steam_age.horse_crank.title": "最初の動力源",
+    "quests.steam_age.horse_crank.subtitle": "24時間働けますか?",
+    "quests.steam_age.horse_crank.desc.1": "&3Animal Crank&rは、最初に利用可能な機械の動力源です。使用するには、7x7の整地されたエリアの中央にクランクを置き、動物をリードでつなぎます。動物の種類によって供給される応力の量が異なり、下のブロックによって回転速度が向上します。それぞれのクランクの領域は重なっていても問題ありません。\n\n注意:動物を取り付けるには、リードを2本持っている必要がある場合があります。",
+    "quests.steam_age.horse_crank.desc.2": "&3小型動物(4 SU):&r\nオオカミ、犬、豚、羊、ヤギ、アルパカ\n\n&3中型動物(6 SU):&r\n牛、ロバ\n\n&3大型動物(8 SU):&r\n馬、ラバ、ジャコウウシ、ヤク",
+   
+    "quests.steam_age.poor_paths.title": "貧弱な道",
+    "quests.steam_age.poor_paths.subtitle": "こんなところで働けってのか！",
+    "quests.steam_age.poor_paths.desc": "これは使用できる最悪の種類の道路です。Animal Crankは2 RPMで動作します。",
+   
+    "quests.steam_age.normal_paths.title": "普通の道",
+    "quests.steam_age.normal_paths.subtitle": "もう少し労働環境を整えてあげてもいいんじゃない？",
+    "quests.steam_age.normal_paths.desc": "普通の道は少しましで、動物が4 RPMでクランクを回すことができます。\n\n注意:Animal Crankの真下に土の道ブロックを置くことはできません。そのため、砂利を置いておきましょう。",
+   
+    "quests.steam_age.good_paths.title": "素晴らしい道",
+    "quests.steam_age.good_paths.subtitle": "アットホームな職場です!",
+    "quests.steam_age.good_paths.desc": "これらは使用できる最高の種類の道であり、クランクを8 RPMで出力できます。これらの種類の道はプレイヤーの移動速度も向上させるため、拠点を舗装するのにも最適です!",
+   
+    "quests.steam_age.helve_hammer.title": "ヘルベハンマー",
+    "quests.steam_age.helve_hammer.subtitle": "カーン... カーン... カーン...",
+    "quests.steam_age.helve_hammer.desc": "塊鉄炉のためのプレートをすべて手作業で作るのは厳しくないですか? &3Helve Hammer&rは、ダブルインゴットを自動的に(ただしゆっくりと)平らにしてプレートにします。ただし、溶接は自分で行う必要があります。ハンマーの頭の真下に金床を置き、ダブルインゴットをその上に投げ込みましょう。取り出すときはハンマーを右クリックしましょう。\n\n上位の金床では、プレートを作成するために叩く回数も少なくなります。",
+   
+    "quests.steam_age.water_wheel.title": "水車",
+    "quests.steam_age.water_wheel.subtitle": "川の近くに拠点を建てていればよいのですが",
+    "quests.steam_age.water_wheel.desc": "水車は、流れる水を必要とする代わりに、Animal Crankよりもはるかに多くの電力を供給します。まだ水源を移動する機能がないため、これらに動力を供給するには川を見つける必要があります。海や湖も少しは動力を供給できますが、内陸部にいる場合は、風車を建てることを検討した方が良いでしょう。\n\nコークス炉のクレオソートに板材を浸すと、防腐木材を得ることができます。",
+   
+    "quests.steam_age.large_water_wheel.title": "大型水車",
+    "quests.steam_age.large_water_wheel.subtitle": "デカい!強い!高い!",
+    "quests.steam_age.large_water_wheel.desc": "大型水車は、小型水車の4倍の応力を供給しますが、それでも川の流れる水が必要です。海や湖も少し動力を供給できますが、内陸部にいる場合は、風車または蒸気機関を建てることを検討した方が良いでしょう。\n\nコークス炉のクレオソートに板材を浸すと、防腐木材を得ることができます。",
+   
+    "quests.steam_age.windmill.title": "風車",
+    "quests.steam_age.windmill.subtitle": "チューリップとよく似合う",
+    "quests.steam_age.windmill.desc": "流れる水が近くにない場合は、風車は良い動力源になってくれるでしょう。大きな風車は、より多くの応力とより速い回転速度を提供します。\n\nコークス炉のクレオソートに板材を浸すと、防腐木材を得ることができます。",
+   
+    "quests.steam_age.metal_casing.title": "金属ケーシング",
+    "quests.steam_age.metal_casing.subtitle": "原始的な機械の筐体?",
+    "quests.steam_age.metal_casing.desc": "これは、Createで構築できる単純な機械たちの基礎となるものです。JEIで、ギアボックスやその他の応力を制御する仕掛けなど、これで作成できるさまざまなものを確認してみるといいでしょう。\n\nCreateは初めてですか?Createの解説動画や解説サイトはインターネット上にたくさんあります。そしてそれらで学んだほとんどのことはTFGでも役に立つでしょう!(丸石製造機を含むものを除く)",
+   
+    "quests.steam_age.mechanical_harvester.title": "メカニカルハーベスター",
+    "quests.steam_age.mechanical_harvester.subtitle": "ロボットのサクランボ狩り",
+    "quests.steam_age.mechanical_harvester.desc": "作物を収穫して植え替えるのが面倒ですか? だったらこれに任せちゃいましょう!からくり仕掛けで回転させれば、あとは勝手にやってくれます。ただし、これらは温室内に植えられた作物では機能しません。\n\n豆知識:岩盤がある高さでは常に15°Cなので、一年中作物を育てられる最高の農場になりますよ!",
+   
+    "quests.steam_age.mechanical_saw.title": "機械式ノコギリ",
+    "quests.steam_age.mechanical_saw.subtitle": "木材と石と指を効率的に切ってくれます",
+    "quests.steam_age.mechanical_saw.desc": "木を切るのが面倒ですか? だったらこれに任せちゃいましょう! からくり仕掛けで回転させれば、あとは勝手にやってくれます。ただ、残念ながら、デプロイヤーが利用できるようになるまでは、苗木を自分で植え替える必要があります。\n\n機械式ノコギリは石切りとしても機能し、いろんな種類の石レンガを簡単に作成できます。丸太を木材に切るために使用すれば、さらに効率的になりますよ!\n\nまた、これを使用して棒を4本のボルトに切断することもできます!",
+   
+    "quests.steam_age.chute.title": "初期の物流",
+    "quests.steam_age.chute.subtitle": "アイテムの公共交通機関",
+    "quests.steam_age.chute.desc": "アイテムを移動させる方法が利用できるようになりました!シュートはホッパーに似ており、安価ですが、アイテムを下向きにしか移動できません。どちらも、アイテムパイプに対してアイテムを搬出するための手段として使うこともできます。\n\nファンネルは似ていますが、アイテムパイプの代わりにベルトコンベアーと組み合わせるのが最適です。",
+   
+    "quests.steam_age.item_pipes.title": "アイテムパイプ",
+    "quests.steam_age.item_pipes.subtitle": "アイテムコンジットの方がイカしてるだって？",
+    "quests.steam_age.item_pipes.desc.1": "&3アイテムパイプ&rは、アイテムを&d瞬時に&r移動させるための簡単な手段ですが、その運搬能力には制限があります。\n\nもちろん上位のパイプは、運搬能力が向上し、最終的にはすごいことになりますよ。それはもうMOD入りマイクラの中でも特にね!\n\nアイテムパイプは&9自力でアイテムを引き出す能力はありません&rが、どうにかしてパイプに搬入すれば、アイテムを他の接続された倉庫などに搬入してくれます。最初に&9最も近いインベントリ&rを優先します。",
+    "quests.steam_age.item_pipes.desc.2": "優先順位のメカニズムはやや&o複雑&rです。興味がない場合はいったん飛ばしてもいいですよ:\n\n&e送り先&rには、それぞれ&d優先順位&rが割り当てられます。それは、その送り先へ至るまでの個々のパイプのもつ「優先順位」の値の合計によって決められます。その中で&c優先順位の値が&dもっとも低い&r送り先が、搬入先として選ばれます。\n\n&3制限付きパイプ&rは、優先順位が高めに設定されているため、基本的に搬入の優先順位が最も低くなります。",
+    "quests.steam_age.item_pipes.desc.3": "現時点では、&6シュート&rおよび&6ホッパー&rと組み合わせればインベントリからの搬出ができますが、LV時代にはコンベアモジュール、出力バス、および機械の自動出力でも使用できるようになります。\n\n&9注:&r GT6スタイルのパイプは&d有効&rになっています。つまり、パイプを配置すると、パイプを置いた面のブロックにのみ接続されます。もっといろんなブロックにつなげたいなら、&5レンチ&rを持つとグリッドが表示されるので、それを右クリックでつなげましょう。\n\n提案されたアイテムパイプの&eいずれか&rを入手して、このクエストを完了してください。",
+    "quests.steam_age.item_pipes.desc.4": "&l&3伝承によると...&r&o Oooooh, YEAH!! 実はな、アイテムパイプはGregTech 5にもあったんだ。でも、なんでか知らないけどGTCEにはなかったから、その時は他のMODを使用してアイテムを輸送する必要があったんだって。えぇ...? 誰がそんなことをするの!? まあいいや、とにかく、せっかく帰ってきたアイテムパイプ、うまく使えよ!...と言い伝えられています。",
+   
+    "quests.steam_age.steel_greate.title": "鋼鉄層のGreate",
+    "quests.steam_age.steel_greate.subtitle": "Greateが大好評だったのでGreate 2を作りました",
+    "quests.steam_age.steel_greate.desc": "Greateの次の段階へようこそ!スチール製のシャフトと歯車は、前のと比べて4倍の応力に耐えられます。歯車やシャフトでつながっている機構の最大許容応力は、そのつながっている中で最も低いものによって決定されるため、今までの機構を丸ごと新しいのに置き換える必要があります。古い部品の一部はリサイクルできます!",
+   
+    "quests.steam_age.steel_encased_fan.title": "Encased Fan",
+    "quests.steam_age.steel_encased_fan.subtitle": "熱狂的なファン",
+    "quests.steam_age.steel_encased_fan.desc": "&3Encased Fan&rは、最初の完全自動鉱石処理ラインの最終ステップです。これによって汚れた粉を手作業で洗浄する必要がなくなりました。Fanを粉に向けて設置し、その間に水源を置くと、すぐに洗浄が開始します。おまけとして、副産物も得られます!現時点では水源を移動するのは難しいかもしれませんが、川や池などもとからある水源を使って構築することができます。",
+   
+    "quests.steam_age.steel_millstone.title": "Steel Millstone",
+    "quests.steam_age.steel_millstone.subtitle": "価値あるアップグレード",
+    "quests.steam_age.steel_millstone.desc": "はるかに高い運動能力を備えたSteel Millstoneは、Basic Millstoneからの価値のあるアップグレードであり、より速く粉砕するために高速で回転させることができます。これから手に入るさまざまな新しい鉱石の処理に最適ですよ!\n\nただし、まだ副産物は出てきません。",
+   
+    "quests.steam_age.steel_pump.title": "液体処理",
+    "quests.steam_age.steel_pump.subtitle": "おいしいスパゲッティパイプ",
+    "quests.steam_age.steel_pump.desc.1": "鋼鉄時代では、アイテムだけでなく液体も自動化できます!&3Mechanical Pump&rは、樽、るつぼ、さらには水源ブロックなど、ほとんどすべてのものから液体を取り出すことができます。CreateまたはGregTechの液体パイプのどちらも使用できますが、それぞれ動作が少し異なります。",
+    "quests.steam_age.steel_pump.desc.2": "Createのパイプには内部液体容量がなく、代わりに液体を搬出先から搬入先に直接輸送します。銅ケーシングで右クリックすると、接続を「ロック」することができます。レンチで右クリックすると、中身が見えるようになり、横のパイプとつながらなくなるので、複数のパイプを互いに隣接して実行できます。Createのパイプを使用するにはMechanical Pumpも必要であり、各ポンプの範囲は16ブロックのみですが、1つのポンプで複数の搬出口から一度に液体を取り出すことができます。\nまた、温度制限もありません!",
+    "quests.steam_age.steel_pump.desc.3": "一方、GregTechのパイプには独自の内部液体容量があり、液体が内部にあるとポンプは必要ありません。アイテムパイプと同様に、レンチでスニーク右クリックすることで一方通行にできます。そうしないと、液体があっちこっちにいってしまうため、すべてのパイプでそれを行うことをお勧めします。\n\nMechanical PumpとGregTechパイプが接続されていませんか?ポンプを2回反転させると(レンチで右クリック)、解決するかもしれません。",
+   
+    "quests.steam_age.mold_table.title": "高炉の自動化",
+    "quests.steam_age.mold_table.subtitle": "EBFが恋しいね",
+    "quests.steam_age.mold_table.desc.1": "しばらくの間、&3東京ドームが埋まるくらい&rの鋼鉄が必要になるため、高炉の自動化はしておいた方がいいでしょう。Mechanical Pumpは、高炉から(るつぼに滴下するよりもはるかに速く)金属を直接Mold Tableに取り出すことができ、ポンプを通った金属は型に流されると瞬時に冷却されます!次に、シュートまたはホッパーをMold Tableの真下に置いて、インゴットを取り出すことができます。そこから、銑鉄インゴットをHelve Hammerに送ることができます。",
+    "quests.steam_age.mold_table.desc.2": "必要に応じて、シュートを使用してアイテムを高炉の中にいれたり、デプロイヤーを使用して自動的にふいごを作動させることもできます。ふいごを使いすぎると、羽口の耐久力がごりごり削れていきますが、アイテムパイプで新しいものを自動搬入できます。\n\nMechanical Pumpを利用した液体搬出は、液体バルブなどで搬出を制御することで、るつぼに使うこともできます。",
+   
+    "quests.steam_age.fluid_pipes.title": "液体パイプ",
+    "quests.steam_age.fluid_pipes.subtitle": "液体、気体、両対応",
+    "quests.steam_age.fluid_pipes.desc.1": "&b液体パイプ&rは、機械間で&7蒸気&rを輸送します。\n\n各パイプには、mB/t単位の特定の運搬速度制限と、&6温度制限&rがあります。例えば、木のパイプは蒸気の熱に耐えられません。現時点では気にしなくてもいいですが、一部のパイプには、各材料に応じた特有の&b耐性&rがあります。\n\n各材料のパイプにはいくつかのサイズがあります。パイプが太いほど、運搬速度は&a高く&rなりますが、作成コストは&d高価に&rなります。たとえば、&6通常のブロンズ液体パイプ&rは120 mB/tを転送します。(1,200 mBの内部バッファーもあります!)\n\n最初は、冷たい液体には木製パイプ、熱い液体にはブロンズパイプを使用することをお勧めします。",
+    "quests.steam_age.fluid_pipes.desc.2": "&aメモ:&r 1秒は20ティックです。これはサーバーに遅延が発生していないときの話ですが...\n\n&d注:&r GT6スタイルのパイプが有効になっています。つまり、パイプを配置すると、パイプを置いた面のブロックにのみ接続されます。もっといろんなブロックにつなげたいなら、パイプにレンチを使用します。\n\nレンチでシフト右クリックして、側面からの入力を無効にすることもできます。これは、液体が望ましくない方向に移動することを防ぐのに役立ちます。",
+   
+    "quests.steam_age.fluid_drums.title": "効率的な液体ストレージ",
+    "quests.steam_age.fluid_drums.subtitle": "木の樽に融けた鋼を入れておけると思います?",
+    "quests.steam_age.fluid_drums.desc.1": "&6TFG&rをやっていて、扱う液体の種類の多さに&4圧倒&rされてませんか?、それらを保管しておく方法を探していたら読んでください。\n\nご紹介しましょう... &aドラム&r!これらには大きな内部容量があります。&aドラム&rは壊されても内部の液体を&d保持します&r。ソフトマレットで右クリックすると、ドラムは下方向に内容物を自動搬出してくれます。",
+    "quests.steam_age.fluid_drums.desc.2": "&l&3伝承によると...&r&o このドラムたちは、実はGregTech 6から移植されたものなんだぜ。...と言い伝えられています。",
+   
+    "quests.steam_age.boilers.title": "蒸気ボイラー",
+    "quests.steam_age.boilers.subtitle": "ポータブルサウナ",
+    "quests.steam_age.boilers.desc.1": "蒸気機械には動力である蒸気を供給する必要があります!蒸気を生成する方法は3つあります。&3固形燃料用高圧ボイラー&rは石炭や木炭などの固形燃料を受け入れ、&3液体燃料用高圧ボイラー&rはクレオソートや溶岩などの液体を受け入れ、&3高圧ソーラーボイラー&rは燃料を必要としませんが、日中のみ動作します。どれを選ぶかはあなた次第ですが、よくわかんなかったら液体ボイラーをお勧めします。\n\n蒸気機械にはすべて排気口があり、正常に動作するにはそれが塞がっていない必要があります。",
+    "quests.steam_age.boilers.desc.2": "&a警告:&r ボイラーの中身が空で高温になっているときに水を入れようとすると、&b爆発します&r。ポンプで常に水を供給し続けるのが最善ですが、ブロックを壊して再設置して温度をリセットすることもできます。",
+    "quests.steam_age.boilers.tasks": "高圧蒸気ボイラー",
+   
+    "quests.steam_age.steam_bloomery.title": "蒸気式塊鉄炉",
+    "quests.steam_age.steam_bloomery.subtitle": "塊鉄炉の叔父",
+    "quests.steam_age.steam_bloomery.desc": "錬鉄は常に大量に必要に要求されます。そこで、塊鉄炉を自動化してみませんか?錬鉄を効率的に自動化できるようになるのは、遥か先のLV時代のことです。Steam Bloomeryは、古いTFC塊鉄炉を自動化し、より高速に実行する新しいマルチブロックです!コークス炉と同様に、EMI上で、マルチブロック情報を表示できます。個々のブロックをクリックして、各場所で有効なものを確認しましょう。",
+   
+    "quests.steam_age.steam_furnace.title": "高圧蒸気式かまど",
+    "quests.steam_age.steam_furnace.subtitle": "高圧蒸気式かまどは、かまどです",
+    "quests.steam_age.steam_furnace.desc": "インゴットへの製錬を楽にしたいですか?&3高圧蒸気式かまど&rがあるではありませんか!副産物なしで、多くの鉱石や粉を手早くインゴットの形に変えることができます。",
+   
+    "quests.steam_age.steam_oven.title": "蒸気式オーブン",
+    "quests.steam_age.steam_oven.subtitle": "蒸気式破砕機のお兄ちゃん",
+    "quests.steam_age.steam_oven.desc.1": "&o...いや、弟か?まあいいや&r\n\n&3蒸気式オーブン&rは、&6大量のアイテムを楽に製錬したいときに最適なマルチブロック機械です。&rかまどを並べて、手動で取り出したり、燃料を補給したりする必要は、もはや必要ありません!\n\n蒸気によって低コストで、一度に最大8つのアイテムを製錬する並列かまどとして機能してくれます。",
+    "quests.steam_age.steam_oven.desc.2": "&l&3伝承によると...&r&o このマルチブロック、兄弟の蒸気式破砕機によく似てるだろ?でも実はGregTechとかアドオンから移植されたものじゃないんだって。実の親は、古くは1.4.7のRailcraftの蒸気オーブンなんだとさ!...と言い伝えられています。",
+   
+    "quests.steam_age.steam_macerator.title": "高圧蒸気式粉砕機",
+    "quests.steam_age.steam_macerator.subtitle": "高圧蒸気式粉砕機は、粉砕をします",
+    "quests.steam_age.steam_macerator.desc": "この機械はMillstoneとまったく同じことを行うため、すでにMillstoneを持っている場合は、実のところこれを構築する意味はあまりありません。一応、この時点では進行にどちらか一方が必要です。え...?あっ...はい、そうです。副産物は出力しません。&6HV&rまで待ちましょう。",
+   
+    "quests.steam_age.steam_grinder.title": "蒸気式破砕機",
+    "quests.steam_age.steam_grinder.subtitle": "高圧蒸気式粉砕機の妹",
+    "quests.steam_age.steam_grinder.desc": "蒸気式オーブンと同様に、&3蒸気式破砕機&rは、高圧蒸気式粉砕機のアップグレードバージョンで、複数のアイテムを同時に処理できます。作るか作らないかはあなた次第です。",
+   
+    "quests.steam_age.rock_crusher.title": "高圧蒸気式破砕機",
+    "quests.steam_age.rock_crusher.subtitle": "高圧蒸気式破砕機は、ブロックを複製します...は?",
+    "quests.steam_age.rock_crusher.desc": "高圧蒸気式破砕機は一ブロックの丸石生産機です。岩または丸石を入れれば、わずかな蒸気のコストで多くの石を生成できます。進行には必要ないですが、レンガをたくさん作りたい場合は、この機械が最適です。",
+   
+    "quests.steam_age.forge_hammer.title": "高圧蒸気式鍛造機",
+    "quests.steam_age.forge_hammer.subtitle": "高圧蒸気式鍛造機は、鍛造をします",
+    "quests.steam_age.forge_hammer.desc": "この機械により、これまで鍛造が必要だった多くのレシピを任せられるようになりました!\n\n&b丸石を砂利に&r、&d砂利を砂に&r処理できます。それも、非常に高速に。\n\n最後に重要なこととして、&aプレート&rをより低コストに作成します:&63つのインゴットで2枚のプレートが!&r。まあお得!\n\nそれに加えて、鍛造機を使用すると、Helve Hammerのように、塊鉄を錬鉄に、または銑鉄を鋼鉄にする作業を(ゆっくりとではあるけど)行うことができます!",
+   
+    "quests.steam_age.alloy_smelter.title": "高圧蒸気式合金製錬機",
+    "quests.steam_age.alloy_smelter.subtitle": "高圧蒸気式合金製錬機は、合金精錬をします",
+    "quests.steam_age.alloy_smelter.desc": "&b高圧蒸気式合金製錬機&rは、まあ、合金精錬に使用されます。効率的な&6ブロンズ&r作成レシピと、近い将来、&4赤合金&rに必要になります。\n\nまた、高炭素系インゴットをより効率的な速度で溶接することもできます!\n\nすべての&6蒸気時代の&r機械の中で、これは最も蒸気を消費します。蒸気がなくなった場合は、機械を&a優しく、愛をこめて&r&dソフトマレットでぶっ叩いて&rあげると、一時停止します。",
+   
+    "quests.steam_age.compressor.title": "高圧蒸気式圧縮機",
+    "quests.steam_age.compressor.subtitle": "高圧蒸気式圧縮機は、圧縮をします",
+    "quests.steam_age.compressor.desc": "&3高圧蒸気式圧縮機&rは、インゴットと宝石をブロックに、ナゲットをインゴットに、そして最も重要なことに、木のパルプなどを木板に変えることができます。なぜ重要なのかはすぐにわかります!",
+   
+    "quests.steam_age.molding.title": "成型",
+    "quests.steam_age.molding.subtitle": "成型によって生計を立てる",
+    "quests.steam_age.molding.desc": "合金製錬炉は、金属を合金化することに加えて、&3金型&rを使用して材料をさまざまな形状に成型することもできます。\n\n将来のためにも、このリストにある金型は作っておきましょう。&a金型&rを必ず作成してください。&c押出形成用金型&rは、別の機械で使用されるものなので、まだ作成しないでください。\n\nギア金型にも興味があるかもしれませんが、それらを使用してギアを作成する方が手作業で行うよりも高価です。",
+   
+    "quests.steam_age.red_alloy.title": "赤合金",
+    "quests.steam_age.red_alloy.subtitle": "完全に架空の合金",
+    "quests.steam_age.red_alloy.desc": "&4赤合金&rは、銅とレッドストーンの合金であり、その導電性によってGregTechの世界で高く評価されています。これは合金製錬炉またはるつぼで作成できます。\n\n&9電子管&rにはいくつか必要になります。\n\n&l&3伝承によると...&r&o これって元はRedPowerのものなんだよ。うっわ懐かしっ!...と言い伝えられています。",
+   
+    "quests.steam_age.extractor.title": "高圧蒸気式抽出機",
+    "quests.steam_age.extractor.subtitle": "高圧蒸気式抽出機は、抽出をします",
+    "quests.steam_age.extractor.desc": "&3高圧蒸気式抽出機&rは、液体を抽出する性能が弱いため、&6蒸気時代&rだとまだ作れないアイテムが多くあります。",
+   
+    "quests.steam_age.glass_tube.title": "ガラス管",
+    "quests.steam_age.glass_tube.subtitle": "たくさん用意しておきましょう",
+    "quests.steam_age.glass_tube.desc": "これらすべてをガラス吹きによって手作業で作成することもできますが、代わりに適切な金型を使用して合金製錬炉で作成する方がはるかに楽で時短できます。ガラスの粉がたくさん必要ですか?でしたら、16枚のガラス板を一度にガラス吹きして粉砕するか、高圧蒸気式破砕機などと鍛造機を使用して大量の砂を入手し、それに少し火打石の粉を混ぜてガラス粉に変えることができます。",
+   
+    "quests.steam_age.treated_planks.title": "防腐木材の板",
+    "quests.steam_age.treated_planks.subtitle": "a.k.a防腐木材の合板",
+    "quests.steam_age.treated_planks.desc": "クレオソートが残っていたらいいのですが。実は、クレオソートは防腐木材のパルプ化と、その圧縮された板を作ることにも使われるんです。\n\n&l&3伝承によると...&r&o TerraFirmaGregの前までのバージョンだと、これがないとCreateを始められなかったんだよね!...と言い伝えられています。",
+   
+    "quests.steam_age.electron_tube.title": "電子管",
+    "quests.steam_age.electron_tube.subtitle": "ULVの下? UULV?",
+    "quests.steam_age.electron_tube.desc": "最初は作るのがしんどいかもしれませんが、最初の数個をデプロイヤーのライン構築のために使用すれば、大幅に安価に作成できるようになります。\n\nデプロイヤー以外にも、これはさまざまな高度なCreateのマシンにも使用されます!",
+   
+    "quests.steam_age.rotation_speed_controller.title": "回転速度コントローラー",
+    "quests.steam_age.rotation_speed_controller.subtitle": "もうガチャガチャ歯車を組む必要はないんだ!",
+    "quests.steam_age.rotation_speed_controller.desc": "&3回転速度コントローラー&rを使用すると、すべての歯車スパゲッティを1つのブロックに簡略化し、手軽に回転速度を調整できます。これは、応力の調整が必要になってきたときなどにも役立ちます!",
+   
+    "quests.steam_age.mech_crafter.title": "メカニカルクラフター",
+    "quests.steam_age.mech_crafter.subtitle": "クラフトレシピがデカすぎます!",
+    "quests.steam_age.mech_crafter.desc": "心配しないでください。これを作るのは必須ではありませんので。ここにリストされている2つ以外にも、非常に有用なアイテムのクラフトに使用されます。消耗品ではないので何度もクラフトする必要はないと思います。",
+   
+    "quests.steam_age.crushing_wheel.title": "Crushing Wheels",
+    "quests.steam_age.crushing_wheel.subtitle": "Millstoneの妹の夫",
+    "quests.steam_age.crushing_wheel.desc": "これらは、粉砕関連の機械たちと同じことをより早くより大量に行います。その性能は蒸気式破砕機とほぼ同等です。",
+   
+    "quests.steam_age.centrifuge.title": "Create式遠心分離機",
+    "quests.steam_age.centrifuge.subtitle": "世界が回る 回るよ世界",
+    "quests.steam_age.centrifuge.desc": "鉱石処理は常にこのモッドパックの重要な部分であり、このマシンはそのオプションの部分です。Centrifugeを使用することで鉱石から副産物を得ることができます!(EMIの鉱石処理工程図を参考にしてください) 次の鉱石処理のアップデートはLV時代の基本型熱遠心分離機まで行われないですが、この機械を使うかどうかはあなた次第です。",
+   
+    "quests.steam_age.steam_engine.title": "蒸気エンジン",
+    "quests.steam_age.steam_engine.subtitle": "本格的 蒸気機関",
+    "quests.steam_age.steam_engine.desc": "水車や風車ではもう物足りないですか? 蒸気時代を名乗るならやはり蒸気機関は欠かせないでしょう! 各蒸気エンジンは256 SUを出力できるため、より多くの応力を利用することができます。\n\nブレイズバーナーは家から出なくても作成でき、メカニカルアームを使用して固体燃料を自動的に供給したり、液体燃料(クレオソートなど)を直接パイプで送ったりできます。高品質な石炭やAnthracite、コークスを使用して過熱状態にすることもできます。",
+   
+    "quests.steam_age.fuel_sources.title": "いろんな燃料たち",
+    "quests.steam_age.fuel_sources.subtitle": "燃料を蒸気に! いいですとも!",
+    "quests.steam_age.fuel_sources.desc": "蒸気機関は、液体燃料用高圧ボイラーよりも多く種類の液体燃料を受け入れることができます。現時点ではクレオソートまたは溶岩が最も簡単にセットアップできますが、ヒマワリやキャノーラからの&e種油&rなどのさまざまな植物ベースのオイルを利用するのもいいかもしれません。\n\nクレオソートと溶岩は、さらに上位の段階に進んでもあまり伸びしろがありませんが、バイオ燃料はディーゼルに、次にセタン添加ディーゼルにアップグレードできるため、それが魅力的だと思ったら、今すぐ植物油用の大きな畑を設置し始めてください!",
+   
+    "quests.steam_age.deployers.title": "デプロイヤー",
+    "quests.steam_age.deployers.subtitle": "原始的なアセンブリライン",
+    "quests.steam_age.deployers.desc": "この章の残りの期間、単一のデプロイヤーを使用することもできますが、&3本当に&rお勧めしません。ベルトコンベアーに沿ってデプロイヤーのラインを組めば、時間と正気を大幅に節約できます。また、基本的に無駄になることもありません。例えば自動植林場などに再利用することができます。\n\nこのようにして、電子管を大幅に安価に作りましょう!",
+   
+    "quests.steam_age.trains.title": "鉄道",
+    "quests.steam_age.trains.subtitle": "WayStonesは甘え",
+    "quests.steam_age.trains.desc": "鉄道は、プレイヤー、アイテム、液体など、あらゆる種類の長距離輸送に最適な選択肢です! チャンクロードされてない道も問題なく通過します。テレポート手段の解禁はゲーム終盤になるため、大陸にまたがる鉄道ネットワークが、時代遅れになることはないでしょう。",
+   
+    "quests.steam_age.wood_plank.title": "木の板",
+    "quests.steam_age.wood_plank.subtitle": "すっぴんの木の板",
+    "quests.steam_age.wood_plank.desc": "防腐木材の板と作り方は大して変わりませんが、最初にクレオソートに浸す必要はなく、任意の木材を使用できます。",
+   
+    "quests.steam_age.organization.title": "計画的な進行のために",
+    "quests.steam_age.organization.subtitle": "新人工場長に向けて",
+    "quests.steam_age.organization.desc": "必要なレシピやアイテムをすべて把握するのに苦労していませんか? そんなあなたのためのお役立ち商品を紹介します。\n\n&3クリップボード&r:これは携帯用のTo-Doリストとして便利なアイテムで、チェックを付けることもできます。\n\n&3クラフトブループリント&r:よく使うレシピを登録しておき、EMIでレシピを探さなくてもまとめてワンクリックで作成できます。\n\n&3EMIのブックマーク&r:EMIでアイテムにカーソルを合わせているときに「ブックマークの追加/削除」キー(デフォルトは「A」)を押すと、ブックマークできます。レシピを開き、出力されるアイテムをブックマークすると、そのレシピがブックマークされますよ!",
+   
+    "quests.steam_age.resin_boards.title": "樹脂回路基板",
+    "quests.steam_age.resin_boards.subtitle": "LaTeXはもううんざりだって?",
+    "quests.steam_age.resin_boards.desc": "Tree Tapから直接GregTechのパイプやドラムに樹液を入れられるって知ってました? そうなんですよ!",
+   
+    "quests.steam_age.circuit_boards.title": "エレクトロニクス#2:回路基板",
+    "quests.steam_age.circuit_boards.subtitle": "簡単めな回路の部品",
+    "quests.steam_age.circuit_boards.desc": "樹脂回路基板を銅ワイヤーと組み合わせると、最初の&a回路&rの基板が完成します!",
+   
+    "quests.steam_age.vacuum_chamber.title": "真空チャンバー",
+    "quests.steam_age.vacuum_chamber.subtitle": "真空管を真空たらしめる",
+    "quests.steam_age.vacuum_chamber.desc": "これは、真空管を作成する際の最終工程を担うマシンです。鉢の上に置き、動力を供給し、マシンがVacuumizingモードに設定されていることを確認してください。\n\nこのマシンは、炉またはブレイズバーナーで加熱することで、接着剤やゴムを液化するのにも役立ちます。",
+   
+    "quests.steam_age.vacuum_tubes.title": "エレクトロニクス#3:真空管",
+    "quests.steam_age.vacuum_tubes.subtitle": "難しめな回路の部品",
+    "quests.steam_age.vacuum_tubes.desc": "真空管の作成は、あなたの存在に疑問を抱かせるかもしれません。今は非常に高価ですが、すぐに安くなります。それこそがGregTechの哲学です!\n\n真空管は、技術的には最初の超低電圧(&8ULV&r)回路でもあります!おめでとうございます!ここから、[LV]回路の作成にすぐに飛び込むか、作成した真空管から他のマシンを作成して、蒸気時代にもう少し時間を費やすことができます。",
+   
+    "quests.steam_age.resistors.title": "エレクトロニクス#1:抵抗器",
+    "quests.steam_age.resistors.subtitle": "抵抗感のある回路の部品",
+    "quests.steam_age.resistors.desc": "抵抗器は、最初の回路を作成するための部品です。\n\n&a極細のワイヤー&rを使用するレシピを優先するのが賢明でしょう。長期的にはより多くの材料を節約できますから。\n\n今はワイヤーを作るのも厳しいかもしれませんが、&3Coiling Machine&rや&7LV&rの&3ワイヤー作製機&rを使えば、大幅に安くなります。",
+   
+    "quests.steam_age.coiling_machine.title": "Spring Coiling Machine",
+    "quests.steam_age.coiling_machine.subtitle": "ワイヤー作製機に金属加工機の半分をくくりつけてみた!",
+    "quests.steam_age.coiling_machine.desc": "&3Spring Coiling Machine&rはワイヤー作製機に似ていますが、異なるサイズのワイヤーを直接出力する機能はありません。それでも、これは非常に優秀で安価なワイヤー作製能力を持っています。\n\nこのマシンは、より安価にバネも作成できます!",
+   
+    "quests.steam_age.curving_press.title": "Curving Press",
+    "quests.steam_age.curving_press.subtitle": "基本型押し出し機と同じくらいニッチ",
+    "quests.steam_age.curving_press.desc": "&3Curving Press&rは、基本型押し出し機と同じすべてのレシピを実行できます。残念ながら、どちらもあまり多くのことを実行できません。押し出し機はMV時代に到達すると真価を発揮します。それでも、大量のツールヘッドを作成したい場合は、このマシンで作成できます。",
+   
+    "quests.steam_age.vibrating_table.title": "Vibrating Table",
+    "quests.steam_age.vibrating_table.subtitle": "選別機と同等",
+    "quests.steam_age.vibrating_table.desc": "&3Vibrating Table&rは、宝石の鉱石(石炭を含む)を独自の方法で処理でき、現時点で使える他の方法よりもはるかに多く生産してくれます。さらに、金属の混じった砂利も処理できます。もう流し樋での作業は必要ありません!",
+   
+    "quests.steam_age.lathe.title": "Belt Grinder",
+    "quests.steam_age.lathe.subtitle": "金吹雪舞い散る",
+    "quests.steam_age.lathe.desc": "&3Belt Grinder&rは、一つのインゴットを2つの棒に切削したり、ボルトをスクリューに加工したり、あるいは、宝石を研磨したりなど、様々な加工が行えます。多くの棒とスクリューが必要な場合は、このマシンは良い投資になります。",
+   
+    "quests.steam_age.steel_saw.title": "Steel Mechanical Saw",
+    "quests.steam_age.steel_saw.subtitle": "石切り台と基本型裁断機が1つに!",
+    "quests.steam_age.steel_saw.desc": "これは、棒を4つのボルトに変えたり、ブロックをプレートに裁断したりするなど、いくつかの金属レシピも処理できるようになったBasic Mechanical Sawのアップグレード版です。これらのレシピを実行するためには液体が必要ですが、今のところは水を使えばよいでしょう。\n\n最初に合金精錬機を使用してゴムパルプをブロックに変えると、より安価にゴムシートを作ることができます。",
+   
+    "quests.steam_age.rolling_mill.title": "Rolling Mill",
+    "quests.steam_age.rolling_mill.subtitle": "金属加工機の残り半分",
+    "quests.steam_age.rolling_mill.desc.1": "蒸気時代に作れるマシンの中でも、&3Rolling Mill&rは、最高のものの1つです。だって、1つのインゴットから1つのプレートが作れるようになるんですよ! また、薄いシートを手作業よりも安価に作成することもできます!",
+    "quests.steam_age.rolling_mill.desc.2": "&l&3伝承によると...&r &oこのマシンは以前からTFGにあったんだけど、昔は、プレートの代わりに棒を作ってて、基本型金属加工機の前のプレート作成機は20%で失敗してたんだって!...と言い伝えられています。&r",
+   
+    "quests.steam_age.steel_mixer.title": "Steel Mechanical Mixer",
+    "quests.steam_age.steel_mixer.subtitle": "基本型ミキサーのアーリーアクセス版",
+    "quests.steam_age.steel_mixer.desc": "&3Steel Mechanical Mixer&rは、蒸気時代に作れる最高のマシンのもう1つです。るつぼよりもはるかに効率的な速度で、色付きの鋼鉄の粉末を混合できます! ガスを含むレシピも実行できちゃいますが...まあ、深く考えたら負けってことで。\n\n加熱が必要なレシピには、炉またはブレイズバーナーを使用でき、メカニカルアームはどちらにも自動的に燃料を補給できます。",
+   
+    "quests.steam_age.potin.title": "ポティン!!!",
+    "quests.steam_age.potin.subtitle": "大丈夫。下ネタではありません",
+    "quests.steam_age.potin.desc.1": "&dポティン製液体パイプ&rは、コストに対して&a非常に高い液体運搬性能&rを持っています。よりよい液体の運搬や管理のためにも、これらのいくつかを作成することを検討してください。\n\n&dポティン&rをつくるには、まず&e粉末&rの形から始める必要があります。\n\nこのクエストでは、細いパイプまたは通常のパイプのどちらかが必要です。どちらかのサイズを入手して完了してください。",
+    "quests.steam_age.potin.desc.2": "&l&3伝承によると...&r&o &dポティン製液体パイプ&rは元々&9GT++&rにて生み出されて、&4[GT:NH]&rと呼ばれる小規模なパックでは猛威を振るっていたんだと。私たちはその喜びを広めたかったんだ。\n\nちなみに、現実の世界では、&dポティン&rはパイプではなく、コインに使用される合金らしいよ。GTCEuは日々非現実的になっています...と言い伝えられています。",
+   
+    "quests.steam_age.miner.title": "自動採掘",
+    "quests.steam_age.miner.subtitle": "ここもいずれ...",
+    "quests.steam_age.miner.desc.1": "鉱石を自動採掘する2つの方法が利用できるようになりました! ただし、どちらもかなり時間がかかるので、設置してチャンクをロードし、座して待つのではなく、代わりに何か他の作業を進めておいた方がいいと思いますよ。\n\nメカニカルドリルは、掘りすすむための仕掛けを作る必要があります。必要に応じて、列車の先頭やトロッコに取り付けてトンネルを掘ることもできます。",
+    "quests.steam_age.miner.desc.2": "一方、蒸気式採掘機は、鉱石ブロックのみを破壊し、残りの地面をそのままにして、それらを丸石に置き換えます。 小さめの範囲を自動で採掘してくれるため、メカニカルドリルより準備は楽ですが、動作速度はとても遅いです。",
+   
+    "quests.steam_age.paper.title": "紙",
+    "quests.steam_age.paper.subtitle": "サトウキビからは作れないんです",
+    "quests.steam_age.paper.desc": "まだ作ってなかったですか? でしたら電気なしで紙を入手する方法を3つお教えします。\n\n1)皮、軽石、卵で羊皮紙を作成する。\n\n2)パピルスを織る。\n\n3)長いプロセスを経て樹から作る。\n\n後には、科学槽を使用して木材パルプを直接紙に変えることができるようになります。",
+   
+    "quests.steam_age.lv_circuit.title": "最初の回路!",
+    "quests.steam_age.lv_circuit.subtitle": "新時代の幕開け",
+    "quests.steam_age.lv_circuit.desc": "このレシピに、最初は圧倒されるかもしれません。しかし、蒸気時代に時間をかけ、じっくり進めていれば、すべて簡単に自動化できるはずです。しばらくの間はこれをたくさん作成する必要がありますが、回路組み立て機を手に入れるまでは、これから作る電動の機械たちによって、さらに作りやすくなっていくだろう。",
+   
+    "quests.steam_age.what_next.title": "次は?",
+    "quests.steam_age.what_next.subtitle": "来たれ、GregTech",
+    "quests.steam_age.what_next.desc": "ここに急いで来た場合は、最初に金属加工機、ワイヤー作製機、またはミキサーなどの機械をお勧めします。\n下のCreateマシンを作成していた場合は、組み立て機、アーク炉、化学反応器をお勧めします。",
+   
+    "quests.steam_age.alternator.title": "オルタネーター",
+    "quests.steam_age.alternator.subtitle": "ストレスを力に変える",
+    "quests.steam_age.alternator.desc.1": "大規模な蒸気時代のセットアップがある場合は、ボイラーと[LV Steam Turbines]に戻るためだけに、すぐにすべてを廃棄したくないでしょう。代わりに、&3オルタネーター&rは蒸気機関からの[SU]を電気に変換します。各蒸気機関+オルタネーターは、1Aの[LV]を提供する必要があります!残念ながら、オルタネーターはストレスを[GregTech]が使用する電気システムとは異なる電気システムに変換するため、エネルギーコンバーターを使用して使用可能な[LV]エネルギーに変換する必要があります。",
+    "quests.steam_age.alternator.desc.2": "蒸気機関が8アンペアの[LV]を生成する例です!\n",
+   
+    "quests.steam_age.packager.title": "Create物流システム",
+    "quests.steam_age.packager.subtitle": "君んちにはAE2がないの?",
+    "quests.steam_age.packager.desc": "なんで倉庫系Modなしで工業Modをやらなあかんねん!!と、お思いのことでしょう。お待たせしました! ついに、Createの物流システムが利用可能になりました! 開始方法については、クエストの&3Create物流システム&rの章をご覧ください。",
+   
+    "quests.steam_age.basic_mech_press.title": "Basic Mechanical Press",
+    "quests.steam_age.basic_mech_press.subtitle": "自動溶接機",
+    "quests.steam_age.basic_mech_press.desc": "溶接に疲れた場合は、このマシンにやってもらいましょう。鉢を炉の上に置き、鍛冶場の温度が黄色以上であることを確認してから、アイテムを鉢に入れます。残念ながら、この段階でできるのはそれだけです。",
+   
+    "quests.steam_age.steel_mech_press.title": "Steel Mechanical Press",
+    "quests.steam_age.steel_mech_press.subtitle": "ほぼ鍛冶ハンマー",
+    "quests.steam_age.steel_mech_press.desc.1": "高圧蒸気式鍛造機はあとちょっとで作れますし、それがあればこのマシンにできることは、ほとんどすべてできてしまいますが、より上位の自動溶接レシピを切実に必要としている場合は作りましょう。\n\n鍛造機ではSteel Mechanical Pressと同じように、鉱石を(副産物なしで)粉砕したり、岩を丸石に変えたり、砂利を砂に変えたり、レンガを割ったりすることができます。ただし、鍛造機のみが&3金属プレートのより安価なレシピ&rを実行できます...",
+    "quests.steam_age.steel_mech_press.desc.2": "&l&3伝承によると...&r&o Createのメカニカルプレスって、バージョン0.9より前のTerraFirmaGregだと、蒸気時代の結構重要なマシンだったんだよね。なぜかって、4/5っていうまあまあ良い比率でプレート作ってくれたから。でも実は、それを「20%の確率で、アイテムが消える」っていう仕様で実装してたんだよ! あのギャンブルはサイコーだったなあ。ウン、ホントに。...と言い伝えられています。"
 }
