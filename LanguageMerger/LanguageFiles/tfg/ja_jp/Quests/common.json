@@ -4,10 +4,10 @@
     "quests.tasktype.lookat": "Look at a:",
     "quests.tasktype.travelto": "Travel to:",
 
-    "quests.groups.primitive": "Primitive Age",
-    "quests.groups.voltaic_age": "Voltaic Age",
-    "quests.groups.space_age": "Space Age",
-    "quests.groups.interstellar": "Interstellar Age",
-    "quests.groups.technological_help": "Technological Help",
+    "quests.groups.primitive": "原始時代",
+    "quests.groups.voltaic_age": "先進時代",
+    "quests.groups.space_age": "宇宙時代",
+    "quests.groups.interstellar": "恒星間時代",
+    "quests.groups.technological_help": "攻略のための知識",
     "quests.groups.tips": "Tips"
 }

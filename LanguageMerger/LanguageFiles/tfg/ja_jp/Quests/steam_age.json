@@ -20,7 +20,7 @@
     "quests.steam_age.horse_crank.desc.2": "&3小型動物(4 SU):&r\nオオカミ、犬、豚、羊、ヤギ、アルパカ\n\n&3中型動物(6 SU):&r\n牛、ロバ\n\n&3大型動物(8 SU):&r\n馬、ラバ、ジャコウウシ、ヤク",
    
     "quests.steam_age.poor_paths.title": "貧弱な道",
-    "quests.steam_age.poor_paths.subtitle": "こんなところで働けってのか！",
+    "quests.steam_age.poor_paths.subtitle": "こんなところで働けってのか!",
     "quests.steam_age.poor_paths.desc": "これは使用できる最悪の種類の道路です。Animal Crankは2 RPMで動作します。",
    
     "quests.steam_age.normal_paths.title": "普通の道",
@@ -31,7 +31,7 @@
     "quests.steam_age.good_paths.subtitle": "アットホームな職場です!",
     "quests.steam_age.good_paths.desc": "これらは使用できる最高の種類の道であり、クランクを8 RPMで出力できます。これらの種類の道はプレイヤーの移動速度も向上させるため、拠点を舗装するのにも最適です!",
    
-    "quests.steam_age.helve_hammer.title": "ヘルベハンマー",
+    "quests.steam_age.helve_hammer.title": "Helve Hammer",
     "quests.steam_age.helve_hammer.subtitle": "カーン... カーン... カーン...",
     "quests.steam_age.helve_hammer.desc": "塊鉄炉のためのプレートをすべて手作業で作るのは厳しくないですか? &3Helve Hammer&rは、ダブルインゴットを自動的に(ただしゆっくりと)平らにしてプレートにします。ただし、溶接は自分で行う必要があります。ハンマーの頭の真下に金床を置き、ダブルインゴットをその上に投げ込みましょう。取り出すときはハンマーを右クリックしましょう。\n\n上位の金床では、プレートを作成するために叩く回数も少なくなります。",
    
@@ -64,7 +64,7 @@
     "quests.steam_age.chute.desc": "アイテムを移動させる方法が利用できるようになりました!シュートはホッパーに似ており、安価ですが、アイテムを下向きにしか移動できません。どちらも、アイテムパイプに対してアイテムを搬出するための手段として使うこともできます。\n\nファンネルは似ていますが、アイテムパイプの代わりにベルトコンベアーと組み合わせるのが最適です。",
    
     "quests.steam_age.item_pipes.title": "アイテムパイプ",
-    "quests.steam_age.item_pipes.subtitle": "アイテムコンジットの方がイカしてるだって？",
+    "quests.steam_age.item_pipes.subtitle": "アイテムコンジットの方がイカしてるだって?",
     "quests.steam_age.item_pipes.desc.1": "&3アイテムパイプ&rは、アイテムを&d瞬時に&r移動させるための簡単な手段ですが、その運搬能力には制限があります。\n\nもちろん上位のパイプは、運搬能力が向上し、最終的にはすごいことになりますよ。それはもうMOD入りマイクラの中でも特にね!\n\nアイテムパイプは&9自力でアイテムを引き出す能力はありません&rが、どうにかしてパイプに搬入すれば、アイテムを他の接続された倉庫などに搬入してくれます。最初に&9最も近いインベントリ&rを優先します。",
     "quests.steam_age.item_pipes.desc.2": "優先順位のメカニズムはやや&o複雑&rです。興味がない場合はいったん飛ばしてもいいですよ:\n\n&e送り先&rには、それぞれ&d優先順位&rが割り当てられます。それは、その送り先へ至るまでの個々のパイプのもつ「優先順位」の値の合計によって決められます。その中で&c優先順位の値が&dもっとも低い&r送り先が、搬入先として選ばれます。\n\n&3制限付きパイプ&rは、優先順位が高めに設定されているため、基本的に搬入の優先順位が最も低くなります。",
     "quests.steam_age.item_pipes.desc.3": "現時点では、&6シュート&rおよび&6ホッパー&rと組み合わせればインベントリからの搬出ができますが、LV時代にはコンベアモジュール、出力バス、および機械の自動出力でも使用できるようになります。\n\n&9注:&r GT6スタイルのパイプは&d有効&rになっています。つまり、パイプを配置すると、パイプを置いた面のブロックにのみ接続されます。もっといろんなブロックにつなげたいなら、&5レンチ&rを持つとグリッドが表示されるので、それを右クリックでつなげましょう。\n\n提案されたアイテムパイプの&eいずれか&rを入手して、このクエストを完了してください。",
@@ -100,7 +100,7 @@
    
     "quests.steam_age.fluid_drums.title": "効率的な液体ストレージ",
     "quests.steam_age.fluid_drums.subtitle": "木の樽に融けた鋼を入れておけると思います?",
-    "quests.steam_age.fluid_drums.desc.1": "&6TFG&rをやっていて、扱う液体の種類の多さに&4圧倒&rされてませんか?、それらを保管しておく方法を探していたら読んでください。\n\nご紹介しましょう... &aドラム&r!これらには大きな内部容量があります。&aドラム&rは壊されても内部の液体を&d保持します&r。ソフトマレットで右クリックすると、ドラムは下方向に内容物を自動搬出してくれます。",
+    "quests.steam_age.fluid_drums.desc.1": "&6TFG&rをやっていて、扱う液体の種類の多さに&4圧倒&rされてませんか? それらを保管しておく方法を探していたら読んでください。\n\nご紹介しましょう... &aドラム&r!これらには大きな内部容量があります。&aドラム&rは壊されても内部の液体を&d保持します&r。ソフトマレットで右クリックすると、ドラムは下方向に内容物を自動搬出してくれます。",
     "quests.steam_age.fluid_drums.desc.2": "&l&3伝承によると...&r&o このドラムたちは、実はGregTech 6から移植されたものなんだぜ。...と言い伝えられています。",
    
     "quests.steam_age.boilers.title": "蒸気ボイラー",
@@ -184,7 +184,7 @@
    
     "quests.steam_age.centrifuge.title": "Create式遠心分離機",
     "quests.steam_age.centrifuge.subtitle": "世界が回る 回るよ世界",
-    "quests.steam_age.centrifuge.desc": "鉱石処理は常にこのモッドパックの重要な部分であり、このマシンはそのオプションの部分です。Centrifugeを使用することで鉱石から副産物を得ることができます!(EMIの鉱石処理工程図を参考にしてください) 次の鉱石処理のアップデートはLV時代の基本型熱遠心分離機まで行われないですが、この機械を使うかどうかはあなた次第です。",
+    "quests.steam_age.centrifuge.desc": "鉱石処理は常にこのModPackの重要な部分であり、このマシンはそのオプションの部分です。Centrifugeを使用することで鉱石から副産物を得ることができます!(EMIの鉱石処理工程図を参考にしてください) 次の鉱石処理のアップデートはLV時代の基本型熱遠心分離機まで行われないですが、この機械を使うかどうかはあなた次第です。",
    
     "quests.steam_age.steam_engine.title": "蒸気エンジン",
     "quests.steam_age.steam_engine.subtitle": "本格的 蒸気機関",
@@ -211,7 +211,7 @@
     "quests.steam_age.organization.desc": "必要なレシピやアイテムをすべて把握するのに苦労していませんか? そんなあなたのためのお役立ち商品を紹介します。\n\n&3クリップボード&r:これは携帯用のTo-Doリストとして便利なアイテムで、チェックを付けることもできます。\n\n&3クラフトブループリント&r:よく使うレシピを登録しておき、EMIでレシピを探さなくてもまとめてワンクリックで作成できます。\n\n&3EMIのブックマーク&r:EMIでアイテムにカーソルを合わせているときに「ブックマークの追加/削除」キー(デフォルトは「A」)を押すと、ブックマークできます。レシピを開き、出力されるアイテムをブックマークすると、そのレシピがブックマークされますよ!",
    
     "quests.steam_age.resin_boards.title": "樹脂回路基板",
-    "quests.steam_age.resin_boards.subtitle": "LaTeXはもううんざりだって?",
+    "quests.steam_age.resin_boards.subtitle": "LaTeXの扱いは板についてきましたか?",
     "quests.steam_age.resin_boards.desc": "Tree Tapから直接GregTechのパイプやドラムに樹液を入れられるって知ってました? そうなんですよ!",
    
     "quests.steam_age.circuit_boards.title": "エレクトロニクス#2:回路基板",
@@ -262,7 +262,7 @@
     "quests.steam_age.potin.title": "ポティン!!!",
     "quests.steam_age.potin.subtitle": "大丈夫。下ネタではありません",
     "quests.steam_age.potin.desc.1": "&dポティン製液体パイプ&rは、コストに対して&a非常に高い液体運搬性能&rを持っています。よりよい液体の運搬や管理のためにも、これらのいくつかを作成することを検討してください。\n\n&dポティン&rをつくるには、まず&e粉末&rの形から始める必要があります。\n\nこのクエストでは、細いパイプまたは通常のパイプのどちらかが必要です。どちらかのサイズを入手して完了してください。",
-    "quests.steam_age.potin.desc.2": "&l&3伝承によると...&r&o &dポティン製液体パイプ&rは元々&9GT++&rにて生み出されて、&4[GT:NH]&rと呼ばれる小規模なパックでは猛威を振るっていたんだと。私たちはその喜びを広めたかったんだ。\n\nちなみに、現実の世界では、&dポティン&rはパイプではなく、コインに使用される合金らしいよ。GTCEuは日々非現実的になっています...と言い伝えられています。",
+    "quests.steam_age.potin.desc.2": "&l&3伝承によると...&r&o &dポティン製液体パイプ&rは元々&9GT++&rにて生み出されて、&4[GT:NH]&rと呼ばれる小規模なPackでは猛威を振るっていたんだと。私たちはその喜びを広めたかったんだ。\n\nちなみに、現実の世界では、&dポティン&rはパイプではなく、コインに使用される合金らしいよ。GTCEuは日々非現実的になっています...と言い伝えられています。",
    
     "quests.steam_age.miner.title": "自動採掘",
     "quests.steam_age.miner.subtitle": "ここもいずれ...",
@@ -291,11 +291,11 @@
     "quests.steam_age.packager.desc": "なんで倉庫系Modなしで工業Modをやらなあかんねん!!と、お思いのことでしょう。お待たせしました! ついに、Createの物流システムが利用可能になりました! 開始方法については、クエストの&3Create物流システム&rの章をご覧ください。",
    
     "quests.steam_age.basic_mech_press.title": "Basic Mechanical Press",
-    "quests.steam_age.basic_mech_press.subtitle": "自動溶接機",
+    "quests.steam_age.basic_mech_press.subtitle": "全自動卵くっつけ機",
     "quests.steam_age.basic_mech_press.desc": "溶接に疲れた場合は、このマシンにやってもらいましょう。鉢を炉の上に置き、鍛冶場の温度が黄色以上であることを確認してから、アイテムを鉢に入れます。残念ながら、この段階でできるのはそれだけです。",
    
     "quests.steam_age.steel_mech_press.title": "Steel Mechanical Press",
-    "quests.steam_age.steel_mech_press.subtitle": "ほぼ鍛冶ハンマー",
+    "quests.steam_age.steel_mech_press.subtitle": "ほぼ鍛造機",
     "quests.steam_age.steel_mech_press.desc.1": "高圧蒸気式鍛造機はあとちょっとで作れますし、それがあればこのマシンにできることは、ほとんどすべてできてしまいますが、より上位の自動溶接レシピを切実に必要としている場合は作りましょう。\n\n鍛造機ではSteel Mechanical Pressと同じように、鉱石を(副産物なしで)粉砕したり、岩を丸石に変えたり、砂利を砂に変えたり、レンガを割ったりすることができます。ただし、鍛造機のみが&3金属プレートのより安価なレシピ&rを実行できます...",
     "quests.steam_age.steel_mech_press.desc.2": "&l&3伝承によると...&r&o Createのメカニカルプレスって、バージョン0.9より前のTerraFirmaGregだと、蒸気時代の結構重要なマシンだったんだよね。なぜかって、4/5っていうまあまあ良い比率でプレート作ってくれたから。でも実は、それを「20%の確率で、アイテムが消える」っていう仕様で実装してたんだよ! あのギャンブルはサイコーだったなあ。ウン、ホントに。...と言い伝えられています。"
 }
