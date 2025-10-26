@@ -31,9 +31,6 @@ dependencies {
     // logging
     implementation 'org.slf4j:slf4j-api:1.7.36'
     implementation 'ch.qos.logback:logback-classic:1.2.13'
-
-    // test
-    testImplementation 'org.junit.jupiter:junit-jupiter:5.10.0'
 }
 
 tasks.withType(JavaCompile) {

@@ -50,3 +50,5 @@ config.json
 /test/
 tmp
 *.jar
+
+.gradle

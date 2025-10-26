@@ -3,11 +3,6 @@ package io.github.tfgcn.langsync.service.model;
 import io.github.tfgcn.langsync.Constants;
 import lombok.Data;
 
-/**
- * desc: 文件扫描结果
- *
- * @author yanmaoyuan
- */
 @Data
 public class FileScanResult {
     private String sourceFilePath;// relative path of workspace
