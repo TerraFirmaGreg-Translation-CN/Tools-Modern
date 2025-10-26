@@ -1,0 +1,15 @@
+{
+    "item.create.netherite_diving_helmet.tooltip.summary": "Вместе с _баллоном из синей стали_, защищает от _экстремальной жары_. Для полной защиты, _ноги и ступни_ также должны быть в _дайверском снаряжением из синей стали_.",
+    "item.create.netherite_backtank": "Баллон (Синяя сталь)",
+    "item.create.netherite_diving_helmet": "Лаволазный шлем из синей стали",
+    "item.create.netherite_diving_boots": "Лаволазные ботинки из синей стали",
+    "item.create.copper_sheet": "Медная пластина",
+    "item.create.brass_sheet": "Латунная пластина",
+    "item.create.golden_sheet": "Золотая пластина",
+    "item.create.crushed_raw_gold": "Очищенное рудное золото",
+    "item.create.crushed_raw_copper": "Очищенная рудная медь ",
+    "item.create.crushed_raw_zinc": "Очищенный рудный цинк",
+    "item.create.crushed_raw_silver": "Очищенное рудное серебро",
+    "item.create.crushed_raw_tin": "Очищенное рудное олово",
+    "item.create.crushed_raw_lead": "Очищенный рудный свинец"
+}
