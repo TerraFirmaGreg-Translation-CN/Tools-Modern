@@ -188,6 +188,8 @@
     "item.tfg.food.cooked_stickastackatick": "Cooked Stick'a'Stackatick",
     "item.tfg.food.raw_cruncher_ribs": "Raw Cruncher Ribs",
     "item.tfg.food.cooked_cruncher_ribs": "Cooked Cruncher Ribs",
+    "item.tfg.food.raw_dino_nugget": "Prepared Dinosaur Nugget",
+    "item.tfg.food.cooked_dino_nugget": "Beer Battered Dinosaur Nugget",
 
     "item.tfg.roasted_sunflower_seeds": "Roasted Sunflower Seeds",
     "item.tfg.sunflower_seeds": "Sunflower Seed",
@@ -302,9 +304,11 @@
 
     "item.tfg.flax_seeds": "Flax Seeds",
     "item.tfg.flax_product": "Flax Stems",
+    "item.tfg.flax_bundle": "Flax Bundle",
     "item.tfg.flax_line": "Flax Line Fibers",
     "item.tfg.flax_tow": "Flax Tow Fibers",
     "item.tfg.flax_waste": "Scraped Flax",
+    "item.tfg.bundled_scraped_flax": "Bundled Scraped Flax",
     "item.tfg.linen_thread": "Linen Thread",
     "item.tfg.linen_cloth": "Linen Cloth",
 
