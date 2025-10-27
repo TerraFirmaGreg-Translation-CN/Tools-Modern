@@ -1,12 +1,16 @@
 {
   "block.createhorsepower.horse_crank": "Конный привод",
+  
   "item.createhorsepower.horse_crank": "Конный привод",
+  
   "entity.createhorsepower.chp_leash_knot": "(CHP) Leash Knot",
+  
   "tooltip.createhorsepower.horse_crank.detached" : "Рабочий был отвязан",
   "tooltip.createhorsepower.horse_crank.attached" : "Рабочий был привязан",
   "tooltip.createhorsepower.horse_crank.maximumMobs" : "Только один моб может быть привязан",
   "tooltip.createhorsepower.horse_crank.notValidWorker": "Моб не подходит под рабочего",
   "tooltip.createhorsepower.horse_crank.alreadyHasWorker": "Привод уже имеет рабочего",
+  
   "createhorsepower.ponder.horse_crank.header": "Использование конного привода",
   "createhorsepower.ponder.horse_crank.text_1": "Это конный привод",
   "createhorsepower.ponder.horse_crank.text_2": "Чтобы использовать лошадиный привод, под ним сначала должны быть установлены подходящие блоки",
