@@ -8,6 +8,7 @@
     "item.ad_astra.tier_1_rover": "Вездеход",
     "item.ad_astra.photovoltaic_etrium_cell": "Улучшенная фотоэлектрическая ячейка",
     "item.ad_astra.photovoltaic_vesnium_cell": "Энергетическая фотоэлектрическая ячейка",
+    
     "item.ad_astra.ostrum_tank": "Острумовый бустер бак",
     "item.ad_astra.steel_engine": "Ракетный двигатель (Сталь)",
     "item.ad_astra.desh_engine": "Ракетный двигатель (Деш)",
@@ -16,5 +17,6 @@
     "item.ad_astra.netherite_space_suit": "§bКосмический костюм из вольфармовой стали",
     "item.ad_astra.netherite_space_pants": "§bКосмические штаны из вольфармовой стали",
     "item.ad_astra.netherite_space_boots": "§bКосмические ботинки из вольфармовой стали",
+    
     "item.ad_astra.cheese": "Лунный сыр"
 }
