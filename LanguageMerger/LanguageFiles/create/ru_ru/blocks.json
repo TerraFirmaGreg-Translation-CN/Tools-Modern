@@ -1,13 +1,18 @@
 {
+    
     "block.create.netherite_backtank": "Баллон (Синяя сталь)",
+    
     "__comment1": "Industrial iron",
+    
     "block.create.industrial_iron_block": "Блок промышленной стали",
     "block.create.weathered_iron_block": "Состаренный блок промышленной стали",
     "block.create.industrial_iron_window": "Украшенное промышленной сталью окно",
     "block.create.weathered_iron_window": "Украшенное состаренной промышленной сталью окно",
     "block.create.industrial_iron_window_pane": "Украшенная промышленной сталью оконная панель",
     "block.create.weathered_iron_window_pane": "Украшенная состаренной сталью оконная панель",
+    
     "__comment2": "Window panes",
+    
     "block.create.dark_oak_window": "Гикорное окно",
     "block.create.dark_oak_window_pane": "Гикорная оконная панель",
     "block.create.cherry_window": "Инжирное окно",
@@ -20,7 +25,9 @@
     "block.create.birch_window_pane": "Эвкалиптовая оконная панель",
     "block.create.acacia_window": "Баобабовое окно",
     "block.create.acacia_window_pane": "Баобабовая оконная панель",
+    
     "__comment3": "Andesite",
+    
     "block.create.andesite_bars": "Металлические прутья",
     "block.create.andesite_belt_funnel": "Металлический конвейерный шлюз",
     "block.create.andesite_casing": "Металлический корпус",
@@ -33,7 +40,9 @@
     "block.create.andesite_scaffolding": "Металлические подмостки",
     "block.create.andesite_tunnel": "Металлический туннель",
     "block.create.andesite_table_cloth": "Металлическая столешница",
+    
     "__comment4": "Deepslate",
+    
     "block.create.cut_deepslate": "Резной мигматит",
     "block.create.cut_deepslate_stairs": "Ступеньки из резного мигматита",
     "block.create.cut_deepslate_slab": "Плита из резного мигматита",
@@ -52,7 +61,9 @@
     "block.create.small_deepslate_brick_wall": "Ограда из мелкого мигматитового кирпича",
     "block.create.layered_deepslate": "Слоистый мигматит",
     "block.create.deepslate_pillar": "Мигматитовая колонна",
+    
     "__comment5": "Dripstone",
+    
     "block.create.cut_dripstone": "Резной травертин",
     "block.create.cut_dripstone_stairs": "Ступеньки из резного травертина",
     "block.create.cut_dripstone_slab": "Плита из резного травертина",
@@ -71,7 +82,9 @@
     "block.create.small_dripstone_brick_wall": "Ограда из мелкого травертинового кирпича",
     "block.create.layered_dripstone": "Слоистый травертин",
     "block.create.dripstone_pillar": "Травертиновая колонна",
+    
     "__comment6": "Granite (looks more like chert)",
+    
     "block.create.cut_granite": "Резной кремнистый сланец",
     "block.create.cut_granite_stairs": "Ступеньки из резного кремнистого сланца",
     "block.create.cut_granite_slab": "Плита из резного кремнистого сланца",
