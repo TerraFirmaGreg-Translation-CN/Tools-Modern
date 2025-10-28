@@ -1,5 +1,6 @@
 {
     "block.bud_indicator": "Поверхностная друза (%s)",
+
     "block.gtceu.greenhouse": "Теплица",
     "block.gtceu.steam_bloomery": "Паровой сыродутный горн",
     "block.gtceu.large_solar_panel": "§9Large Solar Array MK I",
@@ -17,20 +18,25 @@
     "block.gtceu.ulv_super_chest": "Basic Super Chest",
     "block.gtceu.ulv_hermetic_casing": "Basic Hermetic Casing",
     "block.gtceu.hv_energy_output_hatch_4a": "§6HV 4A Dynamo Hatch§r",
-    "block.tfg.bioreactor": "Bioreactor",
+    "block.tfg.bioreactor": "Биореактор",
     "block.tfg.growth_chamber": "Growth Chamber",
     "block.tfg.single_itemstack_bus": "Limiting Input Bus",
-    "block.gtceu.red_granite_cobblestone": "Red Granite Cobble",
-    "block.gtceu.mossy_red_granite_cobblestone": "Mossy Red Granite Cobble",
+
+    "block.gtceu.red_granite_cobblestone": "Красно-гранитный булыжник",
+    "block.gtceu.mossy_red_granite_cobblestone": "Замшелый красно-гранитный булыжник",
+
     "block.gtceu.copper_crate": "Copper Crate",
     "block.gtceu.copper_drum": "Copper Drum",
-    "block.gtceu.black_bronze_crate": "Ящик из черной бронзы",
-    "block.gtceu.black_bronze_drum": "Бочка из черной бронзы",
+    "block.gtceu.black_bronze_crate": "Ящик из чёрной бронзы",
+    "block.gtceu.black_bronze_drum": "Бочка из чёрной бронзы",
     "block.gtceu.bismuth_bronze_crate": "Ящик из висмутовой бронзы",
     "block.gtceu.bismuth_bronze_drum": "Бочка из висмутовой бронзы",
+
     "block.gtceu.overworld_marker": "Земля",
     "block.gtceu.the_nether_marker": "Бездна",
+
     "__comment1": "these are used for recipes",
+    
     "gtceu.greenhouse": "Электрическая теплица",
     "gtceu.steam_bloomery": "Паровой сыродутный горн",
     "gtceu.food_oven": "Food Oven",
@@ -46,6 +52,6 @@
     "gtceu.ostrum_harvester": "Ostrum Harvester",
     "gtceu.moon_dust_harvester": "Moon Dust Harvester",
     "gtceu.ostrum_linear_accelerator": "Ostrum Linear Accelerator",
-    "gtceu.bioreactor": "Bioreactor",
+    "gtceu.bioreactor": "Биореактор",
     "gtceu.growth_chamber": "Growth Chamber"
 }

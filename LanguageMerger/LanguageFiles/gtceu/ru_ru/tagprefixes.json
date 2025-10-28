@@ -34,5 +34,13 @@
     "tagprefix.marble": "%s (Мраморная руда)",
     "tagprefix.deepslate": "%s (Мигматитовая руда)",
     "tagprefix.pyroxenite": "%s (Пироксенитовая руда)",
-    "tagprefix.dripstone": "%s (Травертиновая руда)"
+    "tagprefix.dripstone": "%s (Травертиновая руда)",
+
+
+  "tagprefix.moon_stone": "%s (Анортозитовая руда)",
+  "tagprefix.moon_deepslate": "%s (Норитовая руда)",
+  "tagprefix.mars_stone": "%s (Аргиллитовая руда)",
+  "tagprefix.venus_stone": "%s (Трахитовая руда)",
+  "tagprefix.mercury_stone": "%s (Коматиитовая руда)",
+  "tagprefix.glacio_stone": "%s (Фонолитовая руда)"
 }
