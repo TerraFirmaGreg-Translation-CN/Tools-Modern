@@ -207,7 +207,7 @@
     "quests.steam_age.miner.desc.2": "另一方面，蒸汽采矿机则只破坏矿石块，并将其替换为圆石，从而保持其余地形的完整。它能够开采（较小）半径内的矿石，这意味着它比动力钻头需要移动的频率更低，但速度也慢得多。",
     "quests.steam_age.paper.title": "纸",
     "quests.steam_age.paper.subtitle": "并非来自甘蔗",
-    "quests.steam_age.paper.desc": "If you haven't made any yet, there's three different ways to get paper without electricity.\n\n1) Craft vellum out of a hide, pumice, and an egg.\n\n2) Weave together papyrus.\n\n3) Craft it out of hardwood through a lengthy process.\n\nYou can later turn wood pulp directly into paper with fewer steps.",
+    "quests.steam_age.paper.desc": "如果你还没有制作过纸，现有三种无需电力获取纸的途径：\n\n1）使用兽皮、浮石与蛋合成羊皮纸。\n\n2）将纸莎草编织成纸。\n\n3）通过复杂工序将硬木加工成纸。\n\n以后你还可以将木浆直接转化为纸，步骤更为简化。",
     "quests.steam_age.lv_circuit.title": "你的第一个电路！",
     "quests.steam_age.lv_circuit.subtitle": "新时代的黎明",
     "quests.steam_age.lv_circuit.desc": "这些的配方起初可能看起来令人生畏，但如果你已在蒸汽时代投入了足够时间，所有步骤都应能轻松实现自动化。在接下来的阶段里你将大量制作这些组件，而随后解锁的几台电力设备会持续降低其成本——直到你在LV阶段后期获得电路组装机。",
