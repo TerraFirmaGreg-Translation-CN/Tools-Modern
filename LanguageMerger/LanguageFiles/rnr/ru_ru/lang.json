@@ -17,6 +17,7 @@
   "block.rnr.rock.over_height_gravel.granite": "Возвышенный гранитный гравий",
   "item.rnr.gravel_fill.granite": "Насыпь гранитного гравия",
   "item.rnr.flagstone.granite": "Гранитная брусчатка",
+  
   "block.rnr.rock.flagstones.diorite": "Диоритовая брусчатка",
   "block.rnr.rock.flagstones.diorite_slab": "Плита из диоритовой брусчатки",
   "block.rnr.rock.flagstones.diorite_stairs": "Ступеньки из диоритовой брусчатки",
@@ -35,6 +36,7 @@
   "block.rnr.rock.over_height_gravel.diorite": "Возвышенный диоритовый гравий",
   "item.rnr.gravel_fill.diorite": "Насыпь диоритового гравия",
   "item.rnr.flagstone.diorite": "Диоритовая брусчатка",
+  
   "block.rnr.rock.flagstones.gabbro": "Габбровая брусчатка",
   "block.rnr.rock.flagstones.gabbro_slab": "Плита из габбровой брусчатки",
   "block.rnr.rock.flagstones.gabbro_stairs": "Ступеньки из габбровой брусчатки",
@@ -53,6 +55,7 @@
   "block.rnr.rock.over_height_gravel.gabbro": "Возвышенный габбровый гравий",
   "item.rnr.gravel_fill.gabbro": "Насыпь габбрового гравия",
   "item.rnr.flagstone.gabbro": "Габбровая брусчатка",
+  
   "block.rnr.rock.flagstones.shale": "Сланцевая брусчатка",
   "block.rnr.rock.flagstones.shale_slab": "Плита из сланцевой брусчатки",
   "block.rnr.rock.flagstones.shale_stairs": "Ступеньки из сланцевой брусчатки",
@@ -71,6 +74,7 @@
   "block.rnr.rock.over_height_gravel.shale": "Возвышенный сланцевый гравий",
   "item.rnr.gravel_fill.shale": "Насыпь сланцевого гравия",
   "item.rnr.flagstone.shale": "Сланцевая брусчатка",
+  
   "block.rnr.rock.flagstones.claystone": "Аргиллитовая брусчатка",
   "block.rnr.rock.flagstones.claystone_slab": "Плита из аргиллитовой брусчатки",
   "block.rnr.rock.flagstones.claystone_stairs": "Ступеньки из аргиллитовой брусчатки",
@@ -89,6 +93,7 @@
   "block.rnr.rock.over_height_gravel.claystone": "Возвышенный аргиллитовый гравий",
   "item.rnr.gravel_fill.claystone": "Насыпь аргиллитового гравия",
   "item.rnr.flagstone.claystone": "Аргиллитовая брусчатка",
+  
   "block.rnr.rock.flagstones.limestone": "Известняковая брусчатка",
   "block.rnr.rock.flagstones.limestone_slab": "Плита из известняковой брусчатки",
   "block.rnr.rock.flagstones.limestone_stairs": "Ступеньки из известняковой брусчатки",
@@ -107,6 +112,7 @@
   "block.rnr.rock.over_height_gravel.limestone": "Возвышенный известняковый гравий",
   "item.rnr.gravel_fill.limestone": "Насыпь известнякового гравия",
   "item.rnr.flagstone.limestone": "Известняковая брусчатка",
+  
   "block.rnr.rock.flagstones.conglomerate": "Конгломератовая брусчатка",
   "block.rnr.rock.flagstones.conglomerate_slab": "Плита из конгломератовой брусчатки",
   "block.rnr.rock.flagstones.conglomerate_stairs": "Ступеньки из конгломератовой брусчатки",
@@ -125,6 +131,7 @@
   "block.rnr.rock.over_height_gravel.conglomerate": "Возвышенный конгломератовый гравий",
   "item.rnr.gravel_fill.conglomerate": "Насыпь конгломератового гравия",
   "item.rnr.flagstone.conglomerate": "Конгломератовая брусчатка",
+  
   "block.rnr.rock.flagstones.dolomite": "Доломитовая брусчатка",
   "block.rnr.rock.flagstones.dolomite_slab": "Плита из доломитовой брусчатки",
   "block.rnr.rock.flagstones.dolomite_stairs": "Ступеньки из доломитовой брусчатки",
@@ -143,6 +150,7 @@
   "block.rnr.rock.over_height_gravel.dolomite": "Возвышенный доломитовый гравий",
   "item.rnr.gravel_fill.dolomite": "Насыпь доломитового гравия",
   "item.rnr.flagstone.dolomite": "Доломитовая брусчатка",
+  
   "block.rnr.rock.flagstones.chert": "Кремнистая сланцевая брусчатка",
   "block.rnr.rock.flagstones.chert_slab": "Плита из кремнистой сланцевой брусчатки",
   "block.rnr.rock.flagstones.chert_stairs": "Ступеньки из кремнистой сланцевой брусчатки",
@@ -161,6 +169,7 @@
   "block.rnr.rock.over_height_gravel.chert": "Возвышенный кремнистый сланцевый гравий",
   "item.rnr.gravel_fill.chert": "Насыпь кремнистого сланцевого гравия",
   "item.rnr.flagstone.chert": "Кремнистая сланцевая брусчатка",
+  
   "block.rnr.rock.flagstones.chalk": "Меловая брусчатка",
   "block.rnr.rock.flagstones.chalk_slab": "Плита из меловой брусчатки",
   "block.rnr.rock.flagstones.chalk_stairs": "Ступеньки из меловой брусчатки",
@@ -179,6 +188,7 @@
   "block.rnr.rock.over_height_gravel.chalk": "Возвышенный меловой гравий",
   "item.rnr.gravel_fill.chalk": "Насыпь мелового гравия",
   "item.rnr.flagstone.chalk": "Меловая брусчатка",
+  
   "block.rnr.rock.flagstones.rhyolite": "Риолитовая брусчатка",
   "block.rnr.rock.flagstones.rhyolite_slab": "Плита из риолитовой брусчатки",
   "block.rnr.rock.flagstones.rhyolite_stairs": "Ступеньки из риолитовой брусчатки",
@@ -197,6 +207,7 @@
   "block.rnr.rock.over_height_gravel.rhyolite": "Возвышенный риолитовый гравий",
   "item.rnr.gravel_fill.rhyolite": "Насыпь риолитового гравия",
   "item.rnr.flagstone.rhyolite": "Риолитовая брусчатка",
+  
   "block.rnr.rock.flagstones.basalt": "Базальтовая брусчатка",
   "block.rnr.rock.flagstones.basalt_slab": "Плита из базальтовой брусчатки",
   "block.rnr.rock.flagstones.basalt_stairs": "Ступеньки из базальтовой брусчатки",
@@ -215,6 +226,7 @@
   "block.rnr.rock.over_height_gravel.basalt": "Возвышенный базальтовый гравий",
   "item.rnr.gravel_fill.basalt": "Насыпь базальтового гравия",
   "item.rnr.flagstone.basalt": "Базальтовая брусчатка",
+  
   "block.rnr.rock.flagstones.andesite": "Андезитовая брусчатка",
   "block.rnr.rock.flagstones.andesite_slab": "Плита из андезитовой брусчатки",
   "block.rnr.rock.flagstones.andesite_stairs": "Ступеньки из андезитовой брусчатки",
@@ -233,6 +245,7 @@
   "block.rnr.rock.over_height_gravel.andesite": "Возвышенный андезитовый гравий",
   "item.rnr.gravel_fill.andesite": "Насыпь андезитового гравия",
   "item.rnr.flagstone.andesite": "Андезитовая брусчатка",
+  
   "block.rnr.rock.flagstones.dacite": "Дацитовая брусчатка",
   "block.rnr.rock.flagstones.dacite_slab": "Плита из дацитовой брусчатки",
   "block.rnr.rock.flagstones.dacite_stairs": "Ступеньки из дацитовой брусчатки",
@@ -251,6 +264,7 @@
   "block.rnr.rock.over_height_gravel.dacite": "Возвышенный дацитовый гравий",
   "item.rnr.gravel_fill.dacite": "Насыпь дацитового гравия",
   "item.rnr.flagstone.dacite": "Дацитовая брусчатка",
+  
   "block.rnr.rock.flagstones.quartzite": "Кварцитовая брусчатка",
   "block.rnr.rock.flagstones.quartzite_slab": "Плита из кварцитовой брусчатки",
   "block.rnr.rock.flagstones.quartzite_stairs": "Ступеньки из кварцитовой брусчатки",
@@ -269,6 +283,7 @@
   "block.rnr.rock.over_height_gravel.quartzite": "Возвышенный кварцитовый гравий",
   "item.rnr.gravel_fill.quartzite": "Насыпь кварцитового гравия",
   "item.rnr.flagstone.quartzite": "Кварцитовая брусчатка",
+  
   "block.rnr.rock.flagstones.slate": "Шиферная сланцевая брусчатка",
   "block.rnr.rock.flagstones.slate_slab": "Плита из шиферной сланцевой брусчатки",
   "block.rnr.rock.flagstones.slate_stairs": "Ступеньки из шиферной сланцевой брусчатки",
@@ -287,6 +302,7 @@
   "block.rnr.rock.over_height_gravel.slate": "Возвышенный шиферный сланцевый гравий",
   "item.rnr.gravel_fill.slate": "Насыпь шиферного сланцевого гравия",
   "item.rnr.flagstone.slate": "Шиферная сланцевая брусчатка",
+  
   "block.rnr.rock.flagstones.phyllite": "Филлитовая брусчатка",
   "block.rnr.rock.flagstones.phyllite_slab": "Плита из филлитовой брусчатки",
   "block.rnr.rock.flagstones.phyllite_stairs": "Ступеньки из филлитовой брусчатки",
@@ -305,6 +321,7 @@
   "block.rnr.rock.over_height_gravel.phyllite": "Возвышенный филлитовый гравий",
   "item.rnr.gravel_fill.phyllite": "Насыпь филлитового гравия",
   "item.rnr.flagstone.phyllite": "Филлитовая брусчатка",
+  
   "block.rnr.rock.flagstones.schist": "Аспидная сланцевая брусчатка",
   "block.rnr.rock.flagstones.schist_slab": "Плита из аспидной сланцевой брусчатки",
   "block.rnr.rock.flagstones.schist_stairs": "Ступеньки из аспидной сланцевой брусчатки",
@@ -323,6 +340,7 @@
   "block.rnr.rock.over_height_gravel.schist": "Возвышенный аспидный сланцевый гравий",
   "item.rnr.gravel_fill.schist": "Насыпь аспидного сланцевого гравия",
   "item.rnr.flagstone.schist": "Аспидная сланцевая брусчатка",
+  
   "block.rnr.rock.flagstones.gneiss": "Гнейсовая брусчатка",
   "block.rnr.rock.flagstones.gneiss_slab": "Плита из гнейсовой брусчатки",
   "block.rnr.rock.flagstones.gneiss_stairs": "Ступеньки из гнейсовой брусчатки",
@@ -341,6 +359,7 @@
   "block.rnr.rock.over_height_gravel.gneiss": "Возвышенный гнейсовый гравий",
   "item.rnr.gravel_fill.gneiss": "Насыпь гнейсового гравия",
   "item.rnr.flagstone.gneiss": "Гнейсовая брусчатка",
+  
   "block.rnr.rock.flagstones.marble": "Мраморная брусчатка",
   "block.rnr.rock.flagstones.marble_slab": "Плита из мраморной брусчатки",
   "block.rnr.rock.flagstones.marble_stairs": "Ступеньки из мраморной брусчатки",
@@ -359,215 +378,281 @@
   "block.rnr.rock.over_height_gravel.marble": "Возвышенный мраморный гравий",
   "item.rnr.gravel_fill.marble": "Насыпь мраморного гравия",
   "item.rnr.flagstone.marble": "Мраморная брусчатка",
+  
   "item.rnr.flagstone.black_sandstone": "Брусчатка из чёрного песчаника",
   "block.rnr.black_sandstone_flagstones": "Брусчатка из чёрного песчаника",
   "block.rnr.black_sandstone_flagstones_slab": "Плита брусчатки из чёрного песчаника",
   "block.rnr.black_sandstone_flagstones_stairs": "Ступеньки брусчатки из чёрного песчаника",
+  
   "item.rnr.flagstone.brown_sandstone": "Брусчатка из коричневого песчаника",
   "block.rnr.brown_sandstone_flagstones": "Брусчатка из коричневого песчаника",
   "block.rnr.brown_sandstone_flagstones_slab": "Плита брусчатки из коричневого песчаника",
   "block.rnr.brown_sandstone_flagstones_stairs": "Ступеньки брусчатки из коричневого песчаника",
+  
   "item.rnr.flagstone.green_sandstone": "Брусчатка из зелёного песчаника",
   "block.rnr.green_sandstone_flagstones": "Брусчатка из зелёного песчаника",
   "block.rnr.green_sandstone_flagstones_slab": "Плита брусчатки из зелёного песчаника",
   "block.rnr.green_sandstone_flagstones_stairs": "Ступеньки брусчатки из зелёного песчаника",
+  
   "item.rnr.flagstone.pink_sandstone": "Брусчатка из розового песчаника",
   "block.rnr.pink_sandstone_flagstones": "Брусчатка из розового песчаника",
   "block.rnr.pink_sandstone_flagstones_slab": "Плита брусчатки из розового песчаника",
   "block.rnr.pink_sandstone_flagstones_stairs": "Ступеньки брусчатки из розового песчаника",
+  
   "item.rnr.flagstone.red_sandstone": "Брусчатка из красного песчаника",
   "block.rnr.red_sandstone_flagstones": "Брусчатка из красного песчаника",
   "block.rnr.red_sandstone_flagstones_slab": "Плита брусчатки из красного песчаника",
   "block.rnr.red_sandstone_flagstones_stairs": "Ступеньки брусчатки из красного песчаника",
+  
   "item.rnr.flagstone.white_sandstone": "Брусчатка из белого песчаника",
   "block.rnr.white_sandstone_flagstones": "Брусчатка из белого песчаника",
   "block.rnr.white_sandstone_flagstones_slab": "Плита брусчатки из белого песчаника",
   "block.rnr.white_sandstone_flagstones_stairs": "Ступеньки брусчатки из белого песчаника",
+  
   "item.rnr.flagstone.yellow_sandstone": "Брусчатка из жёлтого песчаника",
   "block.rnr.yellow_sandstone_flagstones": "Брусчатка из жёлтого песчаника",
   "block.rnr.yellow_sandstone_flagstones_slab": "Плита брусчатки из жёлтого песчаника",
   "block.rnr.yellow_sandstone_flagstones_stairs": "Ступеньки брусчатки из жёлтого песчаника",
+  
   "block.rnr.tamped_loam": "Утрамбованный суглинок",
   "block.rnr.tamped_sandy_loam": "Утрамбованный песчаный суглинок",
   "block.rnr.tamped_silty_loam": "Утрамбованный илистый суглинок",
+  
   "block.rnr.tamped_silt": "Утрамбованный ил",
+  
   "block.rnr.tamped_loam_mud": "Утрамбованный суглинок из грязи",
   "block.rnr.tamped_sandy_loam_mud": "Утрамбованный песчаный суглинок из грязи",
   "block.rnr.tamped_silty_loam_mud": "Утрамбованный илистый суглинок из грязи",
+  
   "block.rnr.tamped_silt_mud": "Утрамбованный ил из грязи",
+  
   "block.rnr.tamped_kaolin": "Утрамбованная каолинитовая глина",
+  
   "block.rnr.tamped_peat": "Утрамбованный торф",
+  
   "item.rnr.metal.mattock_head.copper": "Медь (Оголовье кайла)",
   "item.rnr.metal.mattock.copper": "Кайло (Медь)",
+  
   "item.rnr.metal.mattock_head.bronze": "Бронза (Оголовье кайла)",
   "item.rnr.metal.mattock.bronze": "Кайло (Бронза)",
+  
   "item.rnr.metal.mattock_head.black_bronze": "Чёрная бронза (Оголовье кайла)",
   "item.rnr.metal.mattock.black_bronze": "Кайло (Чёрная бронза)",
+  
   "item.rnr.metal.mattock_head.bismuth_bronze": "Висмутовая бронза (Оголовье кайла)",
   "item.rnr.metal.mattock.bismuth_bronze": "Кайло (Висмутовая бронза)",
+  
   "item.rnr.metal.mattock_head.wrought_iron": "Кованое железо (Оголовье кайла)",
   "item.rnr.metal.mattock.wrought_iron": "Кайло (Кованое железо)",
+  
   "item.rnr.metal.mattock_head.steel": "Сталь (Оголовье кайла)",
   "item.rnr.metal.mattock.steel": "Кайло (Сталь)",
+  
   "item.rnr.metal.mattock_head.black_steel": "Чёрная сталь (Оголовье кайла)",
   "item.rnr.metal.mattock.black_steel": "Кайло (Чёрная сталь)",
+  
   "item.rnr.metal.mattock_head.red_steel": "Красная сталь (Оголовье кайла)",
   "item.rnr.metal.mattock.red_steel": "Кайло (Красная сталь)",
+  
   "item.rnr.metal.mattock_head.blue_steel": "Синяя сталь (Оголовье кайла)",
   "item.rnr.metal.mattock.blue_steel": "Кайло (Синяя сталь)",
+  
   "item.rnr.wood.shingle.acacia": "Акациевая черепица",
   "block.rnr.wood.shingles.acacia": "Кровля из акациевой черепицы",
   "block.rnr.wood.shingles.acacia_slab": "Плита кровли из акациевой черепицы",
   "block.rnr.wood.shingles.acacia_stairs": "Ступеньки кровли из акациевой черепицы",
+  
   "item.rnr.wood.shingle.ash": "Ясеневая черепица",
   "block.rnr.wood.shingles.ash": "Кровля из ясеневой черепицы",
   "block.rnr.wood.shingles.ash_slab": "Плита кровли из ясеневой черепицы",
   "block.rnr.wood.shingles.ash_stairs": "Ступеньки кровли из ясеневой черепицы",
+  
   "item.rnr.wood.shingle.aspen": "Осиновая черепица",
   "block.rnr.wood.shingles.aspen": "Кровля из осиновой черепицы",
   "block.rnr.wood.shingles.aspen_slab": "Плита кровли из осиновой черепицы",
   "block.rnr.wood.shingles.aspen_stairs": "Ступеньки кровли из осиновой черепицы",
+  
   "item.rnr.wood.shingle.birch": "Берёзовая черепица",
   "block.rnr.wood.shingles.birch": "Кровля из берёзовой черепицы",
   "block.rnr.wood.shingles.birch_slab": "Плита кровли из берёзовой черепицы",
   "block.rnr.wood.shingles.birch_stairs": "Ступеньки кровли из берёзовой черепицы",
+  
   "item.rnr.wood.shingle.blackwood": "Гренадиловая черепица",
   "block.rnr.wood.shingles.blackwood": "Кровля из гренадиловой черепицы",
   "block.rnr.wood.shingles.blackwood_slab": "Плита кровли из гренадиловой черепицы",
   "block.rnr.wood.shingles.blackwood_stairs": "Ступеньки кровли из гренадиловой черепицы",
+  
   "item.rnr.wood.shingle.chestnut": "Каштановая черепица",
   "block.rnr.wood.shingles.chestnut": "Кровля из каштановой черепицы",
   "block.rnr.wood.shingles.chestnut_slab": "Плита кровли из каштановой черепицы",
   "block.rnr.wood.shingles.chestnut_stairs": "Ступеньки кровли из каштановой черепицы",
+  
   "item.rnr.wood.shingle.douglas_fir": "Черепица из дугласовой пихты",
   "block.rnr.wood.shingles.douglas_fir": "Кровля из черепицы дугласовой пихты",
   "block.rnr.wood.shingles.douglas_fir_slab": "Плита кровли из черепицы дугласовой пихты",
   "block.rnr.wood.shingles.douglas_fir_stairs": "Ступеньки кровли из черепицы дугласовой пихты",
+  
   "item.rnr.wood.shingle.hickory": "Каштановая черепица",
   "block.rnr.wood.shingles.hickory": "Кровля из каштановой черепицы",
   "block.rnr.wood.shingles.hickory_slab": "Плита кровли из каштановой черепицы",
   "block.rnr.wood.shingles.hickory_stairs": "Ступеньки кровли из каштановой черепицы",
+  
   "item.rnr.wood.shingle.kapok": "Сейбовая черепица",
   "block.rnr.wood.shingles.kapok": "Кровля из сейбовой черепицы",
   "block.rnr.wood.shingles.kapok_slab": "Плита кровли из сейбовой черепицы",
   "block.rnr.wood.shingles.kapok_stairs": "Ступеньки кровли из сейбовой черепицы",
+  
   "item.rnr.wood.shingle.maple": "Кленовая черепица",
   "block.rnr.wood.shingles.maple": "Кровля из кленовой черепицы",
   "block.rnr.wood.shingles.maple_slab": "Плита кровли из кленовой черепицы",
   "block.rnr.wood.shingles.maple_stairs": "Ступеньки кровли из кленовой черепицы",
+  
   "item.rnr.wood.shingle.oak": "Дубовая черепица",
   "block.rnr.wood.shingles.oak": "Кровля из дубовой черепицы",
   "block.rnr.wood.shingles.oak_slab": "Плита кровли из дубовой черепицы",
   "block.rnr.wood.shingles.oak_stairs": "Ступеньки кровли из дубовой черепицы",
+  
   "item.rnr.wood.shingle.palm": "Пальмовая черепица",
   "block.rnr.wood.shingles.palm": "Кровля из пальмовой черепицы",
   "block.rnr.wood.shingles.palm_slab": "Плита кровли из пальмовой черепицы",
   "block.rnr.wood.shingles.palm_stairs": "Ступеньки кровли из пальмовой черепицы",
+  
   "item.rnr.wood.shingle.pine": "Сосновая черепица",
   "block.rnr.wood.shingles.pine": "Кровля из сосновой черепицы",
   "block.rnr.wood.shingles.pine_slab": "Плита кровли из сосновой черепицы",
   "block.rnr.wood.shingles.pine_stairs": "Ступеньки кровли из сосновой черепицы",
+  
   "item.rnr.wood.shingle.rosewood": "Палисандровая черепица",
   "block.rnr.wood.shingles.rosewood": "Кровля из палисандровой черепицы",
   "block.rnr.wood.shingles.rosewood_slab": "Плита кровли из палисандровой черепицы",
   "block.rnr.wood.shingles.rosewood_stairs": "Ступеньки кровли из палисандровой черепицы",
+  
   "item.rnr.wood.shingle.sequoia": "Секвойная черепица",
   "block.rnr.wood.shingles.sequoia": "Кровля из секвойной черепицы",
   "block.rnr.wood.shingles.sequoia_slab": "Плита кровли из секвойной черепицы",
   "block.rnr.wood.shingles.sequoia_stairs": "Ступеньки кровли из секвойной черепицы",
+  
   "item.rnr.wood.shingle.spruce": "Еловая черепица",
   "block.rnr.wood.shingles.spruce": "Кровля из еловой черепицы",
   "block.rnr.wood.shingles.spruce_slab": "Плита кровли из еловой черепицы",
   "block.rnr.wood.shingles.spruce_stairs": "Ступеньки кровли из еловой черепицы",
+  
   "item.rnr.wood.shingle.sycamore": "Платановая черепица",
   "block.rnr.wood.shingles.sycamore": "Кровля из платановой черепицы",
   "block.rnr.wood.shingles.sycamore_slab": "Плита кровли из платановой черепицы",
   "block.rnr.wood.shingles.sycamore_stairs": "Ступеньки кровли из платановой черепицы",
+  
   "item.rnr.wood.shingle.white_cedar": "Черепица из белого кедра",
   "block.rnr.wood.shingles.white_cedar": "Кровля из черепицы белого кедра",
   "block.rnr.wood.shingles.white_cedar_slab": "Плита кровли из черепицы белого кедра",
   "block.rnr.wood.shingles.white_cedar_stairs": "Ступеньки кровли из черепицы белого кедра",
+  
   "item.rnr.wood.shingle.willow": "Ивовая черепица",
   "block.rnr.wood.shingles.willow": "Кровля из ивовой черепицы",
   "block.rnr.wood.shingles.willow_slab": "Плита кровли из ивовой черепицы",
   "block.rnr.wood.shingles.willow_stairs": "Ступеньки кровли из ивовой черепицы",
+  
   "item.rnr.wood.shingle.mangrove": "Мангровая черепица",
   "block.rnr.wood.shingles.mangrove": "Кровля из мангровой черепицы",
   "block.rnr.wood.shingles.mangrove_slab": "Плита кровли из мангровой черепицы",
   "block.rnr.wood.shingles.mangrove_stairs": "Ступеньки кровли из мангровой черепицы",
+  
   "item.rnr.wood.shingle.baobab": "Баобабовая черепица",
   "block.rnr.wood.shingles.baobab": "Кровля из баобабовой черепицы",
   "block.rnr.wood.shingles.baobab_slab": "Плита кровли из баобабовой черепицы",
   "block.rnr.wood.shingles.baobab_stairs": "Ступеньки кровли из баобабовой черепицы",
+  
   "item.rnr.wood.shingle.cypress": "Кипарисовая черепица",
   "block.rnr.wood.shingles.cypress": "Кровля из кипарисовой черепицы",
   "block.rnr.wood.shingles.cypress_slab": "Плита кровли из кипарисовой черепицы",
   "block.rnr.wood.shingles.cypress_stairs": "Ступеньки кровли из кипарисовой черепицы",
+  
   "item.rnr.wood.shingle.eucalyptus": "Эвкалиптовая черепица",
   "block.rnr.wood.shingles.eucalyptus": "Кровля из эвкалиптовой черепицы",
   "block.rnr.wood.shingles.eucalyptus_slab": "Плита кровли из эвкалиптовой черепицы",
   "block.rnr.wood.shingles.eucalyptus_stairs": "Ступеньки кровли из эвкалиптовой черепицы",
+  
   "item.rnr.wood.shingle.fig": "Инжирная черепица",
   "block.rnr.wood.shingles.fig": "Кровля из инжирной черепицы",
   "block.rnr.wood.shingles.fig_slab": "Плита кровли из инжирной черепицы",
   "block.rnr.wood.shingles.fig_stairs": "Ступеньки кровли из инжирной черепицы",
+  
   "item.rnr.wood.shingle.hevea": "Черепица из гевеи",
   "block.rnr.wood.shingles.hevea": "Кровля из черепицы гевеи",
   "block.rnr.wood.shingles.hevea_slab": "Плита кровли из черепицы гевеи",
   "block.rnr.wood.shingles.hevea_stairs": "Ступеньки кровли из черепицы гевеи",
+  
   "item.rnr.wood.shingle.mahogany": "Черепица из махагони",
   "block.rnr.wood.shingles.mahogany": "Кровля из черепицы махагони",
   "block.rnr.wood.shingles.mahogany_slab": "Плита кровли из черепицы махагони",
   "block.rnr.wood.shingles.mahogany_stairs": "Ступеньки кровли из черепицы махагони",
+  
   "item.rnr.wood.shingle.teak": "Черепица из тикового дерева",
   "block.rnr.wood.shingles.teak": "Кровля из черепицы тикового дерева",
   "block.rnr.wood.shingles.teak_slab": "Плита кровли из черепицы тикового дерева",
   "block.rnr.wood.shingles.teak_stairs": "Ступеньки кровли из черепицы тикового дерева",
+  
   "item.rnr.wood.shingle.tualang": "Черепица из компассии",
   "block.rnr.wood.shingles.tualang": "Кровля из черепицы компассии",
   "block.rnr.wood.shingles.tualang_slab": "Плита кровли из черепицы компассии",
   "block.rnr.wood.shingles.tualang_stairs": "Ступеньки кровли из черепицы компассии",
+  
   "item.rnr.wood.shingle.ipe": "Черепица из ипе",
   "block.rnr.wood.shingles.ipe": "Кровля из черепицы ипе",
   "block.rnr.wood.shingles.ipe_slab": "Плита кровли из черепицы ипе",
   "block.rnr.wood.shingles.ipe_stairs": "Ступеньки кровли из черепицы ипе",
+  
   "item.rnr.wood.shingle.ironwood": "Ironwood Shingle",
   "block.rnr.wood.shingles.ironwood": "Ironwood Shingled Roof",
   "block.rnr.wood.shingles.ironwood_slab": "Ironwood Shingled Roof Slab",
   "block.rnr.wood.shingles.ironwood_stairs": "Ironwood Shingled Roof Stairs",
+  
   "rnr.mattock.cannot_place": "Версия блока, обработанная кайлом, не может существовать здесь",
   "rnr.mattock.no_recipe": "Этот блок не может быть обработан кайлом",
   "rnr.mattock.bad_fluid": "Версия блока, обработанная кайлом, не может содержать жидкость здесь",
+  
   "block.rnr.base_course": "Основание покрытия",
+  
   "block.rnr.hoggin": "Песчано-гравийная галька",
   "block.rnr.hoggin_slab": "Плита песчано-гравийной гальки",
   "block.rnr.hoggin_stairs": "Ступеньки песчано-гравийной гальки",
+  
   "block.rnr.brick_road": "Мозаичная брусчатка",
   "block.rnr.brick_road_slab": "Плита мозаичной брусчатки",
   "block.rnr.brick_road_stairs": "Ступеньки мозаичной брусчатки",
+  
   "block.rnr.concrete_road": "Бетонный тротуар",
   "block.rnr.concrete_road_slab": "Плита бетонного тротуара",
   "block.rnr.concrete_road_stairs": "Ступеньки бетонного тротуара",
   "block.rnr.cracked_concrete_road": "Треснутый бетонный тротуар",
+  
   "block.rnr.cracked_concrete_road_slab": "Плита треснутого бетонного тротуара",
   "block.rnr.cracked_concrete_road_stairs": "Ступеньки треснутого бетонного тротуара",
+  
   "block.rnr.trodden_concrete_road": "Бетонный тротуар со следами",
   "block.rnr.trodden_concrete_road_slab": "Плита бетонного тротуара со следами",
   "block.rnr.trodden_concrete_road_stairs": "Ступеньки бетонного тротуара со следами",
   "block.rnr.cracked_trodden_concrete_road": "Треснутый бетонный тротуар со следами",
+  
   "block.rnr.cracked_trodden_concrete_road_slab": "Плита треснутого бетонного тротуара со следами",
   "block.rnr.cracked_trodden_concrete_road_stairs": "Ступеньки треснутого бетонного тротуара со следами",
+  
   "block.rnr.concrete_road_panel": "Бетонная тротуарная панель",
   "block.rnr.concrete_road_panel_slab": "Плита бетонной тротуарной панели",
   "block.rnr.concrete_road_panel_stairs": "Ступеньки бетонной тротуарной панели",
+  
   "block.rnr.concrete_road_sett": "Бетонная мозаичная тротуарная плитка",
   "block.rnr.concrete_road_sett_slab": "Плита бетонной мозаичной тротуарной плитки",
   "block.rnr.concrete_road_sett_stairs": "Ступеньки бетонной мозаичной тротуарной плитки",
+  
   "block.rnr.concrete_road_flagstones": "Бетонная тротуарная плитка",
   "block.rnr.concrete_road_flagstones_slab": "Плита бетонной тротуарной плитки",
   "block.rnr.concrete_road_flagstones_stairs": "Ступеньки бетонной тротуарной плитки",
+  
   "block.rnr.concrete_road_control_joint": "Бетонный тротуар с компенсационным швом",
+  
   "block.rnr.pouring_concrete_road": "Разливающийся бетонный тротуар",
+  
   "block.rnr.wet_concrete_road": "Жидкий бетонный тротуар",
   "block.rnr.wet_trodden_concrete_road": "Жидкий бетонный тротуар со следами",
   "block.rnr.wet_concrete_road_control_joint": "Жидкий бетонный тротуар с компенсационным швом",
@@ -575,14 +660,19 @@
   "block.rnr.wet_concrete_road_flagstones": "Жидкая бетонная тротуарная плитка",
   "block.rnr.wet_concrete_road_panel": "Жидкая бетонная тротуарная панель",
   "item.rnr.bucket.concrete": "Ведро жидкого бетона",
+  
   "item.rnr.hoggin_mix": "Песчано-гравийная смесь",
+  
   "item.rnr.unfired_terracotta_roof_tile": "Необожённая терракотовая черепица",
   "item.rnr.terracotta_roof_tile": "Терракотовая черепица",
   "item.rnr.unfired_roof_tile": "Необожённая черепица",
   "item.rnr.ceramic_roof_tile": "Черепица",
+  
   "item.rnr.concrete_powder": "Сухой бетон",
   "fluid.rnr.concrete": "Жидкий бетон",
+  
   "item.rnr.crushed_base_course": "Дроблённое основание покрытия",
+  
   "block.rnr.roof_frame": "Каркас кровли",
   "block.rnr.roof_frame_stairs": "Ступеньки каркаса кровли",
   "block.rnr.roof_frame_slab": "Плита каркаса кровли",
@@ -595,12 +685,15 @@
   "block.rnr.ceramic_roof": "Кровля",
   "block.rnr.ceramic_roof_stairs": "Ступеньки кровли",
   "block.rnr.ceramic_roof_slab": "Плита кровли",
+  
   "rnr.creative_tab.roads_and_roofs": "Roads and Roofs",
   "roads_and_roofs": "Roads and Roofs",
+  
   "tfc.jei.block_mod": "Модификация блока",
   "tfc.jei.mattock": "Кайло",
+  
   "config.jade.plugin_tfc.wet_concrete": "Жидкий бетон",
+  
   "rnr.jade.will_crack": "Треснет после высыхания",
   "rnr.jade.will_not_crack": "Не треснет"
 }
-
