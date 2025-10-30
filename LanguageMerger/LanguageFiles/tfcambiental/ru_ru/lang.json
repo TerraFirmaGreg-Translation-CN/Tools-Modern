@@ -5,6 +5,8 @@
   "effect.tfcambiental.cool.name": "Охлаждение",
   "effect.tfcambiental.warm.name": "Нагрев",
 
+  "itemGroup.tfcambiental": "TFC Ambiental",
+
   "item.tfcambiental.house_tester": "Тестер дома",
   "item.tfcambiental.snowshoes": "Зимняя обувь",
   "item.tfcambiental.straw_hat": "Соломенная шляпа",
@@ -38,7 +40,7 @@
 
   "tfcambiental.tooltip.warmth": "Терморегуляция: %s",
   "tfcambiental.tooltip.insulation": "Термоизоляция: %s",
-  "tfcambiental.tooltip.sun_protection": "Защищает от прямых солнечных лучей",
+  "tfcambiental.tooltip.sun_protection": "-20% нагрева от прямого воздействия солнца",
   "tfcambiental.tooltip.snowshoes": "Больше не нужно тонуть в рыхлом снегу",
 
   "curios.identifier.clothes_hat": "Одежда (Голова)",
@@ -47,5 +49,6 @@
   "curios.identifier.clothes_socks": "Одежда (Ступни)",
   "curios.identifier.feet": "Оборудование (Ступни)"
 }
+
 
 
