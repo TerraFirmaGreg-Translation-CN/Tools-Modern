@@ -627,5 +627,9 @@
     "block.tfg.cooling_tower": "核能冷却塔",
     "block.tfg.growth_monitor": "生长监控器",
     "block.tfg.sample_rack": "样本架",
-    "block.tfg.casings.machine_casing_sterilizing_pipes": "除菌管道"
+    "block.tfg.casings.machine_casing_sterilizing_pipes": "除菌管道",
+    "block.tfg.moderate_core": "慢化堆芯",
+    "block.tfg.impure_moderate_core": "不纯慢化堆芯",
+    "block.tfg.moderate_core_frame": "慢化堆芯框架",
+    "block.tfg.impure_moderate_core_frame": "不纯慢化堆芯框架"
 }
