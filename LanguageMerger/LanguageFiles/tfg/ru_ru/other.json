@@ -24,7 +24,7 @@
 
     "entity.tfg.wraptor.male": "Ираптор (Самец)",
     "entity.tfg.wraptor.female": "Ираптор (Самка)",
-    "tfg.tooltip.attribution.wraptor": "§9§oЗАвтор: Species",
+    "tfg.tooltip.attribution.wraptor": "§9§oАвтор: Species",
 
     "entity.tfg.surfer": "Surfer",
     "tfg.tooltip.surfer_variant.base": "Teal Hide",
