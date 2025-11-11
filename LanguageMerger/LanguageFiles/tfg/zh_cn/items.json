@@ -345,5 +345,10 @@
     "item.tfg.chain_casting_mold": "模具（锁链）",
     "item.tfg.bell_casting_mold": "模具（钟）",
     "item.tfg.rnr_plow": "铺路车",
-    "item.tfg.cobalt_brass_wheel": "钴黄铜车轮"
+    "item.tfg.cobalt_brass_wheel": "钴黄铜车轮",
+    "item.tfg.cellulose_matrix": "Cellulose Matrix",
+    "item.tfg.smooth_endoplasmic_reticula": "Smooth Endoplasmic Reticula",
+    "item.tfg.rough_endoplasmic_reticula": "Rough Endoplasmic Reticula",
+    "item.tfg.alpha_keratin": "α-Keratin",
+    "item.tfg.progenitor_cells": "Progenitor Cells"
 }

@@ -179,5 +179,6 @@
     "tfg.machine.food_refrigerator_power_usage": "§7工作时消耗§r %s EU/t §7以保持食物新鲜。§r",
     "tfg.gui.rnr_plow.random_mode": "随机材料",
     "tfg.gui.rnr_plow.width": "路径宽度：%d 格",
-    "tfg.gui.rnr_plow.empty_crushed_base_course": "§c缺少碎石基层!!"
+    "tfg.gui.rnr_plow.empty_crushed_base_course": "§c缺少碎石基层!!",
+    "tfg.tooltip.progenitor_cells.mob": "Animal culture: "
 }
