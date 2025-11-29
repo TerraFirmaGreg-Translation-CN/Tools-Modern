@@ -3,7 +3,7 @@
 	"dimension": "earth",
 	"type": "tfc:pipe_vein",
 	"config": {
-		"rarity": 150,
+		"rarity": 140,
 		"density": 0.35,
 		"min_y": 20,
 		"max_y": 120,
@@ -15,11 +15,11 @@
 	},
 	"ores": [
 		{
-			"ore": "oilsands",
+			"ore": "tarkianite",
 			"weight": 35
 		},
 		{
-			"ore": "tarkianite",
+			"ore": "oilsands",
 			"weight": 35
 		},
 		{
