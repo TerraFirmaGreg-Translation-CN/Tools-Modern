@@ -222,13 +222,13 @@
     "item.tfg.marker.glacio_orbit": "Орбита Европы",
     "item.tfg.railgun_ammo_shell": "Гильза снаряда рельсотрона",
 
-    "item.tfg.sulfur_fumes_bucket": "Ведро паров серы",
+    "item.tfg.sulfur_fumes_bucket": "Ведро (Пары серы)",
     "item.tfg.super_heated_slurry_bucket": "Super Heated Slurry Bucket",
-    "item.tfg.cryogenized_fluix_bucket": "Cryogenized Fluix Bucket",
-    "item.tfg.fluix_bucket": "Liquid Fluix Bucket",
-    "item.tfg.latex_bucket": "Latex Bucket",
-    "item.tfg.vulcanized_latex_bucket": "Vulcanized Latex Bucket",
-    "item.tfg.conifer_pitch_bucket": "Conifer Pitch Bucket",
+    "item.tfg.cryogenized_fluix_bucket": "Ведро (Криогенный флюис)",
+    "item.tfg.fluix_bucket": "Ведро (Флюис)",
+    "item.tfg.latex_bucket": "Ведро (Латекс)",
+    "item.tfg.vulcanized_latex_bucket": "Ведро (Вулканизированный латекс)",
+    "item.tfg.conifer_pitch_bucket": "Ведро (Хвойная смола)",
     "item.tfg.compressed_nitrox_bucket": "Nitrox Bucket",
     "item.tfg.compressed_heliox_bucket": "Heliox Bucket",
     "item.tfg.compressed_heliox_3_bucket": "Heliox-3 Bucket",
@@ -352,7 +352,7 @@
     "item.tfg.lab_equipment": "Лабораторное оборудование",
     "item.tfg.dirty_lab_equipment": "Грязное лабораторное оборудование",
 
-    "item.tfg.wireless_card": "Interplanetary Wireless Card",
+    "item.tfg.wireless_card": "Межпланетная беспроводная карта",
 
     "item.tfg.wet_magenta_chalk": "Wet Magenta Chalk",
     "item.tfg.wet_pink_chalk": "Wet Pink Chalk",
@@ -377,3 +377,4 @@
     "item.tfg.bell_casting_mold": "Bell Casting Mold"
 
 }
+
