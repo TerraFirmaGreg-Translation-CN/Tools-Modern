@@ -100,7 +100,7 @@
     "quests.extreme_voltage.ev_superconductor.desc": "&eウラン&rの処理を進めたら、&5三白金ウランワイヤー&rを作ってみてもいいでしょう。\n\nこの超伝導ケーブルはより多くのアンペアを流せるため、基地全体でエネルギーを効率よく送電でき、&6原子力蒸気タービン&rからの出力を損失なく各機械へ届けることができます。",
 
     "quests.extreme_voltage.uraninite_dust.subtitle": "膨大な数の棒",
-    "quests.extreme_voltage.uraninite_dust.desc": "&eウラン燃料棒&rを作るには大量の&e閃ウラン鉱&rを掘り出すことが必要で、1本あたりおよそ&c240個&rほど使います。そのため、後で不足しないよう早めに採掘を始めておくことをおすすめします。\n\n火星には最大規模の鉱脈が存在するため、一つの鉱脈から大量に確保することができます。\n\nゲームを進めると、&6Ostrum_Linear_Accelerator&rを使って瀝青ウラン鉱や閃ウラン鉱を&無限&rに生産できるようになります。詳しい説明は先のクエストで確認できます。",
+    "quests.extreme_voltage.uraninite_dust.desc": "&eウラン燃料棒&rを作るには大量の&e閃ウラン鉱&rを掘り出すことが必要で、1本あたりおよそ&c240個&rほど使います。そのため、後で不足しないよう早めに採掘を始めておくことをおすすめします。\n\n火星には最大規模の鉱脈が存在するため、一つの鉱脈から大量に確保することができます。\n\nゲームを進めると、&6Ostrum Linear Accelerator&rを使って瀝青ウラン鉱や閃ウラン鉱を&無限&rに生産できるようになります。詳しい説明は先のクエストで確認できます。",
 
     "quests.extreme_voltage.uranium_line.title": "ウランライン",
     "quests.extreme_voltage.uranium_line.subtitle": "新しい処理ライン",
