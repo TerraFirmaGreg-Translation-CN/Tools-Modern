@@ -12,7 +12,7 @@
     "quests.medium_voltage.mv_miner.title": "Automatic Mining",
     "quests.medium_voltage.mv_miner.subtitle": "So are you bored of mining yourself?",
     "quests.medium_voltage.mv_miner.desc.1": "This kind soul&r will mine ores for you when placed above a vein.\n\nVertical range is unlimited below the miner. Horizontal range is displayed in the tooltip.\n\nThe &bMV&r variant may not have the range to mine a full vein, but the &6HV&r variant does, so you may wish hold off for now. Get &eeither&r to complete this Quest.",
-    "quests.medium_voltage.mv_miner.desc.2": "You will need &9Power&r. &aCharged Batteries&r may work, but they tend to run out of power, which is a bit inconvenient.\n\nOur top suggestion is to use a filled &3Drum&r of some kind of fuel &7(if you're using Steam, no dice!)&r and a &3Generator&r.\n\nPlace the Drum above your Generator and right-click it with a &5Soft Mallet&r to auto-output into the Generator.",
+    "quests.medium_voltage.mv_miner.desc.2": "You will need &9Power&r. &aCharged Batteries&r may work, but they tend to run out of power, which is a bit inconvenient.\n\nOur top suggestion is to use a filled &3Drum&r of some kind of fuel &7(if you're using Steam, no dice!)&r and a &3Generator&r.\n\nPlace the Drum above your Generator and right-click it with a &5Soft Mallet&r or &5Screwdriver&r to auto-output into the Generator.",
     "quests.medium_voltage.mv_miner.desc.3": "&cNote:&r Do not forget to &dchunkload&r all 9 chunks of the ore vein &7(open the map, claim the chunks with ctrl left-click, and enable force loading after claiming them)&r.\n\n&9Tip:&r You can either use an &3ME Chest&r, a &3Backpack&r, or a &3GT Crate&r as the output inventory to make transporting the ores back home a simple task. The &3ME Chest&r can be powered with EU directly, by the way.",
     "quests.medium_voltage.mv_miner.task": "Any miner",
 
@@ -315,5 +315,9 @@
 
     "quests.medium_voltage.lsb.title": "Getting very steamy",
     "quests.medium_voltage.lsb.subtitle": "If you have unlimited fuel, it can still be good",
-    "quests.medium_voltage.lsb.desc": "If you're &lstill&r running off the &3Large Bronze Boiler&r, you may want to upgrade to the &3Large Steel Boiler&r.\n\nIt's slightly more efficient than the &3LBB&r, and produces &d1800 mB/t of Steam&r.\n\nWe'd recommend you try other power options at this point."
+    "quests.medium_voltage.lsb.desc": "If you're &lstill&r running off the &3Large Bronze Boiler&r, you may want to upgrade to the &3Large Steel Boiler&r.\n\nIt's slightly more efficient than the &3LBB&r, and produces &d1800 mB/t of Steam&r.\n\nWe'd recommend you try other power options at this point.",
+
+    "quests.medium_voltage.stainless_greate.title": "Stainless Steel-tier Greate",
+    "quests.medium_voltage.stainless_greate.subtitle": "High Stress",
+    "quests.medium_voltage.stainless_greate.desc": "This quest is just here to let you know that Greate has another upgrade at this point.\n\nYou may find the next tier of Crushing Wheels useful, as they can give the full amount of byproducts, just like the HV Macerator, but also process multiple items at the same time!"
 }

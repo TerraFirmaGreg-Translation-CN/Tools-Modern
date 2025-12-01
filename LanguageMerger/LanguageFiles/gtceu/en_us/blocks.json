@@ -14,6 +14,7 @@
     "block.gtceu.ostrum_harvester": "Ostrum Harvester",
     "block.gtceu.moon_dust_harvester": "Moon Dust Harvester",
     "block.gtceu.ostrum_linear_accelerator": "Ostrum Linear Accelerator",
+    "block.gtceu.coal_liquefaction_tower": "Coal Liquefaction Tower",
     "block.gtceu.ulv_super_tank": "Basic Super Tank",
     "block.gtceu.ulv_super_chest": "Basic Super Chest",
     "block.gtceu.ulv_hermetic_casing": "Basic Hermetic Casing",
@@ -55,6 +56,7 @@
     "gtceu.ostrum_linear_accelerator": "Ostrum Linear Accelerator",
     "gtceu.bioreactor": "Bioreactor",
     "gtceu.growth_chamber": "Growth Chamber",
+    "gtceu.coal_liquefaction_tower": "Coal Liquefaction",
 
     "gtceu.tooltip.machine.moon_dust_harvester_1": "§7Extraterrestrial Vacuum Cleaner§r",
     "gtceu.tooltip.machine.moon_dust_harvester_2": "§7Harvests infinite Regolith Dust depending on the biome its placed in.§r",
