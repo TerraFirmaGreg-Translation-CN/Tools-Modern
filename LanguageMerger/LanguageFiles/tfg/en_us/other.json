@@ -214,7 +214,7 @@
     "tfg.tooltip.component.dry_ice": "Can be used as an input in the Fission Reactor to cool it down, requires a Material Holder",
     "tfg.tooltip.component.refrigerant_pellet": "Can be used as an input in the Fission Reactor to cool it down, requires a Material Holder",
 
-    "tfg.tooltip.component.nuclear_turbine_1": "§eBase Production:§r 4096 EU/t",
+    "tfg.tooltip.component.nuclear_turbine_1": "§eBase Production:§r 8192 EU/t",
     "tfg.tooltip.component.nuclear_turbine_2": "Each Rotor Holder above §5EV§r §7adds§r 10% efficiency and multiplies EU/t by 2.",
 
     "tfg.gui.refrigerator.unify_dates.enabled": "Expiration Date Unification is: §aOn",
@@ -233,5 +233,9 @@
 
     "tfg.gui.menu.field_guide_splash_text": "Tip: Read the field guide!!!",
     "tfg.gui.menu.ram_usage": "RAM:",
-    "tfg.gui.menu.fps_count": "FPS:"
+    "tfg.gui.menu.fps_count": "FPS:",
+
+    "tfg.gui.smr_generator.credit": "Credits to Ghosti and Frontiers Team",
+    "tfg.gui.smr_generator.lubricant_used": "Lubricant: %s",
+    "tfg.gui.smr_generator.booster_used": "Booster: %s"
 }
