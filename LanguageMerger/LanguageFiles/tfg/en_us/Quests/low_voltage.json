@@ -59,6 +59,18 @@
 	"quests.low_voltage.lv_seeds.desc": "If you come across these plants, you should pick them up and start a farm.\n\nThey will be your best source of &aSeed Oil&r, a liquid used for producing &eBio Diesel&r. Canola is a bit more resistant to lower temperatures, while Sunflowers are happier in warmer climates. You also could grow them in your Electric Greenhouse if you don't want to spend as much time farming, at the expense of having to spend a little power to grow them.",
 	"quests.low_voltage.lv_seeds.task": "Canola or Sunflowers",
 
+	"quests.low_voltage.lv_gas_turbine.title": "The Gas Turbine",
+	"quests.low_voltage.lv_gas_turbine.subtitle": "It needs more circuits but less materials",
+	"quests.low_voltage.lv_gas_turbine.desc": "With the help of &7Syngas&r, you now have a viable way to use the &8Gas Turbine&r at &7LV&r. They work exactly like the other &6generators&r but should be a tiny bit cheaper than the &6Combustion Generator&r.",
+
+	"quests.low_voltage.lv_gas_syngas.title": "Syngas",
+	"quests.low_voltage.lv_gas_syngas.subtitle": "Not Wood Gas",
+	"quests.low_voltage.lv_gas_syngas.desc": "Making &7Syngas&r is really easy. You simply need &b3 Coke Ovens&r for each &6Brewery&r or &6Vacuum Chamber&r. Then you collect &7wood&r with the help of a &bCreate Tree Farm&r to minimize the energy costs, and you can enjoy this weak but easy-to-make &7gas fuel&r.",
+
+	"quests.low_voltage.lv_naphtha_light.title": "Naphtha and Light Oil",
+	"quests.low_voltage.lv_naphtha_light.subtitle": "You can make plastic with them",
+	"quests.low_voltage.lv_naphtha_light.desc": "If you really hate farming and prefer adventuring in the &6desert&r or mining massive amounts of &7Oilsands&r, then maybe &7Naphtha&r (better from &7Raw Oil&r) or &7Light Fuel&r (better from &7Oil&r) should be fuels you could look at.\n\nBeing quite good for how easy they are to produce, they need to be manually harvested at that point though.",
+
 	"quests.low_voltage.lv_turbo_charge.title": "Turbo Charger",
 	"quests.low_voltage.lv_turbo_charge.subtitle": "Useful to charge your electric tools faster",
 	"quests.low_voltage.lv_turbo_charge.desc": "&oThis quest's subject is optional, but may still be of interest to you. We've put it here in the name of completeness.&r\n\nThe &3Turbo Charger&r charges &6RF and EU&r items such as &9Drills&r extremely quickly.\n\nIt accepts up to 4 Amps for every item it charges, making it &6twice as fast&r as the &3Battery Buffer&r. It cannot discharge, though.\n\n&eAny&r Charger will complete this Quest.",

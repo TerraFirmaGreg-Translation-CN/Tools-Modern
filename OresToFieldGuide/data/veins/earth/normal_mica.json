@@ -38,7 +38,8 @@
 		"marble"
 	],
 	"indicator": {
-		"depth": 40
+		"rarity": 12,
+		"depth": 60
 	},
 	"translations": [
 		{
