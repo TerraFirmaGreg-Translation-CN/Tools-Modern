@@ -186,8 +186,8 @@
 	"material.tfg.metal_rich_solution": "Metal Rich Solution",
 	"material.tfg.crude_mixed_gas": "Crude Mixed Gas",
 	"material.tfg.zsm5_gel": "ZSM-5 Gel",
-	"material.tfg.leachate": "Leachate",
-	"material.tfg.clean_powder": "Clean Powder",
-	"material.tfg.catalyser_powder": "Catalyser Powder",
+	"material.tfg.leachate": "Rhenium Leachate",
+	"material.tfg.clean_powder": "Re-Silicate Clean Powder",
+	"material.tfg.catalyser_powder": "Catalyser Re ZSM-5 Powder",
 	"material.tfg.sodium_aluminium": "Sodium Aluminium"
 }
