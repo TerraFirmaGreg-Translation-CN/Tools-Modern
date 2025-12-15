@@ -17,7 +17,7 @@
     "quests.medium_voltage.mv_miner.task": "Any miner",
 
     "quests.medium_voltage.mv_component.title": "The MV Components",
-    "quests.medium_voltage.mv_component_.subtitle": "Hated crafting these in previous tier?",
+    "quests.medium_voltage.mv_component_.subtitle": "Hated crafting these in the previous tier?",
     "quests.medium_voltage.mv_component.desc": "Here's a list of the components you will need in &bMV&r. To alleviate the pain, be sure to autocraft or &dbulk-craft&r these parts, especially &aMotors&r.\n\nFamiliar with the &aEmitter&r? This tier's Emitter requires a &dFlawless Emerald&r in its recipe, which'll be only attainable with the &3Sifting Machine&r for now.\n\nConveyors, Pumps and Robot Arms are objective upgrades to &7LV&r versions if you use them as covers.",
 
     "quests.medium_voltage.electrolyzer.title": "MV Electrolyzer",
@@ -287,8 +287,8 @@
 
     "quests.medium_voltage.mv_cutter.title": "Advanced Cutter",
     "quests.medium_voltage.mv_cutter.subtitle": "Upgrades, people, upgrades!",
-    "quests.medium_voltage.mv_cutter.desc": "The &3MV Cutter&r is required to cut &7Silicon Boules&r to prepare them for &aLaser Engraving&r.\n\nWe recommend you supply this machine with a steady stream of &dLubricant&r to cut down on the processing time.\n\nLubricant can be &3brewed&r from &eOil&r and &aTalc&r, &2Soapstone&r or &cRedstone&r.\n\n&7Note : You could use the &6Greate&r &7version, it has now a tank to fill with it fluid&r&r",
-    "quests.medium_voltage.mv_cutter.task": "Any Brewery",
+    "quests.medium_voltage.mv_cutter.desc": "The &3MV Cutter&r is required to cut &7Silicon Boules&r to prepare them for &aLaser Engraving&r.\n\nWe recommend you supply this machine with a steady stream of &dLubricant&r to cut down on the processing time.\n\nLubricant can be &3brewed&r from &eOil&r and &aTalc&r, &2Soapstone&r or &cRedstone&r.\n\n&7Note: You could use the &6Greate&r &7version, it has a tank to fill with fluid&r",
+    "quests.medium_voltage.mv_cutter.task": "Any Cutter",
 
     "quests.medium_voltage.mv_laser_engraver.title": "Laser Engraving",
     "quests.medium_voltage.mv_laser_engraver.subtitle": "This is peak technology, this is slow also",
@@ -299,7 +299,7 @@
     "quests.medium_voltage.mv_silicon_boule.desc": "&9Silicon Boules&r are made in the &3EBF&r with half a stack of &aSilicon Dust&r and a pinch of &aGallium Arsenide&r. Their primary purpose is engraving &6Circuit Wafers&r.\n\nAfter making the Boule, process it in the &3Cutter&r to get 16 Silicon Wafers ready for engraving.\n\n&cWarning:&r Each Silicon Boule takes &47.5 minutes&r to make at 120 EU/t, or 1,080,000 EU! If the EBF loses power midway, the recipe will start to &close progress&r.\n\nWith that being said, Silicon Boules take an absolute age to craft, so consider parallelizing the recipe in multiple &3EBF&rs and stockpiling them.",
 
     "quests.medium_voltage.mv_silicon.title": "Silicon Dust",
-    "quests.medium_voltage.mv_silicon.subtitle": "",
+    "quests.medium_voltage.mv_silicon.subtitle": "Sillycon",
     "quests.medium_voltage.mv_silicon.desc.1": "You’ll need to get used to it: in &dGregTech&r, there are always &amultiple ways&r to reach what you want—a philosophy we made sure to preserve in &aTerrafirmaGreg&r.\n\nTo obtain &5Silicon&r, we’ll suggest &ctwo main methods&r so you have clear directions. As always, it’s up to you to figure out what’s &abest for your situation&r.",
     "quests.medium_voltage.mv_silicon.desc.2": "First method: &amining silicon-rich ores&r. Look for &9Mica&r or &9Kyanite&r veins—they also contain &dAluminium&r. Alternatively, you can &aElectrolyze Zeolite Dust&r, found in &9Chalcopyrite&r and &dRealgar&r veins.\n\nSecond method: &eAdvanced but powerful&r. Although more expensive to set up and slower early on, it becomes the &ebest method&r at &6HV&r and beyond. Plus, it generates &9Oxygen&r as a bonus! The idea is simple: &aElectrolyze Silicon Dioxide Dust&r into &9Oxygen&r and &5Silicon&r. You can get &aSilicon Dioxide Dust&r by &9centrifuging Flint Dust&r, which itself comes from &9Flint&r collected by &asifting Gravel&r.\n\nThis setup can become &afully passive&r easily. Try using the &aEMI Recipe Tree&r tool (bottom left of your screen) to plan your builds—it really helps!",
 
