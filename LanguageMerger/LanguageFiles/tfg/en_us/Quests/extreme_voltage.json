@@ -1,16 +1,4 @@
 {
-
-
-
-
-
-    "__comment": "DO NOT TRANSLATE YET, STILL UNDER CONSTRUCTION",
-
-
-
-
-
-
     "quests.extreme_voltage": "&5EV&r - Extreme Voltage",
     "quests.extreme_voltage.subtitle": "Reach Mars, discover Nuclear Fission, and build new massive multiblocks",
 
@@ -345,10 +333,10 @@
 
     "quests.extreme_voltage.btx_catalyser.title": "Catalyser Pt-Re ZSM-5",
     "quests.extreme_voltage.btx_catalyser.subtitle": "What a complex name",
-    "quests.extreme_voltage.btx_catalyser.desc": "To craft the &ePt-Re ZSM-5 Catalyst&r, you will need to set up infinite sources of &aLye&r, &aSodium&r, and &dNether Quartz&r, as well as &aAmmonia&r and &aEthanol&r. The &bAluminum&r will be fully looped, while the other materials will only be partially recovered.\n\nIf you are unsure about &dNether Quartz&r, take a look at the recipe chain starting from &eSand&r. &aSodium&r, on the other hand, can be obtained easily from &bSea Water&r processing.\n\nFinally, mix everything together with some &5Platinum&r and &5Rhenium&r to obtain your &eCatalyst&r. The good news is that both Platinum and Rhenium are fully recycled in this process, so there is no need to worry you will only have to mine them once.",
+    "quests.extreme_voltage.btx_catalyser.desc": "To craft the &ePt-Re ZSM-5 Catalyst&r, you will need to set up infinite sources of &aLye&r, &aSodium&r, and &dNether Quartz&r, as well as &aAmmonia&r and &aEthanol&r. The &bAluminum&r will be fully looped, while the other materials will only be partially recovered.\n\nIf you are unsure about &dNether Quartz&r, take a look at the recipe chain starting from &eSand&r. &aSodium&r, on the other hand, can be obtained easily from &bSea Water&r processing, and Lye can be from Wood Ash.\n\nFinally, mix everything together with some &5Platinum&r and &5Rhenium&r to obtain your &eCatalyst&r. The good news is that both Platinum and Rhenium are fully recycled in this process, so there is no need to worry you will only have to mine them once.",
 
     "quests.extreme_voltage.btx_loop.title": "Recycling the Used Catalyser",
     "quests.extreme_voltage.btx_loop.subtitle": "Getting back as much as you can",
     "quests.extreme_voltage.btx_loop.desc.1": "The last part of this chain consists in recycling your Used Catalyser. The overall process is fairly straightforward, and the main challenge will be maintaining a continuous supply of &aReinforced Epoxy Resin Plates&r and &eGlue&r.\n\nIf you still have your &2tapping system&r in place, it should be more than sufficient to produce all the resin required to craft your Glue. Alternatively, using an &bExtractor&r on logs is also a perfectly viable option. This method is slightly more &cpower-hungry&r, but the choice is entirely up to you depending on your infrastructure.",
-    "quests.extreme_voltage.btx_loop.desc.2": "A small remark regarding &9Diluted Hydrochloric Acid&r: it can be easily produced by reacting &bWater&r with &aChlorine&r. You may store your &dHypochlorous Acid&r and &7Electrolyze&r the excess if you wish to recover &fhalf of your Chlorine&r.\n\nAs for &6Sulfuric Acid&r, you should already have access to an &ainfinite source of Sulfur&r through your &ePetrochemical Distillation&r setup. If this is not yet the case, we strongly advise you to address this as soon as possible. Additionally, the &8Coal Tar&r obtained while producing &bReformate Gas&r can be reconverted into &2Hydrogen Sulfide&r and ultimately refined back into &6Sulfur&r."
+    "quests.extreme_voltage.btx_loop.desc.2": "A small remark regarding &9Diluted Hydrochloric Acid&r: it can be easily produced by reacting &bWater&r with &aChlorine&r. You could store your &dHypochlorous Acid&r, or &7Electrolyze&r it if you wish to recover &fhalf of your Chlorine&r.\n\nAs for &6Sulfuric Acid&r, you should already have access to an &ainfinite source of Sulfur&r through your &ePetrochemical Distillation&r setup. If this is not yet the case, we strongly advise you to address this as soon as possible. Alternatively, the &8Coal Tar&r obtained while producing &bReformate Gas&r can be reconverted into &2Hydrogen Sulfide&r and ultimately refined back into &6Sulfur&r."
 }
