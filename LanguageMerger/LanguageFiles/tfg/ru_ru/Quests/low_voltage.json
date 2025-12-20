@@ -1,7 +1,7 @@
 {
 	"__comment1": "Начало",
 
-	"quests.low_voltage": "&7LV&r - Низкое Напряжение)",
+	"quests.low_voltage": "&7LV&r - Низкое Напряжение",
 	"quests.low_voltage.subtitle": "Подчините электричество и начните свое путешествие в GregTech",
 
 	"quests.low_voltage.lv_machine_hull.title": "Корпус вашей второй машины",
