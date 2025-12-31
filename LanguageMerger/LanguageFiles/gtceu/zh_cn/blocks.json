@@ -66,7 +66,7 @@
     "gtceu.tooltip.machine.steam_bloomery_1": "§7用蒸汽动力升级你的锻铁炉！§r",
     "gtceu.tooltip.machine.steam_bloomery_2": "§7将含铁矿粉或锭加工成生铁方坯。§r",
     "gtceu.tooltip.machine.steam_bloomery_3": "§7使用焦煤或无烟煤可倍增产量。§r",
-    "gtceu.tooltip.machine.steam_bloomery_4": "§7支持最多8组配方并行处理，相应调整蒸汽需求。§r",
+    "gtceu.tooltip.machine.steam_parallel": "§7支持最多8组配方并行处理，相应调整蒸汽需求。§r",
     "gtceu.tooltip.machine.coal_liquefaction_tower_1": "§7奶昔制造机§r",
     "gtceu.tooltip.machine.coal_liquefaction_tower_2": "§7从碳质固体中提取燃气和流体§r"
 }
