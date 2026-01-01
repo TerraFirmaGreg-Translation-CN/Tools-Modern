@@ -160,7 +160,7 @@
     "quests.low_voltage.lv_electroliser.title": "基础电解机",
     "quests.low_voltage.lv_electroliser.subtitle": "嗡嗡作响",
     "quests.low_voltage.lv_electroliser.desc.1": "&l矿石处理之外的用途：&r\n\n与离心机类似，此设备功能极为丰富——我们难以在此一一列举！幸运的是，它属于造价最低的&7LV&r机器之一，建议在需要时立即入手。",
-    "quests.low_voltage.lv_electroliser.desc.2": "&ld对于矿石处理：&r\n\n好吧，刚才的说法不够准确——它并非&o直接&r用于矿物处理，实际主要参与&a粉末的电解分解&r。不过大多数实用的电解配方都&b锁定在MV阶段&r。你可以通过物品提示框中的&e化学式&r来预判电解产物。",
+    "quests.low_voltage.lv_electroliser.desc.2": "&l对于矿石处理：&r\n\n好吧，刚才的说法不够准确——它并非&o直接&r用于矿物处理，实际主要参与&a粉末的电解分解&r。不过大多数实用的电解配方都&b锁定在MV阶段&r。你可以通过物品提示框中的&e化学式&r来预判电解产物。",
     "quests.low_voltage.lv_electroliser.desc.3": "&c注意！&r受矿物特性影响，将金属粉尘直接冶炼成锭相比电解分解能获得更高金属产量，但代价是你会损失粉尘中蕴含的其他副产品。必须根据需求权衡：优先追求直接收益，还是最大化获取副产物种类。",
     "__comment11": "搅拌机",
     "quests.low_voltage.lv_mixer.title": "基础搅拌机",
