@@ -2,7 +2,7 @@
 	"id": "venus",
 	"sort_order": 4,
 	"dimension_id": "ad_astra:venus",
-	"ore_index_icon": "gtceu:sulfur_dust",
+	"ore_index_icon": "vintageimprovements:sulfur",
 	"vein_index_icon": "gtceu:venus_stone_sulfur_ore",
 	"vein_tag": "tfg:venus_veins",
 	"name_translations": {
