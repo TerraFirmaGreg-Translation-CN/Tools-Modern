@@ -339,8 +339,8 @@
     "item.tfg.linen_thread": "Льные нитки",
     "item.tfg.linen_cloth": "Льняная ткань",
 
-    "item.tfg.uv_led": "§dУльтрафиолетовый §fСИД",
-    "item.tfg.smd_uv_led": "§fSMD §dУльтрафиолетовый §fСИД",
+    "item.tfg.uv_led": "§dУльтрафиолетовый §fLED",
+    "item.tfg.smd_uv_led": "§fSMD §dУльтрафиолетовый §fLED",
 
     "item.tfg.empty_dna_syringe": "Пустой шприц",
     "item.tfg.filled_dna_syringe": "Заполненный шприц",
@@ -424,6 +424,7 @@
     "item.tfg.unfired_nugget_mold": "Необоженная форма самородка"
 
 }
+
 
 
 
