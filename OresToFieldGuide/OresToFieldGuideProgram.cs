@@ -376,11 +376,11 @@ namespace OresToFieldGuide
 				// Vein info page
 
 				pageBuilder.ThingMacro(tokens["rarity"]);
-				pageBuilder.Append($": {vein.Config.Rarity}");
+				pageBuilder.Append($": 1/{vein.Config.Rarity}");
 				pageBuilder.LineBreak();
 
 				pageBuilder.ThingMacro(tokens["density"]);
-				pageBuilder.Append($": {vein.Config.Density}");
+				pageBuilder.Append($": {vein.Config.Density * 100}%");
 				pageBuilder.LineBreak();
 
 				pageBuilder.ThingMacro(tokens["type"]);
