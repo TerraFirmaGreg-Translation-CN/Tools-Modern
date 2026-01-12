@@ -173,5 +173,8 @@
     "material.tfg.leachate": "铼浸出液",
     "material.tfg.clean_powder": "纯净铼硅酸盐",
     "material.tfg.catalyser_powder": "铼/ZSM-5催化剂",
-    "material.tfg.sodium_aluminium": "铝钠合金"
+    "material.tfg.sodium_aluminium": "铝钠合金",
+    "material.tfg.chloroplasts": "叶绿体",
+    "material.tfg.nitrate_rich_water": "富硝酸水",
+    "material.tfg.nitrate_rich_semiheavy_ammoniacal_water": "富硝酸半重氨水"
 }
