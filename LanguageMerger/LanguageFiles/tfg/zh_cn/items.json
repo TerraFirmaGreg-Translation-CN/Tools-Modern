@@ -382,5 +382,8 @@
     "item.tfg.nugget_mold": "铸粒模具",
     "item.tfg.unfired_rod_mold": "未烧制的耐火铸杆模具",
     "item.tfg.unfired_small_gear_mold": "未烧制的耐火小型齿轮模具",
-    "item.tfg.unfired_nugget_mold": "未烧制的铸粒模具"
+    "item.tfg.unfired_nugget_mold": "未烧制的铸粒模具",
+    "item.tfg.fish_roe": "%s鱼卵",
+    "item.tfg.rotten_voiding_cover": "腐烂物销毁覆盖板",
+    "item.tfg.flora_pellets": "植物颗粒"
 }
