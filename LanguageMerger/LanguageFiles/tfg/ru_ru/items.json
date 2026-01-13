@@ -422,6 +422,7 @@
     "item.tfg.unfired_nugget_mold": "Необоженная форма самородка",
 
     "item.tfg.fish_roe": "Икра %s",
-    "item.tfg.rotten_voiding_cover": "Гнилая пустотная крышка",
+    "item.tfg.rotten_voiding_cover": "Улучшение удаления гнили",
     "item.tfg.flora_pellets": "Растительные гранулы"
 }
+
