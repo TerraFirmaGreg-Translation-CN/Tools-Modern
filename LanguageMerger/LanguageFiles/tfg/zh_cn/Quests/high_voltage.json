@@ -188,7 +188,7 @@
     "quests.high_voltage.moon_harvester.desc": "&7月球&r是你获取&e无限矿石&r的起点——但速度很慢。\n你需要采集多种&b风化土粉&r，且每种仅能在特定生物群系获取。\n为此需依赖&6月壤采集器&r运作，使用时请牢记两个关键要点：\n\n•它需要配备一个&9输入总线&r，以便设置正确的&9电路&r。\n•它支持&e线圈&r升级（与&6裂化机&r机制相同）——线圈等级越高，能耗减免越显著。\n这对远离基地采集风化土时尤为重要\n\n当然，原始粉尘还需加工。\n你需要搭建一条&a小型处理产线&r从风化土粉尘中提取资源，请务必将其运回&7月球基地&r进行处理。",
     "quests.high_voltage.regolith_vapor.title": "风化土蒸气",
     "quests.high_voltage.regolith_vapor.subtitle": "将尘土变为矿石的小东西",
-    "quests.high_voltage.regolith_vapor.desc": "处理&b风化土粉尘&r需要制备&b风化土蒸气&r——这套系统的搭建稍显复杂。\n\n所需材料如下：\n\n•&7月沙&r——可通过&6碎岩机&r无限获取\n•&e二氧化碳&r——由&9氧气&r与&7碳粉&r制成（得益于无限供应的&b钻石粉尘&r，此步骤十分轻松）\n•&9氮气&r——通过种植&d紫颂果&r获取\n\n提示：你可以利用&b二氧化硅&r循环获得氧气，同时可以稳定获取&e硅粉&r——一种非常实用的副产物。",
+    "quests.high_voltage.regolith_vapor.desc": "处理&b风化土粉尘&r需要制备&b风化土蒸气&r——这套系统的搭建稍显复杂。\n\n所需材料如下：\n\n•&7皓蓝石粉&r——可通过&6碎岩机&r无限获取\n•&e二氧化碳&r——由&9氧气&r与&7碳粉&r制成（得益于无限供应的&b钻石粉尘&r，此步骤十分轻松）\n•&9氮气&r——通过种植&d紫颂果&r获取\n\n提示：你可以利用&b二氧化硅&r循环获得氧气，同时可以稳定获取&e硅粉&r——一种非常实用的副产物。",
     "quests.high_voltage.regolith_vapor.task": "我明白了",
     "quests.high_voltage.regolith_dust.title": "每个生物群系的风化土",
     "quests.high_voltage.regolith_dust.subtitle": "三个火枪手",
