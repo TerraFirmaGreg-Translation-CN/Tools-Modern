@@ -1,6 +1,7 @@
 {
     "id": "thorium",
     "formula": "ThO₂",
+    "hazard": "radioactive",
     "ore_block": "gtceu:raw_thorium_block",
     "indicator": "gtceu:thorium_indicator",
     "translations": [
@@ -17,7 +18,7 @@
         {
             "lang": "ru_ru",
             "text": "Торианит",
-            "info": "$(thing)Хромит$(): Торий"
+            "info": "$(thing)Используется для$(): Торий"
         },
         {
             "lang": "uk_ua",
