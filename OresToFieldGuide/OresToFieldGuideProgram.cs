@@ -20,7 +20,7 @@ namespace OresToFieldGuide
 			"pt_br", // Brazilian Portuguese
 			"zh_cn", // Simplified Chinese
 			"fr_fr", // French
-			//"ja_jp", // Japanese
+			"ja_jp", // Japanese
 		];
 
 		private readonly JsonSerializerOptions m_jsonOptions = new()
@@ -376,11 +376,12 @@ namespace OresToFieldGuide
 				// Vein info page
 
 				pageBuilder.ThingMacro(tokens["rarity"]);
-				pageBuilder.Append($": 1/{vein.Config.Rarity}");
+				pageBuilder.Append($": 1/{vein.Config.Rarity} ");
+				pageBuilder.Append(tokens["chunks"]);
 				pageBuilder.LineBreak();
 
 				pageBuilder.ThingMacro(tokens["density"]);
-				pageBuilder.Append($": {vein.Config.Density * 100}%");
+				pageBuilder.Append($": {Math.Round(vein.Config.Density * 100)}%");
 				pageBuilder.LineBreak();
 
 				pageBuilder.ThingMacro(tokens["type"]);

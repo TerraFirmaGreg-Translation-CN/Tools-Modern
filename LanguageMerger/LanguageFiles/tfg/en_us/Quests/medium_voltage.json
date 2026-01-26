@@ -267,7 +267,7 @@
 
     "quests.medium_voltage.mv_kanthal_coil.title": "Kanthal Coils",
     "quests.medium_voltage.mv_kanthal_coil.subtitle": "Is it getting hot in here?",
-    "quests.medium_voltage.mv_kanthal_coil.desc": "&3Kanthal Heating Coils&r are the next major step in progression. They increase the temperature of your &3Blast Furnace&r to &d2,700K&r, allowing you to process new materials. They may also &eaccelerate&r less hot recipes - check the &aEnergy&r chapter to the top-left for details.\n\nRemember that you &ccannot&r mix coils in an EBF.",
+    "quests.medium_voltage.mv_kanthal_coil.desc": "&3Kanthal Heating Coils&r are the next major step in progression. They increase the temperature of your &3Blast Furnace&r to &d2,700K&r, allowing you to process new materials. They may also &eaccelerate&r less hot recipes - check the &aGregTech Energy&r chapter to the top-left for details about how Blast Furnace overclocks work.\n\nRemember that you &ccannot&r mix coils in an EBF.",
 
     "quests.medium_voltage.mv_kanthal_ingot.title": "Kanthal",
     "quests.medium_voltage.mv_kanthal_ingot.subtitle": "This one is hot",

@@ -1,7 +1,7 @@
 {
   "id": "pitchblende",
   "formula": "(UO₂)₃ThPb",
-  "hazard": "carcinogenic",
+  "hazard": "radioactive",
   "ore_block": "gtceu:raw_pitchblende_block",
   "indicator": "gtceu:pitchblende_indicator",
   "translations": [
@@ -18,7 +18,7 @@
     {
       "lang": "ru_ru",
       "text": "Уранит",
-      "info": "$(thing)Хромит$(): Уран, Торий, Свинец"
+      "info": "$(thing)Используется для$(): Уран, Торий, Свинец"
     },
     {
       "lang": "uk_ua",

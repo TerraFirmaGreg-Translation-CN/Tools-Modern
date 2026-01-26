@@ -662,6 +662,7 @@
     "quests.tfg_tips.cellar_blocks.title": "地窖存储",
     "quests.tfg_tips.cellar_blocks.subtitle": "存放食物的容器",
     "quests.tfg_tips.cellar_blocks.desc": "&b食物架&r可用于储存几乎所有类型的食物。&b悬挂架&r则专门用于存放&a肉类&r和&a大蒜&r。存放在这些设备中的食物会获得比&d大缸&r更强大的保存效果。",
+    "quests.tfg_tips.cellar_blocks.task": "任何食物架或悬挂架",
     "__comment16": "#endregion",
     "__comment17": "#region Beneath",
     "quests.tfg_tips.beneath.title": "幽冥之地",

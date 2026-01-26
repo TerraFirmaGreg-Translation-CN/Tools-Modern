@@ -249,7 +249,7 @@
 
     "quests.high_voltage.regolith_vapor.title": "Regolith Vapor",
     "quests.high_voltage.regolith_vapor.subtitle": "The little something to make dusts into ores",
-    "quests.high_voltage.regolith_vapor.desc": "To process your &bRegolith Dust&r, you’ll need &bRegolith Vapor&r — and setting it up is a bit more involved.\n\nHere’s what you’ll need:\n\n• &7Lunar Sand&r — obtainable infinitely with a &6Rock Breaker&r.\n• &eCarbon Dioxide&r — produced from &9Oxygen&r and &7Carbon Dust&r (easy, thanks to the infinite &bDiamond Dust&r you’ll be getting).\n• &9Nitrogen&r — acquired through the cultivation of &dChorus Fruits&r.\n\nTip: You can loop your &9Oxygen&r through &bSilicon Dioxide&r, which also gives you a steady bonus of &eSilicon Dust&r — a very useful side product.",
+    "quests.high_voltage.regolith_vapor.desc": "To process your &bRegolith Dust&r, you’ll need &bRegolith Vapor&r — and setting it up is a bit more involved.\n\nHere’s what you’ll need:\n\n• &7Asurine Dust&r — obtainable infinitely with a &6Rock Breaker&r.\n• &eCarbon Dioxide&r — produced from &9Oxygen&r and &7Carbon Dust&r (easy, thanks to the infinite &bDiamond Dust&r you’ll be getting).\n• &9Nitrogen&r — acquired through the cultivation of &dChorus Fruits&r.\n\nTip: You can loop your &9Oxygen&r through &bSilicon Dioxide&r, which also gives you a steady bonus of &eSilicon Dust&r — a very useful side product.",
     "quests.high_voltage.regolith_vapor.task": "Got it",
 
     "quests.high_voltage.regolith_dust.title": "Regolith for each biomes",
