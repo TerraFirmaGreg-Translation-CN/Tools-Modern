@@ -199,7 +199,7 @@
 
 	"quests.low_voltage.lv_mixer.title": "Basic Mixer",
 	"quests.low_voltage.lv_mixer.subtitle": "The Mixer mixes...",
-	"quests.low_voltage.lv_mixer.desc": "Using the mixer will &6significantly speed up&r the process of making colored steel, since now it can directly make the &aColored Steel Dust&r. Even if you don't think you need it now, you'll find it &6essential&r later on.\n\nYou're used to alloying things in a Crucible, but for any new alloys (as well as all of the old ones), the GregTech way of alloying is to &amix together dusts&r and then heat them into ingots or extract them into fluids. &7(Don't look at the Alloy Blast Smelter in JEI, that's not until &5EV&r&7.)&r",
+	"quests.low_voltage.lv_mixer.desc": "The electric mixer will &6significantly speed up&r the process of making colored steel, since now it can directly make the &aColored Steel Dust&r. Even if you don't think you need it now, you'll find it &6essential&r later on.\n\nYou're used to alloying things in a Crucible, but for any new alloys (as well as all of the old ones), the GregTech way of alloying is to &amix together dusts&r and then heat them into ingots or extract them into fluids. &7(Don't look at the Alloy Blast Smelter in JEI, that's not until &5EV&r&7.)&r",
 
 	"quests.low_voltage.soldering_alloy.title": "Soldering Alloy",
 	"quests.low_voltage.soldering_alloy.subtitle": "I got soul but I'm not a solder",
