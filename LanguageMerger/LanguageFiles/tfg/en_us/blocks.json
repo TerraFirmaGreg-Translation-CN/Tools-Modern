@@ -826,6 +826,11 @@
 	"block.tfg.moderate_core_frame": "Moderate Core Frame",
 	"block.tfg.impure_moderate_core_frame": "Impure Moderate Core Frame",
 
+	"block.tfg.copper_sandy": "Copper-Bound Silica",
+	"block.tfg.copper_sandy_frame": "Copper-Bound Silica Frame",
+	"block.tfg.beryllium_sandy": "Beryllium-Bound Silica",
+	"block.tfg.beryllium_sandy_frame": "Beryllium-Bound Silica Frame",
+
 	"block.tfg.heat_battery_mk1": "Heat Battery",
 	"tfg.block_entity.artisan_table": "Artisan Table",
 	"block.tfg.artisan_table": "Artisan Table"
