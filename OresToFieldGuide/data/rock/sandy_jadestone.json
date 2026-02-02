@@ -1,0 +1,16 @@
+{
+	"id": "sandy_jadestone",
+	"pattern": "gtceu:sandy_jadestone_{0}_ore",
+	"translations": {
+		"en_us": "Lamproite",
+		"es_es": "Lamproíta",
+		"pt_br": "Lamproíto",
+		"ru_ru": "Лампроит",
+		"uk_ua": "Лампроїт",
+		"zh_cn": "天然煌斑岩",
+		"ja_jp": "ランプロアイト"
+	},
+	"replaceable_blocks": [
+		"betterend:sandy_jadestone"
+	]
+}
