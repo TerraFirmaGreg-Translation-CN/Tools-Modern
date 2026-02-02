@@ -730,6 +730,10 @@
     "quests.tfg_tips.greenhouse_automation.subtitle": "By your powers combined...",
     "quests.tfg_tips.greenhouse_automation.desc": "With the combination of Firmalife's &2Picker&r and &2Sweeper&r, Create's Deployers, and GregTech's Item Collectors, it's possible to completely automate your greenhouse!\n\nPickers will pull mature crops from Hydroponic Planters and Quad Planters when they receive a redstone pulse, while Sweepers will harvest mature crops from the other types in a 3x3 area around it while connected to a redstone signal.\n\nThese machines will produce loose items, but an Item Collector will suck those up in a large area around it.\n\nFrom there, pipe the seeds back into Deployers to plant them in the Planters!",
 
+    "quests.tfg_tips.food_automation.title": "Food Automation",
+    "quests.tfg_tips.food_automation.subtitle": "Automate your kitchen.",
+    "quests.tfg_tips.food_automation.desc": "You can completely automate food starting from &7LV&r using the &3Food Oven&r and &3Food Processor&r.\n\nTo properly make food out of multiple ingredients in a Food Processor, such as sandwiches, you will have to use the &3Robot Arm&r with the \"Keep Exact\" button enabled (or have your Create logstics deliver exact amounts to your machines).\n\nTo prevent spoiled food from filling up your storage you should use the &3Rotten Voiding Cover&r.\n\nThis will later pair nicely with a refrigerator in &bMV&r.",
+
     "quests.tfg_tips.beekeeping.title": "Beekeeping",
     "quests.tfg_tips.beekeeping.subtitle": "They're so small now...",
     "quests.tfg_tips.beekeeping.desc": "&bBeekeeping&r has a plethora of uses. Not only do bees fertilize nearby crops (assuming you have the correct trait), you will be able to obtain useful resources such as &aWax&r and &aHoney.&r Breed bees to achieve better stats.\nThe &2Field Guide&r offers an extensive explanation of all &bbeekeeping&r mechanics.",
@@ -878,6 +882,7 @@
     "quests.tfg_tips.cellar_blocks.title": "Cellar Storage",
     "quests.tfg_tips.cellar_blocks.subtitle": "Stuff to put your food in",
     "quests.tfg_tips.cellar_blocks.desc": "&bFood Shelves&r can be used to store virtually any kind of food. &bHangers&r can be used to store &aMeat&r and &aGarlic.&r Food stored in these receive a powerful preservation trait greater than that of &dVessels.&r",
+    "quests.tfg_tips.cellar_blocks.task": "Any food shelf or hanger",
 
     "__comment16": "#endregion",
 
@@ -893,7 +898,7 @@
 
     "quests.tfg_tips.beneath_temp_management.title": "Temperature Management: Active",
     "quests.tfg_tips.beneath_temp_management.subtitle": "Things to cool off quickly",
-    "quests.tfg_tips.beneath_temp_management.desc": "In &4The Beneath&r, with the temperature being relatively high, you should bring some &aWater&r to cool off on demand, or some &bPacked Ice&r mined from polar regions if you plan to make a temporary base.",
+    "quests.tfg_tips.beneath_temp_management.desc": "In &4The Beneath&r, with the temperature being relatively high, you should bring some &aWater&r or &aLiquid Ice Slush&r to cool off on demand, or some &bPacked Ice&r mined from polar regions if you plan to make a temporary base.",
 
     "quests.tfg_tips.beneath_clothes.title": "Temperature Management: Passive",
     "quests.tfg_tips.beneath_clothes.subtitle": "Things to passively cool off",

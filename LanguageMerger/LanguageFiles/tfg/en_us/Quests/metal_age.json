@@ -24,7 +24,7 @@
 
     "quests.metal_age.bloomery.title": "Bloomery",
     "quests.metal_age.bloomery.subtitle": "Required if you seek the Iron Age.",
-    "quests.metal_age.bloomery.desc": "The Bloomery is a Multiblock from TerraFirmaCraft that allows you to create Wrought Iron. Melting iron in a forge will produce Cast Iron, which is brittle and nowhere near as strong or durable as Wrought Iron.\n\nThe Bloomery is expensive, so it will be worth investing some time into setting up automatic plate production and ore processing.\n\nThe Field Guide contains a detailed entry on how the Bloomery works and the correct ratios of iron and charcoal that it needs.",
+    "quests.metal_age.bloomery.desc": "The Bloomery is a Multiblock from TerraFirmaCraft that allows you to create Wrought Iron. Melting iron in a forge will produce Cast Iron, which is brittle and nowhere near as strong or durable as Wrought Iron.\n\nThe Bloomery is expensive, so it will be worth investing some time into setting up automatic plate production and ore processing.\n\nThe Field Guide contains a detailed entry on how the Bloomery works and the correct ratios of iron and fuel that it needs.",
 
     "quests.metal_age.mining.title": "Mining in the Metallurgy Age",
     "quests.metal_age.mining.subtitle": "ROCK AND STONE!",
@@ -37,6 +37,10 @@
     "quests.metal_age.wrought_iron_anvil.title": "T3 Anvil: Wrought Iron",
     "quests.metal_age.wrought_iron_anvil.subtitle": "Waterwheels, Windmills and more Greate",
     "quests.metal_age.wrought_iron_anvil.desc": "With the Wrought Iron Anvil you'll be able to work Wrought Iron Ingots into different items such as Sheets, Tool heads, etc.\n\nWrought Iron tools and armor isn't much of an improvement over Bronze, but it has far more durability.\n\nCreating the next anvil is going to be a significant step up in difficulty, so this is a good point to settle down and explore some of the other things this modpack has to offer.",
+
+    "quests.metal_age.toolbelt.title": "Toolbelt",
+    "quests.metal_age.toolbelt.subtitle": "Free up your inventory!",
+    "quests.metal_age.toolbelt.desc": "Put one of these in your &6Belt Slot&r and you'll free up a whole row of your inventory!\n\nYou can swap tools at any time by pressing the &aSwap Tool&r (default: X) keybind to open a radial menu.\n\nToolbelts can be upgraded with eight pouches to hold 9 items total.",
 
     "quests.metal_age.coke_oven.title": "Coke Oven",
     "quests.metal_age.coke_oven.subtitle": "Finally, No More Charcoal Piles",

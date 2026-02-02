@@ -7,5 +7,6 @@
 	"item.minecraft.string": "Silk Thread",
 	"item.minecraft.glow_ink_sac": "Glowing Dye",
 	"item.minecraft.nether_brick": "Keratophyre Brick",
-    "item.minecraft.furnace_minecart": "Minecart with Boiler"
+	"item.minecraft.furnace_minecart": "Minecart with Boiler",
+	"item.minecraft.milk_bucket": "Cow Milk Bucket"
 }

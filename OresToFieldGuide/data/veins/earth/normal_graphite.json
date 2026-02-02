@@ -37,14 +37,7 @@
 		"dacite",
 		"rhyolite",
 		"andesite",
-		"basalt",
-		"shale",
-		"claystone",
-		"limestone",
-		"conglomerate",
-		"dolomite",
-		"chert",
-		"chalk"
+		"basalt"
 	],
 	"indicator": {
 		"rarity": 10,

@@ -1,7 +1,7 @@
 {
   "id": "uraninite",
   "formula": "UO₂",
-  "hazard": "carcinogenic",
+  "hazard": "radioactive",
   "ore_block": "gtceu:raw_uraninite_block",
   "indicator": "gtceu:uraninite_indicator",
   "translations": [
@@ -18,7 +18,7 @@
     {
       "lang": "ru_ru",
       "text": "Уранинит",
-      "info": "$(thing)Хромит$(): Уран"
+      "info": "$(thing)Используется для$(): Уран"
     },
     {
       "lang": "uk_ua",

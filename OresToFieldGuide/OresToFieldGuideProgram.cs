@@ -20,7 +20,7 @@ namespace OresToFieldGuide
 			"pt_br", // Brazilian Portuguese
 			"zh_cn", // Simplified Chinese
 			"fr_fr", // French
-			//"ja_jp", // Japanese
+			"ja_jp", // Japanese
 		];
 
 		private readonly JsonSerializerOptions m_jsonOptions = new()
@@ -376,11 +376,12 @@ namespace OresToFieldGuide
 				// Vein info page
 
 				pageBuilder.ThingMacro(tokens["rarity"]);
-				pageBuilder.Append($": {vein.Config.Rarity}");
+				pageBuilder.Append($": 1/{vein.Config.Rarity} ");
+				pageBuilder.Append(tokens["chunks"]);
 				pageBuilder.LineBreak();
 
 				pageBuilder.ThingMacro(tokens["density"]);
-				pageBuilder.Append($": {vein.Config.Density}");
+				pageBuilder.Append($": {Math.Round(vein.Config.Density * 100)}%");
 				pageBuilder.LineBreak();
 
 				pageBuilder.ThingMacro(tokens["type"]);
@@ -543,7 +544,7 @@ namespace OresToFieldGuide
 				{
 					foreach (var existingPath in Directory.EnumerateFiles(configuredVeinDir))
 					{
-						if (veins.Any(v => v.ID == Path.GetFileNameWithoutExtension(existingPath) && v.VisualOnly == true))
+						if (veins.Any(v => v.ID == Path.GetFileNameWithoutExtension(existingPath)))
 							continue;
 
 						File.Delete(existingPath);
@@ -556,9 +557,6 @@ namespace OresToFieldGuide
 
 				foreach (var vein in veins)
 				{
-					if (vein.VisualOnly == true)
-						continue;
-
 					var feature = new VeinConfiguredFeature(vein, m_rockDict, m_oreDict);
 					string json = JsonSerializer.Serialize(feature, m_jsonOptions);
 					File.WriteAllText(Path.Combine(configuredVeinDir, vein.ID + ".json"), json);

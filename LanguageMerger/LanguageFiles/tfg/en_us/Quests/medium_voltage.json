@@ -22,7 +22,7 @@
 
     "quests.medium_voltage.electrolyzer.title": "MV Electrolyzer",
     "quests.medium_voltage.electrolyzer.subtitle": "We made it to MV, and, well...",
-    "quests.medium_voltage.electrolyzer.desc.1": "&bThis one should look familiar&r—you’ve seen it before.\n&2We highly recommend crafting it as soon as possible,&r as it will unlock a wide range of new &7Aluminium&r sources.\n\nUntil now, your only method was &9electrolyzing Sapphire&r to obtain &7Aluminium Dust&r.\nBut with the &bMV&r Electrolyzer, a whole new world of resources opens up.",
+    "quests.medium_voltage.electrolyzer.desc.1": "&bThis one should look familiar&r—you’ve seen it before.\n&2We highly recommend crafting it as soon as possible,&r as it will unlock a wide range of new &7Aluminium&r sources.\n\nUntil now, you were limited to electrolyzing Sapphire or ore processing byproducts to obtain &7Aluminium Dust&r.\nBut with the &bMV&r Electrolyzer, a whole new world of resources opens up.",
     "quests.medium_voltage.electrolyzer.desc.2": "&6Here are some key materials to look for:&r\n&9Ruby&r – Grants both &7Aluminium&r and &5Chromium&r.\n&9Pyrope&r – Often found alongside Sapphire veins.\n&9Lepidolite&r – Offers a generous selection of valuable byproducts.\n&9Sodalite&r – Comes with &3Chlorine&r and &bSilicon&r.\n&9Topaz&r – Yields both &3Fluorine&r and &7Aluminium&r in solid quantities.\n\n&2And that’s just the beginning!&r Use &aEMI&r to explore even more options—we promise, there’s a lot to discover.\n\n&cOh, and by the way:&r Electrolyzing Clay is now gated behind &6HV&r. \n&7We’re not sorry.&r",
 
     "quests.medium_voltage.mv_extruder.title": "Advanced Extruder",
@@ -267,7 +267,7 @@
 
     "quests.medium_voltage.mv_kanthal_coil.title": "Kanthal Coils",
     "quests.medium_voltage.mv_kanthal_coil.subtitle": "Is it getting hot in here?",
-    "quests.medium_voltage.mv_kanthal_coil.desc": "&3Kanthal Heating Coils&r are the next major step in progression. They increase the temperature of your &3Blast Furnace&r to &d2,700K&r, allowing you to process new materials. They may also &eaccelerate&r less hot recipes - check the &aEnergy&r chapter to the top-left for details.\n\nRemember that you &ccannot&r mix coils in an EBF.",
+    "quests.medium_voltage.mv_kanthal_coil.desc": "&3Kanthal Heating Coils&r are the next major step in progression. They increase the temperature of your &3Blast Furnace&r to &d2,700K&r, allowing you to process new materials. They may also &eaccelerate&r less hot recipes - check the &aGregTech Energy&r chapter to the top-left for details about how Blast Furnace overclocks work.\n\nRemember that you &ccannot&r mix coils in an EBF.",
 
     "quests.medium_voltage.mv_kanthal_ingot.title": "Kanthal",
     "quests.medium_voltage.mv_kanthal_ingot.subtitle": "This one is hot",
@@ -326,5 +326,9 @@
 
     "quests.medium_voltage.stainless_greate.title": "Stainless Steel-tier Greate",
     "quests.medium_voltage.stainless_greate.subtitle": "High Stress",
-    "quests.medium_voltage.stainless_greate.desc": "This quest is just here to let you know that Greate has another upgrade at this point.\n\nYou may find the next tier of Crushing Wheels useful, as they can give the full amount of byproducts, just like the HV Macerator, but also process multiple items at the same time!"
+    "quests.medium_voltage.stainless_greate.desc": "This quest is just here to let you know that Greate has another upgrade at this point.\n\nYou may find the next tier of Crushing Wheels useful, as they can give the full amount of byproducts, just like the HV Macerator, but also process multiple items at the same time!",
+
+    "quests.medium_voltage.terminal_dismantler.title": "Dismantler Terminal",
+    "quests.medium_voltage.terminal_dismantler.subtitle": "When your wrench isn't fast enough",
+    "quests.medium_voltage.terminal_dismantler.desc": "The &8Dismantler&r is an amazing tool, allowing you to dismantle your multiblocks instantly by simply shift-right-clicking the controller, though be wary that the Multiblock must be fully formed to be completely dismantled."
 }

@@ -38,6 +38,10 @@
 
     "entity.tfg.rnr_plow": "Paving Cart",
 
+    "entity.tfg.tier_1_double_rocket": "R-Aluminosteel Two-Person Rocket",
+    "entity.tfg.tier_2_double_rocket": "ASM 4914 Titanium Two-Person Rocket",
+    "entity.tfg.tier_3_double_rocket": "45-Ti Tungstensteel Two-Person Rocket",
+
     "effect.tfg.cooling": "§bCooling",
     "effect.tfg.warming": "§6Warming",
     "effect.tfg.instant_radiation": "Instant Radiation",
@@ -76,7 +80,7 @@
     "trim_material.tfc.rutile_tfc": "Rutile",
     "trim_material.tfc.lazurite_tfc": "Lazurite",
     "trim_material.tfc.pyrope_tfc": "Pyrope",
-    "trim_material.tfc.rock_salt_tfc": "Rock Salt",
+    "trim_material.tfc.rock_salt_tfc": "Sylvite",
     "trim_material.tfc.ruby_tfc": "Ruby",
     "trim_material.tfc.salt_tfc": "salt",
     "trim_material.tfc.sapphire_tfc": "Sapphire",
@@ -114,7 +118,7 @@
     "trim_material.tfc.redx_tfc": "RedX",
 
     "tfg.emi.ore_veins.rock_types": "Found in rock types:",
-    "tfg.emi.ore_veins.rarity": "Rarity: %d",
+    "tfg.emi.ore_veins.rarity": "Rarity: 1/%d chunks",
     "tfg.emi.ore_veins.density": "Density: %d",
     "tfg.emi.ore_veins.y_ranges": "Y Level: %d to %d",
     "tfg.emi.ore_veins.size": "Size: %d",
@@ -153,8 +157,9 @@
     "tfg.tooltip.obsolete.fridge": "§4Obsolete§f: Replaced by the TFG Refrigerator, you can craft it from this one by placing this in a crafting table!",
     "tfg.tooltip.blaze_burner": "§cSuperheat§r §7with Coke, Anthracite, or Flawless and Exquisite coal gems.",
     "tfg.tooltip.machine.perfect_overclock": "This machine has §2Perfect Overclocking§r!",
-    "tfg.tooltip.machine.parallel": "Can parallelize with Parallel Control Hatches.",
-    "tfg.tooltip.machine.customize_interior": "§7The interior is customizable! Check the multiblock preview in JEI.",
+    "tfg.tooltip.machine.parallel": "Can §dParallelize§r with Parallel Control Hatches.",
+    "tfg.tooltip.machine.customize_interior": "§7The interior is customizable! Check the multiblock preview in EMI.",
+    "tfg.tooltip.machine.customize_greenhouse": "§7This multiblock's walls can use any valid §eIron Greenhouse§7 tier blocks. Check the multiblock preview in EMI.",
     "tfg.tooltip.armor.copper_diving_suit_warmth": "§7Warmth: -1",
     "tfg.tooltip.armor.copper_diving_suit_insulation": "§7Insulation: +1",
     "tfg.tooltip.armor.netherite_diving_suit_warmth": "§7Warmth: -2",
@@ -189,6 +194,8 @@
     "tfg.tooltip.hotornot_hot_equipment": "§7Provides protection from all §6hot§7 items, fluids, and pipes.§r",
     "tfg.tooltip.hotornot_cold_equipment": "§7Provides protection from all §bcold§7 items, fluids, and pipes.§r",
     "tfg.tooltip.hotornot_floating_equipment": "§7Provides protection from all §elighter-than-air§7 gases.§r",
+    "tfg.tooltip.polycaprolactam": "Also known as Nylon",
+    "tfg.tooltip.vessel_warning": "§cHeating an overfilled vessel will void any overflow and may ruin your alloying!§r",
 
     "tfg.tooltip.machine.one_energy_hatch": "Accepts exactly §6One§r Energy Hatch.",
     "tfg.tooltip.machine.two_energy_hatches": "Accepts up to §6Two§r Energy Hatches.",
@@ -201,10 +208,14 @@
     "tfg.tooltip.machine.growth_chamber_2": "§7Contains everything needed for Biological Engineering.§r",
     "tfg.tooltip.machine.evaporation_tower_1": "§7Not to be confused with the Distillation Tower§r",
     "tfg.tooltip.machine.evaporation_tower_2": "§7Gets rid of excess solvent to condense solutions.§r",
-    "tfg.tooltip.machine.electric_greenhouse_1": "§7Putting the Factory in Factory Farming§r",
-    "tfg.tooltip.machine.electric_greenhouse_2": "§7Uses water to grow trees, crops, and other plants. Can be sped up with fertilizer. Faster and easier than other ways of growing plants, at the cost of energy.§r",
+    "tfg.tooltip.machine.electric_greenhouse_1": "§7§oPutting the Factory in Factory Farming§r",
+    "tfg.tooltip.machine.electric_greenhouse_2": "§7Grow crops all year round with electricity! The Electric Greenhouse can accept fertilizer to enhance growth or be looped with the Pisciculture Fishery for ultimate efficiency.§r",
     "tfg.tooltip.machine.cooling_tower_1": "§7Heating up the Atmosphere§r",
     "tfg.tooltip.machine.cooling_tower_2": "§7Cools the hot coolant by dissipitating excess heat to the atmosphere.§r",
+    "tfg.tooltip.machine.hydroponics_facility_1": "§7§oFarming the loOOng way§r",
+    "tfg.tooltip.machine.hydroponics_facility_2": "§7The upgraded form of the EGH! The Hydroponics Facility boosts greenhouse output chances and has no restricions on being oxygenated.§r",
+    "tfg.tooltip.machine.pisciculture_fishery_1": "§7§o1 Fish, 2 Fish...§r",
+    "tfg.tooltip.machine.pisciculture_fishery_2": "§7Pisciculture Fisheries are not only a source of fresh fish but also vital in boosting greenhouse production through §3Aquaponics.§7 The structure can be filled with any fluid tagged as §o#tfg:pisciculture_fishery_fluids§r",
 
     "tfg.tooltip.obsolete.depreciated": "§cDeprecated, cannot be crafted any more",
 
@@ -220,8 +231,8 @@
     "tfg.tooltip.shift_hint": "[Hold-Shift]",
 
     "tfg.tooltip.lab_equipment.part": "§7Precisely Holds: ",
-    "tfg.tooltip.lab_equipment.set": "\"§7Does not contain a 5000mB round bottom flask.\"",
-    "tfg.tooltip.lab_equipment.set_dirty": "\"§7Soon you might discover penicillin if you dont clean this.\"",
+    "tfg.tooltip.lab_equipment.set": "§7Does not contain a 5000mB round bottom flask.",
+    "tfg.tooltip.lab_equipment.set_dirty": "§7Soon you might discover penicillin if you dont clean this...",
     "tfg.tooltip.single_itemstack_bus.0": "§6Item Slots: §f1",
     "tfg.tooltip.single_itemstack_bus.1": "§6Stack Size: §f1",
     "tfg.tooltip.growth_chamber": "This machine can run more recipes at once by increasing the number of layers.",
@@ -244,6 +255,10 @@
     "tfg.tooltip.component.smr_generator_1": "§eBase Production:§r 4096 EU/t",
     "tfg.tooltip.component.smr_generator_2": "Dedicated to produce power from sCO2 and the Small Modular Reactor.\n Use Lubricant and Booster to increase its efficiency and manage the cooling loop of the SMR.",
 
+    "tfg.tooltip.show_recipes": "Show Recipes",
+
+    "emi.category.tfg.artisan_table": "Artisan Table",
+
     "tfg.gui.refrigerator.unify_dates.enabled": "Expiration Date Unification is: §aOn",
     "tfg.gui.refrigerator.unify_dates.disabled": "Expiration Date Unification is: §cOff",
     "tfg.machine.food_refrigerator_power_usage": "§7Consumes§r %s EU/t §7while active to keep your food fresh.§r",
@@ -257,6 +272,18 @@
     "tfg.tooltip.fake_nutrition_info_listener": "§7§oHold (Shift) for Nutrition Info",
     "tfg.tooltip.fake_nutrition_info": "§7Nutrition:",
     "tfg.tooltip.cheese_slice_microplastics": "§b- Microplastics: 1.9",
+
+    "tfg.tooltip.recipe_condition.oxygenated.true": "§bIn Oxygenated Environment",
+    "tfg.tooltip.recipe_condition.oxygenated.false": "§5In De-oxygenated Environment",
+    "tfg.tooltip.recipe_condition.climate_rain": "Rainfall mm",
+    "tfg.tooltip.recipe_condition.climate_temp": "Climate °C",
+    "tfg.tooltip.recipe_condition.gravity": "Gravity m/s²",
+
+    "tfg.tooltip.firmalife_greenhouse.oxygen_required": "§cAn oxygenated environment is required!",
+    "tfg.tooltip.firmalife_greenhouse.oxygen_required.block": "§7An oxygenated environment is required to function as a greenhouse in space.",
+
+    "tfg.tooltip.grow_light_disapointment": "§7No. This will not increase your crop growth speed...",
+    "tfg.tooltip.rotten_voiding_cover": "§7The Rotten Voiding Cover works just like an Item Voiding Cover but only targets and destroys §cRotten Items.",
 
     "tfg.gui.menu.field_guide_splash_text": "Tip: Read the field guide!!!",
     "tfg.gui.menu.ram_usage": "RAM:",
@@ -274,4 +301,23 @@
     "tag.item.tfg.dried_fruit": "Dried Fruit",
 
     "tfg.clientmessage.spatialioblocked.claimedchunks": "Spatial IO blocked: Region contains chunks claimed by another team"
+  
+    "tfg.nuclear.average_heat.text": "Heat: From %s to %s",
+    "tfg.nuclear.skip": "",
+
+    "tfg.machine.aux_exchanger.heat.title": "=== Heat Information ===",
+    "tfg.machine.aux_exchanger.recipe_temperature": "Recipe Temperature: ",
+    "tfg.machine.aux_exchanger.recipe_temperature.desc": "Temperature required by this recipe",
+    "tfg.machine.aux_exchanger.battery_temperature": "Battery Temperature: ",
+    "tfg.machine.aux_exchanger.battery_temperature.desc": "Current temperature of the heat battery",
+    "tfg.machine.aux_exchanger.hu_consumed": "HU Consumed: ",
+    "tfg.machine.aux_exchanger.hu_consumed.desc": "Heat units consumed per recipe cycle",
+    "tfg.machine.aux_exchanger.total_hu": "Total HU Available: ",
+    "tfg.machine.aux_exchanger.total_hu.desc": "Total heat units stored in the heat battery",
+    "tfg.machine.aux_exchanger.speed_modifier": "Speed Modifier: ",
+    "tfg.machine.aux_exchanger.speed_modifier.desc": "Recipe speed based on battery temperature",
+    "tfg.machine.aux_exchanger.heat_unavailable": "Heat information unavailable",
+    "tfg.machine.aux_echanger.output.title": "=== Output ===",
+    
+    "tfg.multiblock.turbine.obstructed": "Your turbine is obstructed, check under and inside the chimney that there is nothing blocking it"
 }

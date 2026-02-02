@@ -4,6 +4,8 @@
     "material.tfg.vulcanized_latex": "Вулканизированный латекс",
     "material.tfg.fluix": "Флюис",
     "material.tfg.conifer_pitch": "Хвойная смола",
+	"material.tfg.pyrogallol": "Пирогаллол",
+
 
     "material.gtceu.lactose": "Лактоза",
 
@@ -28,6 +30,15 @@
     "material.tfg.venus_stone": "Трахит",
     "material.tfg.mercury_stone": "Коматиит",
     "material.tfg.glacio_stone": "Фонолит",
+
+    "material.tfg.sedimentary_clastic": "Обломочный осадок",
+	"material.tfg.sedimentary_carbonate": "Карбонатный осадок",
+	"material.tfg.sedimentary_organic": "Органогенный осадок",
+	"material.tfg.metamorphic": "Метаморфическая порода",
+	"material.tfg.igneous_ultramafic": "Ультраосновная магматическая порода",
+	"material.tfg.igneous_mafic": "Основная магматическая порода",
+	"material.tfg.igneous_intermediate": "Средняя магматическая порода",
+	"material.tfg.igneous_felsic": "Кислая магматическая порода",
 
     "material.gtceu.thermochemically_treated_hardwood": "Термохимически обработанная твёрдая древесина",
     "material.gtceu.hardwood": "Твёрдая древесина",
@@ -98,7 +109,7 @@
     "material.tfg.tetrafluoroethane": "Тетрафторэтан",
 
     "material.tfg.thermally_conductive_fluid": "Теплопроводящая жидкость",
-    
+
     "__comment1": "Like Crimson and Warped nether trees, but made to sound more like chemicals",
     "material.tfg.crimsene": "Багреллий",
     "material.tfg.warpane": "Искажеллий",
@@ -164,7 +175,7 @@
 	"material.tfg.organic_stabilizer": "Органический стабилизатор",
 	"material.tfg.inert_dust_fraction": "Инертная фракция",
 	"material.tfg.recovered_ionic_complex": "Восстановленный ионный комплекс",
-	
+
 	"material.tfg.glucose": "Глюкоза",
 	"material.tfg.galactose": "Галактоза",
 	"material.tfg.fructose": "Фруктоза",
@@ -174,7 +185,7 @@
 	"material.tfg.linolenic_acid": "α-линоленовая кислота",
 	"material.tfg.isosorbide_ln": "Изосорбид соли линоленовой кислоты",
 	"material.tfg.epox_isosorbide_ln": "Эпоксидированный изосорбид соли линоленовой кислоты",
-	
+
 	"material.tfg.ozone": "Озон",
 	"material.tfg.tin_chloride": "Двуххлористое олово",
 	"material.tfg.cyclohexanone": "Циклогексанон",
@@ -189,5 +200,17 @@
 	"material.tfg.leachate": "Рениевый фильтрат",
 	"material.tfg.clean_powder": "Силикатированный очищенный рениумный порошок",
 	"material.tfg.catalyser_powder": "Катализаторный рениумный порошок ZSM-5",
-	"material.tfg.sodium_aluminium": "Алюминат натрия"
+	"material.tfg.sodium_aluminium": "Алюминат натрия",
+
+    "material.tfg.chloroplasts": "Хлоропласты",
+	"material.tfg.nitrate_rich_water": "Нитратный раствор",
+	"material.tfg.nitrate_rich_semiheavy_ammoniacal_water": "Полутяжёлый нитратно-аммиачный раствор",
+
+	"material.tfg.weak_red_steel": "Сырая красная сталь",
+	"material.tfg.weak_blue_steel": "Сырая синяя сталь",
+	"material.tfg.refractory_clay": "Огнеупорная глина",
+	"material.tfg.bakelite": "Бакелит",
+	"material.tfg.phenolic_resin": "Фенольная смола",
+	"material.tfg.magnesium_hydroxide": "Гидроксид магния",
+	"material.tfg.magnesia_refractory_brick": "Склеенный смолой магнезиальный огнеупорный кирпич"
 }
