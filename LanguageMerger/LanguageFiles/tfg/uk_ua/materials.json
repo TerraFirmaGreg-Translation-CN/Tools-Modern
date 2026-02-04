@@ -176,5 +176,12 @@
 	"material.tfg.sodium_aluminium": "Натрій алюміній",
 	"material.tfg.chloroplasts": "Хлоропласти",
 	"material.tfg.nitrate_rich_water": "Вода, багата на нітрати",
-	"material.tfg.nitrate_rich_semiheavy_ammoniacal_water": "Вода, багата на нітрати, напівважка, аміачна"
+	"material.tfg.nitrate_rich_semiheavy_ammoniacal_water": "Вода, багата на нітрати, напівважка, аміачна",
+	"material.tfg.weak_red_steel": "Слабка червона сталь",
+	"material.tfg.weak_blue_steel": "Слабка Синя Сталь",
+	"material.tfg.refractory_clay": "Вогнетривка глина",
+	"material.tfg.bakelite": "Бакеліт",
+	"material.tfg.phenolic_resin": "Фенолова смола",
+	"material.tfg.magnesium_hydroxide": "Гідроксид магнію",
+	"material.tfg.magnesia_refractory_brick": "Вогнетривка цегла з магнезії, зв’язаної смолою"
 }
