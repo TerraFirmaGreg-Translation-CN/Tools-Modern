@@ -15,11 +15,11 @@
 	"hazard": "Gefahr",
 	"arsenicosis": "$(t:Benötigt Atemschutzmaske)Arsenikose (Einatmung)$(/t)",
 	"asbestosis": "$(t:Benötigt Atemschutzmaske)Asbestose (Einatmung)$(/t)",
-	"berylliosis": "$(t:Benötigt Gummiehandschuhe)Berylliose (Hautkontakt)$(/t)",
+	"berylliosis": "$(t:Benötigt Gummihandschuhe)Berylliose (Hautkontakt)$(/t)",
 	"carcinogenic": "$(t:Benötigt Vollschutz)Karzinogen (Beliebiger Kontakt)$(/t)",
 	"radioactive": "$(t:Benötigt Vollschutz)Radioaktiv (Beliebiger Kontakt)$(/t)",
 	"weak_poison": "$(t:Benötigt Atemschutzmaske)Leicht Giftig (Einatmung)$(/t)",
-	"irritant": "$(t:Benötigt Gummiehandschuhe)Reizend (Hautkontakt)$(/t)",
+	"irritant": "$(t:Benötigt Gummihandschuhe)Reizend (Hautkontakt)$(/t)",
 
 	"tfc:cluster_vein": "$(t:Meistens rundförmig)Klumpenader$(/t)",
 	"tfc:pipe_vein": "$(t:Hoch und schmal)Rohrader$(/t)",
