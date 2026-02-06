@@ -32,7 +32,7 @@
     {
       "lang": "de_de",
       "text": "Garnierit",
-      "info": "$(thing)Schmelzt$(): Nickel"
+      "info": "$(thing)Schmelzt in$(): Nickel"
     }
   ]
 }
