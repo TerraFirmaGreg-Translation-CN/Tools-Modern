@@ -254,5 +254,8 @@
     "quests.medium_voltage.lsb.desc": "若你&l仍在&r使用&3大型青铜锅炉&r，建议升级至&3大型钢锅炉&r。\n\n它的效率比&3大型青铜锅炉&r略高，可产生&d1800mB/t的蒸汽&r。\n\n现阶段我们建议你尝试其他发电方案。",
     "quests.medium_voltage.stainless_greate.title": "不锈钢级格雷机械",
     "quests.medium_voltage.stainless_greate.subtitle": "高应力",
-    "quests.medium_voltage.stainless_greate.desc": "本任务仅用于告知：格雷机械在此阶段迎来了又一次升级。\n\n你可能会发现新一代粉碎轮颇为实用——它们不仅能像HV研磨机一样提供全额副产物，还可同时处理多个物品！"
+    "quests.medium_voltage.stainless_greate.desc": "本任务仅用于告知：格雷机械在此阶段迎来了又一次升级。\n\n你可能会发现新一代粉碎轮颇为实用——它们不仅能像HV研磨机一样提供全额副产物，还可同时处理多个物品！",
+    "quests.medium_voltage.terminal_dismantler.title": "拆卸器终端",
+    "quests.medium_voltage.terminal_dismantler.subtitle": "当你觉得扳手还不够快时",
+    "quests.medium_voltage.terminal_dismantler.desc": "&8结构拆卸器&r是一个非常便捷的工具，允许你通过按住Shift并右键点击控制器来瞬间拆解多方块结构。但请注意，该多方块结构必须处于已成型状态才能被完整拆卸。"
 }

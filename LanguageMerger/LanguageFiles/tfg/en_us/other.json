@@ -42,6 +42,8 @@
     "entity.tfg.tier_2_double_rocket": "ASM 4914 Titanium Two-Person Rocket",
     "entity.tfg.tier_3_double_rocket": "45-Ti Tungstensteel Two-Person Rocket",
 
+    "curios.identifier.face": "Face",
+
     "effect.tfg.cooling": "§bCooling",
     "effect.tfg.warming": "§6Warming",
     "effect.tfg.instant_radiation": "Instant Radiation",

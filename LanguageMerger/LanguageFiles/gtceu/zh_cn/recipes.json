@@ -10,6 +10,7 @@
     "gtceu.gas_pressurizer": "气体加压器",
     "gtceu.nuclear_fuel_factory": "核燃料工厂",
     "gtceu.nuclear_turbine": "核能蒸汽涡轮",
+    "gtceu.cooling_tower": "核能冷却塔",
     "gtceu.heat_exchanger": "热交换器",
     "gtceu.fission_reactor": "裂变反应堆",
     "gtceu.evaporation_tower": "蒸发塔",
@@ -19,7 +20,7 @@
     "gtceu.bioreactor": "生物反应器",
     "gtceu.growth_chamber": "生长室",
     "gtceu.coal_liquefaction_tower": "液化塔",
-    "gtceu.smr_generator": "小型模块化涡轮",
+    "gtceu.smr_generator": "小型模块化涡轮机",
     "gtceu.hydroponics_facility": "水培设施",
     "gtceu.pisciculture_fishery": "水产养殖场"
 }

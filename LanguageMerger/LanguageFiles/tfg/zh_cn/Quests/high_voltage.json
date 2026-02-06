@@ -82,7 +82,7 @@
     "quests.high_voltage.tnt.desc.3": "对于&a甲苯&r，我们没有任何简单的技巧可以给你。无论你采取哪条路线，它都会很棘手。\n\n话虽如此，单方块&3蒸馏室&r存在将&a重燃油&r直接蒸馏成&a甲苯&r的配方，不要忽略此方法。\n\n&a甲苯&r还可在&5EV&r阶段作为可选材料用于制造&d汽油&r。\n\n&cTNT&r主要用于&3聚爆压缩机&r中制造宝石，当然它也能炸毁东西。",
     "quests.high_voltage.ender_pearls.title": "末影珍珠",
     "quests.high_voltage.ender_pearls.subtitle": "科幻宝石，或类似的东西",
-    "quests.high_voltage.ender_pearls.desc": "在 TFG 中，你不会找到任何掉落末影珍珠的末影人。\n即使在幽冥之地潜行的那些也帮不了你。\n\n相反，目前你唯一的选项是自己制作：\n\n在&6高压&r搅拌机中结合&2铍粉&r和&2钾粉&r，创造出难以捉摸的&5末影粉&r。\n\n完成后，将其扔进&7聚爆压缩机&r中，以格雷科技的风格重现标志性的末影珍珠。",
+    "quests.high_voltage.ender_pearls.desc": "在TFG中，你不会找到任何掉落末影珍珠的末影人。\n即使在幽冥之地潜行的那些也帮不了你。\n\n相反，目前你唯一的选项是自己制作：\n\n在&6高压&r搅拌机中结合&2铍粉&r和&2钾粉&r，创造出难以捉摸的&5末影粉&r。\n\n完成后，将其扔进&7聚爆压缩机&r中，以格雷科技的风格重现标志性的末影珍珠。",
     "quests.high_voltage.boules.title": "磷掺杂的单晶硅",
     "quests.high_voltage.boules.subtitle": "太牛了，兄弟！",
     "quests.high_voltage.boules.desc": "掺杂是故意向半导体中引入杂质以改变其特性的过程。\n\n&7硅&r可以用少量&e磷&r掺杂，以制造更好的&e单晶硅&r。\n\n磷掺杂的硅晶锭通常比未掺杂的对应物产量高&68倍&r。然而，在&5EV&r阶段之前并不严格需要，届时它们将用于更复杂的晶圆。\n\n&9注意&r：所有磷掺杂的单晶硅和晶圆的处理都需要&d超净间&r。",
@@ -126,6 +126,7 @@
     "quests.high_voltage.rocket_t1.title": "你的第一个火箭！",
     "quests.high_voltage.rocket_t1.subtitle": "千里之行第一步",
     "quests.high_voltage.rocket_t1.desc": "哇哦，是时候建造你的&6火箭&r了！\n\n使用&d8个致密火箭合金&r组装所有部件。完成隔热层需要&b2304mB液态硅&r（相当于&b16个硅锭&r）和&f16份粉末&r。\n\n你有两种选择：\n&e-&r&e硼硅玻璃粉&r：在&6搅拌机&r中用&d硼&r与&f玻璃粉&r合成\n\n&e-&r&5玻璃化石棉粉&r：通过&6热解炉&r获取\n\n选择对你来说最简单的方案即可！",
+    "quests.high_voltage.rocket_t1.task": "任意火箭",
     "quests.high_voltage.vitrified_pearl.title": "玻璃化末影珍珠",
     "quests.high_voltage.vitrified_pearl.subtitle": "一种异域陶瓷",
     "quests.high_voltage.vitrified_pearl.desc": "将末影珍珠与适量隔热材料一同放入&e热解炉&r加热，将其充分玻璃化处理成类似&3陶瓷&r的材质。\n\n你目前的需求并不多——至少仅为&6火箭&r和&6HV电路组装机&r各准备一个即可。\n但请注意：从&5EV&r阶段开始，需求量将急剧攀升。",
@@ -201,9 +202,11 @@
     "quests.high_voltage.final_dust.subtitle": "终于！无限资源！",
     "quests.high_voltage.final_dust.desc": "这是在解锁&e金星&r上更高级的加工设施前，你能在&7月球&r上获取的所有&c无限资源&r。\n\n有了这些资源，你将拥有持续推进&d格雷科技&r进程所需的一切——尤其是维护月球基地&a正常运作&r的必需品。\n\n这些资源对以下用途至关重要：\n• 制作&dAE2组件&r\n• 生产&c无限&r供应的&6轨道炮弹药&r\n\n被动自动化现在就在你触手可及之处——迈步向前，让它成为现实！",
     "quests.high_voltage.titanium_greate.title": "钛级格雷机械",
-    "quests.high_voltage.titanium_greate.desc": "这是在 TFG 中可达成的最终等级格雷机械。若说它有何“极限”之处——那便是极致的可选性（完全不做也行）。",
+    "quests.high_voltage.titanium_greate.desc": "这是在TFG中可达成的最终等级格雷机械。若说它有何“极限”之处——那便是极致的可选性（完全不做也行）。",
     "quests.high_voltage.pisciculture.title": "水产养殖场",
     "quests.high_voltage.pisciculture.subtitle": "专为养殖鳕鱼设计的多方块结构。",
     "quests.high_voltage.pisciculture.desc.1": "&b水产养殖场&r不仅是稳定获取鱼类的“全能设施”，也是&3鱼菜共生循环&r中的重要一环。通过与&2电动温室&r构建配方循环，两者可相互提升产出效率。配置得当后，整套系统将实现&a自给自足&r。",
-    "quests.high_voltage.pisciculture.desc.2": "&5提示：&r此结构可注入任何带&o&7#tfg:pisciculture_fishery_fluids&r&r标签的液体。但需注意：部分液体在&c太空中会冻结&r；若控制器未处于&n有氧环境&r，部分配方也将无法运行。"
+    "quests.high_voltage.pisciculture.desc.2": "&5提示：&r此结构可注入任何带&o&7#tfg:pisciculture_fishery_fluids&r&r标签的液体。但需注意：部分液体在&c太空中会冻结&r；若控制器未处于&n有氧环境&r，部分配方也将无法运行。",
+    "quests.high_voltage.multi_structure_terminal.subtitle": "就是更好",
+    "quests.high_voltage.multi_structure_terminal.desc": "&4多结构管理器&r是一个高级终端，直接由格雷科技的终端升级而来。你可以用同样的方式使用它：右键点击一个控制器来&e建造多方块结构&r，并拥有&d额外的选项&r来选择层级（多方块结构的尺寸或使用的线圈）以及是否放置输入/输出仓。\n\n它还能扫描附近的多方块结构，以升级它们的输入/输出仓或线圈；如果连接到你的&bME网络&r，它可以直接使用你的ME存储来升级这些端口。"
 }
