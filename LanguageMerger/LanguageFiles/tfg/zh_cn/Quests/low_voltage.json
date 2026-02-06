@@ -34,7 +34,7 @@
     "quests.low_voltage.lv_polariser.desc": "在&7LV&r阶段，这可以说是最经济的机器之一，能用于制造&6无需红石的磁化金属杆&r来生产电机。当你开始批量制造电机时，这台机器能为你节省大量红石。",
     "quests.low_voltage.link_chapter.title": "给我解释一下能量",
     "quests.low_voltage.link_chapter.subtitle": "有一整章关于能量的内容",
-    "quests.low_voltage.link_chapter.desc": "这看起来可能需要阅读很多内容，但如果你想避免意外并充分利用你的发电设备，理解这些内容是很重要的。\n\n格雷科技的能量系统（EU，能量单位）与几乎所有其他模组使用的 FE（Forge能量）系统的工作方式不同。\n\n在&7LV&r阶段有四种发电方式，而且都是可行的选择。如果你是格雷科技的新手，蒸汽发电是最简单的，但随着你进入更高的等级，它的效率会迅速下降。气体燃料的生产更为复杂，但对应的发电机成本最低。内燃机则介于两者之间。\n\n这里是格雷科技能源章节的链接",
+    "quests.low_voltage.link_chapter.desc": "格雷科技的能量系统（EU，能量单位）与几乎所有其他模组使用的 FE（Forge能量）系统的工作方式不同。\n\n这看起来可能需要阅读很多内容，但如果你想避免意外并充分利用你的发电设备，理解这些内容是很重要的。\n\n在&7LV&r阶段有四种发电方式，而且都是可行的选择。如果你是格雷科技的新手，蒸汽发电是最简单的，但随着你进入更高的等级，它的效率会迅速下降。气体燃料的生产更为复杂，但对应的发电机成本最低。内燃机则介于两者之间。\n\n这里是格雷科技能源章节的链接",
     "quests.low_voltage.link_chapter.task": "我读过了",
     "quests.low_voltage.lv_combuston_gen.title": "内燃发电机",
     "quests.low_voltage.lv_combuston_gen.subtitle": "它会轰隆作响并产生能量",
