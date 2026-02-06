@@ -37,5 +37,12 @@
     "block.tfg.growth_chamber": "生长室",
     "block.tfg.single_itemstack_bus": "限速输入总线",
     "block.tfg.hydroponics_facility": "水培设施",
-    "block.tfg.pisciculture_fishery": "水产养殖场"
+    "block.tfg.pisciculture_fishery": "水产养殖场",
+    "block.gtceu.ev_1024a_laser_source_hatch": "1024§e安§r§5EV§r激光源仓",
+    "block.gtceu.ev_1024a_laser_target_hatch": "1024§e安§r§aEV§r激光靶仓",
+    "block.gtceu.ev_256a_laser_source_hatch": "256§e安§r§5EV§r激光源仓",
+    "block.gtceu.ev_256a_laser_target_hatch": "256§e安§r§5EV§r激光靶仓",
+    "block.gtceu.ev_4096a_laser_source_hatch": "4096§e安§r§5EV§r激光源仓",
+    "block.gtceu.ev_4096a_laser_target_hatch": "4096§e安§r§5EV§r激光靶仓",
+    "__comment1": "下列内容用于配方"
 }
