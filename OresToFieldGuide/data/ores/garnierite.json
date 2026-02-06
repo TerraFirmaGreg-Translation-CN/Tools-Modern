@@ -28,6 +28,11 @@
       "lang": "zh_cn",
       "text": "硅镁镍矿",
       "info": "$(thing)熔化$(): 镍"
+    },    
+    {
+      "lang": "de_de",
+      "text": "Garnierit",
+      "info": "$(thing)Schmelzt$(): Nickel"
     }
   ]
 }
