@@ -34,6 +34,7 @@
     "entity.tfg.tier_1_double_rocket": "Двомісна ракета з R-алюмінокріпленої сталі",
     "entity.tfg.tier_2_double_rocket": "Двомісна ракета з титану ASM 4914",
     "entity.tfg.tier_3_double_rocket": "Двомісна ракета з вольфрамової сталі 45-Ti",
+    "curios.identifier.face": "Обличчя",
     "effect.tfg.cooling": "§bОхолодження",
     "effect.tfg.warming": "§6Розігрів",
     "effect.tfg.instant_radiation": "Миттєве випромінювання",
