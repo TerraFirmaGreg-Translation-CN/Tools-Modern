@@ -825,9 +825,9 @@
 	"block.tfg.impure_moderate_core_frame": "Каркас с нечистым ядром стабилизатора",
 
     "block.tfg.copper_sandy": "Кремний связанный с медью",
-	"block.tfg.copper_sandy_frame": "Каркас с кремнем связанного с медью",
-	"block.tfg.beryllium_sandy": "Кремний с кремнем связанного с берилием",
-	"block.tfg.beryllium_sandy_frame": "Каркас с ",
+	"block.tfg.copper_sandy_frame": "Каркас с кремнием связанным с медью",
+	"block.tfg.beryllium_sandy": "Кремний с кремнием связанным с берилием",
+	"block.tfg.beryllium_sandy_frame": "Каркас с кремнием связанным с берилием",
 
     "block.tfg.heat_battery_mk1": "Тепловая батарея",
     "tfg.block_entity.artisan_table": "Ремесленный стол",
