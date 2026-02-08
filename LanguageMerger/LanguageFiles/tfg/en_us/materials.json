@@ -120,5 +120,13 @@
     "material.tfg.n_n_dimethylaniline": "N,N-Dimethylaniline",
     "material.tfg.triglyceride_oil": "Triglyceride Oil",
     "material.tfg.cholesterol": "Cholesterol",
-    "material.tfg.butyric_acid": "Butyric Acid"
+    "material.tfg.butyric_acid": "Butyric Acid",
+
+    "material.tfg.sulfur_dichloride": "Sulfur Dichloride",
+    "material.tfg.thionyl_chloride": "Thionyl Chloride",
+    "material.tfg.p_toluenesulfonic_acid": "p-Toluenesulfonic Acid",
+    "material.tfg.redstone_nitrate": "Redstone Nitrate",
+    "material.tfg.redstone_chloride": "Redstone Chloride",
+    "material.tfg.redstone_tri_p_toluenesulfonate": "Redstone tri p-Toluenesulfonate",
+    "material.tfg.sodium_nitrate": "Sodium Nitrate"
 }
