@@ -12,16 +12,16 @@
 	"ores": [
 		{
 			"ore": "magnetite",
-			"weight": 70,
+			"weight": 60,
 			"block_weight": 1
 		},
 		{
 			"ore": "vanadium_magnetite",
-			"weight": 25
+			"weight": 30
 		},
 		{
 			"ore": "gold",
-			"weight": 10
+			"weight": 5
 		},
 		{
 			"ore": "chromite",
