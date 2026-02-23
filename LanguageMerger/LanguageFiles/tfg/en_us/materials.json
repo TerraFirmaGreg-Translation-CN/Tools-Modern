@@ -240,5 +240,11 @@
     "material.tfg.redstone_nitrate": "Redstone Nitrate",
     "material.tfg.redstone_chloride": "Redstone Chloride",
     "material.tfg.redstone_tri_p_toluenesulfonate": "Redstone Tri-p-Toluenesulfonate",
-    "material.tfg.sodium_nitrate": "Sodium Nitrate"
+	"material.tfg.sodium_nitrate": "Sodium Nitrate",
+
+	"material.tfg.silane": "Silane Gas",
+	"material.tfg.chlorosilane": "Chlorosilane",
+	"material.tfg.dichlorosilane": "Dichlorosilane",
+	"material.tfg.trichlorosilane": "Trichlorosilane",
+	"material.tfg.polysilicon": "Polysilicon"
 }
