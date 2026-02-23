@@ -6,11 +6,11 @@
 
     "__comment1": "Industrial iron",
 
-    "block.create.industrial_iron_block": "Industriestahlblock",
+    "block.create.industrial_iron_block": "Stahlblock",
     "block.create.weathered_iron_block": "Verwitterter Stahlblock",
-    "block.create.industrial_iron_window": "Industriestahlfenster",
+    "block.create.industrial_iron_window": "Stahlfenster",
     "block.create.weathered_iron_window": "Verwittertes Stahlfenster",
-    "block.create.industrial_iron_window_pane": "Industriestahlfensterscheibe",
+    "block.create.industrial_iron_window_pane": "Stahlfensterscheibe",
     "block.create.weathered_iron_window_pane": "Verwittertes Stahlfensterscheibe",
 
     "__comment2": "Window panes",
