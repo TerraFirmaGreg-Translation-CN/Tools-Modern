@@ -834,5 +834,6 @@
 
 	"block.tfg.heat_battery_mk1": "Heat Battery",
 	"tfg.block_entity.artisan_table": "Artisan Table",
-	"block.tfg.artisan_table": "Artisan Table"
+	"block.tfg.artisan_table": "Artisan Table",
+	"block.tfg.quartz_crucible": "Quartz Crucible"
 }

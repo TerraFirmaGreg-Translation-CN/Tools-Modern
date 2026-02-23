@@ -343,6 +343,7 @@
 
     "item.tfg.uv_led": "§dUltraviolet §fLED",
     "item.tfg.smd_uv_led": "§fSMD §dUltraviolet §fLED",
+    "item.tfg.silicon_seed_crystal": "Silicon Seed Crystal",
 
     "item.tfg.empty_dna_syringe": "Empty Syringe",
     "item.tfg.filled_dna_syringe": "Filled Syringe",
