@@ -215,9 +215,11 @@
     "tfg.tooltip.machine.cooling_tower_1": "§7Heating up the Atmosphere§r",
     "tfg.tooltip.machine.cooling_tower_2": "§7Cools the hot coolant by dissipitating excess heat to the atmosphere.§r",
     "tfg.tooltip.machine.hydroponics_facility_1": "§7§oFarming the loOOng way§r",
-    "tfg.tooltip.machine.hydroponics_facility_2": "§7The upgraded form of the EGH! The Hydroponics Facility boosts greenhouse output chances and has no restricions on being oxygenated.§r",
+    "tfg.tooltip.machine.hydroponics_facility_2": "§7The upgraded form of the EGH! The Hydroponics Facility boosts greenhouse output chances and has no restrictions on being oxygenated.§r",
     "tfg.tooltip.machine.pisciculture_fishery_1": "§7§o1 Fish, 2 Fish...§r",
     "tfg.tooltip.machine.pisciculture_fishery_2": "§7Pisciculture Fisheries are not only a source of fresh fish but also vital in boosting greenhouse production through §3Aquaponics.§7 The structure can be filled with any fluid tagged as §o#tfg:pisciculture_fishery_fluids§r",
+    "tfg.tooltip.machine.high_temp_precision_fabricator_1": "§7Extreme Candy Floss Machine§r",
+    "tfg.tooltip.machine.high_temp_precision_fabricator_2": "§7Grows Monocrystalline Silicon Boules and more, in a clean way that won't upset your Cleanroom!§r",
 
     "tfg.tooltip.obsolete.depreciated": "§cDeprecated, cannot be crafted any more",
 
