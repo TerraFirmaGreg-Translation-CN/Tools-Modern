@@ -200,9 +200,9 @@
     "quests.medium_voltage.mv_pvc.subtitle": "You've already made one polymer, what's two?",
     "quests.medium_voltage.mv_pvc.desc": "&aPolyvinyl Chloride (PVC)&r is the 3rd-most produced plastic in real life. Here in CEu, it can be substituted for Polyethylene in the production of &aPlastic Circuit Boards&r and other items to increase the yield. It is required from &5EV&r onwards to wrap Cables.\n\nPVC item pipes also have the &6highest throughput&r available for a while, but most of your setups right now won't need such speed. Still, it's good to keep this knowledge in your pocket.\n\n&9Pro tip:&r The fluid form of PVC is never used in base GTCEu, so feel free to solidify all of it into sheets.",
 
-    "quests.medium_voltage.mv_boards.title": "Plastic Boards",
-    "quests.medium_voltage.mv_boards.subtitle": "It's a Casio on a Plastic Board",
-    "quests.medium_voltage.mv_boards.desc": "At this point, you have all the tools available to start making Plastic Boards. Higher-tier polymers in future will increase your PCB yields substantially.\n\nThe recipe chains are starting to get pretty long, so we recommend processing large batches in two dedicated &3Chemical Reactors&r.",
+    "quests.medium_voltage.mv_boards.title": "Ceramic Boards",
+    "quests.medium_voltage.mv_boards.subtitle": "It's a Casio on a Ceramic Board",
+    "quests.medium_voltage.mv_boards.desc": "At this point, you have all the tools available to start making Ceramic Boards. Higher-tier ceramics in future will increase your PCB yields substantially.\n\nThe recipe chains are starting to get pretty long, so we recommend processing large batches in two dedicated &3Chemical Reactors&r.",
 
     "quests.medium_voltage.mv_sodium_iron.title": "Sodium Persulfate / Iron III Chloride",
     "quests.medium_voltage.mv_sodium_iron.subtitle": "Let's etch some Copper off Circuit Boards!",
@@ -288,37 +288,37 @@
 
     "quests.medium_voltage.mv_cutter.title": "Advanced Cutter",
     "quests.medium_voltage.mv_cutter.subtitle": "Upgrades, people, upgrades!",
-    "quests.medium_voltage.mv_cutter.desc": "The &3MV Cutter&r is required to cut &7Silicon Boules&r to prepare them for &aLaser Engraving&r.\n\nWe recommend you supply this machine with a steady stream of &dLubricant&r to cut down on the processing time.\n\nLubricant can be &3brewed&r from &eOil&r and &aTalc&r, &2Soapstone&r or &cRedstone&r.",
+    "quests.medium_voltage.mv_cutter.desc": "The &3MV Cutter&r is required to cut &7Silicon Boules&r to prepare them for &aLaser Engraving&r.\n\nWe recommend you supply this machine with a steady stream of &dLubricant&r to cut down on the processing time.\n\nLubricant can be &3brewed&r from &eOil&r and &aTalc&r, &2Soapstone&r, &dCreosote&r or &cRedstone&r.",
     "quests.medium_voltage.mv_cutter.task": "Any Cutter",
 
     "quests.medium_voltage.mv_laser_engraver.title": "Laser Engraving",
-    "quests.medium_voltage.mv_laser_engraver.subtitle": "This is peak technology, this is slow also",
+    "quests.medium_voltage.mv_laser_engraver.subtitle": "Teaching rocks to think",
     "quests.medium_voltage.mv_laser_engraver.desc": "The &3Laser Engraver&r engraves patterns into &9Silicon Wafers&r based on the type of &9Lens&r it is given. After the wafers are engraved, they must be passed through a &3Cutting Machine&r to turn them into components ready to be put into Circuits.\n\nHigher tier Engravers can etch more complex wafers for more efficient Circuits.",
 
-    "quests.medium_voltage.mv_silicon_boule.title": "Silicon Lottery",
-    "quests.medium_voltage.mv_silicon_boule.subtitle": "These wafers are fully fungible",
-    "quests.medium_voltage.mv_silicon_boule.desc": "&9Silicon Boules&r are made in the &3EBF&r with half a stack of &aSilicon Dust&r and a pinch of &aGallium Arsenide&r. Their primary purpose is engraving &6Circuit Wafers&r.\n\nAfter making the Boule, process it in the &3Cutter&r to get 16 Silicon Wafers ready for engraving.\n\n&cWarning:&r Each Silicon Boule takes &47.5 minutes&r to make at 120 EU/t, or 1,080,000 EU! If the EBF loses power midway, the recipe will start to &close progress&r.\n\nWith that being said, Silicon Boules take an absolute age to craft, so consider parallelizing the recipe in multiple &3EBF&rs and stockpiling them.",
+    "quests.medium_voltage.mv_silicon_boule.title": "Silicon Boules",
+    "quests.medium_voltage.mv_silicon_boule.subtitle": "Giant crystals!",
+    "quests.medium_voltage.mv_silicon_boule.desc": "&9Silicon Boules&r are made in the &3High Temperature Precision Fabricator&r with a &aSilicon Seed Crystal&r and a pinch of &aGallium Arsenide&r within a Quartz Crucible. Their primary purpose is to make &6Wafers&r for circuits.\n\nAfter making the Boule, process it in the &3Cutter&r to get 16 Silicon Wafers ready for engraving.\n\n&cWarning:&r Each Silicon Boule takes &47.5 minutes&r to make at 120 EU/t, or 1,080,000 EU! If the HTPF loses power midway, the recipe will start to &close progress&r.\n\nWith that being said, Silicon Boules take an absolute age to craft, so consider &3stockpiling&r them.\n\nAlso note that the basic boule recipe is faster within a Cleanroom, once you've got one of those set up.",
 
     "quests.medium_voltage.mv_silicon.title": "Silicon Dust",
     "quests.medium_voltage.mv_silicon.subtitle": "Sillycon",
-    "quests.medium_voltage.mv_silicon.desc.1": "You’ll need to get used to it: in &dGregTech&r, there are always &amultiple ways&r to reach what you want—a philosophy we made sure to preserve in &aTerrafirmaGreg&r.\n\nTo obtain &5Silicon&r, we’ll suggest &ctwo main methods&r so you have clear directions. As always, it’s up to you to figure out what’s &abest for your situation&r.",
-    "quests.medium_voltage.mv_silicon.desc.2": "First method: &amining silicon-rich ores&r. Look for &9Mica&r or &9Kyanite&r veins—they also contain &dAluminium&r. Alternatively, you can &aElectrolyze Zeolite Dust&r, found in &9Chalcopyrite&r and &dRealgar&r veins.\n\nSecond method: &eAdvanced but powerful&r. Although more expensive to set up and slower early on, it becomes the &ebest method&r at &6HV&r and beyond. Plus, it generates &9Oxygen&r as a bonus! The idea is simple: &aElectrolyze Silicon Dioxide Dust&r into &9Oxygen&r and &5Silicon&r. You can get &aSilicon Dioxide Dust&r by &9centrifuging Flint Dust&r, which itself comes from &9Flint&r collected by &asifting Gravel&r.\n\nThis setup can become &afully passive&r easily. Try using the &aEMI Recipe Tree&r tool (bottom left of your screen) to plan your builds—it really helps!",
+    "quests.medium_voltage.mv_silicon.desc.1": "Going forward, Silicon will be essential for anything involving electronics, so it's definitely something you're going to want a reliable setup for.\n\nTo obtain &5Silicon&r, we’ll suggest &ctwo main methods&r so you have clear directions. As always, it’s up to you to figure out what’s &abest for your situation&r.",
+    "quests.medium_voltage.mv_silicon.desc.2": "First method: mining silicon-rich ores. Look for &9Mica&r or &9Kyanite&r veins—they also contain &dAluminium&r. Alternatively, you can electrolyze &aZeolite Dust&r, found in Chalcopyrite and Realgar veins.\n\nSecond method: Although more expensive to set up, and slower early on, generating Silicon out of cobblestone becomes the &ebest method&r at &6HV&r and beyond. Plus, it generates &9Oxygen&r as a bonus!\n\nThe idea is simple: electrolyze &aSilicon Dioxide Dust&r into Oxygen and Silicon. You can get Silicon Dioxide Dust by centrifuging &9Flint Dust&r, which itself comes from &9Flint&r collected by &asifting Gravel&r.\n\nThis setup can become &afully passive&r easily. Try using the &aEMI Recipe Tree&r tool (bottom left of your screen) to plan your builds—it really helps!",
 
     "quests.medium_voltage.mv_ulpic.title": "ULPIC Chips",
     "quests.medium_voltage.mv_ulpic.subtitle": "Pickin' up Chips",
-    "quests.medium_voltage.mv_ulpic.desc": "Using a Sapphire Lens, engrave a Silicon Wafer into an ULPIC Wafer.\n\nThis can be processed in a Cutter for ULPIC Chips, which are important for some multiblock components!\n\nMore specificaly the MV Energy Hatch that you will need to bring your EBF to HV energy tier.",
+    "quests.medium_voltage.mv_ulpic.desc": "Using a Sapphire Lens, engrave a Silicon Wafer into an ULPIC Wafer.\n\nThis can be processed in a Cutter for ULPIC Chips, which are important for some multiblock components!\n\nMore specifically, the MV Energy Hatches that you will need to upgrade your EBF to the &6HV&r energy tier.",
 
     "quests.medium_voltage.mv_ic.title": "IC Chips",
     "quests.medium_voltage.mv_ic.subtitle": "I C U",
-    "quests.medium_voltage.mv_ic.desc": "Using a Ruby Lens, engrave a Silicon Wafer into an ILC Wafer.\n\nThis can be processed in a Cutter for IC Chips, which are important components that will be precious when improving upon your circuit crafting capabilities.",
+    "quests.medium_voltage.mv_ic.desc": "Using a Ruby Lens, engrave a Silicon Wafer into an ILC Wafer.\n\nThis can be processed in a Cutter for Integrated Circuit Chips, which are important components for improving upon your circuit crafting capabilities.",
 
     "quests.medium_voltage.mv_ram.title": "Download more RAM",
-    "quests.medium_voltage.mv_ram.subtitle": "That's from the Daft Punk you know?",
+    "quests.medium_voltage.mv_ram.subtitle": "Also a Daft Punk album",
     "quests.medium_voltage.mv_ram.desc": "&aRandom Access Memory&r is required for many Circuits.",
 
     "quests.medium_voltage.mv_cpu.title": "Get a better CPU",
     "quests.medium_voltage.mv_cpu.subtitle": "Gamers usually prefer GPU",
-    "quests.medium_voltage.mv_cpu.desc": "&aThe &eCPU&r is one of the most important pieces of technology in your factory.\n\nThe &eCPU Wafer&r is a special one—it can be upgraded later through a &2Chemical Reaction&r.\n\nBut for now, you’ll need the &eCPU Chip&r to craft the best &bMV&r circuits available at this stage.\n\nMake sure to produce a few extra, as they’ll be essential for future upgrades.",
+    "quests.medium_voltage.mv_cpu.desc": "The &eCPU Wafer&r is a special one—it can be upgraded later through a &2Chemical Reaction&r.\n\nBut for now, you’ll need the &eCPU Chip&r to craft the best &bMV&r circuits available at this stage.\n\nMake sure to produce a few extra, as they’ll be essential for future upgrades.",
 
     "quests.medium_voltage.lsb.title": "Getting very steamy",
     "quests.medium_voltage.lsb.subtitle": "If you have unlimited fuel, it can still be good",
@@ -330,5 +330,40 @@
 
     "quests.medium_voltage.terminal_dismantler.title": "Dismantler Terminal",
     "quests.medium_voltage.terminal_dismantler.subtitle": "When your wrench isn't fast enough",
-    "quests.medium_voltage.terminal_dismantler.desc": "The &8Dismantler&r is an amazing tool, allowing you to dismantle your multiblocks instantly by simply shift-right-clicking the controller, though be wary that the Multiblock must be fully formed to be completely dismantled."
+    "quests.medium_voltage.terminal_dismantler.desc": "The &8Dismantler&r is an amazing tool, allowing you to dismantle your multiblocks instantly by simply shift-right-clicking the controller, though be wary that the Multiblock must be fully formed to be completely dismantled.",
+
+    "quests.medium_voltage.htpf.subtitle": "I'm Mr. Clean",
+    "quests.medium_voltage.htpf.desc.1": "The &6High Temperature Precision Fabricator&r (HTPF) is your new clean multiblock designed to produce &bLenses&r and &eSilicon Boules&r.\n\nIt operates similarly to the &eElectric Blast Furnace&r, using improved &6Coils&r that allow &aPerfect Overclocking&r and requiring specific temperature levels to run certain recipes.\n\nUnlike the &eElectric Blast Furnace&r, however, it does not have a &7Muffler Hatch&r, which means you will be able to integrate it into your &bCleanroom&r once unlocked - this allows some recipes to run faster, while others will require its clean environment.",
+    "quests.medium_voltage.htpf.desc.2": "&l&3Lore&r:&r &oIn base &bGTCEu&r, &oyou would use an &eEBF&r &ofor these recipes, but in &aTerrafirmaGreg&r &owe wanted a dedicated multiblock that could properly fit inside a &bCleanroom&r. &oThis led to the creation of the &6High Temperature Precision Fabricator&r, which also comes with a cute little animation.&r",
+
+    "quests.medium_voltage.gem_lens.title": "Optical Lenses",
+    "quests.medium_voltage.gem_lens.subtitle": "So sparkly!",
+    "quests.medium_voltage.gem_lens.desc.1": "Each &bLens&r you craft will involve coating a &7Blank Lens&r with a certain liquefied &dGem&r. Keep in mind that higher-quality gems produce significantly more slurry, so you are strongly advised to process these ores using a &aSifter&r.\n\nBe aware that higher-tier lenses may require more advanced slurry processing and different types of &7Blank Lenses&r, though this will only become relevant later in the modpack.",
+    "quests.medium_voltage.gem_lens.desc.2": "&3&lLore:&r&r &oIn base &bGTCEu&r, &oa single exquisite gem was enough to craft lenses, and later the process became even simpler by just dyeing a glass lens.\n\nThis felt overly simplistic, and since &aTerrafirmaGreg&r features a wide variety of gems, we decided it was more fitting to make proper use of them instead of relying on dyes.&r",
+
+    "quests.medium_voltage.gem_slurry.title": "Gem Slurries",
+    "quests.medium_voltage.gem_slurry.subtitle": "Another type of ore processing?",
+    "quests.medium_voltage.gem_slurry.desc": "While you are setting this up, note that processing gems through a &5Liquefaction Tower&r to produce &dGem Slurry&r also unlocks a unique ore processing line that is roughly six times more efficient than the standard methods you are used to.\n\nThis dedicated line can also provide exclusive by-products that cannot be obtained through other processing routes.\n\n&l&cNote&r:&r Many gems do not yet have access to this unique line, and additional implementations will be added as the modpack is developed.",
+
+    "quests.medium_voltage.silicon_carbide.subtitle": "Silicon will get under your skin",
+    "quests.medium_voltage.silicon_carbide.desc.1": "The process of crafting &bSilicon Carbide&r is significantly more complex than what you have done so far, but do not be discouraged. as always, take your time while browsing EMI and try to batch-craft as much as possible. You should have learned by now that in &bGregTech&r, you should never be afraid of producing too much.",
+    "quests.medium_voltage.silicon_carbide.desc.2": "We will guide you step by step through this quest, as the process is somewhat unique. First, run your &eQuartz&r gems through a &aSifter&r to obtain the highest quality gems possible, as this will drastically reduce the amount of &8Graphite&r required; once you have produced the &6Hot Rough Silicon Carbide Ingots&r, you can cool them using a &dChemical Bath&r until you later unlock the &bVacuum Freezer&r.\n\nThe next step is slightly unusual: you will need to macerate the ingots into &7Dust&r, which must then be processed in a &dChemical Bath&r with &aHydrochloric Acid&r; if you do not already have this acid, refer to the quests at the top left of this chapter; electrolyzing seawater and processing the resulting materials is your best option to obtain an infinite supply of &aHydrochloric Acid&r.",
+
+    "quests.medium_voltage.chemical_bath.subtitle": "Why can't we just cool these in a lake?",
+    "quests.medium_voltage.chemical_bath.desc": "The &dChemical Bath&r is a versatile machine primarily used to dye various materials and get certain resources out of ores, but until you reach the &6HV&r chapter and unlock the &bVacuum Freezer&r, it will also serve to cool your hot ingots. Later on, it will also be required for specific dipping recipes.",
+
+    "quests.medium_voltage.rene_41.subtitle": "Ou la la",
+    "quests.medium_voltage.rene_41.desc": "&bRené-41&r is a high-performance alloy with excellent resistance to high temperatures, making it essential for crafting your new advanced &6Coils&r. The catch is that it requires many different materials to be combined together.\n\nTo craft 16 &6Coils&r, you will need 32 &bRené-41 Ingots&r, so plan ahead carefully, as producing a larger batch may be wise to sustain the numerous &eKanthal Coils&r you will rely on until the next tier becomes available.",
+
+    "quests.medium_voltage.silicon_rubber.title": "Silicon Rubber",
+    "quests.medium_voltage.silicon_rubber.subtitle": "Silicon, silicon, silicon everywhere!",
+    "quests.medium_voltage.silicon_rubber.desc": "&bSilicon Rubber&r is essentially an improved version of regular rubber. As you progress through &bGregTech&r, you will unlock better substitutes for older materials, and this is one of them.\n\nIt can be used to coat your &eWires&r at a lower cost, but more importantly, it is mandatory for crafting the components of your new &aCircuits&r.\n\nIf you are struggling to obtain enough &fLatex&r from trees, this material will solve the issue, as it is produced from &eSilicon&r, &aChlorine&r, and &7Methane&r, resources that you can easily generate infinitely at this stage.",
+
+    "quests.medium_voltage.sic_sic_rotor.subtitle": "Is this sick or am I sick of you?",
+    "quests.medium_voltage.sic_sic_rotor.desc": "The &bSiC-SiC Rotor&r is what we refer to as an &eExotic Turbine Rotor&r. Its stats can be considered either extreme or simply poor, and this particular model suffers from very low efficiency and durability, meaning that if you plan to use it, you should set up a passive production line to replace it whenever it breaks.\n\nIf you are not a fan of &aCreate&r or do not heavily rely on steam power, this rotor will likely be a waste of resources, so feel free to skip it.",
+
+    "quests.medium_voltage.vanadium_tools.title": "Vanadium Steel Tools",
+    "quests.medium_voltage.vanadium_tools.subtitle": "A whole new set of Tools",
+    "quests.medium_voltage.vanadium_tools.desc": "Each new tier unlocks additional materials used to craft an entirely new set of &eTools&r.\n\nWhile you may not want to replace your full set every time, it is still worth reviewing their stats, as some provide higher mining speed while others offer greater durability, and there is no absolute best choice. It ultimately depends on your priorities.\n\n&bVanadium Steel Tools&r provide higher durability than &cRed Steel&r with only a slight increase in speed - if raw speed is your main goal, you may want to consider &dDiamond-Tipped Tools&r instead.",
+    "quests.medium_voltage.vanadium_tools.task": "Any Vanadium Steel Tool"
 }

@@ -441,6 +441,9 @@
     "item.tfg.flora_pellets": "Flora Pellets",
 
     "item.tfg.magnesia_refractory_brick_ingot": "Resin-Bonded Magnesia Refractory Brick",
+    "item.tfg.blue_alloy_desh_foil": "Blue Alloy-Plated Desh Foil",
+    "item.tfg.chorus_ceramic_insulation": "Chorus-Infused Ceramic Insulation",
+    "item.tfg.fired_chorus_ceramic_insulation": "Fired Chorus-Infused Ceramic Insulation",
 
     "item.tfg.tier_1_double_rocket": "R-Aluminosteel Two-Person Rocket",
     "item.tfg.tier_2_double_rocket": "ASM 4914 Titanium Two-Person Rocket",
@@ -452,4 +455,5 @@
 
     "item.tfg.optical_borosilicate_blank": "Optical Borosilicate Blank",
     "item.tfg.worked_optical_borosilicate_blank": "Worked Optical Borosilicate Blank"
+
 }
