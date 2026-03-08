@@ -5,74 +5,58 @@ namespace LanguageMerger;
 
 public class MainClass
 {
-    public static void Main(string[] args)
-    {
-        Console.WriteLine("Generating Localization Files!");
+	public static void Main(string[] args)
+	{
+		Console.WriteLine("Generating Localization Files!");
 
-        if (!TryGetProgramArguments(args, out CommandLineOptions? opts, out string? langDir))
-        {
-            ConsoleLogHelper.WriteLine("Failed to get Program's Arguments, Press any key to exit...", LogLevel.Error);
-            Console.ReadKey();
-            return;
-        }
+		if (!TryGetProgramArguments(args, out CommandLineOptions? opts, out string? inputDir))
+		{
+			ConsoleLogHelper.WriteLine("Failed to get Program's Arguments, Press any key to exit...", LogLevel.Error);
+			Console.ReadKey();
+			return;
+		}
 
-        var programInstance = new LanguageMergerProgram(opts!, langDir!);
-        bool result = false;
-        try
-        {
-            var task = programInstance.Run();
-            task.Wait();
+		var programInstance = new LanguageMergerProgram(opts!, inputDir!);
 
-            result = task.Result;
-        }
-        catch (Exception e)
-        {
-            ConsoleLogHelper.WriteLine($"Exception has been thrown. {e}", LogLevel.Fatal);
-            result = false;
-        }
+		var task = programInstance.Run();
+		task.Wait();
 
-        if (result)
-        {
-            ConsoleLogHelper.WriteLine("Success :D! Press any key to exit...", LogLevel.Info);
-        }
-        else
-        {
-            ConsoleLogHelper.WriteLine("Failure D:! Press any key to exit...", LogLevel.Error);
-        }
-        Console.ReadKey();
-    }
+		ConsoleLogHelper.WriteLine("Done", LogLevel.Info);
 
-    private static bool TryGetProgramArguments(string[] args, out CommandLineOptions? options, out string? langDir)
-    {
-        options = CommandLineOptions.Parse(args);
-        if (options is null)
-        {
-            langDir = null;
-            return false;
-        }
+		Console.ReadKey();
+	}
 
-        langDir = GetLanguageFilesFolder(options);
-        if (langDir is null)
-        {
-            return false;
-        }
+	private static bool TryGetProgramArguments(string[] args, out CommandLineOptions? options, out string? inputDir)
+	{
+		options = CommandLineOptions.Parse(args);
+		if (options is null)
+		{
+			inputDir = null;
+			return false;
+		}
 
-        return true;
-    }
+		inputDir = GetLanguageFilesFolder(options);
+		if (inputDir is null)
+		{
+			return false;
+		}
 
-    private static string? GetLanguageFilesFolder(CommandLineOptions options)
-    {
-        var cwd = Directory.GetCurrentDirectory();
+		return true;
+	}
 
-        var projectFolder = cwd.Substring(0, cwd.IndexOf("LanguageMerger") + "LanguageMerger".Length);
+	private static string? GetLanguageFilesFolder(CommandLineOptions options)
+	{
+		var cwd = Directory.GetCurrentDirectory();
 
-        string languageFilesFolder = Path.Combine(projectFolder, "LanguageFiles");
-        if (!Directory.Exists(languageFilesFolder))
-        {
-            Console.Error.WriteLine($"The \"LanguageFiles\" folder was not found in {languageFilesFolder}");
-            return null;
-        }
+		var projectFolder = cwd.Substring(0, cwd.IndexOf("LanguageMerger") + "LanguageMerger".Length);
 
-        return languageFilesFolder;
-    }
+		string languageFilesFolder = Path.Combine(projectFolder, "LanguageFiles");
+		if (!Directory.Exists(languageFilesFolder))
+		{
+			Console.Error.WriteLine($"The \"LanguageFiles\" folder was not found in {languageFilesFolder}");
+			return null;
+		}
+
+		return languageFilesFolder;
+	}
 }

@@ -2,24 +2,28 @@
 
 namespace LanguageMerger
 {
-    internal class LanguageMergerProgram(CommandLineOptions options, string langDir)
-    {
-        private readonly List<ModLocale> r_modLocales = [];
+    internal class LanguageMergerProgram(CommandLineOptions options, string inputDir)
+	{
+		private readonly List<ModLocale> r_modLocales = [];
         private readonly CommandLineOptions r_options = options;
-        private readonly string r_langDir = langDir;
+		private readonly string r_inputDir = inputDir;
 
-        public async Task<bool> Run()
+		public async Task<bool> Run()
         {
             ConsoleLogHelper.WriteLine("Language Merger Program has Started!", LogLevel.Message);
 
-            ConsoleLogHelper.WriteLine("Generating Mod Locales", LogLevel.Message);
-            await GenerateModLocales();
-            ConsoleLogHelper.WriteLine("Creating Output Directories", LogLevel.Message);
+			ConsoleLogHelper.WriteLine("Generating Mod Locales", LogLevel.Message);
+			await GenerateModLocales();
+			ConsoleLogHelper.WriteLine("Creating Output Directories", LogLevel.Message);
             await CreateOutputDirectories();
             ConsoleLogHelper.WriteLine("Deserializing JSON Files", LogLevel.Message);
-            await DeserializeJSONFiles();
-            ConsoleLogHelper.WriteLine("Merging Deserialized JSON Files", LogLevel.Message);
-            await MergeLanguageDictionaries();
+            await ReadLanguageFiles();
+            ConsoleLogHelper.WriteLine("Merging Tools JSON Files", LogLevel.Message);
+            await MergeToolsFiles();
+            ConsoleLogHelper.WriteLine("Overwriting TFG Modpack JSON File", LogLevel.Message);
+            await OverwriteTFGModpackFile();
+            ConsoleLogHelper.WriteLine("Merging Tools JSON files with Modpack files", LogLevel.Message);
+            await MergeWithModpackFiles();
             ConsoleLogHelper.WriteLine("Writing Files", LogLevel.Message);
             await WriteFiles();
             ConsoleLogHelper.WriteLine("Overwriting Files", LogLevel.Message);
@@ -28,53 +32,38 @@ namespace LanguageMerger
             return true;
         }
 
-        private Task GenerateModLocales()
-        {
-            var enumeratedDirectories = new DirectoryInfo(r_langDir).EnumerateDirectories();
-            foreach (var modDirectory in enumeratedDirectories)
-            {
-                ModLocale locale = new ModLocale(modDirectory.Name);
-                var localeFolders = modDirectory.EnumerateDirectories();
+		private Task GenerateModLocales()
+		{
+			var enumeratedDirectories = new DirectoryInfo(r_inputDir).EnumerateDirectories();
+			foreach (var modDirectory in enumeratedDirectories)
+			{
+				ModLocale locale = new ModLocale(modDirectory.Name);
+				r_modLocales.Add(locale);
+			}
+			return Task.CompletedTask;
+		}
 
-                int jsonFileCount = 0;
-                foreach (var localeFolder in localeFolders)
-                {
-                    var languageFiles = localeFolder.EnumerateFiles("*.json", SearchOption.AllDirectories).ToList();
-                    jsonFileCount = languageFiles.Count;
-                    locale.r_localeToFiles.Add(localeFolder.Name, languageFiles.ToArray());
-                }
-                ConsoleLogHelper.WriteLine($"Created Mod Locale for {modDirectory}, found {jsonFileCount} json files", LogLevel.Info);
-                r_modLocales.Add(locale);
-            }
-            return Task.CompletedTask;
-        }
-
-        private async Task DeserializeJSONFiles()
+		private async Task ReadLanguageFiles()
         {
             List<Task> tasks = [];
             foreach (ModLocale locale in r_modLocales)
             {
-                ConsoleLogHelper.WriteLine($"Deserializing JSON files for {locale.r_modID}", LogLevel.Info);
-                tasks.Add(locale.DeserializeDictionaries());
-            }
+                ConsoleLogHelper.WriteLine($"Deserializing Tools JSON files for {locale.r_modID}", LogLevel.Info);
+                tasks.Add(locale.DeserializeToolsDictionaries(r_inputDir));
+				ConsoleLogHelper.WriteLine($"Deserializing Modpack JSON files for {locale.r_modID}", LogLevel.Info);
+				tasks.Add(locale.DeserializeModpackDictionaries(r_options.AssetsDir!));
+			}
             await Task.WhenAll(tasks);
         }
 
-        private async Task MergeLanguageDictionaries()
+        private async Task MergeToolsFiles()
         {
             List<Task> tasks = [];
             foreach (ModLocale locale in r_modLocales)
             {
-                ConsoleLogHelper.WriteLine($"Merging JSON for {locale.r_modID}", LogLevel.Info);
+                ConsoleLogHelper.WriteLine($"Merging Tools JSON for {locale.r_modID}", LogLevel.Info);
                 tasks.Add(locale.MergeDeserializedDictionaries());
             }
-            await Task.WhenAll(tasks);
-        }
-
-        private async Task ReadModpackLanguageFiles()
-        {
-            List<Task> tasks = [];
-
             await Task.WhenAll(tasks);
         }
 
@@ -83,6 +72,10 @@ namespace LanguageMerger
             var workingDirectory = Directory.GetCurrentDirectory();
             var outputDirectory = Path.Combine(workingDirectory, "OUTPUT");
 
+            if (Directory.Exists(outputDirectory))
+            {
+                Directory.Delete(outputDirectory, true);
+            }
             var dirInfo = Directory.CreateDirectory(outputDirectory);
 
             List<Task> tasks = [];
@@ -93,13 +86,35 @@ namespace LanguageMerger
             await Task.WhenAll(tasks);
         }
 
+        private Task OverwriteTFGModpackFile()
+        {
+            var tfg = r_modLocales.Single(l => l.r_modID == "tfg");
+            return tfg.OverwriteModpackFile();
+        }
+
+        private async Task MergeWithModpackFiles()
+        {
+            List<Task> tasks = [];
+            foreach (ModLocale locale in r_modLocales)
+            {
+                if (locale.r_modID == "tfg")
+                    continue;
+
+                tasks.Add(locale.MergeWithModpack());
+            }
+            await Task.WhenAll(tasks);
+        }
+
         private async Task WriteFiles()
         {
             List<Task> tasks = [];
             foreach (ModLocale locale in r_modLocales)
             {
-                ConsoleLogHelper.WriteLine($"Writing merged JSON for {locale.r_modID}'s Locales:\n{string.Join('\n', locale.r_localeToFiles.Keys)}", LogLevel.Info);
-                tasks.Add(locale.WriteFiles());
+				if (locale.r_modID == "tfg")
+					continue;
+
+				ConsoleLogHelper.WriteLine($"Writing merged JSON for {locale.r_modID}.", LogLevel.Info);
+                tasks.Add(locale.WriteMergedModpackFile());
             }
             await Task.WhenAll(tasks);
         }

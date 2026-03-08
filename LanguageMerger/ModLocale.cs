@@ -7,33 +7,48 @@ namespace LanguageMerger
 	public class ModLocale(string modID)
 	{
 		public readonly string r_modID = modID;
-		public readonly Dictionary<string, FileInfo[]> r_localeToFiles = [];
 
 		private DirectoryInfo? m_modLocaleOutputFolder;
-		private readonly List<Dictionary<string, string>> m_deserializedDictionaries = [];
-		private readonly Dictionary<string, string> m_mergedLanguageDictionary = [];
+		private readonly List<Dictionary<string, string>> m_deserializedToolsDictionaries = [];
+		private readonly Dictionary<string, string> m_mergedToolsDictionary = [];
+		private readonly Dictionary<string, string> m_deserializedModpackDictionary = [];
+		private Dictionary<string, string> m_mergedModpackDictionary = [];
 
 		private readonly JsonSerializerOptions r_options = new()
 		{
 			AllowTrailingCommas = true,
 			ReadCommentHandling = JsonCommentHandling.Skip,
 			WriteIndented = true,
+			IndentCharacter = '\t',
+			IndentSize = 1,
 			Encoder = JavaScriptEncoder.UnsafeRelaxedJsonEscaping
 		};
 
-		public async Task DeserializeDictionaries()
+		public async Task DeserializeToolsDictionaries(string inputFolder)
 		{
-			foreach (var kvp in r_localeToFiles)
+			foreach (var file in Directory.GetFiles(Path.Combine(inputFolder, r_modID), "*.json", SearchOption.AllDirectories))
 			{
-				var locale = kvp.Key;
-				var files = kvp.Value;
+				string json = await File.ReadAllTextAsync(file);
 
-				foreach (var file in files)
+				//return an empty dict for empty json files.
+				m_deserializedToolsDictionaries.Add(JsonSerializer.Deserialize<Dictionary<string, string>>(json, r_options) ?? []);
+			}
+		}
+
+		public async Task DeserializeModpackDictionaries(string assetsFolder)
+		{
+			string path = Path.Combine(assetsFolder, r_modID, "lang", "en_us.json");
+			if (Path.Exists(path))
+			{
+				string json = await File.ReadAllTextAsync(path);
+
+				var dict = JsonSerializer.Deserialize<Dictionary<string, string>>(json, r_options) ?? [];
+				foreach (var kvp in dict)
 				{
-					string json = await File.ReadAllTextAsync(file.FullName);
+					if (kvp.Key.StartsWith("__"))
+						continue;
 
-					//return an empty dict for empty json files.
-					m_deserializedDictionaries.Add(JsonSerializer.Deserialize<Dictionary<string, string>>(json, r_options) ?? []);
+					m_deserializedModpackDictionary[kvp.Key] = kvp.Value;
 				}
 			}
 		}
@@ -42,20 +57,32 @@ namespace LanguageMerger
 		{
 			Dictionary<string, string> mergedDictionary = [];
 
-			foreach (var innerDict in m_deserializedDictionaries)
+			foreach (var innerDict in m_deserializedToolsDictionaries)
 			{
 				foreach ((var innerKey, var innerValue) in innerDict)
 				{
 					if (innerKey.StartsWith("__"))
 						continue;
 
-					if (m_mergedLanguageDictionary.TryGetValue(innerKey, out string? mergedValue))
+					if (m_mergedToolsDictionary.TryGetValue(innerKey, out string? mergedValue))
 					{
 						ConsoleLogHelper.WriteLine($"Key \"{innerKey}\" already exists in the merged dictionary! Value will be overwritten. Original value: {mergedValue}", LogLevel.Warning);
 					}
-					m_mergedLanguageDictionary[innerKey] = innerValue;
+					m_mergedToolsDictionary[innerKey] = innerValue;
 				}
 			}
+			return Task.CompletedTask;
+		}
+
+		public Task MergeWithModpack()
+		{
+			m_mergedModpackDictionary = new(m_deserializedModpackDictionary);
+
+			foreach (var kvp in m_mergedToolsDictionary)
+			{
+				m_mergedModpackDictionary[kvp.Key] = kvp.Value;
+			}
+
 			return Task.CompletedTask;
 		}
 
@@ -67,28 +94,30 @@ namespace LanguageMerger
 			return Task.CompletedTask;
 		}
 
-		public async Task WriteFiles()
+		public async Task OverwriteModpackFile()
 		{
-			List<StreamWriter> writers = [];
-			List<Task> tasks = [];
+			var fileOutput = Path.Combine(m_modLocaleOutputFolder!.FullName, "en_us.json");
+			//delete the previous file.
+			File.Delete(fileOutput);
 
-			foreach ((var locale, var finishedDictionary) in m_mergedLanguageDictionary)
-			{
-				var fileOutput = Path.Combine(m_modLocaleOutputFolder!.FullName, $"{locale}.json");
-				//delete the previous file.
-				File.Delete(fileOutput);
+			using StreamWriter writer = File.CreateText(fileOutput);
+			var json = JsonSerializer.Serialize(m_mergedToolsDictionary, r_options);
+			await writer.WriteAsync(json);
+			writer.Close();
+			writer.Dispose();
+		}
 
-				StreamWriter writer = File.CreateText(fileOutput);
-				writers.Add(writer);
-				var json = JsonSerializer.Serialize(finishedDictionary, r_options);
-				tasks.Add(writer.WriteAsync(json));
-			}
-			await Task.WhenAll(tasks);
+		public async Task WriteMergedModpackFile()
+		{
+			var fileOutput = Path.Combine(m_modLocaleOutputFolder!.FullName, "en_us.json");
+			//delete the previous file.
+			File.Delete(fileOutput);
 
-			foreach (var writer in writers)
-			{
-				writer.Dispose();
-			}
+			using StreamWriter writer = File.CreateText(fileOutput);
+			var json = JsonSerializer.Serialize(m_mergedModpackDictionary.OrderBy(kvp => kvp.Key).ToDictionary(), r_options);
+			await writer.WriteAsync(json);
+			writer.Close();
+			writer.Dispose();
 		}
 
 		public Task MoveFilesToKJSAssetsFolder(DirectoryInfo kjsAssetsFolder)
