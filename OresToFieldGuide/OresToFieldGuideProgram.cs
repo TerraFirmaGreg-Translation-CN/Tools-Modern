@@ -683,7 +683,7 @@ namespace OresToFieldGuide
 			{
 				var sb = new StringBuilder();
 				sb.AppendLine("{");
-				sb.AppendLine("\t\"__comment__\": \"DO NOT TRANSLATE THIS FILE. Translate the OresToFieldGuide/data/veins files instead.\",");
+				sb.AppendLine("\t\"ore_vein.tfg.__comment__\": \"DO NOT TRANSLATE THIS FILE. Translate the OresToFieldGuide/data/veins files instead.\",");
 
 				var lastVein = m_veinDict.Values.Last().Last();
 				foreach (var veins in m_veinDict.Values)

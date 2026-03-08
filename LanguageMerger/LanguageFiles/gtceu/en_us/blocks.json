@@ -49,8 +49,5 @@
     "block.gtceu.ev_256a_laser_source_hatch": "§5EV§r 256§eA§r Laser Source Hatch",
     "block.gtceu.ev_256a_laser_target_hatch": "§5EV§r 256§eA§r Laser Target Hatch",
     "block.gtceu.ev_4096a_laser_source_hatch": "§5EV§r 4,096§eA§r Laser Source Hatch",
-    "block.gtceu.ev_4096a_laser_target_hatch": "§5EV§r 4,096§eA§r Laser Target Hatch",
-
-    "__comment1": "these are used for recipes"
-
+    "block.gtceu.ev_4096a_laser_target_hatch": "§5EV§r 4,096§eA§r Laser Target Hatch"
 }
