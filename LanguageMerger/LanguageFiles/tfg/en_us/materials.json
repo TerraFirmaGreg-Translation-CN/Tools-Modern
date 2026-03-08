@@ -274,12 +274,12 @@
 	"material.tfg.mo_si_b_off_gas": "Molybdenum–Silicon Off-Gas",
 	"material.tfg.dirty_mo_si_b": "Dirty Molybdenum–Silicon–Boron",
 
-	"material.tfg.dirty_spessartine_slurry": "Spessartine Suspension",
-	"material.tfg.dirty_diamond_slurry": "Diamond Suspension",
-	"material.tfg.dirty_apatite_slurry": "Apatite Suspension",
-	"material.tfg.dirty_ruby_slurry": "Ruby Suspension",
-	"material.tfg.dirty_emerald_slurry": "Emerald Suspension",
-	"material.tfg.dirty_sapphire_slurry": "Sapphire Suspension",
+	"material.tfg.dirty_spessartine_slurry": "Dirty Spessartine Slurry",
+	"material.tfg.dirty_diamond_slurry": "Dirty Diamond Slurry",
+	"material.tfg.dirty_apatite_slurry": "Dirty Apatite Slurry",
+	"material.tfg.dirty_ruby_slurry": "Dirty Ruby Slurry",
+	"material.tfg.dirty_emerald_slurry": "Dirty Emerald Slurry",
+	"material.tfg.dirty_sapphire_slurry": "Dirty Sapphire Slurry",
 
 	"material.tfg.basalt_fiber": "Basalt Fiber",
 	"material.tfg.woods_metal": "Woods Metal",

@@ -22,5 +22,9 @@
     "quests.tfg.field_guide.desc": "The quests are still in development, and we're always working on improving them! A lot of information about specific mechanics are also in your Field Guide, accessible via the Book tab in your inventory.\n\nRemember that both JEI and the Field Guide are your friends, as not everything will be explained through quests.",
 
     "quests.tfg.books_again.title": "Need the books again?",
-    "quests.tfg.books_again.desc": "Here's a repeatable quest if you want physical copies of the quest book and field guide again."
+    "quests.tfg.books_again.desc": "Here's a repeatable quest if you want physical copies of the quest book and field guide again.",
+
+    "quests.tfg.optional_mods.title": "Optional Mods",
+    "quests.tfg.optional_mods.subtitle": "Customize your experience",
+    "quests.tfg.optional_mods.desc": "If you want to add more content to your modpack, you may be interested in our list of &doptional mods&r!\n\nThese are either mods that only work for certain PC setups, would add too much bloat if they were added for everyone, or are too niche to include by default.\n\nPlease note that these mods or their compatibility is not ensured by the TFG dev team, so they may stop functioning at any point in the future.\n\nClick the GitHub image next to the quest to open the mod list."
 }
