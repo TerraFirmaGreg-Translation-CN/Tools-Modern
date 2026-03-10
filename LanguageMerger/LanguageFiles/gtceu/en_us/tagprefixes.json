@@ -36,5 +36,6 @@
 	"tagprefix.pyroxenite": "Pyroxenite %s Ore",
 	"tagprefix.dripstone": "Travertine %s Ore",
 	"tagprefix.sandy_jadestone": "Lamproite %s Ore",
-	"tagprefix.flavolite": "Ignimbrite %s Ore"
+	"tagprefix.flavolite": "Ignimbrite %s Ore",
+	"tagprefix.repair_kit": "%s Repair Kit"
 }
