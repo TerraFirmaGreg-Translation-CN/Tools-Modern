@@ -64,6 +64,16 @@
 	"tfc.recipe.barrel.tfg.barrel.dyeing.charger_armor_red": "Dyeing",
 	"tfc.recipe.barrel.tfg.barrel.dyeing.charger_armor_brown": "Dyeing",
 
+	"tfc.recipe.barrel.tfg.barrel.aged_to_vintage_beer": "Ageing further",
+	"tfc.recipe.barrel.tfg.barrel.aged_to_vintage_cider": "Ageing further",
+	"tfc.recipe.barrel.tfg.barrel.aged_to_vintage_rum": "Ageing further",
+	"tfc.recipe.barrel.tfg.barrel.aged_to_vintage_sake": "Ageing further",
+	"tfc.recipe.barrel.tfg.barrel.aged_to_vintage_vodka": "Ageing further",
+	"tfc.recipe.barrel.tfg.barrel.aged_to_vintage_whiskey": "Ageing further",
+	"tfc.recipe.barrel.tfg.barrel.aged_to_vintage_rye_whiskey": "Ageing further",
+	"tfc.recipe.barrel.tfg.barrel.aged_to_vintage_corn_whiskey": "Ageing further",
+	"tfc.recipe.barrel.tfg.barrel.aged_to_vintage_mead": "Ageing further",
+
 	"tfc.recipe.barrel.tfg.barrel.treated_chipboard_composite": "Treating Chipboard Composite",
 
 	"tfc.recipe.barrel.tfg.barrel.soak_hardwood_strip": "Soaking Hardwood Strips",
