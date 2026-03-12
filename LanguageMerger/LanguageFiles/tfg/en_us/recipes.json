@@ -64,6 +64,16 @@
 	"tfc.recipe.barrel.tfg.barrel.dyeing.charger_armor_red": "Dyeing",
 	"tfc.recipe.barrel.tfg.barrel.dyeing.charger_armor_brown": "Dyeing",
 
+	"tfc.recipe.barrel.tfg.barrel.aged_to_vintage_beer": "Ageing further",
+	"tfc.recipe.barrel.tfg.barrel.aged_to_vintage_cider": "Ageing further",
+	"tfc.recipe.barrel.tfg.barrel.aged_to_vintage_rum": "Ageing further",
+	"tfc.recipe.barrel.tfg.barrel.aged_to_vintage_sake": "Ageing further",
+	"tfc.recipe.barrel.tfg.barrel.aged_to_vintage_vodka": "Ageing further",
+	"tfc.recipe.barrel.tfg.barrel.aged_to_vintage_whiskey": "Ageing further",
+	"tfc.recipe.barrel.tfg.barrel.aged_to_vintage_rye_whiskey": "Ageing further",
+	"tfc.recipe.barrel.tfg.barrel.aged_to_vintage_corn_whiskey": "Ageing further",
+	"tfc.recipe.barrel.tfg.barrel.aged_to_vintage_mead": "Ageing further",
+
 	"tfc.recipe.barrel.tfg.barrel.treated_chipboard_composite": "Treating Chipboard Composite",
 
 	"tfc.recipe.barrel.tfg.barrel.soak_hardwood_strip": "Soaking Hardwood Strips",
@@ -80,7 +90,9 @@
 	"tfc.recipe.barrel.tfg.barrel.maple_syrup_to_sugar": "Making sugar",
 	"tfc.recipe.barrel.tfg.barrel.birch_syrup_to_sugar": "Making sugar",
 	"tfc.recipe.barrel.tfg.barrel.develop_black_and_white_film": "Developing film",
+	"tfc.recipe.barrel.tfg.barrel.develop_high_sensitivity_black_and_white_film": "Developing film",
 	"tfc.recipe.barrel.tfg.barrel.develop_color_film": "Developing film",
+	"tfc.recipe.barrel.tfg.barrel.develop_high_sensitivity_color_film": "Developing film",
 	"tfc.recipe.barrel.tfg.barrel.clay_ball": "Hydrating Clay",
 
 	"tfc.recipe.barrel.tfg.barrel.light_concrete": "Solidifying Concrete",
