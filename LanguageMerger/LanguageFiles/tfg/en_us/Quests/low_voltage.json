@@ -82,7 +82,7 @@
 
 	"quests.low_voltage.lv_aqueous_accumulator.title": "Aqueous Accumulator",
 	"quests.low_voltage.lv_aqueous_accumulator.subtitle": "Thermal Foundation is calling",
-	"quests.low_voltage.lv_aqueous_accumulator.desc": "The &3Aqueous Accumulator&r is basically a Rock Crusher but for fluids. Simply place the machine next to two source blocks of the appropriate fluid, set the circuit, and voila! It'll keep producing more of that fluid. It effectively does the same thing as a mechanical pump, but using electricity instead of mechanical power, so you may find it easier to fit into your factory. As a bonus, the HV one will make infinite lava too!\n\nYou can safely waterlog the source blocks to prevent them freezing in winter, and the machine will continue to work.",
+	"quests.low_voltage.lv_aqueous_accumulator.desc": "The &3Aqueous Accumulator&r is basically a Rock Crusher but for fluids. Simply place the machine next to two source blocks of the appropriate fluid, set the circuit, and voila! It'll keep producing more of that fluid. It effectively does the same thing as a mechanical pump, but using electricity instead of mechanical power, so you may find it easier to fit into your factory.\n\nYou can safely waterlog the source blocks to prevent them freezing in winter, and the machine will continue to work.",
 	"quests.low_voltage.lv_aqueous_accumulator.task": "Any Aqueous Accumulator",
 
 	"quests.low_voltage.lv_wiremill.title": "Basic Wiremill",
