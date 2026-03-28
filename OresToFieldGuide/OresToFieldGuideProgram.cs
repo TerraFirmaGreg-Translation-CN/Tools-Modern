@@ -15,6 +15,7 @@ namespace OresToFieldGuide
 		public static readonly string[] s_locales =
 		[
 			"en_us", // US English
+			/*
 			"ru_ru", // Russian
 			"uk_ua", // Ukranian
 			"pt_br", // Brazilian Portuguese
@@ -22,6 +23,7 @@ namespace OresToFieldGuide
 			"fr_fr", // French
 			"ja_jp", // Japanese
 			"de_de", // German
+			*/
 		];
 
 		private readonly JsonSerializerOptions m_jsonOptions = new()
