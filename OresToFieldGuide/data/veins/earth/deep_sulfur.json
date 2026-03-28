@@ -25,6 +25,7 @@
         "rarity": 10,
         "depth": 1
     },
+    "visual_only": true,
     "translations": [
         {
             "lang": "en_us",
