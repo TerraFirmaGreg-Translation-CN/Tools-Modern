@@ -1,23 +1,26 @@
 {
-    "id": "deep_tin",
+    "id": "deep_scheelite",
     "dimension": "earth",
     "type": "tfc:cluster_vein",
     "config": {
-        "rarity": 210,
+        "rarity": 390,
         "density": 0.2,
         "min_y": -50,
         "max_y": 20,
-        "size": 25
+        "size": 12
     },
     "ores": [
         {
-            "ore": "cassiterite",
-            "weight": 7,
-            "block_weight": 1
+            "ore": "scheelite",
+            "weight": 6
         },
         {
-            "ore": "tin",
-            "weight": 1
+            "ore": "tungstate",
+            "weight": 6
+        },
+        {
+            "ore": "lithium",
+            "weight": 2
         }
     ],
     "rocks": [
@@ -32,7 +35,7 @@
     "translations": [
         {
             "lang": "en_us",
-            "text": "Cassiterite & Tin (Deep)"
+            "text": "Scheelite, Tungstate & Lithium"
         }
     ]
 }

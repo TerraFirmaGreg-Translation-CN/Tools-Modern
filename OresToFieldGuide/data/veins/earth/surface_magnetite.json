@@ -13,7 +13,7 @@
     "ores": [
         {
             "ore": "magnetite",
-            "weight": 100,
+            "weight": 20,
             "block_weight": 1
         }
     ],
@@ -35,8 +35,8 @@
         {
             "lang": "en_us",
             "text": "Magnetite",
-            "info": "This vein is always close to the surface.\\n\\nThe Y-Level shows its range from surface.",
-            "emi": "This vein is always close to the surface.\\n\\nThe Y-Level shows its range from surface."
+            "info": "Surface Vein\\nThe Y-Level shows its range from surface.",
+            "emi": "Surface Vein\\nThe Y-Level shows its range from surface."
         }
     ]
 }

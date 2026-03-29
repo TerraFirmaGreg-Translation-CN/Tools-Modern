@@ -1,27 +1,27 @@
 {
-    "id": "deep_redstone",
+    "id": "deep_big_redstone",
     "dimension": "earth",
-    "type": "tfc:cluster_vein",
+    "type": "tfc:disc_vein",
     "config": {
-        "rarity": 120,
-        "density": 0.2,
+        "rarity": 320,
+        "density": 0.25,
         "min_y": -50,
         "max_y": 20,
-        "size": 20
+        "size": 29,
+        "height": 5
     },
     "ores": [
         {
             "ore": "redstone",
-            "weight": 4,
-            "block_weight": 1
+            "weight": 10
         },
         {
             "ore": "ruby",
-            "weight": 2
+            "weight": 6
         },
         {
             "ore": "cinnabar",
-            "weight": 1
+            "weight": 4
         }
     ],
     "rocks": [
@@ -29,14 +29,11 @@
         "diorite",
         "gabbro"
     ],
-    "indicator": {
-        "rarity": 10,
-        "depth": 180
-    },
+    "indicator": {},
     "translations": [
         {
             "lang": "en_us",
-            "text": "Redstone, Ruby & Cinnabar"
+            "text": "Redstone, Ruby & Cinnabar (Large)"
         }
     ]
 }

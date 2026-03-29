@@ -12,8 +12,7 @@
     "ores": [
         {
             "ore": "bismuth",
-            "weight": 100,
-            "block_weight": 1
+            "weight": 1
         }
     ],
     "rocks": [

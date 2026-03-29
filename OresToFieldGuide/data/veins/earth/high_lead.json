@@ -14,12 +14,11 @@
     "ores": [
         {
             "ore": "lead",
-            "weight": 100,
-            "block_weight": 1
+            "weight": 6
         },
         {
             "ore": "silver",
-            "weight": 67
+            "weight": 4
         }
     ],
     "rocks": [
@@ -49,8 +48,8 @@
         {
             "lang": "en_us",
             "text": "Lead & Silver",
-            "info": "This vein is always close to the surface.\\n\\nThe Y-Level shows its range from surface.",
-            "emi": "This vein is always close to the surface.\\n\\nThe Y-Level shows its range from surface."
+            "info": "Surface Vein\\nOnly in Mountain Biomes",
+            "emi": "Surface Vein\\nOnly in Mountain Biomes"
         }
     ]
 }

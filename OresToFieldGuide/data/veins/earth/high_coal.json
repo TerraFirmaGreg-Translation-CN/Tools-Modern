@@ -12,12 +12,11 @@
     "ores": [
         {
             "ore": "coal",
-            "weight": 100,
-            "block_weight": 1
+            "weight": 9
         },
         {
             "ore": "diamond",
-            "weight": 11
+            "weight": 1
         }
     ],
     "rocks": [

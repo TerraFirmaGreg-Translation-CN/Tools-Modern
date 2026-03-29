@@ -1,26 +1,30 @@
 {
-    "id": "deep_redstone",
+    "id": "deep_topaz",
     "dimension": "earth",
     "type": "tfc:cluster_vein",
     "config": {
-        "rarity": 120,
-        "density": 0.2,
+        "rarity": 280,
+        "density": 0.1,
         "min_y": -50,
         "max_y": 20,
-        "size": 20
+        "size": 14
     },
     "ores": [
         {
-            "ore": "redstone",
-            "weight": 4,
+            "ore": "blue_topaz",
+            "weight": 7,
             "block_weight": 1
         },
         {
-            "ore": "ruby",
-            "weight": 2
+            "ore": "topaz",
+            "weight": 5
         },
         {
-            "ore": "cinnabar",
+            "ore": "chalcocite",
+            "weight": 3
+        },
+        {
+            "ore": "bornite",
             "weight": 1
         }
     ],
@@ -29,14 +33,11 @@
         "diorite",
         "gabbro"
     ],
-    "indicator": {
-        "rarity": 10,
-        "depth": 180
-    },
+    "indicator": {},
     "translations": [
         {
             "lang": "en_us",
-            "text": "Redstone, Ruby & Cinnabar"
+            "text": "Blue Topaz, Topaz, Chalcocite & Bornite"
         }
     ]
 }

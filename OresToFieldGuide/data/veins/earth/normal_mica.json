@@ -1,30 +1,31 @@
 {
-    "id": "normal_coal",
+    "id": "normal_mica",
     "dimension": "earth",
     "type": "tfc:cluster_vein",
     "config": {
-        "rarity": 340,
+        "rarity": 180,
         "density": 0.2,
         "min_y": 0,
         "max_y": 60,
-        "size": 36
+        "size": 10
     },
     "ores": [
         {
-            "ore": "coal",
-            "weight": 10,
-            "block_weight": 1
+            "ore": "mica",
+            "weight": 7
+        },
+        {
+            "ore": "kyanite",
+            "weight": 5
         }
     ],
     "rocks": [
-        "shale",
-        "claystone",
-        "limestone",
-        "conglomerate",
-        "dolomite",
-        "chert",
-        "chalk",
-        "tuff"
+        "quartzite",
+        "slate",
+        "phyllite",
+        "schist",
+        "gneiss",
+        "marble"
     ],
     "indicator": {
         "rarity": 18,
@@ -33,7 +34,7 @@
     "translations": [
         {
             "lang": "en_us",
-            "text": "Coal"
+            "text": "Mica & Kyanite"
         }
     ]
 }

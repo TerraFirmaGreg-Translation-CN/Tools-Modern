@@ -13,20 +13,23 @@
     "ores": [
         {
             "ore": "malachite",
-            "weight": 100,
-            "block_weight": 1
+            "weight": 1
         }
     ],
     "rocks": [
+        "shale",
+        "claystone",
+        "limestone",
+        "conglomerate",
+        "dolomite",
+        "chert",
+        "chalk",
+        "tuff",
         "quartzite",
         "slate",
         "phyllite",
         "schist",
         "gneiss",
-        "marble",
-        "limestone",
-        "chalk",
-        "dolomite",
         "marble"
     ],
     "indicator": {
@@ -37,8 +40,8 @@
         {
             "lang": "en_us",
             "text": "Malachite (Copper)",
-            "info": "This vein is always close to the surface.\\n\\nThe Y-Level shows its range from surface.",
-            "emi": "This vein is always close to the surface.\\n\\nThe Y-Level shows its range from surface."
+            "info": "Surface Vein\\nThe Y-Level shows its range from surface.",
+            "emi": "Surface Vein\\nThe Y-Level shows its range from surface."
         }
     ]
 }

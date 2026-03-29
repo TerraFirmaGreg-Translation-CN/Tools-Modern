@@ -13,8 +13,7 @@
     "ores": [
         {
             "ore": "sulfur",
-            "weight": 100,
-            "block_weight": 1
+            "weight": 1
         }
     ],
     "rocks": [
@@ -44,8 +43,8 @@
         {
             "lang": "en_us",
             "text": "Sulfur (Volcanic)",
-            "info": "Only appears in volcanic biomes.",
-            "emi": "Only in volcanic biomes."
+            "info": "Only in Volcanic Biomes",
+            "emi": "Only in Volcanic Biomes"
         }
     ]
 }

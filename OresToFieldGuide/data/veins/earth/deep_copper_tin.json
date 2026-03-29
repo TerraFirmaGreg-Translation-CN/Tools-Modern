@@ -1,0 +1,39 @@
+{
+    "id": "deep_copper_tin",
+    "dimension": "earth",
+    "type": "tfc:cluster_vein",
+    "config": {
+        "rarity": 260,
+        "density": 0.22,
+        "min_y": -50,
+        "max_y": 20,
+        "size": 29
+    },
+    "ores": [
+        {
+            "ore": "chalcopyrite",
+            "weight": 7
+        },
+        {
+            "ore": "zeolite",
+            "weight": 3
+        },
+        {
+            "ore": "cassiterite",
+            "weight": 3
+        }
+    ],
+    "rocks": [
+        "rhyolite",
+        "basalt",
+        "andesite",
+        "dacite"
+    ],
+    "indicator": {},
+    "translations": [
+        {
+            "lang": "en_us",
+            "text": "Chalcopyrite, Zeolite & Cassiterite"
+        }
+    ]
+}

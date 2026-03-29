@@ -1,0 +1,51 @@
+{
+    "id": "normal_salt",
+    "dimension": "earth",
+    "type": "tfc:disc_vein",
+    "biome_tag": "#tfg:earth/is_shore_island",
+    "project": true,
+    "config": {
+        "rarity": 160,
+        "density": 0.18,
+        "min_y": 0,
+        "max_y": 60,
+        "size": 20,
+        "height": 10
+    },
+    "ores": [
+        {
+            "ore": "salt",
+            "weight": 6
+        },
+        {
+            "ore": "rock_salt",
+            "weight": 3
+        },
+        {
+            "ore": "borax",
+            "weight": 1
+        }
+    ],
+    "rocks": [
+        "shale",
+        "claystone",
+        "limestone",
+        "conglomerate",
+        "dolomite",
+        "chert",
+        "chalk",
+        "tuff"
+    ],
+    "indicator": {
+        "rarity": 18,
+        "depth": 60
+    },
+    "translations": [
+        {
+            "lang": "en_us",
+            "text": "Salt, Rock Salt & Borax",
+            "info": "Only in Shore Biomes",
+            "emi": "Only in Shore Biomes"
+        }
+    ]
+}
