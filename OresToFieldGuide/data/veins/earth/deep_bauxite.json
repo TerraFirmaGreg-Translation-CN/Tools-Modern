@@ -4,10 +4,10 @@
     "type": "tfc:cluster_vein",
     "config": {
         "rarity": 310,
-        "density": 0.12,
+        "density": 0.16,
         "min_y": -50,
         "max_y": 20,
-        "size": 19
+        "size": 24
     },
     "ores": [
         {

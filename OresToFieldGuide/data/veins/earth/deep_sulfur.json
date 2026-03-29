@@ -4,11 +4,11 @@
     "type": "tfc:disc_vein",
     "near_lava": true,
     "config": {
-        "rarity": 4,
-        "density": 0.8,
+        "rarity": 34,
+        "density": 0.84,
         "min_y": -60,
         "max_y": -45,
-        "size": 18,
+        "size": 23,
         "height": 5
     },
     "ores": [
