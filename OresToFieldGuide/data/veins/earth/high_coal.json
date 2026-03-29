@@ -12,11 +12,7 @@
     "ores": [
         {
             "ore": "coal",
-            "weight": 9
-        },
-        {
-            "ore": "diamond",
-            "weight": 1
+            "weight": 100
         }
     ],
     "rocks": [
