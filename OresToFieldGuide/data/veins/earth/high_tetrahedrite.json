@@ -38,5 +38,9 @@
             "lang": "en_us",
             "text": "Tetrahedrite, Copper & Stibnite"
         }
-    ]
+    ],
+    "indicator": {
+        "rarity": 12,
+        "depth": 60
+    }
 }

@@ -51,5 +51,9 @@
             "info": "Surface Vein\\nOnly in Mountain Biomes",
             "emi": "Surface Vein\\nOnly in Mountain Biomes"
         }
-    ]
+    ],
+    "indicator": {
+        "rarity": 12,
+        "depth": 60
+    }
 }

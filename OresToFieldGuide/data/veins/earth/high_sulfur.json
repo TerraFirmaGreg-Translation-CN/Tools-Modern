@@ -46,5 +46,9 @@
             "info": "Only in Volcanic Biomes",
             "emi": "Only in Volcanic Biomes"
         }
-    ]
+    ],
+    "indicator": {
+        "rarity": 12,
+        "depth": 60
+    }
 }

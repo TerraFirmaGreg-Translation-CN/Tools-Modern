@@ -44,5 +44,9 @@
             "lang": "en_us",
             "text": "Gypsum (High Elevation)"
         }
-    ]
+    ],
+    "indicator": {
+        "rarity": 12,
+        "depth": 60
+    }
 }

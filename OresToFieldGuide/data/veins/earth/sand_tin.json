@@ -1,39 +1,35 @@
 {
-    "id": "surface_nickel",
+    "id": "sand_tin",
     "dimension": "earth",
     "type": "tfc:cluster_vein",
     "project": true,
     "config": {
-        "rarity": 60,
-        "density": 0.15,
-        "min_y": -20,
-        "max_y": -5,
+        "rarity": 190,
+        "density": 0.2,
+        "min_y": -5,
+        "max_y": 1,
         "size": 15
     },
     "ores": [
         {
-            "ore": "garnierite",
+            "ore": "cassiterite_sand",
             "weight": 1
         }
     ],
     "rocks": [
-        "shale",
-        "claystone",
-        "limestone",
-        "conglomerate",
-        "dolomite",
-        "chert",
-        "chalk",
-        "tuff"
+        "black_sand",
+        "brown_sand",
+        "green_sand",
+        "pink_sand",
+        "red_sand",
+        "white_sand",
+        "yellow_sand"
     ],
-    "indicator": {
-        "rarity": 5,
-        "depth": 35
-    },
+    "indicator": {},
     "translations": [
         {
             "lang": "en_us",
-            "text": "Garnierite (Nickel)",
+            "text": "Cassiterite Sand",
             "info": "Surface Vein\\nThe Y-Level shows its range from surface.",
             "emi": "Surface Vein\\nThe Y-Level shows its range from surface."
         }

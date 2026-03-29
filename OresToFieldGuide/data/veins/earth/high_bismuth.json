@@ -43,5 +43,9 @@
             "lang": "en_us",
             "text": "Bismuth"
         }
-    ]
+    ],
+    "indicator": {
+        "rarity": 12,
+        "depth": 60
+    }
 }

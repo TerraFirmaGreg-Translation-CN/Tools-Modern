@@ -47,5 +47,9 @@
             "lang": "en_us",
             "text": "Coal (High Elevation)"
         }
-    ]
+    ],
+    "indicator": {
+        "rarity": 12,
+        "depth": 60
+    }
 }
