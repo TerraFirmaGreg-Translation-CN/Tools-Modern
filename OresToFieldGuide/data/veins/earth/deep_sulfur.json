@@ -1,14 +1,15 @@
 {
     "id": "deep_sulfur",
     "dimension": "earth",
-    "type": "tfc:cluster_vein",
+    "type": "tfc:disc_vein",
     "near_lava": true,
     "config": {
-        "rarity": 20,
+        "rarity": 4,
         "density": 0.8,
-        "min_y": -50,
-        "max_y": 20,
-        "size": 10
+        "min_y": -60,
+        "max_y": -45,
+        "size": 18,
+        "height": 5
     },
     "ores": [
         {
@@ -30,8 +31,8 @@
         {
             "lang": "en_us",
             "text": "Sulfur (Deep)",
-            "info": "Generates near lava.",
-            "emi": "Only near lava."
+            "info": "Only near Lava",
+            "emi": "Only near Lava"
         }
     ]
 }

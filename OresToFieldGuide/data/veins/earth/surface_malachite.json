@@ -2,11 +2,12 @@
     "id": "surface_malachite",
     "dimension": "earth",
     "type": "tfc:cluster_vein",
+    "project": true,
     "config": {
         "rarity": 32,
-        "density": 0.25,
-        "min_y": 60,
-        "max_y": 70,
+        "density": 0.2,
+        "min_y": -20,
+        "max_y": -5,
         "size": 15
     },
     "ores": [
@@ -29,13 +30,15 @@
         "marble"
     ],
     "indicator": {
-        "rarity": 14,
+        "rarity": 12,
         "depth": 35
     },
     "translations": [
         {
             "lang": "en_us",
-            "text": "Malachite (Copper)"
+            "text": "Malachite (Copper)",
+            "info": "This vein is always close to the surface.\\n\\nThe Y-Level shows its range from surface.",
+            "emi": "This vein is always close to the surface.\\n\\nThe Y-Level shows its range from surface."
         }
     ]
 }

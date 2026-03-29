@@ -5,7 +5,7 @@
     "biome_tag": "#tfg:earth/is_volcanic",
     "config": {
         "rarity": 140,
-        "density": 0.6,
+        "density": 0.1,
         "min_y": -50,
         "max_y": 20,
         "height": 150,
@@ -40,8 +40,8 @@
         {
             "lang": "en_us",
             "text": "Graphite & Diamond",
-            "info": "Only appears in volcanic biomes.",
-            "emi": "Only in volcanic biomes."
+            "info": "Only in Volcanic Biomes",
+            "emi": "Only in Volcanic Biomes"
         }
     ]
 }
