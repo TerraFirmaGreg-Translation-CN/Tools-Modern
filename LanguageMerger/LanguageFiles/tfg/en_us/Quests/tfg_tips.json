@@ -920,7 +920,7 @@
 
     "quests.tfg_tips.juicer.title": "Juicer",
     "quests.tfg_tips.juicer.subtitle": "Hydration on a Pinch",
-    "quests.tfg_tips.juicer.desc": "The &3Juicer&r is a special item that can extract the latent humidity of &aFruits&r and &aMushrooms&r into drinkable &dWater.&r\n\nWater is only common in the upper layers of &4The Beneath&r. As you go lower, it will be increasingly scarce. However, &aMushrooms&r are very common in &4The Beneath&r, so you won't die of thirst, hopefully!",
+    "quests.tfg_tips.juicer.desc": "The &3Juicer&r is a special item that can extract the water contained in &aFruits&r, &aMushrooms&r, and &aCacti&r into drinkable &dWater&r.",
 
     "quests.tfg_tips.how_to_go_beneath.title": "How to go to The Beneath",
     "quests.tfg_tips.how_to_go_beneath.subtitle": "No Obsidian Required",

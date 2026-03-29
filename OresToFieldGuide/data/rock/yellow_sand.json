@@ -1,0 +1,10 @@
+{
+	"id": "yellow_sand",
+	"pattern": "gtceu:yellow_sand_{0}_ore",
+	"translations": {
+		"en_us": "Yellow Sand"
+	},
+	"replaceable_blocks": [
+		"tfc:sand/yellow"
+	]
+}
