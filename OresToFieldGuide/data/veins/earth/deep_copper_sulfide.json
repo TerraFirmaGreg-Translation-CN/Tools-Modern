@@ -1,27 +1,28 @@
 {
-    "id": "deep_asbestos",
+    "id": "deep_copper_sulfide",
     "dimension": "earth",
     "type": "tfc:disc_vein",
+    "near_lava": true,
     "config": {
-        "rarity": 190,
+        "rarity": 34,
         "density": 0.24,
-        "min_y": -50,
-        "max_y": 20,
-        "size": 32,
-        "height": 5
+        "min_y": -60,
+        "max_y": -45,
+        "size": 14,
+        "height": 6
     },
     "ores": [
         {
-            "ore": "cassiterite_sand",
-            "weight": 5,
+            "ore": "sulfur",
+            "weight": 8,
             "block_weight": 1
         },
         {
-            "ore": "asbestos",
-            "weight": 3
+            "ore": "bornite",
+            "weight": 1
         },
         {
-            "ore": "diatomite",
+            "ore": "chalcocite",
             "weight": 1
         }
     ],
@@ -40,7 +41,9 @@
     "translations": [
         {
             "lang": "en_us",
-            "text": "Cassiterite Sand, Asbestos & Diatomite"
+            "text": "Sulfur, Bornite & Chalcocite",
+            "info": "Only near Lava",
+            "emi": "Only near Lava"
         }
     ]
 }
