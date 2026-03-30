@@ -513,9 +513,23 @@
 	"block.tfg.geyser_source": "Steaming Geyser",
 	"block.tfg.smoker_source": "Volcanic Smoker",
 	"block.tfg.lava_source": "Lava Vent",
-
+	"block.tfg.big_volcano_smoke_emitter": "Volcanic Smoker",
+	"block.tfg.natural_gas_emitter": "Natural Gas Vent",
+	"block.tfg.natural_gas_bubble_emitter": "Natural Gas Vent",
+	"block.tfg.carbonate_hornfels": "Carbonate Hornfels",
+	"block.tfg.mafic_hornfels": "Mafic Hornfels",
+	"block.tfg.pelitic_hornfels": "Pelitic Hornfels",
 	"block.tfg.hardened_clay": "Hardened Clay",
 	"block.tfg.halite": "Halite",
+	"block.tfg.gilsonite": "Gilsonite",
+	"block.tfg.oil_tar": "Oil Tar",
+	"block.tfg.oil_slick": "Oil Slick",
+	"block.tfg.raw_oil_tar": "Raw Oil Tar",
+	"block.tfg.raw_oil_slick": "Raw Oil Slick",
+	"block.tfg.light_oil_tar": "Light Oil Tar",
+	"block.tfg.light_oil_slick": "Light Oil Slick",
+	"block.tfg.heavy_oil_tar": "Heavy Oil Tar",
+	"block.tfg.heavy_oil_slick": "Heavy Oil Slick",
 
 	"block.tfg.tuff_gravel": "Tuff Gravel",
 	"block.tfg.tuff_support": "Tuff Support",
@@ -632,6 +646,7 @@
 	"block.tfg.fluid.semiheavy_ammoniacal_water": "Semiheavy Ammoniacal Water",
 	"block.tfg.fluid.sulfur_fumes": "Dense Sulfuric Fumes",
 	"block.tfg.fluid.geyser_slurry": "Super Heated Slurry",
+	"block.tfg.fluid.muddy_water": "Muddy Water",
 
 	"block.tfg.grass.mars_dirt": "Martian Dirt",
 	"block.tfg.grass.mars_clay_dirt": "Martian Clay Dirt",
@@ -930,6 +945,8 @@
 	"block.tfg.mud_bricks.alfisol_stairs": "Alkaline Mud Brick Stairs",
 	"block.tfg.mud_bricks.alfisol_slab": "Alkaline Mud Brick Slab",
 	"block.tfg.mud_bricks.alfisol_wall": "Alkaline Mud Brick Wall",
+	"block.tfg.tamped.dirt.alfisol": "Tamped Alkaline Dirt",
+	"block.tfg.tamped.mud.alfisol": "Tamped Alkaline Mud",
 
 	"block.tfg.dirt.mollisol": "Volcanic Dirt",
 	"block.tfg.grass_path.mollisol": "Volcanic Dirt Path",
@@ -947,6 +964,8 @@
 	"block.tfg.mud_bricks.mollisol_stairs": "Volcanic Mud Brick Stairs",
 	"block.tfg.mud_bricks.mollisol_slab": "Volcanic Mud Brick Slab",
 	"block.tfg.mud_bricks.mollisol_wall": "Volcanic Mud Brick Wall",
+	"block.tfg.tamped.dirt.mollisol": "Tamped Volcanic Dirt",
+	"block.tfg.tamped.mud.mollisol": "Tamped Volcanic Mud",
 
 	"block.tfg.dirt.oxisol": "Tropical Dirt",
 	"block.tfg.grass_path.oxisol": "Tropical Dirt Path",
@@ -964,6 +983,8 @@
 	"block.tfg.mud_bricks.oxisol_stairs": "Tropical Mud Brick Stairs",
 	"block.tfg.mud_bricks.oxisol_slab": "Tropical Mud Brick Slab",
 	"block.tfg.mud_bricks.oxisol_wall": "Tropical Mud Brick Wall",
+	"block.tfg.tamped.dirt.oxisol": "Tamped Tropical Dirt",
+	"block.tfg.tamped.mud.oxisol": "Tamped Trapical Mud",
 
 	"block.tfg.dirt.podzol": "Layered Dirt",
 	"block.tfg.grass_path.podzol": "Layered Dirt Path",
@@ -981,6 +1002,8 @@
 	"block.tfg.mud_bricks.podzol_stairs": "Layered Mud Brick Stairs",
 	"block.tfg.mud_bricks.podzol_slab": "Layered Mud Brick Slab",
 	"block.tfg.mud_bricks.podzol_wall": "Layered Mud Brick Wall",
+	"block.tfg.tamped.dirt.podzol": "Tamped Layered Dirt",
+	"block.tfg.tamped.mud.podzol": "Tamped Layered Mud",
 
 	"block.tfg.large_bronze_boiler": "Large Bronze Boiler",
 	"block.tfg.large_steel_boiler": "Large Steel Boiler",
@@ -1006,5 +1029,14 @@
 	"block.tfg.radish_dead": "Dead Radish",
 	"block.tfg.ghost_pepper": "Ghost Pepper",
 	"block.tfg.ghost_pepper_wild": "Wild Ghost Pepper",
-	"block.tfg.ghost_pepper_dead": "Dead Ghost Pepper"
+	"block.tfg.ghost_pepper_dead": "Dead Ghost Pepper",
+
+	"block.tfg.fruit_trees.lavacado_sapling": "Lavacado Sapling",
+	"block.tfg.fruit_trees.lavacado_branch": "Lavacado Branch",
+	"block.tfg.fruit_trees.lavacado_growing_branch": "Lavacado Branch",
+	"block.tfg.fruit_trees.lavacado_leaves": "Lavacado Leaves",
+	"block.tfg.fruit_trees.magmango_sapling": "Magmango Sapling",
+	"block.tfg.fruit_trees.magmango_branch": "Magmango Branch",
+	"block.tfg.fruit_trees.magmango_growing_branch": "Magmango Branch",
+	"block.tfg.fruit_trees.magmango_leaves": "Magmango Leaves"
 }

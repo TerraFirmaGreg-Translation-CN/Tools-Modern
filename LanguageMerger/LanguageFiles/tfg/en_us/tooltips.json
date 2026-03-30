@@ -12,6 +12,8 @@
     "tfg.tooltip.attribution.glacian_ram": "§9§oCredit: Ad Astra",
     "tfg.tooltip.attribution.sniffer": "§9§oCredit: Minecraft",
     "tfg.tooltip.attribution.wraptor": "§9§oCredit: Species",
+    "tfg.tooltip.attribution.surfer": "§9§oCredit: Wan's Ancient Beasts",
+    "tfg.tooltip.attribution.tfc": "§9§oCredit: TerraFirmaCraft 1.21",
     "tfg.tooltip.surfer_variant.base": "Teal Hide",
     "tfg.tooltip.surfer_variant.__comment__": "For magenta, yellow, blue, red, and pink colors. You can make something up!",
     "tfg.tooltip.surfer_variant.bubble": "Blossom Berry Hide",
@@ -19,7 +21,6 @@
     "tfg.tooltip.surfer_variant.tube": "Nox Berry Hide",
     "tfg.tooltip.surfer_variant.fire": "Sangnum Hide",
     "tfg.tooltip.surfer_variant.brain": "Glacian Hide",
-    "tfg.tooltip.attribution.surfer": "§9§oCredit: Wan's Ancient Beasts",
 
     "tfg.tooltip.nametag": "§7Used on a Scribing Table along with an item to name it, or with black dye to name the tag.",
     "tfg.tooltip.yeast_starter": "§7Created with dried fruit",
@@ -75,7 +76,7 @@
     "tfg.tooltip.machine.two_energy_hatches": "Accepts up to §6Two§r Energy Hatches.",
     "tfg.tooltip.machine.subtick": "This machine supports §2Subticking§r!",
     "tfg.tooltip.machine.coil_energy_discount": "Every coil after §6Cupronickel§r reduces energy usage by 10%.",
-    "tfg.tooltip.machine.coil_speed_discount": "§6Cupronickel§r coils process 75% slower. Every coil after §3Kanthal§r increases processing speed by 50%.",
+    "tfg.tooltip.machine.coil_speed_discount": "§6Cupronickel§r coils process 25% slower. Every coil after §3Kanthal§r increases processing speed by 50%.",
     "tfg.tooltip.machine.bioreactor_1": "§7Chemistry meets Biology§r",
     "tfg.tooltip.machine.bioreactor_2": "§7Combines organic and inorganic ingredients to produce synthetic biological products.§r",
     "tfg.tooltip.machine.growth_chamber_1": "§7Growing new life§r",
@@ -92,6 +93,8 @@
     "tfg.tooltip.machine.pisciculture_fishery_2": "§7Pisciculture Fisheries are not only a source of fresh fish but also vital in boosting greenhouse production through §3Aquaponics.§7 The structure can be filled with any fluid tagged as §o#tfg:pisciculture_fishery_fluids§r",
     "tfg.tooltip.machine.high_temp_precision_fabricator_1": "§7Extreme Candy Floss Machine§r",
     "tfg.tooltip.machine.high_temp_precision_fabricator_2": "§7Grows Monocrystalline Silicon Boules and more, in a clean way that won't upset your Cleanroom!§r",
+    "tfg.tooltip.machine.gas_well_1": "Extract Gas from the ground through Steam or Water and Explosives. Only works for Gas veins.",
+    "tfg.tooltip.machine.gas_well_2": "Insert an explosive every %s seconds",
 
     "tfg.tooltip.ore_prospector_stats": "Scan Range: %s, Cross Section: %s x %s.",
     "tfg.tooltip.ore_prospector_count": "This prospector will display ore counts.",
@@ -186,5 +189,8 @@
     "tfg.tooltip.crop.fruiting_months": " ❀ Fruiting: ",
     "tfg.tooltip.crop.flooded": " §c�§r This crop needs to be §nflooded§r to grow!",
     "tfg.tooltip.crop.stick": " §c�§r This crop needs a §nstick§r to grow!",
-    "tfg.tooltip.crop.grape_trellis": " §c�§r This crop needs a §ngrape trellis§r to grow!"
+    "tfg.tooltip.crop.grape_trellis": " §c�§r This crop needs a §ngrape trellis§r to grow!",
+	
+	"tfg.tooltip.tier_locked_block": "Requires Steel+ Tools to Break",
+	"tfg.tooltip.tier_locked_block_explosives": "Weak to Explosives"
 }

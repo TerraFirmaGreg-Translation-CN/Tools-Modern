@@ -39,6 +39,18 @@ namespace OresToFieldGuide
 		[JsonPropertyName("random_name")]
 		public string? RandomName { get; set; } = vein.ID;
 
+		[JsonPropertyName("project")]
+		public bool Project { get; set; } = vein.Project;
+
+		[JsonPropertyName("project_offset")]
+		public bool ProjectOffset { get; set; } = vein.ProjectOffset;
+
+		[JsonPropertyName("near_lava")]
+		public bool NearLava { get; set; } = vein.NearLava;
+
+		[JsonPropertyName("biomes")]
+		public string? Biomes { get; set; } = vein.BiomeTag;
+
 		[JsonPropertyName("blocks")]
 		public IEnumerable<VeinBlock> Blocks { get; set; } = vein.Rocks.Select(rock => new VeinBlock(rockDict[rock], vein, oreDict));
 
@@ -46,13 +58,15 @@ namespace OresToFieldGuide
 		public IndicatorConfig Indicator { get; set; } = vein.Indicator!;
 	}
 
-	public class ClusterVeinData(Vein vein, Dictionary<string, Rock> rockDict, Dictionary<string, Ore> oreDict) : VeinData(vein, rockDict, oreDict)
+	public class ClusterVeinData(Vein vein, Dictionary<string, Rock> rockDict, Dictionary<string, Ore> oreDict)
+		: VeinData(vein, rockDict, oreDict)
 	{
 		[JsonPropertyName("size")]
 		public int Size { get; set; } = vein.Config.Size;
 	}
 
-	public class DiscVeinData(Vein vein, Dictionary<string, Rock> rockDict, Dictionary<string, Ore> oreDict) : VeinData(vein, rockDict, oreDict)
+	public class DiscVeinData(Vein vein, Dictionary<string, Rock> rockDict, Dictionary<string, Ore> oreDict) 
+		: VeinData(vein, rockDict, oreDict)
 	{
 		[JsonPropertyName("height")]
 		public int Height { get; set; } = vein.Config.Height;
@@ -61,7 +75,8 @@ namespace OresToFieldGuide
 		public int Size { get; set; } = vein.Config.Size;
 	}
 
-	public class PipeVeinData(Vein vein, Dictionary<string, Rock> rockDict, Dictionary<string, Ore> oreDict) : VeinData(vein, rockDict, oreDict)
+	public class PipeVeinData(Vein vein, Dictionary<string, Rock> rockDict, Dictionary<string, Ore> oreDict) 
+		: VeinData(vein, rockDict, oreDict)
 	{
 		[JsonPropertyName("height")]
 		public int Height { get; set; } = vein.Config.Height;

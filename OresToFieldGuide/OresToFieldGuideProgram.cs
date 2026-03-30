@@ -79,7 +79,7 @@ namespace OresToFieldGuide
 		private void DeserializeData<T>(string subDir, Dictionary<string, T> dict) where T : IDataJsonObject
 		{
 			var paths = Path.Combine(m_arguments.DataFolder, subDir);
-			foreach (var path in Directory.EnumerateFiles(paths))
+			foreach (var path in Directory.EnumerateFiles(paths, "*.json"))
 			{
 				var thing = JsonSerializer.Deserialize<T>(File.ReadAllText(path));
 				if (thing == null)
@@ -102,7 +102,7 @@ namespace OresToFieldGuide
 			{
 				List<Vein> deserializedVeins = [];
 
-				foreach (string veinPath in Directory.EnumerateFiles(Path.Combine(veinsPath, dimension.ID)))
+				foreach (string veinPath in Directory.EnumerateFiles(Path.Combine(veinsPath, dimension.ID), "*.json"))
 				{
 					Vein? vein = JsonSerializer.Deserialize<Vein>(File.ReadAllText(veinPath));
 					if (vein == null)
@@ -502,7 +502,7 @@ namespace OresToFieldGuide
 
 				if (Directory.Exists(outputDir))
 				{
-					foreach (var existingPath in Directory.EnumerateFiles(outputDir))
+					foreach (var existingPath in Directory.EnumerateFiles(outputDir, "*.json"))
 					{
 						if (!m_arguments.WhitelistedPatchouliEntryFilenames.Contains(Path.GetFileNameWithoutExtension(existingPath)))
 						{
@@ -543,7 +543,7 @@ namespace OresToFieldGuide
 
 				if (Directory.Exists(configuredVeinDir))
 				{
-					foreach (var existingPath in Directory.EnumerateFiles(configuredVeinDir))
+					foreach (var existingPath in Directory.EnumerateFiles(configuredVeinDir, "*.json"))
 					{
 						if (veins.Any(v => v.ID == Path.GetFileNameWithoutExtension(existingPath)))
 							continue;
@@ -576,7 +576,7 @@ namespace OresToFieldGuide
 
 				if (Directory.Exists(placedVeinDir))
 				{
-					foreach (var existingPath in Directory.EnumerateFiles(placedVeinDir))
+					foreach (var existingPath in Directory.EnumerateFiles(placedVeinDir, "*.json"))
 					{
 						if (veins.Any(v => v.ID == Path.GetFileNameWithoutExtension(existingPath) && v.VisualOnly == true))
 							continue;
@@ -599,6 +599,11 @@ namespace OresToFieldGuide
 					{
 						Feature = $"tfg:{dimension.ID}/vein/{vein.ID}",
 					};
+
+					if (vein.Climate is not null)
+					{
+						feature.Placement.Add(new ClimatePlacer(vein.Climate));
+					}
 
 					string json = JsonSerializer.Serialize(feature, m_jsonOptions);
 					File.WriteAllText(Path.Combine(placedVeinDir, vein.ID + ".json"), json);
@@ -717,8 +722,12 @@ namespace OresToFieldGuide
 				}
 				sb.AppendLine("}");
 
-				File.WriteAllText(Path.Combine(m_arguments.ToolsFolder, "LanguageMerger", "LanguageFiles", "tfg", locale, "ore_veins.json"), sb.ToString());
-				ConsoleLogHelper.WriteLine($"Exported EMI ore vein lang keys for {locale}!", LogLevel.Info);
+				var directory = Path.Combine(m_arguments.ToolsFolder, "LanguageMerger", "LanguageFiles", "tfg", locale);
+				if (Directory.Exists(directory))
+				{
+					File.WriteAllText(Path.Combine(directory, "ore_veins.json"), sb.ToString());
+					ConsoleLogHelper.WriteLine($"Exported EMI ore vein lang keys for {locale}!", LogLevel.Info);
+				}
 			}
 		}
 

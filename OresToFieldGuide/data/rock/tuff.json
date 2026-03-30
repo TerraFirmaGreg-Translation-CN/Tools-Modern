@@ -1,0 +1,15 @@
+{
+	"id": "tuff",
+	"pattern": "gtceu:tuff_{0}_ore",
+	"translations": {
+		"en_us": "Tuff",
+		"pt_br": "Tufo",
+		"ru_ru": "Tуф",
+		"uk_ua": "Tуф",
+		"zh_cn": "凝灰岩",
+		"de_de": "Tuff"
+	},
+	"replaceable_blocks": [
+		"minecraft:tuff"
+	]
+}
