@@ -757,7 +757,7 @@
 
     "quests.tfg_tips.candles.title": "Candles",
     "quests.tfg_tips.candles.subtitle": "Cozy...",
-    "quests.tfg_tips.candles.desc": "Candles can be crafted using &aParaffin Wax&r, &aBeeswax&r or &aRosin.&r\nCandles are the better light source compared to torches, staying lit for 1 month and 2 days.",
+    "quests.tfg_tips.candles.desc": "Candles can be crafted using &aParaffin Wax&r, &aBeeswax&r or &aRosin.&r\nCandles are the better light source compared to torches, staying lit for 10 days.",
 
     "quests.tfg_tips.oven.title": "Oven",
     "quests.tfg_tips.oven.subtitle": "Caution, it's hot",
