@@ -1,28 +1,33 @@
 {
-    "id": "normal_salt",
+    "id": "normal_sulfide",
     "dimension": "earth",
     "type": "tfc:disc_vein",
-    "biome_tag": "#tfg:earth/is_shore_island",
+    "biome_tag": "#tfg:earth/is_volcanic",
     "config": {
-        "rarity": 160,
-        "density": 0.26,
+        "rarity": 170,
+        "density": 0.29,
         "min_y": 10,
         "max_y": 70,
-        "size": 27,
+        "size": 34,
         "height": 10
     },
     "ores": [
         {
-            "ore": "salt",
-            "weight": 6
+            "ore": "sulfur",
+            "weight": 4
         },
         {
-            "ore": "rock_salt",
+            "ore": "stibnite",
             "weight": 3
         },
         {
-            "ore": "borax",
-            "weight": 1
+            "ore": "bornite",
+            "weight": 9,
+            "block_weight": 1
+        },
+        {
+            "ore": "sphalerite",
+            "weight": 7
         }
     ],
     "rocks": [
@@ -55,9 +60,9 @@
     "translations": [
         {
             "lang": "en_us",
-            "text": "Salt, Rock Salt & Borax",
-            "info": "Only in Shore Biomes",
-            "emi": "Only in Shore Biomes"
+            "text": "Sulfide",
+            "info": "Only in Volcanic Biomes",
+            "emi": "Only in Volcanic Biomes"
         }
     ]
 }

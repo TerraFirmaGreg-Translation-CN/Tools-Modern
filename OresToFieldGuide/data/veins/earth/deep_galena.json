@@ -1,31 +1,27 @@
 {
-    "id": "deep_molybdenum",
+    "id": "deep_galena",
     "dimension": "earth",
     "type": "tfc:cluster_vein",
     "config": {
-        "rarity": 210,
-        "density": 0.22,
+        "rarity": 230,
+        "density": 0.24,
         "min_y": -50,
         "max_y": 20,
-        "size": 42
+        "size": 28
     },
     "ores": [
         {
-            "ore": "wulfenite",
-            "weight": 4
-        },
-        {
-            "ore": "molybdenite",
-            "weight": 8,
+            "ore": "galena",
+            "weight": 12,
             "block_weight": 1
         },
         {
-            "ore": "molybdenum",
-            "weight": 1
+            "ore": "silver",
+            "weight": 6
         },
         {
-            "ore": "powellite",
-            "weight": 1
+            "ore": "lead",
+            "weight": 5
         }
     ],
     "rocks": [
@@ -40,7 +36,7 @@
     "translations": [
         {
             "lang": "en_us",
-            "text": "Wulfenite, Molybdenite & Powellite"
+            "text": "Lead & Silver"
         }
     ]
 }

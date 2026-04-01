@@ -5,24 +5,24 @@
     "config": {
         "rarity": 70,
         "density": 0.25,
-        "min_y": -20,
+        "min_y": -30,
         "max_y": 1,
         "size": 20,
-        "height": 5
+        "height": 12
     },
     "ores": [
         {
             "ore": "chalcopyrite",
-            "weight": 40,
+            "weight": 4,
             "block_weight": 1
         },
         {
             "ore": "zeolite",
-            "weight": 20
+            "weight": 2
         },
         {
             "ore": "realgar",
-            "weight": 15
+            "weight": 1
         }
     ],
     "rocks": [
@@ -32,7 +32,21 @@
         "rhyolite",
         "basalt",
         "andesite",
-        "dacite"
+        "dacite",
+        "shale",
+        "claystone",
+        "limestone",
+        "conglomerate",
+        "dolomite",
+        "chert",
+        "chalk",
+        "tuff",
+        "quartzite",
+        "slate",
+        "phyllite",
+        "schist",
+        "gneiss",
+        "marble"
     ],
     "translations": [
         {
