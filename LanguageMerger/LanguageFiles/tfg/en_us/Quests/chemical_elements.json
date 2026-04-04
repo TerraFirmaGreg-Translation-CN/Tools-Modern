@@ -1,6 +1,10 @@
 {
   	"quests.chemical_elements.chapter_title": "Chemical Elements",
 	"quests.chemical_elements.element": "Element",
+	"quests.chemical_elements.thorium.title": "Thorium",
+	"quests.chemical_elements.uranium.title": "Uranium",
+	"quests.chemical_elements.plutonium.title": "Plutonium",
+	"quests.chemical_elements.americium.title": "Americium",
 
     "quests.chemical_elements.hydrogen.desc": "Hydrogen is an essential component of countless &bMV&r+ chemical processes, such as acids or ammonia.\n\nIt can be obtained in &7LV&r in infinite amounts by electrolyzing water or by reacting water with the Formic Acid loop.\n\nDeuterium and Tritium are used in &dLuV&r for fusion and can be obtained by centrifuging hydrogen or electrolyzing heavy water.",
     "quests.chemical_elements.helium.desc": "Helium is used in &6HV&r+ to cool down hot ingots in the vacuum freezer and to speed up the EBF.\n\nIt can be obtained in &6HV&r from Liquid Earth Air distillation.\n\nHelium-3 is used for recipes on the Moon and can be obtained by a Fluid Drilling Rig on the Moon or by centrifuging helium.",
