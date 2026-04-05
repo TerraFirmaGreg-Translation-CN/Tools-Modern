@@ -173,6 +173,11 @@
     "tfg.tooltip.recipe_condition.climate_temp": "Climate °C",
     "tfg.tooltip.recipe_condition.gravity": "Gravity m/s²",
 
+    "tfg.tooltip.recipe_condition.animal_present.any": "Requires any TFC animal ready to produce",
+    "tfg.tooltip.recipe_condition.animal_present.dairy": "Requires a dairy animal ready to be milked",
+    "tfg.tooltip.recipe_condition.animal_present.producing": "Requires animal ready to be harvested",
+    "tfg.tooltip.recipe_condition.animal_present.entity": "Requires: %s",
+
     "tfg.tooltip.firmalife_greenhouse.oxygen_required": "§cAn oxygenated environment is required!",
     "tfg.tooltip.firmalife_greenhouse.oxygen_required.block": "§7An oxygenated environment is required to function as a greenhouse in space.",
 
