@@ -896,7 +896,7 @@
 	"block.tfg.nuclear_turbine": "Nuclear Steam Turbine",
 	"block.tfg.evaporation_tower": "Evaporation Tower",
 	"block.tfg.cooling_tower": "Nuclear Cooling Tower",
-
+	"block.tfg.gas_well": "Gas Well",
 	"block.tfg.smr_generator": "Small Modular Turbine",
 	"block.tfg.casings.machine_casing_desh_ptfe": "Radiation-Safe Desh Casing",
 	"block.tfg.uv_smr_fluid_import_hatch": "SMT Input Hatch",
@@ -914,8 +914,8 @@
 	"block.tfg.copper_sandy_frame": "Copper-Bound Silica Frame",
 	"block.tfg.beryllium_sandy": "Beryllium-Bound Silica",
 	"block.tfg.beryllium_sandy_frame": "Beryllium-Bound Silica Frame",
-
 	"block.tfg.heat_battery_mk1": "Heat Battery",
+
 	"block.tfg.artisan_table": "Artisan Table",
 	"block.tfg.high_temp_precision_fabricator": "High Temperature Precision Fabricator",
 	"block.tfg.quartz_crucible": "Quartz Crucible",
