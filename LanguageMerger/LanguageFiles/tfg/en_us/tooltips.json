@@ -28,6 +28,7 @@
     "tfg.tooltip.obsolete.tree_tap": "§4Obsolete§f: Replaced by the AFC TreeTap, you can craft it from this one by placing this in a crafting table!",
     "tfg.tooltip.obsolete.fridge": "§4Obsolete§f: Replaced by the TFG Refrigerator, you can craft it from this one by placing this in a crafting table!",
     "tfg.tooltip.blaze_burner": "§cSuperheat§r §7with Coke, Anthracite, or Flawless and Exquisite coal gems.",
+    "tfg.tooltip.wooden_shield": "§7Only partially blocks damage§r",
     "tfg.tooltip.machine.perfect_overclock": "This machine has §2Perfect Overclocking§r!",
     "tfg.tooltip.machine.parallel": "Can §dParallelize§r with Parallel Control Hatches.",
     "tfg.tooltip.machine.customize_interior": "§7The interior is customizable! Check the multiblock preview in EMI.",
