@@ -1,5 +1,5 @@
 {
-    "id": "normal_asbestos",
+    "id": "normal_asbestos_dry",
     "dimension": "earth",
     "type": "tfc:disc_vein",
     "biome_tag": "#tfg:earth/is_dry",

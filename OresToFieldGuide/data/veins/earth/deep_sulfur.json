@@ -9,7 +9,7 @@
         "min_y": -60,
         "max_y": -45,
         "size": 35,
-        "height": 5
+        "height": 10
     },
     "ores": [
         {
@@ -21,7 +21,25 @@
     "rocks": [
         "granite",
         "diorite",
-        "gabbro"
+        "gabbro",
+        "rhyolite",
+        "basalt",
+        "andesite",
+        "dacite",
+        "shale",
+        "claystone",
+        "limestone",
+        "conglomerate",
+        "dolomite",
+        "chert",
+        "chalk",
+        "tuff",
+        "quartzite",
+        "slate",
+        "phyllite",
+        "schist",
+        "gneiss",
+        "marble"
     ],
     "indicator": {
         "rarity": 25,
