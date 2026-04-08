@@ -28,6 +28,7 @@
     "tfg.tooltip.obsolete.tree_tap": "§4Obsolete§f: Replaced by the AFC TreeTap, you can craft it from this one by placing this in a crafting table!",
     "tfg.tooltip.obsolete.fridge": "§4Obsolete§f: Replaced by the TFG Refrigerator, you can craft it from this one by placing this in a crafting table!",
     "tfg.tooltip.blaze_burner": "§cSuperheat§r §7with Coke, Anthracite, or Flawless and Exquisite coal gems.",
+    "tfg.tooltip.wooden_shield": "§7Only partially blocks damage§r",
     "tfg.tooltip.machine.perfect_overclock": "This machine has §2Perfect Overclocking§r!",
     "tfg.tooltip.machine.parallel": "Can §dParallelize§r with Parallel Control Hatches.",
     "tfg.tooltip.machine.customize_interior": "§7The interior is customizable! Check the multiblock preview in EMI.",
@@ -66,9 +67,9 @@
     "tfg.tooltip.warming_foods": "§6Warms you by: 4°C",
 
     "tfg.tooltip.hotornot_container": "§aSafely contains §6hot§a, §bcold§a, and §elighter-than-air§a items and fluids.§r",
-    "tfg.tooltip.hotornot_hot_equipment": "§7Provides protection from all §6hot§7 items, fluids, and pipes.§r",
-    "tfg.tooltip.hotornot_cold_equipment": "§7Provides protection from all §bcold§7 items, fluids, and pipes.§r",
-    "tfg.tooltip.hotornot_floating_equipment": "§7Provides protection from all §elighter-than-air§7 gases.§r",
+    "tfg.tooltip.hotornot_hot_equipment": "§7Provides protection from all §6hot§7 held items and fluids (chest) and pipes (boots).§r",
+    "tfg.tooltip.hotornot_cold_equipment": "§7Provides protection from all §bcold§7 held items and fluids (chest) and pipes (boots).§r",
+    "tfg.tooltip.hotornot_floating_equipment": "§7Prevents all §elighter-than-air§7 gases from lifting you up.§r",
     "tfg.tooltip.polycaprolactam": "Also known as Nylon",
     "tfg.tooltip.vessel_warning": "§cHeating an overfilled vessel will void any overflow and may ruin your alloying!§r",
 
@@ -93,8 +94,9 @@
     "tfg.tooltip.machine.pisciculture_fishery_2": "§7Pisciculture Fisheries are not only a source of fresh fish but also vital in boosting greenhouse production through §3Aquaponics.§7 The structure can be filled with any fluid tagged as §o#tfg:pisciculture_fishery_fluids§r",
     "tfg.tooltip.machine.high_temp_precision_fabricator_1": "§7Extreme Candy Floss Machine§r",
     "tfg.tooltip.machine.high_temp_precision_fabricator_2": "§7Grows Monocrystalline Silicon Boules and more, in a clean way that won't upset your Cleanroom!§r",
-    "tfg.tooltip.machine.gas_well_1": "Extract Gas from the ground through Steam or Water and Explosives. Only works for Gas veins.",
-    "tfg.tooltip.machine.gas_well_2": "Insert an explosive every %s seconds",
+    "tfg.tooltip.machine.gas_well_1": "§7Extract Natural Gas from the ground with fracking!§r",
+    "tfg.tooltip.machine.gas_well_2": "§7Accepts Explosives and either Steam or Water as input. Only works for Natural Gas veins.§r",
+    "tfg.tooltip.machine.gas_well_3": "§7Insert an explosive every %s seconds.§r",
 
     "tfg.tooltip.ore_prospector_stats": "Scan Range: %s, Cross Section: %s x %s.",
     "tfg.tooltip.ore_prospector_count": "This prospector will display ore counts.",
@@ -173,6 +175,11 @@
     "tfg.tooltip.recipe_condition.climate_temp": "Climate °C",
     "tfg.tooltip.recipe_condition.gravity": "Gravity m/s²",
 
+    "tfg.tooltip.recipe_condition.animal_present.any": "Requires any TFC animal ready to produce",
+    "tfg.tooltip.recipe_condition.animal_present.dairy": "Requires a dairy animal ready to be milked",
+    "tfg.tooltip.recipe_condition.animal_present.producing": "Wool animal harvestable",
+    "tfg.tooltip.recipe_condition.animal_present.entity": "Requires: %s",
+
     "tfg.tooltip.firmalife_greenhouse.oxygen_required": "§cAn oxygenated environment is required!",
     "tfg.tooltip.firmalife_greenhouse.oxygen_required.block": "§7An oxygenated environment is required to function as a greenhouse in space.",
 
@@ -190,7 +197,7 @@
     "tfg.tooltip.crop.flooded": " §c�§r This crop needs to be §nflooded§r to grow!",
     "tfg.tooltip.crop.stick": " §c�§r This crop needs a §nstick§r to grow!",
     "tfg.tooltip.crop.grape_trellis": " §c�§r This crop needs a §ngrape trellis§r to grow!",
-	
-	"tfg.tooltip.tier_locked_block": "Requires Steel+ Tools to Break",
-	"tfg.tooltip.tier_locked_block_explosives": "Weak to Explosives"
+
+    "tfg.tooltip.tier_locked_block": "Requires Steel+ Tools to Break",
+    "tfg.tooltip.tier_locked_block_explosives": "Weak to Explosives"
 }
