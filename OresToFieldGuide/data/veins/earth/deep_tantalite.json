@@ -1,5 +1,5 @@
 {
-    "id": "deep_grossular",
+    "id": "deep_tantalite",
     "dimension": "earth",
     "type": "tfc:cluster_vein",
     "config": {
@@ -37,7 +37,13 @@
         "marble"
     ],
     "indicator": {
-        "rarity": 16,
+        "rarity": 22,
         "depth": 15
-    }
+    },
+    "translations": [
+        {
+            "lang": "en_us",
+            "text": "Grossular, Spessartine & Tantalite"
+        }
+    ]
 }

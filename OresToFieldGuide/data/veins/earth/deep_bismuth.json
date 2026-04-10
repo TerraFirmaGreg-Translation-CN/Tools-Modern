@@ -41,7 +41,15 @@
         "gabbro"
     ],
     "indicator": {
-        "rarity": 16,
+        "rarity": 22,
         "depth": 15
-    }
+    },
+    "translations": [
+        {
+            "lang": "en_us",
+            "text": "Bismuth, Silver, Gold & Electrotine",
+            "info": "Only in Mountain Biomes",
+            "emi": "Only in Mountain Biomes"
+        }
+    ]
 }
