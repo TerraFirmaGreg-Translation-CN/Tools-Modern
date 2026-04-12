@@ -24,7 +24,7 @@
 	"item.gtceu.tool.behavior.silk_ice": "§dSculptor:§r Silk harvests Packed Ice",
 	"item.gtceu.tool.butchery_knife.tooltip": "§cButcher:§r Butchers animals for more meat",
 	"item.gtceu.tool.tooltip.repair_info": "§8Craft with a Repair Kit to repair 25% durability",
-	"item.gtceu.tool.tooltip.repair_material": "§8Craft with a Repair Kit to repair 25% durability"
+	"item.gtceu.tool.tooltip.repair_material": "§8Craft with a Repair Kit to repair 25% durability",
 
 	"item.gtceu.tool.buzzsaw.tooltip": "§8Not suitable for harvesting Blocks",
 	"item.gtceu.tool.mv_buzzsaw.tooltip": "§8Not suitable for harvesting Blocks",
@@ -45,6 +45,5 @@
 	"item.gtceu.tool.hv_wrench.tooltip": "§8Hold left click to dismantle Machines",
 	"item.gtceu.tool.ev_wrench.tooltip": "§8Hold left click to dismantle Machines",
 	"item.gtceu.tool.iv_wrench.tooltip": "§8Hold left click to dismantle Machines",
-	"item.gtceu.tool.zpm_wrench.tooltip": "§8Hold left click to dismantle Machines",
-
+	"item.gtceu.tool.zpm_wrench.tooltip": "§8Hold left click to dismantle Machines"
 }
