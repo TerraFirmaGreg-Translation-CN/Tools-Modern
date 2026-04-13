@@ -78,6 +78,9 @@
     "ore_vein.tfg.rose_quartz.emi.0": "Found in low-elevation",
     "ore_vein.tfg.rose_quartz.emi.1": "biomes in climates",
     "ore_vein.tfg.rose_quartz.emi.2": "below -10°C.",
+    "ore_vein.tfg.oilsands": "Oilsands",
+    "ore_vein.tfg.oilsands.emi.0": "Found around oil spouts",
+    "ore_vein.tfg.oilsands.emi.1": "in warm deserts.",
 
     "emi.category.tfg.ore_vein_info": "Ore Veins",
 
