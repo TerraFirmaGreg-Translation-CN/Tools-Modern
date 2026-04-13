@@ -39,9 +39,7 @@
     "translations": [
         {
             "lang": "en_us",
-            "text": "Graphite & Diamond",
-            "info": "Only in Volcanic Biomes",
-            "emi": "Only in Volcanic Biomes"
+            "text": "Graphite & Diamond"
         }
     ]
 }

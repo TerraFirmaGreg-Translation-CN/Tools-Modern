@@ -65,9 +65,7 @@
     "translations": [
         {
             "lang": "en_us",
-            "text": "Chalcocite, Gypsum, Cobalt & Sulfur",
-            "info": "Only in Karst Biomes",
-            "emi": "Only in Karst Biomes"
+            "text": "Chalcocite, Gypsum, Cobalt & Sulfur"
         }
     ]
 }

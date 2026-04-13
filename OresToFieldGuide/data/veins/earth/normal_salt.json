@@ -55,9 +55,7 @@
     "translations": [
         {
             "lang": "en_us",
-            "text": "Salt, Rock Salt & Borax",
-            "info": "Only in Shore Biomes",
-            "emi": "Only in Shore Biomes"
+            "text": "Salt, Rock Salt & Borax"
         }
     ]
 }

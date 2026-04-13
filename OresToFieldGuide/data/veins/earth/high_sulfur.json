@@ -42,9 +42,7 @@
     "translations": [
         {
             "lang": "en_us",
-            "text": "Sulfur (Volcanic)",
-            "info": "Only in Volcanic Biomes",
-            "emi": "Only in Volcanic Biomes"
+            "text": "Sulfur (Volcanic)"
         }
     ],
     "indicator": {

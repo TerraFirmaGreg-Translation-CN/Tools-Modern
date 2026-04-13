@@ -44,9 +44,7 @@
     "translations": [
         {
             "lang": "en_us",
-            "text": "Cassiterite Sand & Asbestos",
-            "info": "Only in Dry Biomes",
-            "emi": "Only in Dry Biomes"
+            "text": "Cassiterite Sand & Asbestos"
         }
     ]
 }

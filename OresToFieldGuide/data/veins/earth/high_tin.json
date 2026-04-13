@@ -47,9 +47,7 @@
     "translations": [
         {
             "lang": "en_us",
-            "text": "Tin (High Elevation)",
-            "info": "Surface Vein\\nOnly in Mountain Biomes",
-            "emi": "Surface Vein\\nOnly in Mountain Biomes"
+            "text": "Tin (High Elevation)"
         }
     ],
     "indicator": {

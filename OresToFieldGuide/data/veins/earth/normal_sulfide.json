@@ -56,9 +56,7 @@
     "translations": [
         {
             "lang": "en_us",
-            "text": "Sulfur, Stibnite & Bornite",
-            "info": "Only in Volcanic Biomes",
-            "emi": "Only in Volcanic Biomes"
+            "text": "Sulfur, Stibnite & Bornite"
         }
     ]
 }

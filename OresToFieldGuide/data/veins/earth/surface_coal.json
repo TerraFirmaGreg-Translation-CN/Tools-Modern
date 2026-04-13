@@ -30,9 +30,7 @@
     "translations": [
         {
             "lang": "en_us",
-            "text": "Coal (Surface)",
-            "info": "Surface Vein\\nY is range\\nfrom surface.",
-            "emi": "Surface Vein\\nY is range\\nfrom surface."
+            "text": "Coal (Surface)"
         }
     ]
 }

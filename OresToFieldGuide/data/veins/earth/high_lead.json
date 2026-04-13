@@ -47,9 +47,7 @@
     "translations": [
         {
             "lang": "en_us",
-            "text": "Lead & Silver",
-            "info": "Surface Vein\\nOnly in Mountain Biomes",
-            "emi": "Surface Vein\\nOnly in Mountain Biomes"
+            "text": "Lead & Silver"
         }
     ],
     "indicator": {
