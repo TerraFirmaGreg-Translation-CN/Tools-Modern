@@ -75,7 +75,7 @@
     "tfg.emi.ore_veins.height": "Height: %d",
     "tfg.emi.ore_veins.radius": "Radius: %d",
     "ore_vein.tfg.rose_quartz": "Rose Quartz",
-    "ore_vein.tfg.rose_quartz.emi.0": "Found in low-elevation",
+    "ore_vein.tfg.rose_quartz.emi.0": "Found in Ice Sheets",
     "ore_vein.tfg.rose_quartz.emi.1": "biomes in climates",
     "ore_vein.tfg.rose_quartz.emi.2": "below -10°C.",
     "ore_vein.tfg.oilsands": "Oilsands",
