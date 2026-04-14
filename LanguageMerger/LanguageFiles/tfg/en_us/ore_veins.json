@@ -7,8 +7,6 @@
 	"ore_vein_info.tfg.earth.is_shore": "Only in Shore Biomes",
 	"ore_vein_info.tfg.earth.is_normal": "Only in Plains, Plateau and Hills",
 
-	"ore_vein_info.tfg.near_lava": "Only near Lava",
-
 	"ore_vein.tfg.deep_apatite": "Apatite & Pyrochlore",
 	"ore_vein.tfg.deep_asbestos": "Cassiterite & Asbestos (Deep)",
 	"ore_vein.tfg.deep_banded_iron": "Banded Iron (Deep)",
@@ -28,10 +26,9 @@
 	"ore_vein.tfg.deep_magnetite": "Vanadium Magnetite & Gold",
 	"ore_vein.tfg.deep_magnesite_olivine": "Bentonite & Magnesite",
 	"ore_vein.tfg.deep_manganese": "Grossular & Tantalite",
-	"ore_vein.tfg.deep_mineral_sand": "Mineral Sands",
-	"ore_vein.tfg.deep_molybdenum": "Wulfenite, Molybdenite & Powellite",
-	"ore_vein.tfg.deep_monazite": "Bastnasite, Monazite & Neodymium",
-	"ore_vein.tfg.deep_nickel": "Garnierite, Nickel, Cobaltite & Pentlandite",
+	"ore_vein.tfg.deep_molybdenum": "Wulfenite & Molybdenite",
+	"ore_vein.tfg.deep_monazite": "Bastnasite & Monazite",
+	"ore_vein.tfg.deep_nickel": "Garnierite & Cobaltite",
 	"ore_vein.tfg.deep_redstone": "Redstone, Ruby & Cinnabar",
 	"ore_vein.tfg.deep_redstone.emi.0": "Deep vein with",
 	"ore_vein.tfg.deep_redstone.emi.1": "indicators that can",
