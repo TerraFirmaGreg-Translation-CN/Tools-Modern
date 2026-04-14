@@ -11,7 +11,7 @@
     },
     "ores": [
         {
-            "ore": "lignite",
+            "ore": "coal",
             "weight": 100,
             "block_weight": 2
         }
