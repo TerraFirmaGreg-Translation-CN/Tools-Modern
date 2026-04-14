@@ -18,12 +18,12 @@
     "ores": [
         {
             "ore": "graphite",
-            "weight": 7,
+            "weight": 6,
             "block_weight": 1
         },
         {
             "ore": "diamond",
-            "weight": 3
+            "weight": 4
         }
     ],
     "rocks": [
@@ -32,7 +32,13 @@
         "gabbro"
     ],
     "indicator": {
-        "rarity": 16,
+        "rarity": 22,
         "depth": 10
-    }
+    },
+    "translations": [
+        {
+            "lang": "en_us",
+            "text": "Graphite & Diamond"
+        }
+    ]
 }

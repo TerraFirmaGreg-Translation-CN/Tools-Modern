@@ -19,12 +19,12 @@
     "ores": [
         {
             "ore": "graphite",
-            "weight": 4,
+            "weight": 6,
             "block_weight": 1
         },
         {
             "ore": "diamond",
-            "weight": 6
+            "weight": 4
         }
     ],
     "rocks": [
@@ -33,7 +33,15 @@
         "gabbro"
     ],
     "indicator": {
-        "rarity": 16,
+        "rarity": 100,
         "depth": 1
-    }
+    },
+    "translations": [
+        {
+            "lang": "en_us",
+            "text": "Graphite & Diamond",
+            "info": "Only in Volcanic Biomes",
+            "emi": "Only in Volcanic Biomes"
+        }
+    ]
 }
