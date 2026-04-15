@@ -1,39 +1,40 @@
 {
-  "id": "beryllium",
-  "formula": "Be",
-  "hazard": "berylliosis",
-  "ore_block": "gtceu:raw_beryllium_block",
-  "indicator": "gtceu:beryllium_indicator",
-  "translations": [
-    {
-      "lang": "en_us",
-      "text": "Beryllium",
-      "info": "$(thing)Source of$(): Beryllium"
-    },
-    {
-      "lang": "pt_br",
-      "text": "Berílio",
-      "info": "$(thing)Fonte de$(): Berílio"
-    },
-    {
-      "lang": "ru_ru",
-      "text": "Бериллий",
-      "info": "$(thing)Используется для$(): Эндер-жемчуг"
-    },
-    {
-      "lang": "uk_ua",
-      "text": "Берилій",
-      "info": "$(thing)Джерело$(): Берилію"
-    },
-    {
-      "lang": "zh_cn",
-      "text": "铍矿",
-      "info": "$(thing)来源$(): 铍"
-    },
-    {
-      "lang": "de_de",
-      "text": "Beryllium",
-      "info": "$(thing)Quelle von$(): Beryllium"
-    }
-  ]
+    "id": "beryllium",
+    "formula": "Be",
+    "hazard": "berylliosis",
+    "ore_block": "gtceu:raw_beryllium_block",
+    "indicator": "gtceu:beryllium_indicator",
+    "translation": "material.gtceu.beryllium",
+    "translations": [
+        {
+            "lang": "en_us",
+            "text": "Beryllium",
+            "info": "$(thing)Source of$(): Beryllium"
+        },
+        {
+            "lang": "pt_br",
+            "text": "Berílio",
+            "info": "$(thing)Fonte de$(): Berílio"
+        },
+        {
+            "lang": "ru_ru",
+            "text": "Бериллий",
+            "info": "$(thing)Используется для$(): Эндер-жемчуг"
+        },
+        {
+            "lang": "uk_ua",
+            "text": "Берилій",
+            "info": "$(thing)Джерело$(): Берилію"
+        },
+        {
+            "lang": "zh_cn",
+            "text": "铍矿",
+            "info": "$(thing)来源$(): 铍"
+        },
+        {
+            "lang": "de_de",
+            "text": "Beryllium",
+            "info": "$(thing)Quelle von$(): Beryllium"
+        }
+    ]
 }
