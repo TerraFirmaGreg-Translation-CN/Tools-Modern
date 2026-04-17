@@ -4,22 +4,30 @@
 	"material.gtceu.air": "Earth Air",
 	"material.gtceu.liquid_air": "Liquid Earth Air",
 
-	"__comment1": "Sorry GT, big bang theory doesn't count as a scifi reference",
-
 	"material.gtceu.cooperite": "Cooperite",
 	"material.gtceu.rock_salt": "Sylvite",
 	"material.gtceu.salt": "Halite",
 	"material.gtceu.quartzite": "Quartz",
+	"material.gtceu.dimethylbenzene": "Xylene",
+
+	"material.gtceu.lactose": "Lactose",
 
 	"material.gtceu.armalcolite": "Armalcolite",
 	"material.gtceu.desh": "Desh",
 	"material.gtceu.ostrum": "Ostrum",
-	"material.tfg.calorite": "Calorite",
-	"material.tfg.etrium": "Etrium",
-
 	"material.gtceu.tarkianite": "Tarkianite",
 	"material.gtceu.thorium": "Thorianite",
-	"material.gtceu.dimethylbenzene": "Xylene",
+	"material.gtceu.lignite": "Lignite",
+
+	"material.gtceu.thermochemically_treated_hardwood": "Thermochemically Treated Hardwood",
+	"material.gtceu.hardwood": "Hardwood",
+
+	"material.gtceu.asurine": "Asurine",
+	"material.gtceu.ochrum": "Ochrum",
+	"material.gtceu.veridium": "Veridium",
+	"material.gtceu.crimsite": "Crimsite",
+	"material.gtceu.scoria": "Scoria",
+	"material.gtceu.scorchia": "Scorchia",
 
 	"material.gtceu.aluminium_silicate": "Aluminium Silicate",
 
@@ -28,8 +36,6 @@
 	"material.gtceu.rocket_alloy_t3": "45-Ti Tungstensteel Rocket Alloy",
 	"material.gtceu.vitrified_asbestos": "Vitrified Asbestos",
 	"material.gtceu.liquid_carbon_dioxide": "Liquid Carbon Dioxide",
-
-	"__comment2": "Nuclear Material",
 
 	"material.gtceu.hot_debrominated_brine": "Hot Debrominated Brine",
 	"material.gtceu.hydrogen_iodide": "Hydrogen Iodide",
@@ -86,7 +92,7 @@
 	"material.gtceu.severely_hydro_cracked_light_fuel": "Severely Hydro-Cracked Light Oil Residue",
 	"material.gtceu.lightly_steam_cracked_light_fuel": "Lightly Steam-Cracked Light Oil Residue",
 	"material.gtceu.severely_steam_cracked_light_fuel": "Severely Steam-Cracked Light Oil Residue",
-	
+
 	"material.gtceu.heavy_fuel": "Heavy Oil Residue",
 	"material.gtceu.sulfuric_heavy_fuel": "Sulfuric Heavy Oil Residue",
 	"material.gtceu.lightly_hydro_cracked_heavy_fuel": "Lightly Hydro-Cracked Heavy Oil Residue",

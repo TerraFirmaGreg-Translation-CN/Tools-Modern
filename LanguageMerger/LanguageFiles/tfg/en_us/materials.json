@@ -5,8 +5,6 @@
 	"material.tfg.conifer_pitch": "Conifer Pitch",
 	"material.tfg.pyrogallol": "Pyrogallol",
 
-	"material.gtceu.lactose": "Lactose",
-
 	"material.tfg.gabbro": "Gabbro",
 	"material.tfg.shale": "Shale",
 	"material.tfg.claystone": "Claystone",
@@ -38,16 +36,6 @@
 	"material.tfg.igneous_intermediate": "Intermediate Igneous",
 	"material.tfg.igneous_felsic": "Felsic Igneous",
 
-	"material.gtceu.thermochemically_treated_hardwood": "Thermochemically Treated Hardwood",
-	"material.gtceu.hardwood": "Hardwood",
-
-	"material.gtceu.asurine": "Asurine",
-	"material.gtceu.ochrum": "Ochrum",
-	"material.gtceu.veridium": "Veridium",
-	"material.gtceu.crimsite": "Crimsite",
-	"material.gtceu.scoria": "Scoria",
-	"material.gtceu.scorchia": "Scorchia",
-
 	"material.tfg.kaolinite": "Kaolinite",
 	"material.tfg.vitrified_pearl": "Vitrified Ender",
 
@@ -59,6 +47,9 @@
 	"material.tfg.compressed_heliox_3": "Compressed Heliox-3",
 	"material.tfg.compressed_trimix": "Compressed 50/30/20 Trimix",
 	"material.tfg.compressed_trimix_3": "Compressed 50/30/20 Trimix-3",
+
+	"material.tfg.calorite": "Calorite",
+	"material.tfg.etrium": "Etrium",
 
 	"material.tfg.chlorodifluoromethane": "Chlorodifluoromethane",
 	"material.tfg.acetylene": "Acetylene",
