@@ -12,8 +12,8 @@
     "ores": [
         {
             "ore": "coal",
-            "weight": 10,
-            "block_weight": 1
+            "weight": 100,
+            "block_weight": 2
         }
     ],
     "rocks": [
@@ -39,6 +39,7 @@
         "gneiss",
         "marble"
     ],
+    "name_suffix": "tfg.ore_vein_suffix.high",
     "translations": [
         {
             "lang": "en_us",

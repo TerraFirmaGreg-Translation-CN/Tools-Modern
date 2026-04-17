@@ -1,38 +1,39 @@
 {
-  "id": "chalcocite",
-  "formula": "Cu₂S",
-  "ore_block": "gtceu:raw_chalcocite_block",
-  "indicator": "gtceu:chalcocite_indicator",
-  "translations": [
-    {
-      "lang": "en_us",
-      "text": "Chalcocite",
-      "info": "$(thing)Source of$(): Copper"
-    },
-    {
-      "lang": "pt_br",
-      "text": "Calcocita",
-      "info": "$(thing)Fonte de$(): Cobre"
-    },
-    {
-      "lang": "ru_ru",
-      "text": "Халькозин",
-      "info": "$(thing)Используется для$(): Медь"
-    },
-    {
-      "lang": "uk_ua",
-      "text": "Халькоцит",
-      "info": "$(thing)Джерело$(): Міді"
-    },
-    {
-      "lang": "zh_cn",
-      "text": "辉铜矿",
-      "info": "$(thing)来源$(): 铜"
-    },    
-    {
-      "lang": "de_de",
-      "text": "Chalkosin",
-      "info": "$(thing)Quelle von$(): Kupfer"
-    }
-  ]
+    "id": "chalcocite",
+    "formula": "Cu₂S",
+    "ore_block": "gtceu:raw_chalcocite_block",
+    "indicator": "gtceu:chalcocite_indicator",
+    "translation": "material.gtceu.chalcocite",
+    "translations": [
+        {
+            "lang": "en_us",
+            "text": "Chalcocite",
+            "info": "$(thing)Melts into$(): Copper"
+        },
+        {
+            "lang": "pt_br",
+            "text": "Calcocita",
+            "info": "$(thing)Fonte de$(): Cobre"
+        },
+        {
+            "lang": "ru_ru",
+            "text": "Халькозин",
+            "info": "$(thing)Используется для$(): Медь"
+        },
+        {
+            "lang": "uk_ua",
+            "text": "Халькоцит",
+            "info": "$(thing)Джерело$(): Міді"
+        },
+        {
+            "lang": "zh_cn",
+            "text": "辉铜矿",
+            "info": "$(thing)来源$(): 铜"
+        },
+        {
+            "lang": "de_de",
+            "text": "Chalkosin",
+            "info": "$(thing)Quelle von$(): Kupfer"
+        }
+    ]
 }

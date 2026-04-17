@@ -13,7 +13,7 @@
     "ores": [
         {
             "ore": "yellow_limonite",
-            "weight": 20,
+            "weight": 100,
             "block_weight": 1
         }
     ],
@@ -31,6 +31,7 @@
         "rarity": 15,
         "depth": 35
     },
+    "name_suffix": "tfg.ore_vein_suffix.surface",
     "translations": [
         {
             "lang": "en_us",

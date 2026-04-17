@@ -1,38 +1,39 @@
 {
-  "id": "armalcolite",
-  "formula": "(Mg,Fe)Ti₂O₅",
-  "ore_block": "gtceu:raw_armalcolite_block",
-  "indicator": "gtceu:armalcolite_bud_indicator",
-  "translations": [
-    {
-      "lang": "en_us",
-      "text": "Armalcolite",
-      "info": "$(thing)Source of$(): Magnesium, Rutile, Titanium"
-    },
-    {
-      "lang": "pt_br",
-      "text": "Armalcolita",
-      "info": "$(thing)Fonte de$(): Magnésio, Rutilo, Titânio"
-    },
-    {
-      "lang": "ru_ru",
-      "text": "Армаколит",
-      "info": "$(thing)Используется для$(): Магний, Рутил, Титан"
-    },
-    {
-      "lang": "uk_ua",
-      "text": "Армолколіт",
-      "info": "$(thing)Джерело$(): Магнію, Рутилу, Титану"
-    },
-    {
-      "lang": "zh_cn",
-      "text": "阿姆阿尔柯尔矿",
-      "info": "$(thing)来源$(): 镁, 金红石, 钛"
-    },
-    {
-      "lang": "de_de",
-      "text": "Armalcolit",
-      "info": "$(thing)Quelle von$(): Magnesium, Rutil, Titan"
-    }
-  ]
+    "id": "armalcolite",
+    "formula": "(Mg,Fe)Ti₂O₅",
+    "ore_block": "gtceu:raw_armalcolite_block",
+    "indicator": "gtceu:armalcolite_bud_indicator",
+    "translation": "material.gtceu.armalcolite",
+    "translations": [
+        {
+            "lang": "en_us",
+            "text": "Armalcolite",
+            "info": "$(thing)Source of$(): Magnesium, Rutile, Titanium"
+        },
+        {
+            "lang": "pt_br",
+            "text": "Armalcolita",
+            "info": "$(thing)Fonte de$(): Magnésio, Rutilo, Titânio"
+        },
+        {
+            "lang": "ru_ru",
+            "text": "Армаколит",
+            "info": "$(thing)Используется для$(): Магний, Рутил, Титан"
+        },
+        {
+            "lang": "uk_ua",
+            "text": "Армолколіт",
+            "info": "$(thing)Джерело$(): Магнію, Рутилу, Титану"
+        },
+        {
+            "lang": "zh_cn",
+            "text": "阿姆阿尔柯尔矿",
+            "info": "$(thing)来源$(): 镁, 金红石, 钛"
+        },
+        {
+            "lang": "de_de",
+            "text": "Armalcolit",
+            "info": "$(thing)Quelle von$(): Magnesium, Rutil, Titan"
+        }
+    ]
 }

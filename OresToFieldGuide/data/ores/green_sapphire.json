@@ -1,38 +1,39 @@
 {
-  "id": "green_sapphire",
-  "formula": "Al₂O₃",
-  "ore_block": "gtceu:raw_green_sapphire_block",
-  "indicator": "gtceu:green_sapphire_bud_indicator",
-  "translations": [
-    {
-      "lang": "en_us",
-      "text": "Green Sapphire",
-      "info": "$(thing)Source of$(): Aluminium"
-    },
-    {
-      "lang": "pt_br",
-      "text": "Safira Verde",
-      "info": "$(thing)Fonte de$(): Aluminium"
-    },
-    {
-      "lang": "ru_ru",
-      "text": "Зелёный сапфир",
-      "info": "$(thing)Используется для$(): Алюминий"
-    },
-    {
-      "lang": "uk_ua",
-      "text": "Зелений сапфір",
-      "info": "$(thing)Джерело$(): Алюмінію"
-    },
-    {
-      "lang": "zh_cn",
-      "text": "绿色蓝宝石",
-      "info": "$(thing)来源$(): 铝"
-    },    
-    {
-      "lang": "de_de",
-      "text": "Grüner Saphir",
-      "info": "$(thing)Quelle von$(): Aluminium"
-    }
-  ]
+    "id": "green_sapphire",
+    "formula": "Al₂O₃",
+    "ore_block": "gtceu:raw_green_sapphire_block",
+    "indicator": "gtceu:green_sapphire_bud_indicator",
+    "translation": "material.gtceu.green_sapphire",
+    "translations": [
+        {
+            "lang": "en_us",
+            "text": "Green Sapphire",
+            "info": "$(thing)Source of$(): Aluminium"
+        },
+        {
+            "lang": "pt_br",
+            "text": "Safira Verde",
+            "info": "$(thing)Fonte de$(): Aluminium"
+        },
+        {
+            "lang": "ru_ru",
+            "text": "Зелёный сапфир",
+            "info": "$(thing)Используется для$(): Алюминий"
+        },
+        {
+            "lang": "uk_ua",
+            "text": "Зелений сапфір",
+            "info": "$(thing)Джерело$(): Алюмінію"
+        },
+        {
+            "lang": "zh_cn",
+            "text": "绿色蓝宝石",
+            "info": "$(thing)来源$(): 铝"
+        },
+        {
+            "lang": "de_de",
+            "text": "Grüner Saphir",
+            "info": "$(thing)Quelle von$(): Aluminium"
+        }
+    ]
 }

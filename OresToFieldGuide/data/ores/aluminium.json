@@ -1,38 +1,39 @@
 {
-  "id": "aluminium",
-  "formula": "Al",
-  "ore_block": "gtceu:raw_aluminium_block",
-  "indicator": "gtceu:aluminium_indicator",
-  "translations": [
-    {
-      "lang": "en_us",
-      "text": "Aluminium",
-      "info": "$(thing)Source of$(): Aluminium"
-    },
-    {
-      "lang": "pt_br",
-      "text": "Alumínio",
-      "info": "$(thing)Fonte de$(): Alumínio"
-    },
-    {
-      "lang": "ru_ru",
-      "text": "Алюминий",
-      "info": "$(thing)Используется для$(): Алюминий"
-    },
-    {
-      "lang": "uk_ua",
-      "text": "Алюмінію",
-      "info": "$(thing)Джерело$(): Алюмінію"
-    },
-    {
-      "lang": "zh_cn",
-      "text": "铝矿",
-      "info": "$(thing)来源$(): 铝"
-    },
-    {
-      "lang": "de_de",
-      "text": "Aluminium",
-      "info": "$(thing)Quelle von$(): Aluminium"
-    }
-  ]
+    "id": "aluminium",
+    "formula": "Al",
+    "ore_block": "gtceu:raw_aluminium_block",
+    "indicator": "gtceu:aluminium_indicator",
+    "translation": "material.gtceu.aluminium",
+    "translations": [
+        {
+            "lang": "en_us",
+            "text": "Aluminium",
+            "info": "$(thing)Source of$(): Aluminium"
+        },
+        {
+            "lang": "pt_br",
+            "text": "Alumínio",
+            "info": "$(thing)Fonte de$(): Alumínio"
+        },
+        {
+            "lang": "ru_ru",
+            "text": "Алюминий",
+            "info": "$(thing)Используется для$(): Алюминий"
+        },
+        {
+            "lang": "uk_ua",
+            "text": "Алюмінію",
+            "info": "$(thing)Джерело$(): Алюмінію"
+        },
+        {
+            "lang": "zh_cn",
+            "text": "铝矿",
+            "info": "$(thing)来源$(): 铝"
+        },
+        {
+            "lang": "de_de",
+            "text": "Aluminium",
+            "info": "$(thing)Quelle von$(): Aluminium"
+        }
+    ]
 }

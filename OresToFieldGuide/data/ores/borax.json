@@ -1,38 +1,39 @@
 {
-  "id": "borax",
-  "formula": "Na₂B₄(H₂O)₁₀O₇",
-  "ore_block": "gtceu:raw_borax_block",
-  "indicator": "gtceu:borax_indicator",
-  "translations": [
-    {
-      "lang": "en_us",
-      "text": "Borax",
-      "info": "$(thing)Source of$(): Sodium, Boron"
-    },
-    {
-      "lang": "pt_br",
-      "text": "Bórax",
-      "info": "$(thing)Fonte de$(): Sódio, Boro"
-    },
-    {
-      "lang": "ru_ru",
-      "text": "Бура",
-      "info": "$(thing)Используется для$(): Натрий, Бор"
-    },
-    {
-      "lang": "uk_ua",
-      "text": "Бура",
-      "info": "$(thing)Джерело$(): Натрію, Бору"
-    },
-    {
-      "lang": "zh_cn",
-      "text": "硼砂",
-      "info": "$(thing)来源$(): 钠, 硼"
-    },    
-    {
-      "lang": "de_de",
-      "text": "Borax",
-      "info": "$(thing)Quelle von$(): Natrium, Bor"
-    }
-  ]
+    "id": "borax",
+    "formula": "Na₂B₄(H₂O)₁₀O₇",
+    "ore_block": "gtceu:raw_borax_block",
+    "indicator": "gtceu:borax_indicator",
+    "translation": "material.gtceu.borax",
+    "translations": [
+        {
+            "lang": "en_us",
+            "text": "Borax",
+            "info": "$(thing)Source of$(): Sodium, Boron"
+        },
+        {
+            "lang": "pt_br",
+            "text": "Bórax",
+            "info": "$(thing)Fonte de$(): Sódio, Boro"
+        },
+        {
+            "lang": "ru_ru",
+            "text": "Бура",
+            "info": "$(thing)Используется для$(): Натрий, Бор"
+        },
+        {
+            "lang": "uk_ua",
+            "text": "Бура",
+            "info": "$(thing)Джерело$(): Натрію, Бору"
+        },
+        {
+            "lang": "zh_cn",
+            "text": "硼砂",
+            "info": "$(thing)来源$(): 钠, 硼"
+        },
+        {
+            "lang": "de_de",
+            "text": "Borax",
+            "info": "$(thing)Quelle von$(): Natrium, Bor"
+        }
+    ]
 }

@@ -3,6 +3,7 @@
   "formula": "Al₂Fe₃Si₃O₁₂",
   "ore_block": "gtceu:raw_almandine_block",
   "indicator": "gtceu:almandine_bud_indicator",
+  "translation": "material.gtceu.almandine",
   "translations": [
     {
       "lang": "en_us",
