@@ -13,7 +13,7 @@
     },
     "ores": [
         {
-            "ore": "cassiterite_sand",
+            "ore": "cassiterite",
             "weight": 6
         },
         {

@@ -12,20 +12,20 @@
     "ores": [
         {
             "ore": "blue_topaz",
-            "weight": 7,
+            "weight": 14,
             "block_weight": 1
         },
         {
             "ore": "topaz",
-            "weight": 5
+            "weight": 10
         },
         {
             "ore": "chalcocite",
-            "weight": 3
+            "weight": 6
         },
         {
             "ore": "bornite",
-            "weight": 1
+            "weight": 2
         }
     ],
     "rocks": [

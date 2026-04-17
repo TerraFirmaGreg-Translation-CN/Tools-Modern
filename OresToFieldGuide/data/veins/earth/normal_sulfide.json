@@ -14,15 +14,15 @@
     "ores": [
         {
             "ore": "sulfur",
-            "weight": 4
+            "weight": 20
         },
         {
             "ore": "stibnite",
-            "weight": 3
+            "weight": 15
         },
         {
             "ore": "bornite",
-            "weight": 9,
+            "weight": 45,
             "block_weight": 1
         }
     ],
@@ -53,6 +53,7 @@
         "rarity": 21,
         "depth": 70
     },
+    "name_suffix": "tfg.ore_vein_suffix.volcanic",
     "translations": [
         {
             "lang": "en_us",

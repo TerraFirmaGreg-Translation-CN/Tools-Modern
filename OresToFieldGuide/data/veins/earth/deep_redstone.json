@@ -12,16 +12,16 @@
     "ores": [
         {
             "ore": "redstone",
-            "weight": 4,
+            "weight": 8,
             "block_weight": 1
         },
         {
             "ore": "ruby",
-            "weight": 2
+            "weight": 4
         },
         {
             "ore": "cinnabar",
-            "weight": 1
+            "weight": 2
         }
     ],
     "rocks": [
@@ -33,12 +33,11 @@
         "rarity": 22,
         "depth": 180
     },
+    "name_suffix": "tfg.ore_vein_suffix.deep",
     "translations": [
         {
             "lang": "en_us",
-            "text": "Redstone, Ruby & Cinnabar",
-            "info": "Deep vein with\\nindicators that can\\nspawn very high.",
-            "emi": "Deep vein with\\nindicators that can\\nspawn very high."
+            "text": "Redstone, Ruby & Cinnabar"
         }
     ]
 }

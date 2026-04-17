@@ -12,16 +12,16 @@
     "ores": [
         {
             "ore": "bastnasite",
-            "weight": 6,
+            "weight": 12,
             "block_weight": 1
         },
         {
             "ore": "monazite",
-            "weight": 3
+            "weight": 6
         },
         {
             "ore": "neodymium",
-            "weight": 1
+            "weight": 2
         }
     ],
     "rocks": [
@@ -35,11 +35,5 @@
     "indicator": {
         "rarity": 22,
         "depth": 15
-    },
-    "translations": [
-        {
-            "lang": "en_us",
-            "text": "Bastnasite, Monazite & Neodymium"
-        }
-    ]
+    }
 }

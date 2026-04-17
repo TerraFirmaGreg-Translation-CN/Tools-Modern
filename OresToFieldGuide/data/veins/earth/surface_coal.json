@@ -13,20 +13,24 @@
     },
     "ores": [
         {
-            "ore": "coal",
-            "weight": 1
+            "ore": "lignite",
+            "weight": 100
         }
     ],
     "rocks": [
-        "rhyolite",
-        "basalt",
-        "andesite",
-        "dacite"
+        "shale",
+        "claystone",
+        "limestone",
+        "conglomerate",
+        "dolomite",
+        "chert",
+        "chalk"
     ],
     "indicator": {
         "rarity": 15,
         "depth": 35
     },
+    "name_suffix": "tfg.ore_vein_suffix.surface",
     "translations": [
         {
             "lang": "en_us",

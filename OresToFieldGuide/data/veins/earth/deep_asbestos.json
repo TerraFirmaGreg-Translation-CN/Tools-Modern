@@ -12,17 +12,17 @@
     },
     "ores": [
         {
-            "ore": "cassiterite_sand",
-            "weight": 5,
+            "ore": "cassiterite",
+            "weight": 10,
             "block_weight": 1
         },
         {
             "ore": "asbestos",
-            "weight": 3
+            "weight": 6
         },
         {
             "ore": "diatomite",
-            "weight": 1
+            "weight": 2
         }
     ],
     "rocks": [
@@ -40,7 +40,7 @@
     "translations": [
         {
             "lang": "en_us",
-            "text": "Cassiterite Sand, Asbestos & Diatomite"
+            "text": "Cassiterite, Asbestos & Diatomite"
         }
     ]
 }

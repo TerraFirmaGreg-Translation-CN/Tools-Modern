@@ -12,12 +12,12 @@
     "ores": [
         {
             "ore": "cassiterite",
-            "weight": 7,
+            "weight": 14,
             "block_weight": 1
         },
         {
             "ore": "tin",
-            "weight": 1
+            "weight": 2
         }
     ],
     "rocks": [
@@ -32,6 +32,7 @@
         "rarity": 22,
         "depth": 15
     },
+    "name_suffix": "tfg.ore_vein_suffix.deep",
     "translations": [
         {
             "lang": "en_us",

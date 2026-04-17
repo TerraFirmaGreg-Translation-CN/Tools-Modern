@@ -1,39 +1,41 @@
 {
-  "id": "cobaltite",
-  "formula": "CoAsS",
-  "hazard": "arsenicosis",
-  "ore_block": "gtceu:raw_cobaltite_block",
-  "indicator": "gtceu:cobaltite_indicator",
-  "translations": [
-    {
-      "lang": "en_us",
-      "text": "Cobaltite",
-      "info": "$(thing)Source of$(): Cobalt, Arsenic"
-    },
-    {
-      "lang": "pt_br",
-      "text": "Cobaltita",
-      "info": "$(thing)Fonte de$(): Cobalto, Arsênico"
-    },
-    {
-      "lang": "ru_ru",
-      "text": "Кобальтит",
-      "info": "$(thing)Используется для$(): Кобальт, Мышьяк"
-    },
-    {
-      "lang": "uk_ua",
-      "text": "Кобальтит",
-      "info": "$(thing)Джерело$(): Кобальту, Миш'яку"
-    },
-    {
-      "lang": "zh_cn",
-      "text": "辉钴矿",
-      "info": "$(thing)来源$(): 钴, 砷"
-    },    
-    {
-      "lang": "de_de",
-      "text": "Kobaltit",
-      "info": "$(thing)Quelle von$(): Kobalt, Arsen"
-    }
-  ]
+    "id": "cobaltite",
+    "formula": "CoAsS",
+    "hazard": "arsenicosis",
+    "ore_block": "gtceu:raw_cobaltite_block",
+    "indicator": "gtceu:cobaltite_indicator",
+    "translation": "material.gtceu.cobaltite",
+    "info": "tfg.ore_patchouli_info.cobaltite",
+    "translations": [
+        {
+            "lang": "en_us",
+            "text": "Cobaltite",
+            "info": "$(thing)Source of$(): Cobalt, Arsenic"
+        },
+        {
+            "lang": "pt_br",
+            "text": "Cobaltita",
+            "info": "$(thing)Fonte de$(): Cobalto, Arsênico"
+        },
+        {
+            "lang": "ru_ru",
+            "text": "Кобальтит",
+            "info": "$(thing)Используется для$(): Кобальт, Мышьяк"
+        },
+        {
+            "lang": "uk_ua",
+            "text": "Кобальтит",
+            "info": "$(thing)Джерело$(): Кобальту, Миш'яку"
+        },
+        {
+            "lang": "zh_cn",
+            "text": "辉钴矿",
+            "info": "$(thing)来源$(): 钴, 砷"
+        },
+        {
+            "lang": "de_de",
+            "text": "Kobaltit",
+            "info": "$(thing)Quelle von$(): Kobalt, Arsen"
+        }
+    ]
 }

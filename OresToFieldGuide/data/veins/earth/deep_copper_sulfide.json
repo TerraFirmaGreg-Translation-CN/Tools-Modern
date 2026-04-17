@@ -14,16 +14,16 @@
     "ores": [
         {
             "ore": "sulfur",
-            "weight": 8,
+            "weight": 16,
             "block_weight": 1
         },
         {
             "ore": "bornite",
-            "weight": 1
+            "weight": 2
         },
         {
             "ore": "chalcocite",
-            "weight": 1
+            "weight": 2
         }
     ],
     "rocks": [
@@ -35,9 +35,10 @@
         "marble"
     ],
     "indicator": {
-        "rarity": 16,
+        "rarity": 22,
         "depth": 15
     },
+    "name_suffix": "tfg.ore_vein_suffix.deep",
     "translations": [
         {
             "lang": "en_us",
