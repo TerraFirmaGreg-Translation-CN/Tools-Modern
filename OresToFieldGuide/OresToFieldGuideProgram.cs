@@ -633,8 +633,9 @@ namespace OresToFieldGuide
 				{
 
 					sb.AppendLine($"\t\t\tnew OreVeinInfoRecipe(\"{vein.ID}\", \"{m_dimensionDict[vein.Dimension].DimensionID}\", ")
-						.Append($"\t\t\t\t{vein.Config.Rarity}, {vein.Config.Density}, {vein.Config.MinY}, {vein.Config.MaxY}, {vein.Config.Size}, {vein.Config.Height}, {vein.Config.Radius}, ")
-						.AppendLine($"new String[] {{")
+						.AppendLine($"\t\t\t\t{vein.Config.Rarity}, {vein.Config.Density}, {vein.Config.MinY}, {vein.Config.MaxY}, {vein.Config.Size}, {vein.Config.Height}, {vein.Config.Radius}, ")
+						.AppendLine($"\t\t\t\t{vein.NearLava.ToString().ToLowerInvariant()}, {(vein.BiomeTag == null ? "null" : $"\"{vein.BiomeTag.TrimStart('#')}\"")}, {vein.Project.ToString().ToLowerInvariant()}, {vein.ProjectOffset.ToString().ToLowerInvariant()},")
+						.AppendLine($"\t\t\t\tnew String[] {{")
 						.Append("\t\t\t\t");
 
 					foreach (var rock in vein.Rocks)
@@ -642,8 +643,8 @@ namespace OresToFieldGuide
 						sb.Append($"\"{m_rockDict[rock].ReplaceableBlocks[0]}\",");
 					}
 
-					sb.AppendLine("}, new OreVeinInfoRecipe.WeightedBlock[] {");
-					sb.Append("\t\t\t\t");
+					sb.AppendLine("},");
+					sb.Append("\t\t\t\t new OreVeinInfoRecipe.WeightedBlock[] {");
 
 					foreach (var value in vein.Ores)
 					{
