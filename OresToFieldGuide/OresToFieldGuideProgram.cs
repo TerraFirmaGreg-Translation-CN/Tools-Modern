@@ -1,4 +1,5 @@
 ﻿using System.Drawing;
+using System.Reflection.PortableExecutable;
 using System.Text;
 using System.Text.Encodings.Web;
 using System.Text.Json;
@@ -36,6 +37,7 @@ namespace OresToFieldGuide
 
 		private readonly ProgramArguments m_arguments = arguments;
 		private readonly Translations m_translations = new(s_locales, arguments);
+		private readonly Tags m_tags = new(arguments);
 
 		private readonly Dictionary<string, Dimension> m_dimensionDict = [];
 		private readonly Dictionary<string, Ore> m_oreDict = [];
@@ -371,15 +373,57 @@ namespace OresToFieldGuide
 
 				if (vein.NearLava)
 				{
-					pageBuilder.ThingMacro(m_translations.Get(locale, "tfg.ore_patchouli_info.near_lava"));
 					pageBuilder.LineBreak();
+					pageBuilder.ThingMacro(m_translations.Get(locale, "tfg.ore_patchouli_info.near_lava"));
+				}
+
+				pageBuilder.LineBreak();
+				pageBuilder.ThingMacro(m_translations.Get(locale, "tfg.ore_patchouli_info.biomes"));
+				if (vein.BiomeTag is null)
+				{
+					pageBuilder.Append($": {m_translations.Get(locale, "tfg.ore_patchouli_info.biomes_any")}");
+				}
+				else
+				{
+					string translatedBiomeList = string.Join(", ", m_tags
+						.GetBiomeTranslationKeys(vein.BiomeTag)
+						.Select(biome => m_translations.Get(locale, biome)));
+
+					pageBuilder.Append($": $(t:{translatedBiomeList}){m_translations.Get(locale, m_tags.GetTagTranslationKey(vein.BiomeTag))}$(/t)");
+				}
+
+				if (vein.Climate is not null)
+				{
+					if (vein.Climate.MinRainfall is not null || vein.Climate.MaxRainfall is not null)
+					{
+						pageBuilder.LineBreak();
+						pageBuilder.ThingMacro(m_translations.Get(locale, "tfg.ore_patchouli_info.rainfall"));
+						pageBuilder.Append($": {vein.Climate.MinRainfall ?? 0} - {vein.Climate.MaxRainfall ?? 500}mm");
+					}
+
+					if (vein.Climate.MinTemperature is not null && vein.Climate.MaxTemperature is null)
+					{
+						pageBuilder.LineBreak();
+						pageBuilder.ThingMacro(m_translations.Get(locale, "tfg.ore_patchouli_info.temperature"));
+						pageBuilder.Append($": {string.Format(m_translations.Get(locale, "tfg.ore_patchouli_info.temperature_and_above"), vein.Climate.MinTemperature)}");
+					}
+					else if (vein.Climate.MinTemperature is null && vein.Climate.MaxTemperature is not null)
+					{
+						pageBuilder.LineBreak();
+						pageBuilder.ThingMacro(m_translations.Get(locale, "tfg.ore_patchouli_info.temperature"));
+						pageBuilder.Append($": {string.Format(m_translations.Get(locale, "tfg.ore_patchouli_info.temperature_and_below"), vein.Climate.MaxTemperature)}");
+					}
+					else if (vein.Climate.MinTemperature is not null && vein.Climate.MaxTemperature is not null)
+					{
+						pageBuilder.LineBreak();
+						pageBuilder.ThingMacro(m_translations.Get(locale, "tfg.ore_patchouli_info.temperature"));
+						pageBuilder.Append($": {vein.Climate.MinTemperature} - {vein.Climate.MaxTemperature}°C");
+					}
 				}
 
 				pageBuilder.LineBreak2();
 				pageBuilder.ThingMacro(m_translations.Get(locale, "tfg.ore_patchouli_info.stone_types"));
 				pageBuilder.Append($": {string.Join(", ", vein.Rocks.Select(r => m_translations.Get(locale, m_rockDict[r].TranslationKey)).Order())}");
-
-				// TODO: biomes, climates
 
 				entry.Pages.Add(new TextPage
 				{
@@ -575,12 +619,12 @@ namespace OresToFieldGuide
 			{
 				foreach (var vein in veins)
 				{
-
 					sb.AppendLine($"\t\t\tnew OreVeinInfoRecipe(\"{vein.ID}\", \"{m_dimensionDict[vein.Dimension].DimensionID}\", ")
 						.AppendLine($"\t\t\t\t{vein.Config.Rarity}, {vein.Config.Density}, {vein.Config.MinY}, {vein.Config.MaxY}, {vein.Config.Size}, {vein.Config.Height}, {vein.Config.Radius}, ")
-						.AppendLine($"\t\t\t\t{vein.NearLava.ToString().ToLowerInvariant()}, {(vein.BiomeTag == null ? "null" : $"\"{vein.BiomeTag.TrimStart('#')}\"")}, {vein.Project.ToString().ToLowerInvariant()}, {vein.ProjectOffset.ToString().ToLowerInvariant()},")
-						.AppendLine($"\t\t\t\tnew String[] {{")
-						.Append("\t\t\t\t");
+						.AppendLine($"\t\t\t\t{vein.NearLava.ToString().ToLowerInvariant()}, {vein.Project.ToString().ToLowerInvariant()}, {vein.ProjectOffset.ToString().ToLowerInvariant()},")
+					
+					// Rocks
+						.Append($"\t\t\t\tnew String[] {{");
 
 					foreach (var rock in vein.Rocks)
 					{
@@ -588,13 +632,54 @@ namespace OresToFieldGuide
 					}
 
 					sb.AppendLine("},");
-					sb.Append("\t\t\t\t new OreVeinInfoRecipe.WeightedBlock[] {");
+
+					// Ores
+					sb.Append("\t\t\t\tnew OreVeinInfoRecipe.WeightedBlock[] {");
 
 					foreach (var value in vein.Ores)
 					{
-						sb.Append($"new OreVeinInfoRecipe.WeightedBlock(\"{value.OreID}\", {(int) (value.WeightPercent ?? 0)}),");
+						sb.Append($"new OreVeinInfoRecipe.WeightedBlock(\"{value.OreID}\", {(int) (value.WeightPercent ?? 0)}), ");
 					}
 					sb.AppendLine("},");
+
+					// Biomes
+					if (vein.BiomeTag is null)
+					{
+						sb.AppendLine("\t\t\t\tnull, null,");
+					}
+					else
+					{
+						sb.Append($"\t\t\t\t\"{vein.BiomeTag.TrimStart('#')}\", new String[] {{ ");
+						sb.Append(string.Join(", ", m_tags.GetBiomeTranslationKeys(vein.BiomeTag).Select(t => $"\"{t}\"")));
+						sb.AppendLine("},");
+					}
+
+					// Climate
+					if (vein.Climate is null)
+					{
+						sb.AppendLine("\t\t\t\tnull, null, null, null,");
+					}
+					else
+					{
+						sb.Append("\t\t\t\t");
+						if (vein.Climate.MinRainfall is not null || vein.Climate.MaxRainfall is not null)
+						{
+							sb.Append($"{vein.Climate.MinRainfall ?? 0}, {vein.Climate.MaxRainfall ?? 500}, ");
+						}
+
+						if (vein.Climate.MinTemperature is not null && vein.Climate.MaxTemperature is null)
+						{
+							sb.AppendLine($"{vein.Climate.MinTemperature}, null, ");
+						}
+						else if (vein.Climate.MinTemperature is null && vein.Climate.MaxTemperature is not null)
+						{
+							sb.AppendLine($"null, {vein.Climate.MaxTemperature}, ");
+						}
+						else if (vein.Climate.MinTemperature is not null && vein.Climate.MaxTemperature is not null)
+						{
+							sb.AppendLine($"{vein.Climate.MinTemperature}, {vein.Climate.MaxTemperature}, ");
+						}
+					}
 
 					//if (vein.TranslatedEmi.Any() && !string.IsNullOrWhiteSpace(vein.TranslatedEmi["en_us"]))
 					//{
