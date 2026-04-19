@@ -387,5 +387,9 @@
     "quests.extreme_voltage.mo_si_b.desc": "This is your third &eExotic Turbine Rotor&r and definitely the hardest one to obtain. As usual, we will not explain the process, and you will have to rely on EMI to navigate this complex production chain. Keep in mind that looping materials is particularly important for this one.\n\nIn terms of stats, you will not find anything better until much later in the &1IV&r chapter, making it a potentially valuable investment, although it remains entirely optional.",
 
     "quests.extreme_voltage.rocket_t2_rotor.subtitle": "Natural upgrade",
-    "quests.extreme_voltage.rocket_t2_rotor.desc": "The &bASM 4914 Titanium Rocket Alloy Turbine Rotor&r is the natural upgrade if you did not craft the &bInconel&r one. It offers solid average stats and should perform well in your &eTurbines&r, making it a reliable option.\n\nDo not overlook it if you want to avoid the low &bEfficiency&r of the &bTungsten-Bismuth&r rotor."
+    "quests.extreme_voltage.rocket_t2_rotor.desc": "The &bASM 4914 Titanium Rocket Alloy Turbine Rotor&r is the natural upgrade if you did not craft the &bInconel&r one. It offers solid average stats and should perform well in your &eTurbines&r, making it a reliable option.\n\nDo not overlook it if you want to avoid the low &bEfficiency&r of the &bTungsten-Bismuth&r rotor.",
+
+    "quests.extreme_voltage.mars_infinites.title": "More Infinite Dusts",
+    "quests.extreme_voltage.mars_infinites.subtitle": "It's like I'm really playing a skyblock pack!",
+    "quests.extreme_voltage.mars_infinites.desc": "These are all the &cinfinite resources&r you can obtain on Mars, via the Ostrum Linear Accelerator.\n\nNote that different nuclear reactor outputs will return different amount of dusty ores - you'll only be able to fully passive plutonium rods with the &bTritiated Water&r recipe."
 }

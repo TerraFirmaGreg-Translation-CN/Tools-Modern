@@ -97,6 +97,7 @@
 
     "quests.stone_age.find_rock.title": "Find some Rocks",
     "quests.stone_age.find_rock.subtitle": "Grug smash rock",
+    "quests.stone_age.find_rock.task": "Any loose rock or flint",
     "quests.stone_age.find_rock.desc": "As you begin your journey, the first thing you'll notice is a completely changed world. You can no longer break trees with your fists, but fret not, for any caveman is not a real caveman without his stone tools!\n\nInstead of crafting a wooden pickaxe, you can just pick up rocks from the ground. Begin by collecting at least 4 rocks. You can collect rocks by breaking or right-clicking them with an empty hand.",
 
     "quests.stone_age.rock_knapping.title": "Knapping",
@@ -115,9 +116,9 @@
     "quests.stone_age.first_stone_tools.task.1": "A stone or flint axe",
     "quests.stone_age.first_stone_tools.task.2": "A stone or flint knife",
 
-    "quests.stone_age.stone_tools.title": "Stone Tools",
+    "quests.stone_age.stone_tools.title": "Primitive Tools",
     "quests.stone_age.stone_tools.subtitle": "Turns out hitting stones together is quite useful",
-    "quests.stone_age.stone_tools.desc": "While stone is a relatively simple and primitive material, they're what you're stuck with until you learn how to work with metals. Some other useful tools include the Javelin, which can be thrown like a vanilla Trident, and the Hoe, which allows you to farm.",
+    "quests.stone_age.stone_tools.desc": "While stone and flint are relatively simple and primitive materials, they're what you're stuck with until you learn how to work with metals. Some other useful tools include the Javelin, which can be thrown like a vanilla Trident, and the Hoe, which allows you to farm.",
 
     "quests.stone_age.gather_straw.title": "Gather Straw",
     "quests.stone_age.gather_straw.subtitle": "You can also use a Hoe if you want",

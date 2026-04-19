@@ -162,7 +162,7 @@
 
     "quests.high_voltage.rocket_t1.title": "Your First Rocket!",
     "quests.high_voltage.rocket_t1.subtitle": "The first of many",
-    "quests.high_voltage.rocket_t1.desc": "Wow, it's time to build your &6Rocket&r!\n\nAssemble all the parts with &d8 Dense Rocket Alloy&r. To finish the insulation, you'll need &b2304mb&r of &bLiquid Silicon&r (&b16 ingots&r) and &f16 pieces of dust&r.\n\nYou have two choices:\n&e-&r &eBorosilicate Glass Dust&r — crafted in a &6Mixer&r with &dBoron&r and &fGlass Dust&r\n\n&e-&r &5Vitrified Asbestos&r — obtained through a &6Pyrolyse Oven&r\n\nGo with whichever's easiest for you!",
+    "quests.high_voltage.rocket_t1.desc": "Wow, it's time to build your &6Rocket&r!\n\nAssemble all the parts with &d21 Dense Rocket Alloy&r for a single-person rocket.\n\nThis will be a test of your infrastructure, so make a second or third EBF if you haven't already, and you might want to consider making multiple extruders for the Fine Basalt Fiber Wire - you'll reuse them later for AE2, so they won't go to waste. The other fluids will require a lot of chemistry, so set up a &5Large Chemical Reactor&r or two if you haven't yet.",
     "quests.high_voltage.rocket_t1.task": "Either rocket",
 
     "quests.high_voltage.vitrified_pearl.title": "Vitrified Ender Pearl",
@@ -259,8 +259,8 @@
     "quests.high_voltage.dusty_ores.task": "All the Moon Dusty Ores",
 
     "quests.high_voltage.final_dust.title": "Infinite Dusts",
-    "quests.high_voltage.final_dust.subtitle": "Finally infinite resources",
-    "quests.high_voltage.final_dust.desc": "This is all the &cinfinite resources&r you can obtain on the &7Moon&r before unlocking the more advanced processing available on &eVenus&r.\n\nWith these, you should have everything you need to keep progressing through &dGregTech&r — especially to secure the &amaintenance&r of your Moon Base.\n\nThese resources are essential for:\n• Crafting &dAE2 components&r\n• Producing an &cinfinite&r supply of &6Railgun Ammo&r\n\nPassive automation is now within your reach — take the step and make it happen!",
+    "quests.high_voltage.final_dust.subtitle": "Finally, infinite resources!",
+    "quests.high_voltage.final_dust.desc": "These are all the &cinfinite resources&r you can obtain on the &7Moon&r before unlocking the more advanced processing available on &eVenus&r.\n\nWith these, you should have everything you need to keep progressing through &dGregTech&r — especially to secure the &amaintenance&r of your Moon Base.\n\nThese resources are essential for:\n• Crafting &dAE2 components&r\n• Producing an &cinfinite&r supply of &6Railgun Ammo&r\n\nPassive automation is now within your reach — take the step and make it happen!",
 
     "quests.high_voltage.titanium_greate.title": "Titanium-tier Greate",
     "quests.high_voltage.titanium_greate.desc": "This is the final tier of Greate that's accessible in TerraFirmaGreg. The only \"extreme\" it's doing is being extremely optional.",
