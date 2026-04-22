@@ -223,7 +223,6 @@
     "tfg.tooltip.nutrition.exhaustion_multiplier_display": "Exhaustion Multiplier: %sx",
     "tfg.tooltip.nutrition.thirst_modifier_display": "Thirst Modifier: %s%%",
     "tfg.tooltip.nutrition.exhaustion_info": "The exhaustion level passively accumulated per second.\rThe higher the value, the faster the player loses hunger/saturation.",
-    "tfg.tooltip.nutrition.vegetables_info": "Here is where ill talk about what vegetable nutrition does to the player and shit.",
     "tfc.enum.nutrient.microplastics": "Microplastics",
     "tfg.tooltip.nutrition.intoxication_info": "Time in minutes the player has been intoxicated.\rIntoxication occurs when drinking alcohol and affects the player's ability to type in chat.",
     "tfc.enum.nutrient.parasites": "Parasites",
