@@ -245,5 +245,9 @@
     "tfg.tooltip.nutrition.parasites_info": "WIP",
     "tfg.tooltip.nutrition.microplastics_info": "WIP",
     "tfg.tooltip.nutrition.negative_info": "WIP",
-    "tfg.tooltip.nutrition.positive_info": "The average of all nutrition values determines your maximum HP. With a minimum of §f3§c❤§7 and a maximum of §f30§c❤§7."
+    "tfg.tooltip.nutrition.positive_info": "The average of all nutrition values determines your maximum HP. With a minimum of §f3§c❤§7 and a maximum of §f30§c❤§7.",
+
+    "tfg.tooltip.asphalt_rubble.obtain": "Dropped when breaking asphalt road blocks.",
+    "tfg.tooltip.asphalt_rubble.usage": "Can be recycled into Asphalt mixture.",
+    "tfg.tooltip.asphalt_stencil.hands": "Use together with a spray can in main hand/off hand."
 }
