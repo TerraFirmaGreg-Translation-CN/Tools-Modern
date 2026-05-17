@@ -258,5 +258,5 @@
 	"tfg.tooltip.asphalt_road_hot.hazard": "Hot asphalt. Touching it burns.",
 	"tfg.tooltip.asphalt_mix.pouring": "Use %s mB on base course to pour.",
 	"tfg.tooltip.asphalt_mix.patch": "Sneak-use %s mB on base course to patch.",
-	"tfg.tooltip.asphalt_stencil.hands": "Use with a spray can in either hand."
+	"tfg.tooltip.asphalt_road_stencil.usage": "Use with a spray can in either hand."
 }
