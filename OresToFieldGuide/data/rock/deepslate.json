@@ -11,12 +11,6 @@
 		"de_de": "Migmatit"
 	},
 	"replaceable_blocks": [
-		"minecraft:deepslate",
-		"tfc:mud/silty_loam",
-		"beneath:soul_clay",
-		"tfc:dirt/loam",
-		"tfc:mud/loam",
-		"tfc:peat",
-		"tfc:dirt/silty_loam"
+		"minecraft:deepslate"
 	]
 }

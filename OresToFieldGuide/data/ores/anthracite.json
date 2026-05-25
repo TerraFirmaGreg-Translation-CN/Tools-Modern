@@ -1,9 +1,9 @@
 {
     "id": "anthracite",
     "formula": "C",
-    "ore_override": "beneath:ore/nether_cursecoal",
-    "indicator": "gtceu:coal_bud_indicator",
-    "translation": "item.beneath.cursecoal",
+    "ore_block": "gtceu:raw_anthracite_block",
+    "indicator": "gtceu:anthracite_indicator",
+    "translation": "material.gtceu.anthracite",
     "info": "tfg.ore_patchouli_info.anthracite",
     "translations": [
         {
