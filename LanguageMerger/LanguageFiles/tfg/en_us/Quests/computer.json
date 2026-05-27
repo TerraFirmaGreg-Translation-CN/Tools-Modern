@@ -22,6 +22,7 @@
 
 	"quests.computer.cc_tweaked_wiki.title": "ComputerCraft Tweaked Wiki",
 	"quests.computer.advanced_peripherals_wiki.title": "Advanced Peripherals Wiki",
+    "quests.computer.gregtech_wiki_monitor.title": "GregTech Wiki: Central Monitor",
 
 	"__cc_comment2": "Peripherals introduction section.",
 
@@ -208,5 +209,28 @@
 
 	"quests.computer.stock_ticker.title": "Stock Ticker",
 	"quests.computer.stock_ticker.subtitle": "Shop and Terminal",
-	"quests.computer.stock_ticker.desc": "Not as useful as one might think, but you can use it to get an overview of your High Logistics network.\n\n&estock(&aOptional<bool> &9detailed&e) &f- Returns a table describing every item in the network. Can optionally show more info on each item\n&egetStockItemDetail(&aint &9slot&e) &f- Gets more info on a particular item in the network\n&erequestFiltered(&astring &9address&e) &f- Sets the address on any packages ordered from the ticker\n&elist()&r - Lists items stored in the ticker from transactions"
+	"quests.computer.stock_ticker.desc": "Not as useful as one might think, but you can use it to get an overview of your High Logistics network.\n\n&estock(&aOptional<bool> &9detailed&e) &f- Returns a table describing every item in the network. Can optionally show more info on each item\n&egetStockItemDetail(&aint &9slot&e) &f- Gets more info on a particular item in the network\n&erequestFiltered(&astring &9address&e) &f- Sets the address on any packages ordered from the ticker\n&elist()&r - Lists items stored in the ticker from transactions",
+
+	"quests.computer.gregtech_peripherals.title": "GregTech Peripherals",
+	"quests.computer.gregtech_peripherals.desc": "GregTech does not provide specific peripherals. Instead, it allows you to wrap most &3GregTech machines&r based on their capabilities.",
+
+	"quests.computer.central_monitor.title": "Central Monitor",
+	"quests.computer.central_monitor.subtitle": "We have ComputerCraft at home",
+	"quests.computer.central_monitor.desc": "The Central Monitor is essentially the &3GregTech&r version of a &3ComputerCraft monitor&r. To use it, make a rectangular shape out of the &3Central Monitor&r, &3GregTech monitor blocks&r, &3data access hatches&r and an &3energy hatch&r. Using the &3Central Monitor&r as a peripheral will allow you to display images and evaluate Central Monitor expressions.\n\nThere's no real reason to actually use Central Monitors if you have ComputerCraft, but the option is always there.\n\nYou can find a more detailed explanation of the Central Monitor above this quest.\n\n&egetGroups()&r - Returns a table of monitor groups\n&egroup.getName()&r - Returns the group's name\n&egroup.getModule()&r - Returns the module for the group (see module methods below)\n&emodule.getType()&r - Returns the module type (\"text\", \"image\", or \"none\")\n&emodule.getCurrentText()&r - Returns the current placeholder text for text modules\n&emodule.setPlaceholderText(&aastring &9text&e)&r - Sets the placeholder text for text modules\n&emodule.getScale()&r - Returns the text scale for text modules\n&emodule.setScale(&adouble &9scale&e)&r - Sets the text scale for text modules\n&emodule.getImageUrl()&r - Returns the image URL for image modules\n&emodule.setImageUrl(&aastring &9url&e)&r - Sets the image URL for image modules",
+
+	"quests.computer.computer_monitor_cover.title": "Computer Monitor Cover",
+	"quests.computer.computer_monitor_cover.subtitle": "Central Monitor as a Cover",
+	"quests.computer.computer_monitor_cover.desc": "Using a machine that has a &3Data Monitor cover&r will allow you to change the text buffer of the cover and evaluate &3Central Monitor expressions&r with the block itself as a placeholder.\n\nThere's no real reason to actually use Central Monitors if you have ComputerCraft, but the option is always there.\n\nYou can find a more detailed explanation of the Central Monitor above this quest.\n\n&esetBufferedText(&aastring &9face&e, &aint &9line&e, &aastring &9text&e)&r - Sets the displayed text on the cover at the given line\n&eparsePlaceholders(&aastring &9face&e, &aastring &9text&e)&r - Parses placeholders in the given text and returns the resolved string",
+
+	"quests.computer.large_turbine.title": "Large Turbine",
+	"quests.computer.large_turbine.subtitle": "Always running at full throttle",
+	"quests.computer.large_turbine.desc": "Using any of the &3Large Turbine&r controllers as a peripheral will allow you to get information about the equipped rotor such as &3durability&r and &3speed&r. You may find this useful when automating Large Turbines to avoid overconsuming your fuel.\n\n&ehasRotor()&r - Returns whether a rotor is in the rotor holder\n&egetRotorSpeed()&r - Returns the current rotor speed in RPM\n&egetMaxRotorHolderSpeed()&r - Returns the maximum rotor speed in RPM\n&egetTotalEfficiency()&r - Returns the efficiency of the equipped turbine. in \n&egetCurrentProduction()&r - Returns the current power output in EU/t\n&egetOverclockVoltage()&r - Returns the maximum energy output in EU/t\n&egetRotorDurabilityPercent()&r - Returns the equipped rotor's current durability as a rounded percentage.",
+
+	"quests.computer.gregtech_machine.title": "Any GregTech machine",
+	"quests.computer.gregtech_machine.subtitle": "If it works, it can be wrapped",
+	"quests.computer.gregtech_machine.desc": "Any GregTech machine or multiblock controller can be used as a peripheral.\n\n&egetProgress()&r - Returns the current recipe progress in ticks\n&egetMaxProgress()&r - Returns the total recipe time in ticks\n&eisActive()&r - Returns whether the machine is currently doing a recipe\n&eisWorkingEnabled()&r - Returns whether working is enabled\n&esetWorkingEnabled(&abool &9enabled&e) &f- Toggles the working state\n&esetSuspendAfterFinish(&abool &9suspend&e) &f- Tells the machine to stop after the current job",
+
+	"quests.computer.energy_storage.title": "Any Energy Storage",
+	"quests.computer.energy_storage.subtitle": "I am fully charged!",
+	"quests.computer.energy_storage.desc": "Any GregTech block that contains energy such as a &3Battery Buffer&r or a &3Power Substation&r can be used as a peripheral.\n\n&egetEnergyStored()&r - Returns the stored energy in EU\n&egetEnergyCapacity()&r - Returns the max energy capacity in EU\n&egetInputPerSec()&r - Returns the current input rate in EU/t\n&egetOutputPerSec()&r - Returns the current output rate in EU/t"
 }
