@@ -35,7 +35,8 @@ def replace_blocks(structures):
 		for block in struct['palette']:
 			name = block['Name']
 			if name == 'minecraft:chest':
-				block['Name'] = StringTag('tfc:wood/chest/mangrove')
+				block['Name'] = StringTag('lootr:lootr_chest')
+				block['Properties'] = CompoundTag({"type": StringTag("single")})
 				dirty = True
 			elif name == 'minecraft:basalt':
 				block['Name'] = StringTag('minecraft:deepslate_bricks')
@@ -56,7 +57,7 @@ def replace_blocks(structures):
 				block['Name'] = StringTag('minecraft:cave_air')
 				dirty = True
 			elif name == 'minecraft:nether_wart':
-				block['Name'] = StringTag('minecraft:brown_mushroom')
+				block['Name'] = StringTag('beneath:food/portobello')
 				dirty = True
 
 			elif name == 'betterend:mossy_glowshroom_bark':
