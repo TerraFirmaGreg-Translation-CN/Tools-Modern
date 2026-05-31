@@ -85,7 +85,11 @@
 
     "quests.stone_age.burlap_clothes.title": "Burlap Clothes",
     "quests.stone_age.burlap_clothes.subtitle": "For when the heat is getting to you",
-    "quests.stone_age.burlap_clothes.desc": "Burlap is made out of Jute Fiber. Jute can grow in most warmer climates as long as its temperature and hydration needs are met.\n\nBurlap Clothes are great for hot summers or certain other hot environments, but we'll talk about that later.",
+    "quests.stone_age.burlap_clothes.desc": "Burlap is made out of Jute Fiber or Flax Tow Fibers. Jute can grow in most warmer climates as long as its temperature and hydration needs are met, while Flax can be found in most temperate climates.\n\nBurlap Clothes are great for hot summers the upper parts of The Beneath.",
+
+    "quests.stone_age.linen_clothes.title": "Linen Clothes",
+    "quests.stone_age.linen_clothes.subtitle": "Light and Sweat-wicking",
+    "quests.stone_age.linen_clothes.desc": "Linen is made out of Flax Line Fibers. Wild Flax can be found in most temperate climates.\n\nLinen Clothes are great for hot environments like the tropics or the upper parts of The Beneath.",
 
     "quests.stone_age.silk_clothes.title": "Silk Clothes",
     "quests.stone_age.silk_clothes.subtitle": "No Silkworms, sorry!",

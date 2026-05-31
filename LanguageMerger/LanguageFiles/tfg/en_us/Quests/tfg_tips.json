@@ -262,10 +262,6 @@
     "quests.tfg_tips.burlap_cloth.subtitle": "Made out of Jute or Flax!",
     "quests.tfg_tips.burlap_cloth.desc": "You can create &dBurlap Cloth by either soaking some &aJute&r in a barrel and working the resulting &aJute Fibers&r in the &3Loom&r, or by scraping &aFlax&r into &aFlax Tow Fibers&r and working those on a &3Loom&r.&r\n\nBurlap Cloth has a number of uses, such as creating &bBurlap Clothes&r that protect against &chot environments&r, &eBeekeeper Armor&r that protects from angry bees, and a number of other utility items.",
 
-    "quests.tfg_tips.pineapple_leather.title": "Pineapple Leather",
-    "quests.tfg_tips.pineapple_leather.subtitle": "Who lives in a Pineapple Under the Sea?",
-    "quests.tfg_tips.pineapple_leather.desc": "By obtaining some &aPineapple Fibers&r, &bspindling&r them into &aPineapple Yarn&r, and working the yarn in the &3Loom&r, you get &dPineapple Leather&r, an eco-friendly alternative for &bleather knapping recipes.&r",
-
     "quests.tfg_tips.wool_cloth.title": "Wool Cloth",
     "quests.tfg_tips.wool_cloth.subtitle": "Baaa...",
     "quests.tfg_tips.wool_cloth.desc": "By shearing some friendly &2wool-producing&r livestock, you can spindle the resulting wool into &dWool Yarn.&r Working the yarn in a &3Loom&r gives you &dWool Cloth.&r\n\nBesides uses in &bGlassworking&r, it can be used to create &aWool Clothes&r, perfect for &bcold&r, bitter environments.\n\nWool is considered a &bHigh Quality Cloth.&r",
@@ -516,10 +512,6 @@
     "__comment10": "#endregion",
 
     "__comment11": "#region ArborFirmaCraft",
-
-    "quests.tfg_tips.arborfirmacraft.title": "ArborFirmaCraft",
-    "quests.tfg_tips.arborfirmacraft.subtitle": "Harvesting the Life-blood of Trees",
-    "quests.tfg_tips.arborfirmacraft.desc": "&2ArborFirmaCraft&r is a mod that adds multiple new trees to &3TFG&r: some are variants of existing TFC trees, such as &dAncient Kapok&r, while others are completely new, such as the &aBaobab&r and &aHevea.&r Some of the plank and log textures of these trees may remind you of vanilla tree colors...\n\nThis section will go over &bTree Tapping.&r\nAs a bonus, all &2ArborFirmaCraft&r woods are compatible with &3FirmaLife&r, and &3Firma:Civ&r, we made sure of it!",
 
     "quests.tfg_tips.treetap.title": "Treetap",
     "quests.tfg_tips.treetap.subtitle": "Now with less jank!",
@@ -910,53 +902,6 @@
 
     "__comment16": "#endregion",
 
-    "__comment17": "#region Beneath",
-
-    "quests.tfg_tips.beneath.title": "The Beneath",
-    "quests.tfg_tips.beneath.subtitle": "Journey to the Center of the Earth",
-    "quests.tfg_tips.beneath.desc": "Deep, DEEP underground, past the &dBedrock&r, you'll find &4The Beneath&r, a complex network of huge caves filled with dangers and strange flora and fauna. While &4The Beneath&r is completely optional, it contains a lot of resources as well as some quality of life improvements.",
-
-    "quests.tfg_tips.beneath_prep.title": "Preparations",
-    "quests.tfg_tips.beneath_prep.subtitle": "The Beneath is hostile, be prepared",
-    "quests.tfg_tips.beneath_prep.desc": "&4The Beneath&r is a very hostile environment. Due to it being very deep underground, the average temperature is always &cabove 15°C&r, going higher the deeper you go. This is not to mention the amount of hostile creatures crawling these caves.\nThe quests linked with this one provide some basic preparations for your adventure.",
-
-    "quests.tfg_tips.beneath_temp_management.title": "Temperature Management: Active",
-    "quests.tfg_tips.beneath_temp_management.subtitle": "Things to cool off quickly",
-    "quests.tfg_tips.beneath_temp_management.desc": "In &4The Beneath&r, with the temperature being relatively high, you should bring some &aWater&r or &aLiquid Ice Slush&r to cool off on demand, or some &bPacked Ice&r mined from polar regions if you plan to make a temporary base.\n\nSeveral kinds of drinks can also cool you off, such as Lemonade.",
-
-    "quests.tfg_tips.beneath_clothes.title": "Temperature Management: Passive",
-    "quests.tfg_tips.beneath_clothes.subtitle": "Things to passively cool off",
-    "quests.tfg_tips.beneath_clothes.desc": "&bClothes&r also play an important role in cooling off. The easiest to craft before going to &4The Beneath&r are &dBurlap Clothes.&r\n\n&dSilk Clothes&r require &aString&r, which can be found in large quantities inside the beneath biome called the &cWebbed Lair.&r\n\nThere is a better alternative if you have access to &9Blue Steel&r however...",
-
-    "quests.tfg_tips.blue_steel_diving.title": "Blue Steel Diving Gear",
-    "quests.tfg_tips.blue_steel_diving.subtitle": "Perfect for taking a warm, lava bath",
-    "quests.tfg_tips.blue_steel_diving.desc": "The &9Blue Steel Diving Gear&r is a special set of armor that makes you completely impervious to &cLava&r while you're wearing it. The reduced &aWarmth&r but high &bInsulation&r means you'll be able to keep a very stable core temperature while in &4The Beneath.&r",
-
-    "quests.tfg_tips.juicer.title": "Juicer",
-    "quests.tfg_tips.juicer.subtitle": "Hydration on a Pinch",
-    "quests.tfg_tips.juicer.desc": "The &3Juicer&r is a special item that can extract the water contained in &aFruits&r, &aMushrooms&r, and &aCacti&r into drinkable &dWater&r.",
-
-    "quests.tfg_tips.how_to_go_beneath.title": "How to go to The Beneath",
-    "quests.tfg_tips.how_to_go_beneath.subtitle": "No Obsidian Required",
-    "quests.tfg_tips.how_to_go_beneath.desc": "To reach &4The Beneath&r, you will first have to get through the layer of &aHornfels&r at the bottom of the world.\n\nThis type of rock can only be broken through by Explosives or Steel tools (or better). Alternatively, you can look for the more easily broken &2Keratophyre&r in caves, remnants of old geologic activity that penetrated this barrier. Once you've gotten past the Hornfels, you just have to &bstand on Bedrock&r, after which you will be &oteleported&r down under.\n\n&3&lTip:&r&o You'll keep exactly the same X and Z coordinates, so it may teleport you inside some rock. It'll give you a 3x3x3 space to work with though, so be sure to bring some supports for tunneling your way out!",
-    "quests.tfg_tips.how_to_go_beneath.task.1": "Reach and Stand on top of Bedrock",
-    "quests.tfg_tips.how_to_go_beneath.task.2": "Visit the Beneath",
-
-    "quests.tfg_tips.reach_the_beneath.title": "Welcome, to The Depths",
-    "quests.tfg_tips.reach_the_beneath.subtitle": "Otherwise known as The Beneath",
-    "quests.tfg_tips.reach_the_beneath.desc": "As soon as you reach &4The Beneath&r, you should make a &cwaypoint&r using your map so you don't lose your way back.\n\nUnlike the vanilla Nether, there is no 8x distance multiplier, so don't try to use it for fast Overworld travel!",
-    "quests.tfg_tips.reach_the_beneath.task": "Be in the Beneath",
-
-    "quests.tfg_tips.fuck_go_back.title": "How to escape The Beneath",
-    "quests.tfg_tips.fuck_go_back.subtitle": "Mom come pick me up, I'm scared.",
-    "quests.tfg_tips.fuck_go_back.desc": "To escape &4The Beneath&r, you need to reach the upper levels of the cave system, near the &dBedrock Ceiling&r. Reaching the Bedrock here will transport you back to the &bOverworld&r, right where you stood on to get in.",
-
-    "quests.tfg_tips.piglin_bartering.title": "Piglin Bartering",
-    "quests.tfg_tips.piglin_bartering.subtitle": "We are not alone apparently",
-    "quests.tfg_tips.piglin_bartering.desc": "The curious inhabitants of &4The Beneath&r have items to offer... Trade gold with them to get some useful resource, such as small amounts of &aMetals&r or &aLeather.&r\nCheck out the &2Field Guide&r for details about barter trades.",
-
-    "quests.tfg_tips.piglin_disguise.subtitle": "They'll never know...",
-    "quests.tfg_tips.piglin_disguise.desc": "Do you feel like you don't belong?\nDo the &4Piglin&r attack you at your school because of your appearance?\nTry wearing a &aPiglin Disguise&r to ward off unwanted attention and blend right in.",
 
     "quests.tfg_tips.trowel.title": "Trowel",
     "quests.tfg_tips.trowel.subtitle": "Inspired by Quark!",
@@ -1033,7 +978,5 @@
 
     "quests.tfg_tips.tools_tips.swim_gear.title": "Swimming Gear",
     "quests.tfg_tips.tools_tips.swim_gear.subtitle": "Swimsuit not included",
-    "quests.tfg_tips.tools_tips.swim_gear.desc": "The &6Snorkel&r provides you with an extra 15 seconds of \"breath\" underwater, while the &aFlippers&r substantially increase your swim speed.",
-
-    "__comment18": "#endregion"
+    "quests.tfg_tips.tools_tips.swim_gear.desc": "The &6Snorkel&r provides you with an extra 15 seconds of \"breath\" underwater, while the &aFlippers&r substantially increase your swim speed."
 }
