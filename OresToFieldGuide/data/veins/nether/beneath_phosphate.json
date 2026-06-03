@@ -1,0 +1,65 @@
+{
+    "id": "beneath_phosphate",
+    "dimension": "nether",
+    "type": "tfc:disc_vein",
+    "biome_tag": "#tfg:nether/is_tar_pools",
+    "config": {
+        "rarity": 10,
+        "density": 0.25,
+        "min_y": 30,
+        "max_y": 80,
+        "size": 20,
+        "height": 10
+    },
+    "ores": [
+        {
+            "ore": "tricalcium_phosphate",
+            "weight": 6,
+            "block_weight": 1
+        },
+        {
+            "ore": "apatite",
+            "weight": 4
+        },
+        {
+            "ore": "pyrite",
+            "weight": 1
+        }
+    ],
+    "rocks": [
+        "granite",
+        "diorite",
+        "gabbro",
+        "rhyolite",
+        "basalt",
+        "andesite",
+        "dacite",
+        "shale",
+        "claystone",
+        "limestone",
+        "conglomerate",
+        "dolomite",
+        "chert",
+        "chalk",
+        "tuff",
+        "quartzite",
+        "slate",
+        "phyllite",
+        "schist",
+        "gneiss",
+        "marble",
+        "deepslate",
+        "blackstone",
+        "dripstone"
+    ],
+    "indicator": {
+        "rarity": 20,
+        "depth": 40
+    },
+    "translations": [
+        {
+            "lang": "en_us",
+            "text": "Tricalcium Phosphate, Apatite & Pyrite"
+        }
+    ]
+}
