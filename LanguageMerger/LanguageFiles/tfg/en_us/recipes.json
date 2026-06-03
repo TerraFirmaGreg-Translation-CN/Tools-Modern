@@ -151,6 +151,8 @@
 	"tfc.recipe.barrel.tfg.barrel.dark_concrete_support": "Dyeing",
 	"tfc.recipe.barrel.tfg.barrel.reinforced_dark_concrete_support": "Dyeing",
 
+	"tfc.recipe.barrel.tfg.barrel.yogurt_fermentation": "Fermenting Yogurt",
+
 	"recipe.capability.Heat.name": "Not enough Heat from the Heat Battery",
 
 	"tfg.food_recipe.brining": "Brining",
