@@ -13,7 +13,7 @@
     "ores": [
         {
             "ore": "gold",
-            "weight": 80,
+            "weight": 40,
             "block_weight": 1
         },
         {
@@ -22,7 +22,7 @@
         },
         {
             "ore": "electrotine",
-            "weight": 10
+            "weight": 20
         }
     ],
     "rocks": [

@@ -18,9 +18,13 @@
     },
     "ores": [
         {
-            "ore": "quartzite",
+            "ore": "nether_quartz",
             "weight": 32,
             "block_weight": 1
+        },
+        {
+            "ore": "quartzite",
+            "weight": 20
         },
         {
             "ore": "barite",
@@ -28,7 +32,7 @@
         },
         {
             "ore": "zeolite",
-            "weight": 4
+            "weight": 8
         }
     ],
     "rocks": [
@@ -48,7 +52,7 @@
     "translations": [
         {
             "lang": "en_us",
-            "text": "Quartzite, Barite & Zeolite"
+            "text": "Nether Quartz, Quartzite, Barite & Zeolite"
         }
     ]
 }

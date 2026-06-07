@@ -19,12 +19,16 @@
     "ores": [
         {
             "ore": "redstone",
-            "weight": 80,
+            "weight": 60,
             "block_weight": 1
         },
         {
             "ore": "cinnabar",
             "weight": 30
+        },
+        {
+            "ore": "nether_quartz",
+            "weight": 20
         },
         {
             "ore": "ruby",
@@ -43,7 +47,7 @@
     "translations": [
         {
             "lang": "en_us",
-            "text": "Redstone, Cinnabar & Ruby"
+            "text": "Redstone, Cinnabar, Nether Quartz & Ruby"
         }
     ]
 }
