@@ -29,11 +29,16 @@
         {
             "ore": "diamond",
             "weight": 2
+        },
+        {
+            "ore": "anthracite",
+            "weight": 1
         }
     ],
     "rocks": [
         "blackstone",
-        "deepslate"
+        "deepslate",
+        "basalt"
     ],
     "indicator": {
         "rarity": 25,

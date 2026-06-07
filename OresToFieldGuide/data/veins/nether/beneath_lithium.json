@@ -27,7 +27,8 @@
     ],
     "rocks": [
         "blackstone",
-        "deepslate"
+        "deepslate",
+        "basalt"
     ],
     "indicator": {
         "rarity": 25,
