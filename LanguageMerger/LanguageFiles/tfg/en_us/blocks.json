@@ -714,6 +714,7 @@
 	"block.tfg.groundcover.strophar_stick": "Strophar Twig",
 	"block.tfg.groundcover.glacian_stick": "Glacian Twig",
 	"block.tfg.groundcover.alphacene_stick": "Alphacene Twig",
+	"block.tfg.groundcover.ginkgo_twig": "Ginkgo Twig",
 	"block.tfg.mars_ice": "Semiheavy Ammoniacal Ice",
 	"block.tfg.mars_icicle": "Semiheavy Ammoniacal Icicle",
 
@@ -820,6 +821,7 @@
 	"block.tfg.casings.sterling_silver_casing": "Precision Sterling Silver Casing",
 	"block.tfg.machine_casing_power_casing": "Insulated Power Casing",
 	"block.tfg.active_power_transformer": "Active Energy Transformer",
+	"block.tfg.casings.machine_casing_pressure": "Pressure Casing",
 
 	"block.tfg.glacian_wool_frame": "Framed Glacian Wool",
 	"block.tfg.aes_insulation_frame": "Framed AES Insulation",
