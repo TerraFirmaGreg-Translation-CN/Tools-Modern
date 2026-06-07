@@ -156,5 +156,10 @@
     "quests.ore_proc.gem_slurry.title": "Gem Slurries",
     "quests.ore_proc.gem_slurry.subtitle": "We... are the crystal—hblrlrlr",
     "quests.ore_proc.gem_slurry.desc": "&6Gem Slurries&r are optional but short processing lines for Ruby, Sapphire, and Green Sapphire to squeeze a bit more resources out of them. Compared to electrolysis:\n\n- &cRuby Slurry&r returns almost 3x as much Aluminium and Chromium\n\n- &9Sapphire Slurry&r returns 2x as much Aluminium\n\n- &aGreen Sapphire Slurry&r returns 2x as much Aluminium and a little extra Beryllium\n\nAnd on top of that, they all have a small chance to return some extra Titanium, Iron, and Vanadium too!",
-    "quests.ore_proc.gem_slurry.task": "Any Gem Slurry Ore"
+    "quests.ore_proc.gem_slurry.task": "Any Gem Slurry Ore",
+
+    "quests.ore_proc.chromium.title": "Chromium Lines",
+    "quests.ore_proc.chromium.subtitle": "More than one path to victory",
+    "quests.ore_proc.chromium.desc": ""
+
 }
