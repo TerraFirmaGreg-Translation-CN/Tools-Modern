@@ -1,65 +1,37 @@
 {
     "id": "beneath_sulfur",
     "dimension": "nether",
-    "type": "tfc:pipe_vein",
+    "type": "tfc:cluster_vein",
     "biome_tag": "#tfg:nether/is_lava_floes",
     "config": {
         "rarity": 10,
         "density": 0.35,
         "min_y": 0,
         "max_y": 80,
-        "height": 60,
-        "radius": 4,
-        "min_skew": 5,
-        "max_skew": 15,
-        "min_slant": 2,
-        "max_slant": 5,
-        "sign": 0.5
+        "size": 29
     },
     "ores": [
         {
             "ore": "sulfur",
-            "weight": 9,
+            "weight": 18,
             "block_weight": 1
         },
         {
             "ore": "pyrite",
-            "weight": 4
+            "weight": 8
         },
         {
             "ore": "stibnite",
-            "weight": 1
+            "weight": 2
         }
     ],
     "rocks": [
-        "granite",
-        "diorite",
-        "gabbro",
-        "rhyolite",
-        "basalt",
-        "andesite",
-        "dacite",
-        "shale",
-        "claystone",
-        "limestone",
-        "conglomerate",
-        "dolomite",
-        "chert",
-        "chalk",
-        "tuff",
-        "quartzite",
-        "slate",
-        "phyllite",
-        "schist",
-        "gneiss",
-        "marble",
-        "deepslate",
         "blackstone",
-        "dripstone"
+        "deepslate"
     ],
     "indicator": {
         "rarity": 25,
-        "depth": 20
+        "depth": 1
     },
     "translations": [
         {
