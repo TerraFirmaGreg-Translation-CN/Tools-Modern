@@ -30,6 +30,8 @@
 	"tfg.ore_vein.oilsands": "Oilsands",
 	"tfg.ore_vein.oilsands.emi.0": "Found around oil spouts",
 	"tfg.ore_vein.oilsands.emi.1": "in warm deserts.",
+	"tfg.ore_vein.nether_oilsands": "Oilsands",
+	"tfg.ore_vein.nether_garnet_sands": "Garnet Sands",
 
 	"tfg.ore_vein_tag.earth.is_mountain": "Mountains",
 	"tfg.ore_vein_tag.earth.is_volcanic": "Volcanic",
