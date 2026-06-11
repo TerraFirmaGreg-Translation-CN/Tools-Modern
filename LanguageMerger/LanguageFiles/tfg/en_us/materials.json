@@ -135,6 +135,8 @@
 	"material.tfg.light_stock": "Light Stock",
 	"material.tfg.rich_stock": "Rich Stock",
 	"material.tfg.brown_gravy": "Brown Gravy",
+	"material.tfg.cultured_milk": "Cultured Milk",
+	"material.tfg.peanut_oil": "Peanut Oil",
 
 	"material.tfg.zircon": "Zircon",
 	"material.tfg.silicon_tetrachloride": "Silicon Tetrachloride",
@@ -368,6 +370,13 @@
 	"material.tfg.chloropropylamine": "Chloropropylamine",
 	"material.tfg.silicon_carbide_silicon_carbide": "SiC-SiC",
 	"material.tfg.3_aminopropyltriethoxysilane": "3-Aminopropyltriethoxysilane",
-	"material.tfg.3_chloropropylamine": "3-Chloropropylamine"
+	"material.tfg.3_chloropropylamine": "3-Chloropropylamine",
+
+	"material.tfg.ferrochrome": "Ferrochrome",
+	"material.tfg.mixed_garnet": "Mixed Garnet",
+	"material.tfg.chromium_3_oxide": "Chromium III Oxide",
+	"material.tfg.sodium_chromate": "Sodium Chromate",
+	"material.tfg.sodium_dichromate": "Sodium Dichromate",
+	"material.tfg.wollastonite": "Wollastonite"
 
 }
