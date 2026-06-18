@@ -214,7 +214,7 @@
     "tfg.tooltip.crop.grape_trellis": " §c�§r This crop needs a §ngrape trellis§r to grow!",
 
     "tfg.tooltip.tier_locked_block": "Requires Steel+ Tools to Break",
-    "tfg.tooltip.tier_locked_block_explosives": "Weak to Explosives",
+    "tfg.tooltip.tier_locked_block_explosives": "Break with Explosives or find Keratophyre or Lava",
 
     "tfg.tooltip.nutrition.health": "Health",
     "tfg.tooltip.nutrition.style_button_2": "Style: Solid Color",
