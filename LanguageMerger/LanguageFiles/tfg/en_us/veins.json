@@ -239,6 +239,10 @@
 	"tfg.ore_patchouli_info.yellow_garnet": "$(thing)Source of$(): Andradite, Grossular, Uvarovite",
 	"tfg.ore_patchouli_info.yellow_limonite": "$(thing)Melts into$(): Cast Iron",
 	"tfg.ore_patchouli_info.zeolite": "$(thing)Source of$(): Aluminium, Oxygen",
+	"tfg.ore_patchouli_info.irarsite": "$(thing)Source of$(): Iridium, Arsenic, Sulfur",
+	"tfg.ore_patchouli_info.ferhodsite": "$(thing)Source of$(): Rhodium, Iron, Nickel",
+	"tfg.ore_patchouli_info.ruarsite": "$(thing)Source of$(): Ruthenium, Arsenic, Sulfur",
+	"tfg.ore_patchouli_info.phlogopite": "$(thing)Source of$(): Aluminium, Fluorine",
 
 	"tfg.rock_patchouli_info.andesite": "Andesite",
 	"tfg.rock_patchouli_info.basalt": "Basalt",
@@ -376,6 +380,15 @@
 	"tfg.emi.fluid_veins.liquid_carbon_dioxide": "Martian Liquid Carbon Dioxide Deposit",
 	"tfg.emi.fluid_veins.semiheavy_ammoniacal_water": "Martian Semiheavy Ammoniacal Water Deposit",
 	"tfg.emi.fluid_veins.heavy_ammoniacal_water": "Martian Heavy Ammoniacal Water Deposit",
+
+	"tfg.emi.fluid_veins.beneath_gas_weak": "Lower Density Natural Gas Deposit",
+	"tfg.emi.fluid_veins.beneath_gas_strong": "Higher Density Natural Gas Deposit",
+
+	"tfg.emi.fluid_veins.lava_beneath": "Beneath Magma Deposit",
+
+	"tfg.emi.fluid_veins.beneath_glowstone": "Liquid Glowstone Deposit",
+	"tfg.emi.fluid_veins.beneath_gold": "Liquid Gold Deposit",
+	"tfg.emi.fluid_veins.beneath_steam": "Steam Pocket",
 
 	"tfg.emi.fluid_veins.venus_sulfuric_acid": "Venutian Sulfuric Acid Deposit",
 	"tfg.emi.fluid_veins.venus_lava": "Venutian Magma Deposit"
