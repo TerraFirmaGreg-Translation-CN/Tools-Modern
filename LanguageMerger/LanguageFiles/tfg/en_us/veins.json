@@ -381,6 +381,15 @@
 	"tfg.emi.fluid_veins.semiheavy_ammoniacal_water": "Martian Semiheavy Ammoniacal Water Deposit",
 	"tfg.emi.fluid_veins.heavy_ammoniacal_water": "Martian Heavy Ammoniacal Water Deposit",
 
+	"tfg.emi.fluid_veins.beneath_gas_weak": "Lower Density Natural Gas Deposit",
+	"tfg.emi.fluid_veins.beneath_gas_strong": "Higher Density Natural Gas Deposit",
+
+	"tfg.emi.fluid_veins.lava_beneath": "Beneath Magma Deposit",
+
+	"tfg.emi.fluid_veins.beneath_glowstone": "Liquid Glowstone Deposit",
+	"tfg.emi.fluid_veins.beneath_gold": "Liquid Gold Deposit",
+	"tfg.emi.fluid_veins.beneath_steam": "Steam Pocket",
+
 	"tfg.emi.fluid_veins.venus_sulfuric_acid": "Venutian Sulfuric Acid Deposit",
 	"tfg.emi.fluid_veins.venus_lava": "Venutian Magma Deposit"
 }
