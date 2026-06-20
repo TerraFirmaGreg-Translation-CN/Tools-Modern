@@ -678,26 +678,15 @@ namespace OresToFieldGuide
 						}
 					}
 
-					//if (vein.TranslatedEmi.Any() && !string.IsNullOrWhiteSpace(vein.TranslatedEmi["en_us"]))
-					//{
-					//	sb.Append($"\t\t\t\tnew String[] {{");
-
-					//	var split = vein.TranslatedEmi["en_us"]!.Split("\\n");
-					//	for (int i = 0; i < split.Length; i++)
-					//	{
-					//		sb.Append($"\"tfg.ore_vein.{vein.ID}.emi.{i}\"");
-					//		if (i + 1 < split.Length)
-					//		{
-					//			sb.Append(", ");
-					//		}
-					//	}
-
-					//	sb.Append("}");
-					//}
-					//else
-					//{
+					if (vein.Project)
+					{
+						sb.Append("\t\t\t\tnew String[] ");
+						sb.Append("{ \"tfg.emi.ore_veins.projected.emi.0\", \"tfg.emi.ore_veins.projected.emi.1\" }");
+					}
+					else
+					{
 						sb.Append("\t\t\t\tnull");
-					//}
+					}
 
 					sb.AppendLine("),");
 				}
