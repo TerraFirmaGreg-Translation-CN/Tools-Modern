@@ -1486,7 +1486,6 @@
 	"block.tfg.asphalt_road_stairs": "Asphalt Road Stairs",
 	"block.tfg.asphalt_road_slab": "Asphalt Road Slab",
 
-
 	"block.tfg.girder.beam.tin_alloy": "Tin Alloy Girder",
 	"block.tfg.girder.beam.brass": "Brass Girder",
 	"block.tfg.girder.beam.wrought_iron": "Wrought Iron Girder",
@@ -1509,5 +1508,12 @@
 	"block.tfg.strut.truss.wrought_iron": "Wrought Iron Truss Strut",
 	"block.tfg.strut.truss.copper": "Copper Truss Strut",
 	"block.tfg.strut.truss.steel": "Metal Truss Strut",
-	"block.tfg.strut.truss.zinc": "Zinc Truss Strut"
+	"block.tfg.strut.truss.zinc": "Zinc Truss Strut",
+
+	"block.tfg.groundcover.fallen_bronze_lamp": "Fallen Bronze Lamp",
+	"block.tfg.groundcover.fallen_black_bronze_lamp": "Fallen Black Bronze Lamp",
+	"block.tfg.groundcover.fallen_bismuth_bronze_lamp": "Fallen Bismuth Bronze Lamp",
+	"block.tfg.groundcover.fallen_wrought_iron_lamp": "Fallen Wrought Iron Lamp",
+	"block.tfg.spider_web": "Frail Spider Web",
+	"block.tfg.spider_sac": "Spider Egg Sac"
 }
