@@ -1643,6 +1643,10 @@
 	"block.tfg.generators.stainless_steel_combustion_engine": "Stainless Steel Combustion Engine",
 	"block.tfg.generators.titanium_combustion_engine": "Titanium Combustion Engine",
 
+	"block.tfg.oxygen_distributor": "Oxygen Distributor",
+	"block.tfg.higgs_emitter": "Higgs Emitter",
+	"block.tfg.heat_pump": "Heat Pump",
+
 	"block.tfg.burlap_block": "Burlap Block",
 	"block.tfg.phantom_silk_block": "Phantom Silk Block",
 	"block.tfg.polycaprolactam_block": "Polycaprolactam Block",

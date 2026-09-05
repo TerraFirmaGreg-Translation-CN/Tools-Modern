@@ -334,6 +334,9 @@
     "quests.medium_voltage.stainless_greate.subtitle": "High Stress",
     "quests.medium_voltage.stainless_greate.desc": "This quest is just here to let you know that Greate has another upgrade at this point.\n\nYou may find the next tier of Crushing Wheels useful, as they can give the full amount of byproducts, just like the HV Macerator, but also process multiple items at the same time!",
 
+    "quests.medium_voltage.heat_pump.subtitle": "Industrial-scale air conditioning",
+    "quests.medium_voltage.heat_pump.desc": "The &6Heat Pump&r is an environment machine that pumps heat out of an enclosed room using &lGasses&r. Its cooling power allows the room to exceed the machine's tier, reaching down to &3-20C&r.\n\nIt's an efficient &bMV&r alternative to the simpler &6Air Distributor&r, which can only (cost-effectively) reach &3Zombie Spawn temperature&r. Using either of them, the enclosed space becomes inhabitable, letting you &7take your helmet off&r, &7grow crops&r and &7place a water source&r without it freezing.\n\nThe &6Heat Pump&r requires an &9energy hatch&r as well as an &9input hatch for a gas&r to operate. Gas consumption scales with the temperature target.\n\nFor moon bases, we recommend pairing of a Heat Pump and a Higgs Emitter!",
+
     "quests.medium_voltage.terminal_dismantler.title": "Dismantler Terminal",
     "quests.medium_voltage.terminal_dismantler.subtitle": "When your wrench isn't fast enough",
     "quests.medium_voltage.terminal_dismantler.desc": "The &7Dismantler&r is an amazing tool, allowing you to dismantle your multiblocks instantly by simply shift-right-clicking the controller, though be wary that the Multiblock must be fully formed to be completely dismantled.",
