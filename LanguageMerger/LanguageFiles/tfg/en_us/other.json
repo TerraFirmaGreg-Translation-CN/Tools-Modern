@@ -117,7 +117,13 @@
     "tfg.clientmessage.hot_planet_miner_placed": "§cThis planet is §~hot!§c Single-block miners will not work here.",
 
     "tfg.clientmessage.welcome.1": "§oWelcome to §l§dTerraFirma§7Greg§r§o!",
-    "tfg.clientmessage.welcome.2": "§oCheck out our §bwebsite§r§o for our Wiki, and offline versions of the Field Guide, Recipe Book, and Quest Book: §9https://terrafirmagreg.team/",
+    "tfg.clientmessage.welcome.2": "§oCheck out our %1$s§o for our Wiki, and offline versions of the %2$s§o %3$s§o and %4$s",
+    "tfg.clientmessage.welcome.3": "Click to open the link in your browser",
+
+    "tfg.clientmessage.link.website": "§owebsite",
+    "tfg.clientmessage.link.field_guide": "§oField Guide",
+    "tfg.clientmessage.link.recipe_book": "§oRecipe Book",
+    "tfg.clientmessage.link.quest_book": "§oQuest Book",
 
     "tfg.machine.gas_well.active": "Active",
     "tfg.machine.gas_well.waiting_explosive": "Waiting for Explosive",
