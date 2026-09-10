@@ -48,14 +48,14 @@
 	"quests.space_survival.zip_gun.subtitle": "Like a jetpack in the palm of your hand",
 	"quests.space_survival.zip_gun.desc": "A Zip Gun can be filled up with any of the below Compressed Gases to shoot out air, pushing you around in low gravity environments. They're essential if you want to build anything in orbit!",
 
-	"quests.space_survival.air_distributor.title": "Setting up a permanent base",
 	"quests.space_survival.air_distributor.subtitle": "A holiday home",
-	"quests.space_survival.air_distributor.desc.1": "So far you may be surviving, but do you want to truly &othrive&r? If you're wanting to set up a more permanent base, look no further than the &6Air Distributor&r! Feed it one of the compressed gases from earlier and it will \"oxygenate\" a large enclosed area, letting you take your helmet off, grow crops, and place a water source without it freezing.\n\nAny solid block will work to build your base out of, but you'll want a proper airlock to ensure the gas doesn't all escape in a &cvortex&r.",
-	"quests.space_survival.air_distributor.desc.2": "The oxygenated area will be at a constant 15C for any crops you'd like to grow (though the Electric Greenhouse doesn't mind), and the water source staying liquid will also let you easily electrolyze it for a source of &bOxygen&r. You can also use a Diode block to transfer power through the walls while keeping them sealed, just like in a cleanroom.",
+	"quests.space_survival.air_distributor.desc": "So far you may be surviving, but do you want to truly &othrive&r? If you're wanting to set up a more permanent base, look no further than the &6Air Distributor&r! Feed it one of the compressed gases from earlier and it will \"oxygenate\" a large enclosed area.\n\nAny solid block will work to build your base out of, but you'll want a proper airlock to ensure the gas doesn't all escape in a &cvortex&r. When combined with a &6Heat Pump&r the enclosed space will become inhabitable, letting you take your helmet off, grow crops and place a water source without it freezing.\n\nEnergy consumption scales off of room size so make sure to give the appropriate energy hatch to your distributor.",
 
-	"quests.space_survival.oxygen_info.title": "More Moon base machines",
-	"quests.space_survival.oxygen_info.subtitle": "Home comforts",
-	"quests.space_survival.oxygen_info.desc": "The Oxygen Detector is a simple machine that emits a redstone signal whenever it's in an oxygenated area.\n\nThe Vent is a solid block that can also let breathable air through without causing a vortex.\n\nThe Gravity Normalizer can change the gravity of an area within an enclosed space similar to how an Air Distributor works, but is a little too expensive at the moment.",
+	"quests.space_survival.higgs_emitter.desc": "The &6Higgs Emitter&r allows you to create artificial earth gravity in a radius around itself. The area size scales off of the multiblock's energy hatch tier.",
+	"quests.space_survival.higgs_emitter.subtitle": "Artificial gravity",
+
+	"quests.space_survival.vent.desc": "The vent is a solid block that can also let breathable air through without causing a vortex.",
+	"quests.space_survival.vent.subtitle": "ඞ",
 
 	"quests.space_survival.railgun.title": "Interplanetary Logistics",
 	"quests.space_survival.railgun.subtitle": "Ender chest? Never heard of her!",
